@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T12:39:46.305239Z",
-  "total": 209,
+  "actualizado": "2026-07-11T12:42:54.954198Z",
+  "total": 210,
   "noticias": [
     {
       "id": "24a29fceac4e766b",
@@ -14,6 +14,19 @@
       "fecha": "2026-07-11T12:13:51",
       "fuente_feed": "Barça fichaje primer equipo",
       "visto_por_primera_vez": "2026-07-11T12:39:42.425929"
+    },
+    {
+      "id": "a384a423cb2f665a",
+      "titulo": "El FC Barcelona pone precio a Ferran Torres… ¡y busca otro delantero!",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZklPWkt0TDNyQk1kcWxDUmtxckk3bFNvUDJfTGpQU3VtQlQ1Zm5KSC1ndU5pVWE2Z2I3a1pkdjdpLUJ0Z1A5dTZ1TWNNTUhRRHBjV0dGaUxhd0ozb3U3NUZWMk44SW90anJjTjF1b0ZCdFZoQlZNTFZJaWVCT1hOWF9kZVRZNTMzZ19KWHJ1MUZISG0zQmRqTnc2X1V3ZXhxYTV4Y1VDMHc4UFE3TDFNZFBB?oc=5",
+      "medio": "Fichajes.com",
+      "tier": 5,
+      "tier_etiqueta": "Ruido / clickbait",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-11T11:52:08",
+      "fuente_feed": "Barça fichaje primer equipo",
+      "visto_por_primera_vez": "2026-07-11T12:42:50.992554"
     },
     {
       "id": "16156a80115480db",
