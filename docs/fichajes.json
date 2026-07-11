@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T12:55:20.111814Z",
-  "total": 159,
+  "actualizado": "2026-07-11T12:56:22.889931Z",
+  "total": 161,
   "noticias": [
     {
       "id": "10b148e7bc4cba40",
@@ -1225,6 +1225,19 @@
       "visto_por_primera_vez": "2026-07-11T12:55:17.864866"
     },
     {
+      "id": "19101cd33fb3fd27",
+      "titulo": "El Barça Atlètic renueva la delantera",
+      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGZwVE5wZVdKU2t4QmN3VlJ2NkU5RWl4cmpoLXpEOUpkUXFzR2hUUnFRZWQ5T2wzMGFrd3BpSG5aSV9rT21hMzRzc0E1ZDd2T0Y4ejFwT1JNd1JWa1p5ckZOaE9VdG1oTGt4X29OdDVLUUZESm90X2d0UE0tVEFpSlJLSUNlUDh0MktRbFpMMnVoQl9DdHlkOWpTWHV1NlZ4QWpV?oc=5",
+      "medio": "MSN",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "cantera",
+      "estado": "rumor",
+      "fecha": "2026-07-07T05:26:33",
+      "fuente_feed": "Cantera / La Masia",
+      "visto_por_primera_vez": "2026-07-11T12:56:21.883009"
+    },
+    {
       "id": "8a235b71e1a17b5e",
       "titulo": "El Barça Atlètic renueva la delantera",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnFaV2NvLTNMRDhFOUVoalVzbU80dUdxTkgxMTJEVGlLVU9PVGc1NkhTOU53TjV6a29zMUhrYlRKT3hOMFhIR1FOVzZiYlYtQk1rNU9pSjZhMDVHZXhKdTlHbGtLUkdJTkhOTUFJcTluTHQ5RVFfZmlwbG9RMGR4QzlqdkdoQU9XQmRqVEZSV09hNE9Kcm9EdkxyclR1SjV6U3phbnBqa2pMZ9IBtwFBVV95cUxPLVVtcUx2YmE3dlI3bV9FUXRjTl9HQzI2S0N1TUsydXdoSFp5VlpmQlFCdmtGN0pkdmI1YkkwMkdQSzdZNjJjRmVybmNIaVFDM0tYV0NxZm1ZRVlHRFlTQzB6TmRwejhHVWpyQm8xZUw3RGhfNHFmbDR4a2w2OEJYaXRtOWtRbnN0VmZIYVJ6SFk5LWk0cWRHUGZfSVpxcnc2WU5mTE1JQm4xVkVHY1ZlRGxuYmlRWEE?oc=5",
@@ -1340,6 +1353,19 @@
       "fecha": "2026-07-05T08:10:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T12:55:17.865176"
+    },
+    {
+      "id": "adb33a3db12fe497",
+      "titulo": "Diego Kochen, cedido al Lyngby Boldklub",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQlhBUURGbW9MWTI3OTN1YmFRLTBRcWNPWVRpUzlDYUpPT0JySllWRjlWYlJjUjl6NUY2MzFHSnpNdEpqSkhGaUxTdk5reV9MTVZaLS1ZY0JiTHEyYnNMMmViQWFGRHIzalFROV9nRkFmX1VMSU4tRjM3ckpxaDhVTUIyejdZUDlBZ1JwLU0zZDEtd3JKeklYaQ?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-03T20:57:07",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-07-11T12:56:18.586752"
     },
     {
       "id": "278ceb499a4b3268",
