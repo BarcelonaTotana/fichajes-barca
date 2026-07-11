@@ -101,12 +101,20 @@ def _es_femenino(texto):
             any(j in t for j in F.JUGADORAS_FEMENINO))
 
 
+def _es_cronica_partido(texto):
+    """Crónica de partido (empieza con un marcador tipo '32-28:'). No es mercado, y
+    suele ser de otras secciones (balonmano, basket…) que no nombran el deporte."""
+    return re.match(r"\s*\d{1,3}\s*[-–]\s*\d{1,3}\b", texto) is not None
+
+
 def _es_relevante(texto):
     """Verdadero si habla del Barça Y de un fichaje Y no está bloqueado NI es femenino."""
     t = texto.lower()
     if any(b in t for b in F.PALABRAS_BLOQUEO):
         return False
     if _es_femenino(texto):
+        return False
+    if _es_cronica_partido(texto):
         return False
     if not any(b in t for b in F.PALABRAS_BARSA):
         return False
@@ -139,6 +147,19 @@ def _clasificar(texto):
     if any(k in t for k in F.YOUTH_KEYS):
         return None   # juvenil, cadete, infantil, La Masia… -> fuera del ámbito
     return "primer_equipo"
+
+
+def _valida_por_titulo(titulo):
+    """Revalidación por TÍTULO (para limpiar retroactivamente lo ya guardado cuando
+    mejoramos los filtros). Descarta otros deportes, femenino, crónicas, fuera de ámbito."""
+    t = titulo.lower()
+    if any(b in t for b in F.PALABRAS_BLOQUEO):
+        return False
+    if _es_femenino(titulo) or _es_cronica_partido(titulo):
+        return False
+    if _clasificar(titulo) is None:
+        return False
+    return True
 
 
 def _tiene_movimiento(titulo):
@@ -314,7 +335,8 @@ def main():
         if f >= limite:
             todas.append((f, n))
     todas.sort(key=lambda x: x[0], reverse=True)
-    todas = [n for _, n in todas][:MAX_NOTICIAS]
+    # Limpieza retroactiva: descarta lo ya guardado que ya no encaja con los filtros.
+    todas = [n for _, n in todas if _valida_por_titulo(n["titulo"])][:MAX_NOTICIAS]
 
     # ---- Alertas de Telegram ----
     # Universo: items ÚNICOS vistos en esta ejecución. Una noticia se avisa como
