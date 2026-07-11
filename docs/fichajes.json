@@ -1,9 +1,10 @@
 {
-  "actualizado": "2026-07-11T20:24:04.651735Z",
-  "total": 115,
+  "actualizado": "2026-07-11T20:31:06.036127Z",
+  "total": 118,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
+    "05fed9472c50534b",
     "0f6dcf300e0cb34e",
     "10c093e3e5f4eedd",
     "15e1138a42f69040",
@@ -35,6 +36,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "a74c2fcc87d73710",
+      "titulo": "Asllani mira al Barça tras el interés del PSG por Ferran",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTWdfN2Jmb09JNExjQ2lMcS1JR2tURzI0djhaSXpvd1UybmdobTR0UXljNnNxQkdScW5vbjEzbThVVE5HTzRSc3NuVXpvV2d6ZDZjOHVpSU5hd3ZiTHdfTTRIc3doRV9fWWdMaGV6WElWVFRPdEkxeDJJSjVZOFpwbnl2QWROS1UzMGlEUkFhS1hMazhOMllFMUNUdWgwZVdFT1p4SklDVTVLTmY0MzlLRko1UdIBwAFBVV95cUxNMS1TcW1zMExzajRkZnR2VXp4NFc4UGwzZWhZaGpJNzMyZUkwMmtrNk9KVGNROTI4TGVmLVYzRWJGc05rcWkwV3ZnXzhnZi1zU1hhNURvMTFJT1paRGxZeFRpX2ZlbnBpaVlqaThydWN3Y19zSTZMaVI1QmtwcHJXOFp6MVFlNkZhMndnT1VuOUhEN1QzOGJxRkZtcnJDVk1wVFlOcURrUXhvQWh0NUdkcEJOWHluVnE3YlpONGJ6SEc?oc=5",
+      "medio": "Mundo Deportivo",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-11T20:22:23",
+      "fuente_feed": "Mundo Deportivo",
+      "visto_por_primera_vez": "2026-07-11T20:30:56.806180"
+    },
     {
       "id": "4274e669792e6fc9",
       "titulo": "El Barcelona cierra el fichaje de Jesse Bisiwu para el filial",
@@ -1167,6 +1181,19 @@
       "visto_por_primera_vez": "2026-07-11T20:24:02.098732"
     },
     {
+      "id": "05fed9472c50534b",
+      "titulo": "Diego Kochen, cedido al Lyngby Boldklub",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQlhBUURGbW9MWTI3OTN1YmFRLTBRcWNPWVRpUzlDYUpPT0JySllWRjlWYlJjUjl6NUY2MzFHSnpNdEpqSkhGaUxTdk5reV9MTVZaLS1ZY0JiTHEyYnNMMmViQWFGRHIzalFROV9nRkFmX1VMSU4tRjM3ckpxaDhVTUIyejdZUDlBZ1JwLU0zZDEtd3JKeklYaQ?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-03T20:57:07",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-07-11T20:31:01.424747"
+    },
+    {
       "id": "042df1ed365e6455",
       "titulo": "Fichaje de Javi Castro por el FC Barcelona: Detalles",
       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWdYcGJ2RkJGV3B2TmdCX3RjTXFYX0M4bkE5U0puck9OaVFmX2drR2wta1pVZmI5N0JBdHVXaENQYU9CdTVrQ3NJTnU1dnlyREwzZGtEWEloa3l4bjk4TmtzdmZQLXAxYlljLXV6R2VTQVZNUGVSVzFYcnZfT2syenNManc5NmVmS1FVS1dCVzNHSGJwTzRFaUU2cjNtQndETmpyZDYyQVYyZFprS21V?oc=5",
@@ -1269,6 +1296,19 @@
       "fecha": "2026-07-02T08:48:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.102087"
+    },
+    {
+      "id": "4c6ef647e36a26c1",
+      "titulo": "Deco cierra un nuevo fichaje inesperado para el Barça: refuerzo con 13 años de experiencia",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRnRBb0NvUUxvMmVtMFdBX0lNQlZfdWFfZ2JDb2o5MzhVZXNDYWt0MVYtQzJpQUEyNVhnczFUR3FQbm1rRHl1UHBrTVFRX1IydHVwNDZGTG1BeDcxMGVvcmZZb05lV2c1dy1GcE53cjNRZEF4UXpKbkNHTFMzRWpzQmpBdUl2WC1zNTZ4VjZzSUFLV2t3U1lRN2xGd3REQ2tYNGVwaGlpcG5JSWVpdEJYQzBHOUI3RFhnWGhMRVJlZ3gza21iLVREM09PV3lQX1dmQUpaZXlHOF9yMjDSAeABQVVfeXFMUHhvaV9ZTnlEZjJGcmtVMUI3Q3ZWY25oZ2RWWlI2NEVqVXJPNFNxM04tS0ZMRkY5dDRjOFRfblZ6SThiXzUwcURBNExaWWZLYzJya2NPSXMwQnJQdDhBOEJYcUE0U2VGa21reGV0NVNhZU1LLS1taVVGRnVjNTE1SnFlYmpvdkN4U2ZCQnNxSW5Hc1dKMU9MRzlJaGtQYk5URVFFX1N3TWltQkppTTh0RGxiNmlUN2RKUWotTGxERjJHSmJFeGFmZDFLc0V2cW9HVlhwVE1PbzBOSGVXWHlLRjQ?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-02T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-11T20:31:02.948032"
     },
     {
       "id": "f33fbdb61ce25271",
