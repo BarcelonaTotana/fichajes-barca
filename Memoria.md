@@ -29,11 +29,36 @@ fichajes del **FC Barcelona en fútbol masculino**:
 - [x] Creado este `Memoria.md`.
 - [x] Decisiones grandes tomadas (presupuesto 0€, nube gratis, salida móvil+PC — ver sección 3).
 - [x] Stack técnico elegido: Python + GitHub Actions + GitHub Pages + Telegram.
-- [ ] Crear repo GitHub y estructura del proyecto.
-- [ ] Recolector v1 de RSS + clasificador.
-- [ ] Dashboard + workflow cron + bot Telegram.
+- [x] Recolector v1 (RSS Google News) + clasificador (tier/categoría/estado) — FUNCIONANDO.
+- [x] Dashboard responsive + workflow cron (cada 20 min) — DESPLEGADO Y EN VIVO.
+- [x] Repo público creado y subido bajo la cuenta BarcelonaTotana.
+- [ ] Configurar secretos de Telegram (falta token nuevo del bot + Chat ID del usuario).
 
-**Nada de código escrito todavía.** Siguiente paso: montar el recolector v1 (sección 9).
+### 🟢 EN PRODUCCIÓN (a fecha 2026-07-11)
+- **Repo:** https://github.com/BarcelonaTotana/fichajes-barca
+- **Web (móvil+PC):** https://barcelonatotana.github.io/fichajes-barca/
+- **Automatización:** GitHub Actions ejecuta `recolector.py` cada 20 min y publica solo.
+- Verificado: primera ejecución en la nube OK (207 noticias). Web sirve el JSON correctamente.
+
+### Archivos del proyecto
+- `recolector.py` — recolector principal (descarga RSS, clasifica, deduplica, guarda docs/fichajes.json).
+- `config/fuentes.py` — búsquedas Google News + tabla de tiers por medio + palabras clave.
+- `telegram_alertas.py` — envío de alertas (lee TELEGRAM_TOKEN/CHAT_ID de entorno).
+- `docs/index.html` — dashboard responsive (lee fichajes.json).
+- `docs/fichajes.json` — datos generados (servido por Pages).
+- `.github/workflows/actualizar.yml` — cron en la nube cada 20 min.
+
+### Único paso pendiente para acabar: alertas Telegram
+1. Usuario hace `/revoke` en @BotFather y obtiene TOKEN nuevo (no pegarlo en el chat).
+2. Usuario da su Chat ID (de @userinfobot).
+3. Guardar como secretos del repo (NO en el código):
+   `gh secret set TELEGRAM_TOKEN` y `gh secret set TELEGRAM_CHAT_ID`
+   (o Settings → Secrets and variables → Actions en la web).
+4. A partir de ahí, cada ejecución enviará alertas push de fuentes tier 0-1.
+
+### Nota técnica (SSL en local)
+El PC del usuario intercepta TLS (proxy) y Python local falla al validar certificados.
+Para pruebas LOCALES: `SSL_NO_VERIFY=1 python recolector.py`. En GitHub Actions NO hace falta.
 
 ---
 
@@ -61,6 +86,10 @@ minutos de retraso frente al tweet, pero gratis y estable.
    infantiles… toda la base masculina), no solo los cercanos al primer equipo.
 6. **Cuenta GitHub:** se crea con el email `jorgepele11@gmail.com`. Copilot NO es necesario
    (usamos Claude); se puede omitir en el registro.
+7. **Cuenta a usar: `BarcelonaTotana`** (la nueva, dedicada al Barça). ⚠️ NO usar la cuenta
+   `Jorgepele` (Jorge Pelegrín, de 2023): esa se usa en OTRO proyecto de Claude y no se debe
+   tocar. En este PC, GitHub CLI tiene ambas cuentas conectadas a la vez (multi-cuenta);
+   para este proyecto hay que tener ACTIVA `BarcelonaTotana` (`gh auth switch -u BarcelonaTotana`).
 
 ---
 
