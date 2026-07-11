@@ -1,0 +1,19 @@
+name: Obtener Chat ID
+
+# Herramienta manual: pulsa "Run workflow" para averiguar tu Chat ID de Telegram.
+on:
+  workflow_dispatch: {}
+
+jobs:
+  chatid:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Leer Chat ID
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        run: python herramientas/obtener_chat_id.py
