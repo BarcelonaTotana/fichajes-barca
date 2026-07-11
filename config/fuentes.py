@@ -144,7 +144,25 @@ PALABRAS_BLOQUEO = [
     # fútbol femenino (el proyecto es masculino) y ruido ciudad/política
     "femen", "women", "womens", "wsl", "liga f", "uwcl",
     "área metropolitana", "metropolitana", "alcalde", "generalitat",
+    # análisis / retrospectivas / partidos (no son movimientos de mercado)
+    "1x1", "uno a uno", "cómo han rendido", "han rendido", "siguiendo el partido",
+    "amistoso", "pretemporada", "resumen del partido",
 ]
+
+# ---------------------------------------------------------------------------
+# 9. MOVIMIENTO: para avisar por Telegram, el titular debe contener una señal
+#    real de movimiento o interés (no basta con la palabra "fichajes").
+#    Esto separa los movimientos/rumores de los análisis retrospectivos.
+# ---------------------------------------------------------------------------
+PALABRAS_MOVIMIENTO = [
+    "ficha", "fichará", "fichar", "firma", "firmará", "renueva", "renovará", "renovación",
+    "cede", "cedido", "cesión", "cesion", "traspaso", "traspasa", "vende", "venderá",
+    "acuerdo", "oferta", "oficial", "presenta", "rescinde", "rescisión", "aterriza",
+    "se marcha", "adiós", "negocia", "quiere", "interesa", "gusta", "sigue a", "sondea",
+    "puja", "va a por", "apuesta por", "en la agenda", "objetivo", "pretende", "ofrece",
+    "cláusula", "clausula", "llega al", "cierra el fichaje", "cierra la",
+]
+
 
 # ---------------------------------------------------------------------------
 # 8. CANTERA: solo si aparece una palabra de cantera DE PESO (no de pasada).

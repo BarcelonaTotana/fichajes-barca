@@ -104,6 +104,12 @@ def _es_cantera(texto):
     return any(re.search(r"\b" + re.escape(p) + r"\b", t) for p in F.PALABRAS_CANTERA)
 
 
+def _tiene_movimiento(titulo):
+    """Señal real de movimiento/interés (palabra completa: 'ficha' sí, 'fichajes' no)."""
+    t = titulo.lower()
+    return any(re.search(r"\b" + re.escape(w) + r"\b", t) for w in F.PALABRAS_MOVIMIENTO)
+
+
 def _id_noticia(enlace, titulo):
     base = (enlace or "") + "|" + (titulo or "")
     return hashlib.sha1(base.encode("utf-8", "ignore")).hexdigest()[:16]
@@ -246,6 +252,9 @@ def main():
 
     a_enviar = []
     for n in candidatas:
+        # Solo movimientos reales: el titular debe tener señal de movimiento/interés.
+        if not _tiene_movimiento(n["titulo"]):
+            continue
         clave = analisis.clave_operacion(analisis.extraer_jugador(n["titulo"]))
         if clave and clave in cerradas:
             continue  # operación ya cerrada -> no se re-alerta (la web sí la sigue mostrando)
