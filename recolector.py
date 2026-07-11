@@ -48,9 +48,21 @@ CABECERAS = {"User-Agent": "Mozilla/5.0 (compatible; MonitorFichajesBarca/1.0)"}
 
 
 def _descargar(url):
-    r = requests.get(url, headers=CABECERAS, timeout=25, verify=VERIFICAR_SSL)
-    r.raise_for_status()
-    return r.content
+    """Descarga con reintentos. Google News limita por IP (503/429): esperamos y reintentamos."""
+    ultima = None
+    for intento in range(3):
+        try:
+            r = requests.get(url, headers=CABECERAS, timeout=25, verify=VERIFICAR_SSL)
+            if r.status_code in (429, 503):
+                ultima = requests.exceptions.HTTPError(f"{r.status_code} rate-limit")
+                time.sleep(5 * (intento + 1))   # backoff: 5s, 10s
+                continue
+            r.raise_for_status()
+            return r.content
+        except requests.exceptions.RequestException as e:
+            ultima = e
+            time.sleep(3)
+    raise ultima or Exception("descarga fallida")
 
 
 # ---------------------------------------------------------------------------
@@ -279,6 +291,12 @@ def main():
     for nombre, tier_forzado, _cat, url in F.BUSQUEDAS_GENERALES:
         recolectadas += recolectar_feed(nombre, tier_forzado, url)
         time.sleep(1)
+
+    # Protección: si TODAS las fuentes fallaron (rate-limit/503), no tocar nada.
+    if not recolectadas:
+        print("Todas las fuentes fallaron (posible rate-limit de Google News). "
+              "Se conserva lo anterior y no se envía nada.")
+        return
 
     nuevas = []
     for n in recolectadas:

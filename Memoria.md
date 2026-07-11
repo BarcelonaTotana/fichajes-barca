@@ -13,7 +13,7 @@
 - **Barça Atlètic:** solo fichajes / cesiones / ventas. **Sin renovaciones.**
 - **Primer equipo:** todo (fichajes, cesiones, VENTAS, renovaciones y sobre todo RUMORES/VÍNCULOS,
   ej. "Joao Félix vinculado al Barça" — es lo más importante para el usuario).
-- **Cron cada 5 min** (mínimo de GitHub Actions; puede retrasarse).
+- **Cron cada 10 min** (se probó 5 min pero Google News limitaba con 503; 10 min es el equilibrio).
 - Implementación: `recolector._clasificar` (primer_equipo / barca_atletic / None=descartar),
   keys en `config/fuentes.py` (ATLETIC_KEYS, YOUTH_KEYS, PALABRAS_ALTA_BAJA). Los vínculos/rumores
   se añadieron a PALABRAS_FICHAJE (relevancia) y PALABRAS_MOVIMIENTO (control Telegram).
