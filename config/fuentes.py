@@ -139,9 +139,16 @@ PALABRAS_FICHAJE = ["fichaje", "fichajes", "ficha ", "fichar", "fichado", "trasp
                     "en el punto de mira", "interés", "interesa", "objetivo"]
 
 # Si aparece alguna de estas, se descarta (otras secciones / no fútbol / otros clubes).
+# Nombres de deportistas del Barça de OTRAS secciones (balonmano, basket…) que se
+# cuelan porque el titular no nombra el deporte. Ampliable según vayan apareciendo.
+JUGADORES_OTROS_DEPORTES = ["marcos fis"]
+
 PALABRAS_BLOQUEO = [
     "femenino", "femení", "baloncesto", "basket", "bàsquet", "balonmano", "hockey",
     "futsal", "fútbol sala", "waterpolo", "rugby", "nba", "tenis",
+    # competiciones / términos de otras secciones del Barça
+    "asobal", "acb", "euroliga", "eurolliga", "liga endesa", "ehf", "final four",
+    "hockey patines", "rink hockey", "voleibol", "vóley", "handball",
     "circuit", "circuito", "ajuntament", "ayuntamiento", "fórmula 1", "formula 1",
     "motogp", "moto gp", "como ceo", "nuevo ceo", "elecciones", "eurolliga", "euroliga",
     "presupuesto municipal",

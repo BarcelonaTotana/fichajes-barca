@@ -107,6 +107,12 @@ def _es_cronica_partido(texto):
     return re.match(r"\s*\d{1,3}\s*[-–]\s*\d{1,3}\b", texto) is not None
 
 
+def _es_otro_deporte(texto):
+    """Deportista conocido de otra sección del Barça (balonmano, basket…)."""
+    t = texto.lower()
+    return any(j in t for j in F.JUGADORES_OTROS_DEPORTES)
+
+
 def _es_relevante(texto):
     """Verdadero si habla del Barça Y de un fichaje Y no está bloqueado NI es femenino."""
     t = texto.lower()
@@ -115,6 +121,8 @@ def _es_relevante(texto):
     if _es_femenino(texto):
         return False
     if _es_cronica_partido(texto):
+        return False
+    if _es_otro_deporte(texto):
         return False
     if not any(b in t for b in F.PALABRAS_BARSA):
         return False
@@ -155,7 +163,7 @@ def _valida_por_titulo(titulo):
     t = titulo.lower()
     if any(b in t for b in F.PALABRAS_BLOQUEO):
         return False
-    if _es_femenino(titulo) or _es_cronica_partido(titulo):
+    if _es_femenino(titulo) or _es_cronica_partido(titulo) or _es_otro_deporte(titulo):
         return False
     if _clasificar(titulo) is None:
         return False
