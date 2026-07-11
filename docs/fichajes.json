@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T18:25:33.109407Z",
-  "total": 121,
+  "actualizado": "2026-07-11T18:36:33.614995Z",
+  "total": 122,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -36,6 +36,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "6f039a976cc9fddf",
+      "titulo": "Alexanko cierra el fichaje más caro de la historia del Barça B: 10 millones por una joya que encandila a Flick y Belletti",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQejBLZTY3MGZ5bS12cHFsNlNxUUowVGVUcU5VeXlqTV9tRVhNbDVQUTFOUW1kSHZGV0tZc25mYTdoX2RDMk1za0hCLWoxc19UUF9qRS0wRVI1Z2UzaXo5Z1VWWnBZYld1NW1pdVZRYlNPNy1tazFyRGNIN1BJSTE0RDhpRm9UVzhhaEVCT0JFbHBIaWF3bHo0ekJhYXVPMksxRk8wbTY0blN6TXo1YWZTYXVyM1otZkFPbHUyUE9vZmxuVGlMalVYNDFiTlktaXg4RmJJVGRXSnpVX0pEdkdUX9IB4AFBVV95cUxQejBLZTY3MGZ5bS12cHFsNlNxUUowVGVUcU5VeXlqTV9tRVhNbDVQUTFOUW1kSHZGV0tZc25mYTdoX2RDMk1za0hCLWoxc19UUF9qRS0wRVI1Z2UzaXo5Z1VWWnBZYld1NW1pdVZRYlNPNy1tazFyRGNIN1BJSTE0RDhpRm9UVzhhaEVCT0JFbHBIaWF3bHo0ekJhYXVPMksxRk8wbTY0blN6TXo1YWZTYXVyM1otZkFPbHUyUE9vZmxuVGlMalVYNDFiTlktaXg4RmJJVGRXSnpVX0pEdkdUXw?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-11T16:41:27",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-11T18:36:32.603376"
+    },
     {
       "id": "724274d119e6df88",
       "titulo": "El PSG pone a Ferran Torres y al Barça en un dilema: renovación o venta este verano",
