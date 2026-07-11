@@ -32,6 +32,8 @@ import analisis
 TIER_ALERTA = 2
 # Estados que "cierran" una operación (ya no se vuelve a avisar de ese jugador).
 ESTADOS_CIERRE = ("oficial", "here_we_go")
+# Red de seguridad: máximo de alertas por ejecución (evita ráfagas por cualquier glitch).
+MAX_ALERTAS_POR_EJECUCION = 10
 
 # El JSON vive dentro de docs/ para que GitHub Pages lo sirva junto al panel.
 RUTA_DATOS = os.path.join("docs", "fichajes.json")
@@ -110,8 +112,11 @@ def _tiene_movimiento(titulo):
     return any(re.search(r"\b" + re.escape(w) + r"\b", t) for w in F.PALABRAS_MOVIMIENTO)
 
 
-def _id_noticia(enlace, titulo):
-    base = (enlace or "") + "|" + (titulo or "")
+def _id_noticia(titulo):
+    # ID estable basado SOLO en el título normalizado. Google News cambia el enlace
+    # en cada consulta, así que usar el enlace haría que la misma noticia pareciera
+    # nueva una y otra vez (y se re-alertara). El título es estable.
+    base = re.sub(r"\s+", " ", (titulo or "").strip().lower())
     return hashlib.sha1(base.encode("utf-8", "ignore")).hexdigest()[:16]
 
 
@@ -169,7 +174,7 @@ def recolectar_feed(nombre, tier_forzado, url):
                 tier = min(tier, tp)
 
         noticias.append({
-            "id": _id_noticia(enlace, titulo),
+            "id": _id_noticia(titulo),
             "titulo": titulo,
             "enlace": enlace,
             "medio": medio,
@@ -268,6 +273,10 @@ def main():
     if arranque_en_frio:
         print(f"Arranque en frío: se omiten {len(a_enviar)} alertas (evita ráfaga).")
     elif a_enviar:
+        if len(a_enviar) > MAX_ALERTAS_POR_EJECUCION:
+            print(f"AVISO: {len(a_enviar)} alertas supera el tope; se envían solo "
+                  f"{MAX_ALERTAS_POR_EJECUCION} (oficiales primero).")
+            a_enviar = a_enviar[:MAX_ALERTAS_POR_EJECUCION]
         print(f"Enviando {len(a_enviar)} alertas a Telegram…")
         telegram_alertas.enviar_alertas(a_enviar)
 
