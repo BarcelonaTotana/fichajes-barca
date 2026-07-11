@@ -111,9 +111,22 @@ def _estado(texto):
     return F.ESTADO_POR_DEFECTO
 
 
-def _es_cantera(texto):
+def _es_renovacion(t):
+    return "renov" in t or "renueva" in t
+
+
+def _clasificar(texto):
+    """Ámbito del proyecto: 'primer_equipo' o 'barca_atletic'. Devuelve None para
+    DESCARTAR (cantera inferior, o renovaciones del Barça Atlètic)."""
     t = texto.lower()
-    return any(re.search(r"\b" + re.escape(p) + r"\b", t) for p in F.PALABRAS_CANTERA)
+    if any(k in t for k in F.ATLETIC_KEYS):
+        # Barça Atlètic: solo fichajes / cesiones / ventas (fuera renovaciones).
+        if _es_renovacion(t) and not any(k in t for k in F.PALABRAS_ALTA_BAJA):
+            return None
+        return "barca_atletic"
+    if any(k in t for k in F.YOUTH_KEYS):
+        return None   # juvenil, cadete, infantil, La Masia… -> fuera del ámbito
+    return "primer_equipo"
 
 
 def _tiene_movimiento(titulo):
@@ -128,7 +141,7 @@ def apto_para_telegram(n):
     (La deduplicación por 'alertadas'/'cerradas' se aplica aparte, en el bucle.)"""
     if n["tier"] > TIER_ALERTA:            # solo fuentes fiables
         return False
-    if n["categoria"] != "primer_equipo":  # solo primer equipo (nada de cantera)
+    if n["categoria"] not in ("primer_equipo", "barca_atletic"):  # solo estos dos ámbitos
         return False
     if not _tiene_movimiento(n["titulo"]):  # debe ser un movimiento de mercado, no análisis
         return False
@@ -189,6 +202,9 @@ def recolectar_feed(nombre, tier_forzado, url):
 
         if not _es_relevante(texto):
             continue
+        categoria = _clasificar(texto)
+        if categoria is None:      # cantera inferior o renovación del Atlètic -> fuera
+            continue
 
         titulo, medio_en_titulo = _limpia_titulo(titulo_bruto)
 
@@ -210,7 +226,7 @@ def recolectar_feed(nombre, tier_forzado, url):
             "medio": medio,
             "tier": tier,
             "tier_etiqueta": F.ETIQUETA_TIER.get(tier, "?"),
-            "categoria": "cantera" if _es_cantera(texto) else "primer_equipo",
+            "categoria": categoria,
             "estado": _estado(texto),
             "fecha": _fecha_iso(entrada),
             "fuente_feed": nombre,

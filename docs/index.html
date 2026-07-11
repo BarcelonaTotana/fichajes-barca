@@ -89,7 +89,7 @@
         <span class="lbl">Categoría</span>
         <button class="pill on" data-cat="todo">Todo</button>
         <button class="pill" data-cat="primer_equipo">⭐ Primer equipo</button>
-        <button class="pill" data-cat="cantera">🌱 Cantera</button>
+        <button class="pill" data-cat="barca_atletic">🅱️ Barça Atlètic</button>
       </div>
       <div class="row" id="fEst">
         <span class="lbl">Estado</span>
@@ -147,7 +147,7 @@ function render(){
       <div class="meta">
         <span class="tag rel rel${n.tier}">${ETIQ[n.tier]||'?'}</span>
         <span class="tag est">${ESTADO[n.estado]||n.estado}</span>
-        <span class="tag cat">${n.categoria==='cantera'?'🌱 Cantera':'⭐ Primer equipo'}</span>
+        <span class="tag cat">${n.categoria==='barca_atletic'?'🅱️ Barça Atlètic':'⭐ Primer equipo'}</span>
         <span class="src">${n.medio||''}</span>
         <span class="time">${fecha(n.fecha)}</span>
       </div>
@@ -168,7 +168,7 @@ fetch('fichajes.json?_='+Date.now()).then(r=>r.json()).then(d=>{
   document.getElementById('stats').innerHTML=
     `<span><b>${DATOS.length}</b> noticias</span>`+
     `<span>⭐ <b>${pe}</b> primer equipo</span>`+
-    `<span>🌱 <b>${ca}</b> cantera</span>`+
+    `<span>🅱️ <b>${ca}</b> Barça Atlètic</span>`+
     `<span>Actualizado ${d.actualizado?fecha(d.actualizado):'—'}</span>`;
   render();
 }).catch(()=>{document.getElementById('stats').textContent='Aún no hay datos.';});

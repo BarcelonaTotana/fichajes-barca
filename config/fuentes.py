@@ -19,10 +19,12 @@ def _google_news(consulta):
     return f"https://news.google.com/rss/search?q={quote(consulta)}&hl=es&gl=ES&ceid=ES:es"
 
 
-# Núcleo de la consulta: términos de fichaje. Se reutiliza en todas las búsquedas.
+# Núcleo de la consulta: términos de fichaje + vínculos/rumores. Se reutiliza en
+# las búsquedas GENERALES (no en las site:, que van con consulta simple).
 _FICHAJE = ('(fichaje OR fichajes OR traspaso OR cesión OR cedido OR renovación OR '
             'renueva OR acuerdo OR oferta OR firma OR fichar OR vende OR venta OR '
-            'salida OR negocia OR refuerzo OR cláusula OR presentación OR oficial)')
+            'salida OR negocia OR refuerzo OR cláusula OR presentación OR oficial OR '
+            'interés OR gusta OR suena OR vinculado OR objetivo OR sondea OR pretende)')
 
 # ---------------------------------------------------------------------------
 # 1. BÚSQUEDAS POR MEDIO FIABLE (tier y medio GARANTIZADOS).
@@ -56,9 +58,10 @@ BUSQUEDAS_GENERALES = [
     ("General primer equipo", None, "auto",
      _google_news(f'(Barça OR "FC Barcelona") {_FICHAJE} -femenino -baloncesto when:10d')),
 
-    ("Cantera / La Masia", None, "auto",
-     _google_news('(Barça OR Barcelona) (Masia OR canterano OR "Barça Atlètic" OR filial OR '
-                  'juvenil OR cadete) ' + _FICHAJE + ' -femenino -baloncesto when:21d')),
+    ("Barça Atlètic", None, "auto",
+     _google_news('("Barça Atlètic" OR "Barça B" OR filial) '
+                  '(fichaje OR ficha OR cesión OR cedido OR traspaso OR venta OR vende OR firma) '
+                  '-femenino -baloncesto when:21d')),
 ]
 
 # ---------------------------------------------------------------------------
@@ -129,7 +132,11 @@ PALABRAS_FICHAJE = ["fichaje", "fichajes", "ficha ", "fichar", "fichado", "trasp
                     "renueva", "renovación", "renovacion", "acuerdo", "oferta", "firma",
                     "firmar", "vende", "venta ", "salida", "negocia", "negociación",
                     "refuerzo", "contrato", "cláusula", "clausula", "presentación",
-                    "presenta a", "llega al", "aterriza", "desembolsa"]
+                    "presenta a", "llega al", "aterriza", "desembolsa",
+                    # vínculos / rumores (para captar "X vinculado/suena al Barça")
+                    "vinculado", "vincula", "suena", "en la órbita", "en la orbita",
+                    "en el radar", "sondea", "sondeo", "tantea", "ofrecido", "pretendido",
+                    "en el punto de mira", "interés", "interesa", "objetivo"]
 
 # Si aparece alguna de estas, se descarta (otras secciones / no fútbol / otros clubes).
 PALABRAS_BLOQUEO = [
@@ -162,12 +169,36 @@ PALABRAS_CLUB = ["barça", "barsa", "blaugrana", "azulgrana", "culé", "cule", "
 # ---------------------------------------------------------------------------
 PALABRAS_MOVIMIENTO = [
     "ficha", "fichará", "fichar", "firma", "firmará", "renueva", "renovará", "renovación",
-    "cede", "cedido", "cesión", "cesion", "traspaso", "traspasa", "vende", "venderá",
+    "cede", "cedido", "cesión", "cesion", "traspaso", "traspasa", "vende", "venderá", "venta",
     "acuerdo", "oferta", "oficial", "presenta", "rescinde", "rescisión", "aterriza",
     "se marcha", "adiós", "negocia", "quiere", "interesa", "gusta", "sigue a", "sondea",
     "puja", "va a por", "apuesta por", "en la agenda", "objetivo", "pretende", "ofrece",
     "cláusula", "clausula", "llega al", "cierra el fichaje", "cierra la",
+    # vínculos / rumores (muy importante para el primer equipo)
+    "vinculado", "vincula", "suena", "en la órbita", "en la orbita", "en el radar",
+    "seguimiento", "tantea", "tanteo", "ofrecido", "se ofrece", "postula", "candidato",
+    "pretendido", "en el punto de mira", "sondeo", "opción", "quiere fichar", "salida de",
 ]
+
+# ---------------------------------------------------------------------------
+# 11. ÁMBITO: solo PRIMER EQUIPO y BARÇA ATLÈTIC. El resto de la cantera se descarta.
+# ---------------------------------------------------------------------------
+# Palabras que identifican al filial (Barça Atlètic / Barça B). Ojo: NO usar "atlètic"
+# a secas (chocaría con Athletic Club o Atlético).
+ATLETIC_KEYS = ["barça atlètic", "barça atletic", "barca atlètic", "barca atletic",
+                "barça b", "barca b", "filial"]
+
+# Categorías inferiores a descartar (juvenil, cadete… y La Masia como referencia de base).
+YOUTH_KEYS = ["juvenil", "cadete", "infantil", "alevín", "alevin", "benjamín", "benjamin",
+              "la masia", "masia", "masía", "sub-19", "sub19", "sub-18", "sub-17", "sub17",
+              "sub-16", "sub16", "sub-15", "sub-14", "sub-14"]
+
+# Altas/bajas (fichajes, cesiones, ventas). Para el Barça Atlètic se EXIGE una de estas
+# (y se excluyen las renovaciones).
+PALABRAS_ALTA_BAJA = ["ficha", "fichaje", "fichado", "fichar", "cesión", "cesion", "cedido",
+                      "cede", "préstamo", "prestamo", "traspaso", "vende", "venta", "venderá",
+                      "salida", "se marcha", "adiós", "rescinde", "rescisión", "nuevo jugador",
+                      "llega"]
 
 # ---------------------------------------------------------------------------
 # 10. FÚTBOL FEMENINO: el proyecto es MASCULINO. Se descarta todo lo femenino,
@@ -187,11 +218,3 @@ JUGADORAS_FEMENINO = [
 ]
 
 
-# ---------------------------------------------------------------------------
-# 8. CANTERA: solo si aparece una palabra de cantera DE PESO (no de pasada).
-# ---------------------------------------------------------------------------
-PALABRAS_CANTERA = [
-    "masia", "masía", "la masia", "barça atlètic", "barça b", "filial",
-    "juvenil", "cadete", "infantil", "alevín", "alevin", "canterano", "cantera",
-    "sub-19", "sub19", "sub-17", "sub17", "sub-16", "sub-14", "juvenil a", "juvenil b",
-]

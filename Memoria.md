@@ -7,6 +7,17 @@
 
 ---
 
+## 0. ÁMBITO ACTUAL (actualizado 2026-07-11, según petición del usuario)
+- **Solo PRIMER EQUIPO y BARÇA ATLÈTIC** (filial). Se DESCARTA el resto de cantera
+  (juvenil, cadete, infantil, La Masia…) tanto en web como en Telegram.
+- **Barça Atlètic:** solo fichajes / cesiones / ventas. **Sin renovaciones.**
+- **Primer equipo:** todo (fichajes, cesiones, VENTAS, renovaciones y sobre todo RUMORES/VÍNCULOS,
+  ej. "Joao Félix vinculado al Barça" — es lo más importante para el usuario).
+- **Cron cada 5 min** (mínimo de GitHub Actions; puede retrasarse).
+- Implementación: `recolector._clasificar` (primer_equipo / barca_atletic / None=descartar),
+  keys en `config/fuentes.py` (ATLETIC_KEYS, YOUTH_KEYS, PALABRAS_ALTA_BAJA). Los vínculos/rumores
+  se añadieron a PALABRAS_FICHAJE (relevancia) y PALABRAS_MOVIMIENTO (control Telegram).
+
 ## 1. Objetivo del proyecto
 
 Construir un sistema que **controle en tiempo real y 100% en directo** todo el mercado de
