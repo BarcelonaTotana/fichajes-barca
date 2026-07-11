@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T17:02:15.545065Z",
-  "total": 119,
+  "actualizado": "2026-07-11T17:15:37.983423Z",
+  "total": 121,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -61,6 +61,19 @@
       "fecha": "2026-07-11T14:22:38",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T16:55:55.487230"
+    },
+    {
+      "id": "e51a7d6e1cc44247",
+      "titulo": "Denuncian al Barça y al ministro de Deportes por el acuerdo de patrocinio con la RD del Congo",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaDlSNEEyeV9DRUNjejlJODN1eEFSQnVNUThDSGxTTGd3cTZuRFo0ZktiUmtxdmtKM2VNMW1lVmtTSGVUQTd0TmhpazhQZURZeXZIOERjanZlRV9KbHdwekliN0ZEMDg3NVNHdUluTnZCQUVSRUFNZG9JZm9aUHh4TGs4N0xEREh6YlNfN1FEX0tod3JJdEpOODB1dngyT3MydkM0VTlhemxFbjBLaEVubE9vd2dUXzJuOHZjbDlBQVR5VHBPRGgxOG13?oc=5",
+      "medio": "El Confidencial",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-11T12:39:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-11T17:15:35.567422"
     },
     {
       "id": "eea11ae24a1b3e53",
@@ -347,6 +360,19 @@
       "fecha": "2026-07-10T17:10:30",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T16:56:03.435667"
+    },
+    {
+      "id": "352f8451dd4e256b",
+      "titulo": "Oficial: Juan Ybarra ficha por el Barça",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1U3Qk9SalF5NGVrbVFJV0tEeDMwcVVaeVlsdi04R3pOcUpQSlk1RWlSalpoVmh1NHRpYnozT0V3TjA3YTAzUExEd1N5UWxRZVRqanBEZ28zZExBRUNEYVhVRkpyaVNwNkFwMWdTT1VtWHZsQllqWW9KMjdjM01iY2o4NEF6ZG12T3hXU0FGaDNpMW53ZzI1bV85S1VBUQ?oc=5",
+      "medio": "MSN",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-10T17:07:02",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-11T17:15:36.972745"
     },
     {
       "id": "27938cbd2597c286",
