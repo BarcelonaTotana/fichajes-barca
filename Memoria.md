@@ -91,9 +91,14 @@ Solo se avisa de **movimientos de mercado** de fuentes **fiables** (tier ≤ 2).
 - **Rumores:** llegan todos (de fuentes fiables). **Operación oficial/acuerdo total:** se avisa
   una vez y el jugador se guarda en `cerradas` (en docs/fichajes.json) → no más Telegram de él
   (la web lo sigue mostrando). Config en recolector.py: `TIER_ALERTA=2`, `ESTADOS_CIERRE`.
+- **Solo movimientos:** el titular debe tener señal de movimiento/interés (F.PALABRAS_MOVIMIENTO,
+  por palabra completa: "ficha" sí, "fichajes" no) → corta análisis/retrospectivas.
+- **Anti-repetidos (clave):** ID de noticia = título NORMALIZADO (sin acentos/puntuación), porque
+  Google News cambia el enlace en cada consulta. Registro persistente `alertadas` (ids ya avisados,
+  en docs/fichajes.json) → una noticia se avisa como MÁXIMO una vez en la vida. `MAX_ALERTAS_POR_EJECUCION=10`
+  como red de seguridad anti-ráfaga.
 - **Limitaciones conocidas:** el nombre del jugador no siempre se extrae bien; puede colarse
-  algún caso de fútbol femenino sin marca de género (p. ej. "Ainoa Gómez") — pendiente de afinar
-  si molesta. El % es una estimación simple (se puede quitar si no convence).
+  algún caso de fútbol femenino sin marca de género (p. ej. "Ainoa Gómez"). El % es estimación simple.
 
 ### Nota técnica (SSL en local)
 El PC del usuario intercepta TLS (proxy) y Python local falla al validar certificados.
