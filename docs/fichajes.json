@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T21:01:17.023863Z",
-  "total": 119,
+  "actualizado": "2026-07-11T21:11:01.175838Z",
+  "total": 120,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -36,6 +36,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "0efa9b0714bbdd08",
+      "titulo": "La agenda del Barça con el fichaje de Adeyemi",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3VicmRqeXp3dTNiY2hOZUhQOXFjU1R0Q1d3OXN6QjAwcEVTNWxZWkdITTAyS0xCdllDOHhjY2oyZVF5T1ZITUlSaWpXSUxvRnpacF95MWRqYjE4SXZqMDhfc2pRWUdzaGphWmJLRmhVekMteTBuOFQ0NzRjYUp1alJETdIBgwFBVV95cUxPVkFaTnBpLUwtMFJ3YjYzcXNNZ3lIN2pVTkJqc3Q2cHlydFh3YnZObWhCdUdPMXNQZlkyZ3RvS1I5SW9INXJuX1U4amVJWWlZa2tVcFIwa0tMMUg0bWpIUzBfdjhEbURJdF9MSkNmLW1IVk9nRk5nZkE2blEtXzhBQVJQMA?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-11T20:52:35",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-11T21:10:51.204136"
+    },
     {
       "id": "a74c2fcc87d73710",
       "titulo": "Asllani mira al Barça tras el interés del PSG por Ferran",
