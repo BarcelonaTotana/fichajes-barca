@@ -7,6 +7,22 @@
 
 ---
 
+## 0-BIS. FUENTE ÚNICA: TRANSFERMARKT (cambio grande 2026-07-11)
+El usuario pidió ir "a tiro fijo" a fuentes dedicadas a fichajes. Se **reemplazó Google News
+por Transfermarkt** (scraping con BeautifulSoup, funciona desde GitHub Actions):
+- `fuente_transfermarkt.py`: lee rumores (…/geruechte/verein/ID) con **% REAL** y fichajes/ventas
+  cerrados (…/transfers/verein/ID, tabla Altas=[0]/Bajas=[1]) del primer equipo (id 131, slug
+  fc-barcelona) y del Barça Atlètic (id 2464, slug fc-barcelona-b). Filtra promociones internas
+  del juvenil (club con "juvenil").
+- `recolector.py` reescrito y SIMPLIFICADO: ya no hacen falta filtros de ruido (TM viene limpio).
+  La web = snapshot actual de TM; alertas = ids nuevos (jugador+club+tipo) vía `alertadas`.
+- `telegram_alertas.py`: mensaje con jugador, club, importe, estado y **% real** de TM.
+- `docs/index.html`: rediseñada para datos TM (filtros Equipo/Tipo, %, importe).
+- **Código antiguo ya NO usado** (queda en el repo por si acaso): `config/fuentes.py`, `analisis.py`,
+  y los filtros de femenino/otros-deportes/crónicas. El % ahora es real (no estimación).
+- Nota: los rumores de TM son mayormente ENTRANTES; la dirección exacta (llegada/salida) solo es
+  100% fiable en los fichajes cerrados (Altas/Bajas). Renovaciones NO aparecen (TM no las lista).
+
 ## 0. ÁMBITO ACTUAL (actualizado 2026-07-11, según petición del usuario)
 - **Solo PRIMER EQUIPO y BARÇA ATLÈTIC** (filial). Se DESCARTA el resto de cantera
   (juvenil, cadete, infantil, La Masia…) tanto en web como en Telegram.
