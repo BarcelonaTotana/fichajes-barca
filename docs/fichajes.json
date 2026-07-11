@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T23:32:30.197790Z",
-  "total": 123,
+  "actualizado": "2026-07-11T23:42:07.269600Z",
+  "total": 124,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -1010,6 +1010,19 @@
       "fecha": "2026-07-09T07:18:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.094658"
+    },
+    {
+      "id": "98eecd3df6977fd7",
+      "titulo": "Caos en el Barça: cinco fichajes frustrados, sin entrenador ni responsable y apenas jugadores para un quint...",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkNKRnl3SEVuRzJseDhCZFBMazdPUnM1Ui13ZXVQZzFBb0t1cjdQREZzVVlwR1FfSnZQRTdReHpXRm4wWHEwdnV5UXZyLWtETk9Kdm9KTDNQZjhYNGlmLVpZMlZiOEZueXdvTmNPbUdRU2xsNjhLWUc2dXlmbVJldGw2a2gxS1RYcEtRc0dUTmpEeHFha0c4Nm9mRnFHRHEyR2hNb3ZFSjhfTXRfVUNzd2psc2IyUkdVM19HdG01c3R3VXpjMS1QNldyNNIB0AFBVV95cUxPY2xpVzQzWXhVb2NFLVd0eFZaQjRSQ0FiSFB4TFNUVUdPajEyUE5UUmM1U3pXaUdyS3hmbklndUNySFNKV3NRUUQzamhTNnpnWDlxaXJVaWVTVXA2QmlGeHhrY0M0RjhQNXhMZnFhTWx0ZEoxTVJaOW1tMUZ2bThQUGJwSkVhT0FtLXZKWkVmclhPTHhkSEFlV3ZYbTFGS3RILU0wYmFpMHBqMVpJa1UxMGRVVXBLMGtnUnFKVGVObXktRUlvZ09YQlYxMG96MUhQ?oc=5",
+      "medio": "OkDiario",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-09T07:00:43",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-11T23:42:04.786599"
     },
     {
       "id": "ab109c4f2d31ccf8",
