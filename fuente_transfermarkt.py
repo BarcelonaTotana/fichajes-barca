@@ -19,25 +19,51 @@ import urllib3
 
 VERIFICAR_SSL = None  # lo fija recolector según el entorno (local vs nube)
 BASE = "https://www.transfermarkt.es"
+# Cabeceras de navegador completas: Transfermarkt bloquea (403) peticiones que no
+# parezcan un navegador real, sobre todo desde IPs de servidor (GitHub Actions).
 CABECERAS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-    "Accept-Language": "es-ES,es;q=0.9",
+                  "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+    "Referer": "https://www.transfermarkt.es/",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document", "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "same-origin", "Sec-Fetch-User": "?1",
+    "sec-ch-ua": '"Chromium";v="125", "Not.A/Brand";v="24"',
+    "sec-ch-ua-mobile": "?0", "sec-ch-ua-platform": '"Windows"',
+    "Cache-Control": "max-age=0", "Connection": "keep-alive",
 }
 
 # (id de club en Transfermarkt, slug, categoría del proyecto)
 CLUBS = [("131", "fc-barcelona", "primer_equipo"),
          ("2464", "fc-barcelona-b", "barca_atletic")]
 
+_SESION = None
+
+
+def _sesion():
+    global _SESION
+    if _SESION is None:
+        _SESION = requests.Session()
+        _SESION.headers.update(CABECERAS)
+        # Primera visita a la home para recibir cookies (parece navegación real).
+        try:
+            _SESION.get(BASE + "/", timeout=30, verify=bool(VERIFICAR_SSL))
+        except Exception:
+            pass
+    return _SESION
+
 
 def _descargar(url):
+    s = _sesion()
     ultima = None
-    for intento in range(3):
+    for intento in range(4):
         try:
-            r = requests.get(url, headers=CABECERAS, timeout=30, verify=bool(VERIFICAR_SSL))
-            if r.status_code in (429, 503):
+            r = s.get(url, timeout=30, verify=bool(VERIFICAR_SSL))
+            if r.status_code in (403, 429, 503):
                 ultima = requests.exceptions.HTTPError(f"{r.status_code}")
-                time.sleep(5 * (intento + 1))
+                time.sleep(4 * (intento + 1))   # backoff: 4s, 8s, 12s
                 continue
             r.raise_for_status()
             return r.text
@@ -197,7 +223,7 @@ def recolectar():
     todo = []
     for club_id, slug, categoria in CLUBS:
         todo += _rumores(club_id, slug, categoria)
-        time.sleep(1)
+        time.sleep(3)
         todo += _transfers(club_id, slug, categoria)
-        time.sleep(1)
+        time.sleep(3)
     return todo
