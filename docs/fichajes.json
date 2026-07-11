@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T18:36:33.614995Z",
-  "total": 122,
+  "actualizado": "2026-07-11T19:27:48.037864Z",
+  "total": 123,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -36,6 +36,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "4274e669792e6fc9",
+      "titulo": "El Barcelona cierra el fichaje de Jesse Bisiwu para el filial",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjVPY2JYc3Z4eE45S3VhajdlQTdqRkJ5cVNoWk9ZaDlxSzdHb1V4Tkx5TjVnbTZkNE1nMGxTTlNRa0lTQ08yb0tTQTM4NmFxVThFV0RickYzMEdyeEl4TUVvQWYzekVrYVFmaFZNX3lETmZxYzJoWm9OakloeUtJMW9PVTU3QnVwbmd0OEhtLS16VGRDV0ZoNFRCdnd4OHAzMVNnNFFDNVpPV0RDaU8tbjQxWFPSAboBQVVfeXFMTklnR0FpNEY1WTFVQ2l3ODlNNm55ZVdqeGhsdHE0cV9aSWhEVTVJNnpzYWpDbk5XRi1GVGEzczBFX1IwbGJId0U5d04taS1HVEdwQWlNa2dvUzZfREpzdmphb1JLX1lrYzFCU1ZCZUUybFJwTUhaeHM3ekN3U2JhRUZPakdGcVlJYUVPNXBUeHNhTnhSQ1p3eEpIZk94Y0pqaTBmUTZlZEphWVlFMVh3N3RiQnZYWUk0aUNR?oc=5",
+      "medio": "FútbolFantasy",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-11T18:24:41",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-11T19:27:47.025219"
+    },
     {
       "id": "6f039a976cc9fddf",
       "titulo": "Alexanko cierra el fichaje más caro de la historia del Barça B: 10 millones por una joya que encandila a Flick y Belletti",
