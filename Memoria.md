@@ -7,7 +7,15 @@
 
 ---
 
-## 0-BIS. FUENTE ÚNICA: TRANSFERMARKT (cambio grande 2026-07-11)
+## 0-TER. DESCARTADO Transfermarkt en la nube (2026-07-11)
+Se intentó usar Transfermarkt como fuente única (rumores con % REAL). Funciona desde una IP
+doméstica, pero **Transfermarkt bloquea con 403 (Cloudflare) las IPs de GitHub Actions**, incluso
+con cabeceras de navegador + sesión + reintentos. No se puede sortear gratis. El usuario eligió
+**volver a Google News filtrado** (fiable en la nube 24/7). El código de Transfermarkt se eliminó
+del repo (queda en el historial de git, commits 9ede761 / bb0167c, por si algún día se corre
+desde el PC del usuario). VER 0-BIS abajo solo como referencia histórica: NO está activo.
+
+## 0-BIS. [HISTÓRICO, NO ACTIVO] FUENTE ÚNICA: TRANSFERMARKT (cambio grande 2026-07-11)
 El usuario pidió ir "a tiro fijo" a fuentes dedicadas a fichajes. Se **reemplazó Google News
 por Transfermarkt** (scraping con BeautifulSoup, funciona desde GitHub Actions):
 - `fuente_transfermarkt.py`: lee rumores (…/geruechte/verein/ID) con **% REAL** y fichajes/ventas
