@@ -26,6 +26,12 @@ import urllib3
 
 import config.fuentes as F
 import telegram_alertas
+import analisis
+
+# Fiabilidad mínima para avisar por Telegram (0=oficial,1=fiable,2=bastante fiable).
+TIER_ALERTA = 2
+# Estados que "cierran" una operación (ya no se vuelve a avisar de ese jugador).
+ESTADOS_CIERRE = ("oficial", "here_we_go")
 
 # El JSON vive dentro de docs/ para que GitHub Pages lo sirva junto al panel.
 RUTA_DATOS = os.path.join("docs", "fichajes.json")
@@ -173,21 +179,24 @@ def recolectar_feed(nombre, tier_forzado, url):
     return noticias
 
 
-def cargar_existentes():
+def cargar_datos():
+    """Devuelve (noticias, cerradas) desde el JSON. cerradas = jugadores ya fichados/oficiales."""
     if os.path.exists(RUTA_DATOS):
         try:
             with open(RUTA_DATOS, "r", encoding="utf-8") as f:
-                return json.load(f).get("noticias", [])
+                d = json.load(f)
+                return d.get("noticias", []), set(d.get("cerradas", []))
         except Exception:
-            return []
-    return []
+            return [], set()
+    return [], set()
 
 
-def guardar(noticias):
+def guardar(noticias, cerradas):
     os.makedirs("docs", exist_ok=True)
     salida = {
         "actualizado": dt.datetime.utcnow().isoformat() + "Z",
         "total": len(noticias),
+        "cerradas": sorted(cerradas),   # operaciones ya cerradas (no re-alertar en Telegram)
         "noticias": noticias,
     }
     with open(RUTA_DATOS, "w", encoding="utf-8") as f:
@@ -196,9 +205,10 @@ def guardar(noticias):
 
 def main():
     print("== Recolector de fichajes FC Barcelona ==")
-    existentes = {n["id"]: n for n in cargar_existentes()}
+    noticias_previas, cerradas = cargar_datos()
+    existentes = {n["id"]: n for n in noticias_previas}
     arranque_en_frio = len(existentes) == 0   # tras un reinicio, no alertar (evita ráfaga)
-    print(f"Noticias previas en base de datos: {len(existentes)}")
+    print(f"Noticias previas: {len(existentes)} · Operaciones cerradas: {len(cerradas)}")
 
     recolectadas = []
     # Primero los medios fiables (así ganan en la deduplicación).
@@ -227,14 +237,30 @@ def main():
     todas.sort(key=lambda x: x[0], reverse=True)
     todas = [n for _, n in todas][:MAX_NOTICIAS]
 
-    guardar(todas)
+    # ---- Alertas de Telegram ----
+    # Candidatas: noticias NUEVAS de fuentes fiables (tier <= TIER_ALERTA).
+    # Se procesan primero las "de cierre" (oficial/acuerdo total) para que, si en
+    # la misma tanda hay varias del mismo jugador, solo avise la primera.
+    candidatas = [n for n in nuevas if n["tier"] <= TIER_ALERTA]
+    candidatas.sort(key=lambda n: 0 if n["estado"] in ESTADOS_CIERRE else 1)
+
+    a_enviar = []
+    for n in candidatas:
+        clave = analisis.clave_operacion(analisis.extraer_jugador(n["titulo"]))
+        if clave and clave in cerradas:
+            continue  # operación ya cerrada -> no se re-alerta (la web sí la sigue mostrando)
+        a_enviar.append(n)
+        if n["estado"] in ESTADOS_CIERRE and clave:
+            cerradas.add(clave)  # a partir de ahora, ese jugador queda cerrado en Telegram
+
+    guardar(todas, cerradas)
     print(f"\nNoticias nuevas: {len(nuevas)} · Total guardadas: {len(todas)}")
 
-    alertar = [n for n in nuevas if n["tier"] <= 1]
     if arranque_en_frio:
-        print(f"Arranque en frío: se omiten {len(alertar)} alertas (evita ráfaga).")
-    elif alertar:
-        telegram_alertas.enviar_alertas(alertar)
+        print(f"Arranque en frío: se omiten {len(a_enviar)} alertas (evita ráfaga).")
+    elif a_enviar:
+        print(f"Enviando {len(a_enviar)} alertas a Telegram…")
+        telegram_alertas.enviar_alertas(a_enviar)
 
 
 if __name__ == "__main__":

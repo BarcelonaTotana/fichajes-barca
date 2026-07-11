@@ -12,14 +12,36 @@ simplemente no envía (útil para probar en local).
 import os
 import requests
 
-API = "https://api.telegram.org/bot{token}/sendMessage"
+import analisis as A
 
-EMOJI_TIER = {0: "🔵 OFICIAL", 1: "🟢 Fiable"}
+API = "https://api.telegram.org/bot{token}/sendMessage"
 
 
 def _escapar(texto):
     # Modo HTML de Telegram: escapamos los caracteres reservados.
     return texto.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def construir_mensaje(n):
+    """Mensaje decorado estilo: jugador / importe / estado / % / fuente."""
+    texto = n["titulo"]
+    jugador = A.extraer_jugador(texto)
+    if jugador:
+        primera = f"{jugador} {A.direccion(texto)}"
+    else:
+        primera = texto  # sin jugador claro -> el titular completo
+    importe = A.extraer_importe(texto) or "—"
+    estado = n["estado"]
+    prob = A.probabilidad(estado, n["tier"])
+    cat = "🌱 Cantera" if n["categoria"] == "cantera" else "⭐ Primer equipo"
+    return (
+        f"⚽ <b>{_escapar(primera)}</b>\n"
+        f"💰 {importe}\n"
+        f"{A.ESTADO_EMOJI.get(estado, '💬')} {A.ESTADO_LEGIBLE.get(estado, estado)}\n"
+        f"📊 {prob}%\n"
+        f"📰 Fuente: {_escapar(n['medio'])} · {cat}\n"
+        f'🔗 <a href="{n["enlace"]}">Ver noticia</a>'
+    )
 
 
 def enviar_alertas(noticias):
@@ -30,14 +52,7 @@ def enviar_alertas(noticias):
         return
 
     for n in noticias:
-        cabecera = EMOJI_TIER.get(n["tier"], "🟢")
-        cat = "🌱 Cantera" if n["categoria"] == "cantera" else "⭐ Primer equipo"
-        mensaje = (
-            f"<b>{cabecera}</b> · {cat}\n"
-            f"<b>{_escapar(n['titulo'])}</b>\n"
-            f"Medio: {_escapar(n['medio'])} · Estado: {n['estado']}\n"
-            f'<a href="{n["enlace"]}">Abrir noticia</a>'
-        )
+        mensaje = construir_mensaje(n)
         try:
             r = requests.post(
                 API.format(token=token),

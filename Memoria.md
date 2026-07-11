@@ -76,6 +76,25 @@ Tras revisar el usuario, se reconstruyó el clasificador (`recolector.py` + `con
 - **Salvaguarda anti-ráfaga:** si la BD está vacía (reinicio), NO se envían alertas (arranque en frío).
 - Resultado: "Verificar" 182→70; medios fiables (tier 2) 1→~72; ruido eliminado.
 
+### Alertas de Telegram v2 (2026-07-11)
+Solo se avisa de **movimientos de mercado** de fuentes **fiables** (tier ≤ 2). Formato decorado:
+```
+⚽ Ferran Torres al Barça
+💰 22M
+💬 Rumor
+📊 45%
+📰 Fuente: SPORT · ⭐ Primer equipo
+🔗 Ver noticia
+```
+- `analisis.py`: extrae jugador (heurística ~50%; si no, usa el titular), dirección
+  (al Barça / sale / cesión / renueva), importe (50M, 1.000M…) y % (estado + fiabilidad).
+- **Rumores:** llegan todos (de fuentes fiables). **Operación oficial/acuerdo total:** se avisa
+  una vez y el jugador se guarda en `cerradas` (en docs/fichajes.json) → no más Telegram de él
+  (la web lo sigue mostrando). Config en recolector.py: `TIER_ALERTA=2`, `ESTADOS_CIERRE`.
+- **Limitaciones conocidas:** el nombre del jugador no siempre se extrae bien; puede colarse
+  algún caso de fútbol femenino sin marca de género (p. ej. "Ainoa Gómez") — pendiente de afinar
+  si molesta. El % es una estimación simple (se puede quitar si no convence).
+
 ### Nota técnica (SSL en local)
 El PC del usuario intercepta TLS (proxy) y Python local falla al validar certificados.
 Para pruebas LOCALES: `SSL_NO_VERIFY=1 python recolector.py`. En GitHub Actions NO hace falta.

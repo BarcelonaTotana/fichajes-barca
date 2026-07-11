@@ -141,6 +141,9 @@ PALABRAS_BLOQUEO = [
     # merchandising de la tienda oficial (se colaba como tier 0)
     "camiseta", "official store", "megastore", "sudadera", "bufanda", "firmada por",
     "summer camp", "summer cump",
+    # fútbol femenino (el proyecto es masculino) y ruido ciudad/política
+    "femen", "women", "womens", "wsl", "liga f", "uwcl",
+    "área metropolitana", "metropolitana", "alcalde", "generalitat",
 ]
 
 # ---------------------------------------------------------------------------
