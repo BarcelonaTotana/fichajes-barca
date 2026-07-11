@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T13:29:30.921326Z",
-  "total": 147,
+  "actualizado": "2026-07-11T13:30:19.813431Z",
+  "total": 148,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -9,6 +9,7 @@
     "10c093e3e5f4eedd",
     "12104adbc07a780e",
     "158c66cbb29b7567",
+    "15d9bf16b6bc08b4",
     "15e1138a42f69040",
     "20234a678e468e32",
     "27321ee97987e6c7",
@@ -1757,6 +1758,19 @@
       "fecha": "2026-06-23T07:00:00",
       "fuente_feed": "Cantera / La Masia",
       "visto_por_primera_vez": "2026-07-11T13:29:29.909921"
+    },
+    {
+      "id": "a78f35cbd60cfe20",
+      "titulo": "Hansi Flick pide la salida inmediata de cuatro jugadores del Barça antes del 30 de junio",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdW1WUzhoUk5PVjBlZnh5XzRBTmNFMHE4Nk1WeGJsbGxuSGp3bEVxeTA2TXNUbG5QOHFfTVNJUms1RGI0WDBXTTlIblprNUgtTUhLUG82d09WbWo1ZVo0eS1qNnJZbFlYOWk2NTE1WUVudG10VFlnY210WndpTEFETnZtaHUzYUttQkZEYWN3aDZFa0xlNGVEbTd5WlNQdTJtMGM0OHJxMWVyMlE5WGFWLVQwUnVWVU9BMURnaXlwM0Jqa0ZpQVE?oc=5",
+      "medio": "El Nacional.cat",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-23T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-11T13:30:16.872531"
     },
     {
       "id": "f83f4da5a7c2f37f",
