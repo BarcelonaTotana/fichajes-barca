@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T13:53:37.336012Z",
-  "total": 145,
+  "actualizado": "2026-07-11T13:55:19.431651Z",
+  "total": 146,
   "cerradas": [
     "ajay tavares",
     "quim junyent"
@@ -1721,6 +1721,19 @@
       "fecha": "2026-06-23T07:00:00",
       "fuente_feed": "Cantera / La Masia",
       "visto_por_primera_vez": "2026-07-11T13:41:12.680740"
+    },
+    {
+      "id": "a78f35cbd60cfe20",
+      "titulo": "Hansi Flick pide la salida inmediata de cuatro jugadores del Barça antes del 30 de junio",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdW1WUzhoUk5PVjBlZnh5XzRBTmNFMHE4Nk1WeGJsbGxuSGp3bEVxeTA2TXNUbG5QOHFfTVNJUms1RGI0WDBXTTlIblprNUgtTUhLUG82d09WbWo1ZVo0eS1qNnJZbFlYOWk2NTE1WUVudG10VFlnY210WndpTEFETnZtaHUzYUttQkZEYWN3aDZFa0xlNGVEbTd5WlNQdTJtMGM0OHJxMWVyMlE5WGFWLVQwUnVWVU9BMURnaXlwM0Jqa0ZpQVE?oc=5",
+      "medio": "El Nacional.cat",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-23T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-11T13:55:16.779794"
     },
     {
       "id": "f83f4da5a7c2f37f",
