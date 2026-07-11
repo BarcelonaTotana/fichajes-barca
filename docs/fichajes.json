@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T16:56:05.969956Z",
-  "total": 118,
+  "actualizado": "2026-07-11T17:02:15.545065Z",
+  "total": 119,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -36,19 +36,6 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
-    {
-      "id": "27b0bfdba5eac8a8",
-      "titulo": "32-28: Primera exhibición de Marcos Fis, fichaje del Barça, en el Europeo sub-20",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZjNnNGJZQXZrV2NVRVdlNUVuQVBhSHVPYVRGalVraUFiZGNiNTBGTV8xbGhFQlkwMU00WHh5MVFIZWY0WnF0ZjB1c0hITTM3c3RrN1dJdWZISU5hVlgzWUtQRFE1cFo3NVB0V1dUUUN1a2E1Z2RDaVRQUl9WQjcyQk5ncVFwc3IzdDk1cHEtWXk4cFM0ZHZZaU1SU3VsWk45YWJOMWxxaDhrTHJaTjZMaE45THhuQVA1QktCZkk0NVloMllHeDNDSm1n0gHXAUFVX3lxTFBPekdvRGZFTFl6MzJYTkJ5S3BFc1VrS3htbnFneWZsQU5IUnlWOGx0TEUwdkhVbFpCM2JubGZuN1FwNnBoaGMtS0ZaaWZ5VHZxMy1PUnlFV21SY29FNXM3bmJteHZsMXBZRi1CUzdKRzFXcEZRVDBnUXBocHpORVYwczJvWHVPWmlJb2h2dWxnWVU0RS03cnh1YkxWQ3lGVkxyUEhrNm9NSF9KdHo2Z3JsWExuTUxWal9SRjhuY1l4TVVlQjlXODd2YlhuZ2J0SFZoZGRwaHFZ?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T16:40:00",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T16:55:57.157758"
-    },
     {
       "id": "724274d119e6df88",
       "titulo": "El PSG pone a Ferran Torres y al Barça en un dilema: renovación o venta este verano",
@@ -999,6 +986,19 @@
       "visto_por_primera_vez": "2026-07-11T16:56:00.243239"
     },
     {
+      "id": "973bfaae2b51a3b4",
+      "titulo": "El Barça, muy cerca de atar el fichaje de Joao Cancelo",
+      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ29mWXNodDh5LV96RDBJal9TZnQyTEs5bTVEUWg0ZjZQZDhrTF95QVRzLVN6bHpyR0NvUC1GcERKbklqQ0ZxdU9iZ2JiTmhTZXcwcm9lVmYtSU05TEpsSWx5X3dEY1VJWkhGWGExbXBabXdZWUZHc0JnRnZaWGxJbWNxTWnSAYQBQVVfeXFMTmJ6ckN0TWR1LTlnbndjQXh6bnJ1TUJ4dFBmQWRqb2Z0VlpULWp0c0JxMGdEaG9MUkQ2Ujl0VkcyNWQzVnEwNHNCVF9yMWhlVEdLTk1wSmNVbUZFclM3bDRDaHNPakVhTmpjcVRLdmNNSDJ0RmswSU8yQlM1amt1UkFsRm52?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-08T06:43:00",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-11T17:02:05.443961"
+    },
+    {
       "id": "55eef78b05e4894d",
       "titulo": "El Barça ata a Joao Cancelo: acuerdo cerrado, a falta de la firma, con el Al Hilal por 10 millones",
       "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWU1eE1sTFhzR3NacjRuQ00zT2tUNmVPcGEyLW1WZHdDVmNOZkdTMUx4Q2tMSGswdWJqSzd6cFEyZDRTWEhsMXNyX0lZS1IzQUd4VEtZQlZDZXhIYVBoTnhtemFCX2JacXRrS1JsVkdoLTJybnQ5dkR3VnVPUm4xa3ZqN3VabEU3T0tkRUpWVTh6V1BRVWJ5LTJZNjdnVEtoTjRwQy1zU1lGVEQ2N2RTTUdla29kc29YOHBDX3ViQ3VIMzJRZ0FKRlY0VkZ1d9IB0wFBVV95cUxNNmN3eWFWWThCcWNWbzlQci1Id3pWZ2NXaEQzM240eUFRRzAySUFLYXVmQlYwNDY5eTE3ZE4wSk1qcFU3QkRVSFYzb1FqRHlDYlBwbUNwWVBENnJLSEwxSVg4d1NTWl9HSTEwVFJnaG9XSW9OcVpUN0Q5OUN4cnJrYUxRYTVxdWlYcWt0ZmRjSWQ2dlpjdFpBSGlJOFRpUDVKaEdlWXAzaXh2cm9MUTgxdEx3NkM0ZDdOYUFfTGdZeHk4T0QxX25ZRHNBZ1g1dmEwVnU0?oc=5",
@@ -1296,6 +1296,19 @@
       "fecha": "2026-07-02T07:00:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-11T16:56:04.962997"
+    },
+    {
+      "id": "37456e244868703a",
+      "titulo": "Oficial: Christensen renueva con el Barça hasta 2028",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbFMtSnhUY1A5MVBqXzctMUlRcVZiNG55UnZYOW5hTmtfVDRPVngzWFNpY2NGYTB6Zjg2RUszWXhieVlFNEU3QUdpRzVwRmM2eDQtQ1ZVQkdWdnYtZHdNZEVPWU94ZjlHcjB4bnUtTm5BOThvMFlYaFBrdW94TWsyeHdfdDdoV3o0c29DNjhrOGs1SV9WckNtZjE1bU1KZ9IBngFBVV95cUxPY3NBNFliUWIxNUcybG12QTB3dGRJcUg4bUhzSjg3dXFjX3R5NkRudU1HM2xwVmRIZWxFYTNOQXJuV0p5aEp1U0MyVXdLckxRcnMxb245NTFqT21LNGNzOXBDb3p3bFhQS1NvUWgtTUo1NF8xWGtVdHV0VmtYWF9UWlhCM2R0cDR5NUhUTmNsUnhyVS1ReDF4YVR4Rmotdw?oc=5",
+      "medio": "El Periódico",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-01T08:29:23",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-11T17:02:13.154285"
     },
     {
       "id": "f33fbdb61ce25271",
