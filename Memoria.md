@@ -13,7 +13,11 @@
 - **Barça Atlètic:** solo fichajes / cesiones / ventas. **Sin renovaciones.**
 - **Primer equipo:** todo (fichajes, cesiones, VENTAS, renovaciones y sobre todo RUMORES/VÍNCULOS,
   ej. "Joao Félix vinculado al Barça" — es lo más importante para el usuario).
-- **Cron cada 10 min** (se probó 5 min pero Google News limitaba con 503; 10 min es el equilibrio).
+- **Disparo cada 10 min con cron-job.org** (el cron nativo de GitHub NO se dispara con fiabilidad
+  en el plan gratis). cron-job.org hace POST al endpoint
+  `api.github.com/repos/BarcelonaTotana/fichajes-barca/actions/workflows/actualizar.yml/dispatches`
+  con body `{"ref":"main"}` y un token fine-grained (Actions: write) en sus headers. Funcionando
+  desde 2026-07-11 19:27 UTC. El `schedule` del workflow se deja como backup (aunque casi no salta).
 - Implementación: `recolector._clasificar` (primer_equipo / barca_atletic / None=descartar),
   keys en `config/fuentes.py` (ATLETIC_KEYS, YOUTH_KEYS, PALABRAS_ALTA_BAJA). Los vínculos/rumores
   se añadieron a PALABRAS_FICHAJE (relevancia) y PALABRAS_MOVIMIENTO (control Telegram).
