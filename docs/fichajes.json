@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T20:31:06.036127Z",
-  "total": 118,
+  "actualizado": "2026-07-11T20:40:58.800008Z",
+  "total": 119,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -1478,6 +1478,19 @@
       "fecha": "2026-06-27T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.100377"
+    },
+    {
+      "id": "20b2d84db5e5791e",
+      "titulo": "No es amor, es obsesión: el enorme favor de Míchel al Barça en forma de fichaje",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR1hQX3pKNjc4VnVQTFM2LWNXY0lIakFFSFVQMDNfZWNyMjZQeGtLdHJZRl80Y0JIZWtxZzYzVmNZNWViQndPMG5NRnpGUGxCRk8wZVRKQUF6eWtSZmlzTUprYWpYR0Zfb2Vmc2Y3TXhEYjc1NU96VmJQTW1pVmNlVklBTUo1Mm9lREU2WXRlbWhjOWF5VkdLVV9NMW40cXJtcEdWdWdzR1l5c1VfRllKd0xCMW1tYV9MTWhhbWN3N0Q3Q2lCcGVPR2VqLXBwS1FZ0gHWAUFVX3lxTFBqVkVhWnhBUTNqWUR3VWFlZU9FVGEtdy14cFg2UVItbF8yR0hGNm51TTczcVNhVkJYQWViV0N6OEFIUWpuWXZkY1NQSzc4Ri1QMmUwNjZ5ZXN4WWFNVGJJVW5HcEhZU0FpQVRVWG1oXzBZMnBPTU0zNUkyM2lyNl9qOXExMy1MdVhMZ2ZoU09fbm4zbFhWTkVmcGhDTlppeE1xWnZReW9OYXlnNWNJT2VQMjh6RkZvQTU1dGExczFwYmo4aXpncUl2WE11dVpkek1HYzNaNWc?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-25T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-11T20:40:56.272996"
     },
     {
       "id": "45f3afb2d4372202",
