@@ -82,10 +82,19 @@ def _tier_periodista(texto):
     return min(tiers) if tiers else None
 
 
+def _es_femenino(texto):
+    """Detecta fútbol femenino por marcas o por nombres de jugadoras del Barça Femení."""
+    t = texto.lower()
+    return (any(m in t for m in F.MARCAS_FEMENINO) or
+            any(j in t for j in F.JUGADORAS_FEMENINO))
+
+
 def _es_relevante(texto):
-    """Verdadero si habla del Barça Y de un fichaje Y no está bloqueado."""
+    """Verdadero si habla del Barça Y de un fichaje Y no está bloqueado NI es femenino."""
     t = texto.lower()
     if any(b in t for b in F.PALABRAS_BLOQUEO):
+        return False
+    if _es_femenino(texto):
         return False
     if not any(b in t for b in F.PALABRAS_BARSA):
         return False
@@ -111,6 +120,24 @@ def _tiene_movimiento(titulo):
     """Señal real de movimiento/interés (palabra completa: 'ficha' sí, 'fichajes' no)."""
     t = titulo.lower()
     return any(re.search(r"\b" + re.escape(w) + r"\b", t) for w in F.PALABRAS_MOVIMIENTO)
+
+
+def apto_para_telegram(n):
+    """PUNTO DE CONTROL: analiza la noticia y decide si puede enviarse a Telegram.
+    Debe cumplir TODO: fuente fiable, PRIMER EQUIPO, movimiento real y no femenino.
+    (La deduplicación por 'alertadas'/'cerradas' se aplica aparte, en el bucle.)"""
+    if n["tier"] > TIER_ALERTA:            # solo fuentes fiables
+        return False
+    if n["categoria"] != "primer_equipo":  # solo primer equipo (nada de cantera)
+        return False
+    if not _tiene_movimiento(n["titulo"]):  # debe ser un movimiento de mercado, no análisis
+        return False
+    if _es_femenino(n["titulo"]):          # nada de fútbol femenino
+        return False
+    # Debe ser del CLUB, no de la ciudad de Barcelona (salvo fuente oficial, tier 0).
+    if n["tier"] != 0 and not any(c in n["titulo"].lower() for c in F.PALABRAS_CLUB):
+        return False
+    return True
 
 
 def _id_noticia(titulo):
@@ -263,9 +290,8 @@ def main():
         vistos.setdefault(n["id"], n)
 
     candidatas = [n for n in vistos.values()
-                  if n["tier"] <= TIER_ALERTA
-                  and _tiene_movimiento(n["titulo"])       # solo movimientos reales
-                  and n["id"] not in alertadas]            # nunca reenviar
+                  if apto_para_telegram(n)          # PUNTO DE CONTROL (primer equipo, fiable, etc.)
+                  and n["id"] not in alertadas]      # y que no se haya avisado ya
     # Oficiales/acuerdos primero (para que dentro del tope tengan prioridad).
     candidatas.sort(key=lambda n: 0 if n["estado"] in ESTADOS_CIERRE else 1)
 

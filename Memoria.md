@@ -97,8 +97,16 @@ Solo se avisa de **movimientos de mercado** de fuentes **fiables** (tier ≤ 2).
   Google News cambia el enlace en cada consulta. Registro persistente `alertadas` (ids ya avisados,
   en docs/fichajes.json) → una noticia se avisa como MÁXIMO una vez en la vida. `MAX_ALERTAS_POR_EJECUCION=10`
   como red de seguridad anti-ráfaga.
-- **Limitaciones conocidas:** el nombre del jugador no siempre se extrae bien; puede colarse
-  algún caso de fútbol femenino sin marca de género (p. ej. "Ainoa Gómez"). El % es estimación simple.
+- **PUNTO DE CONTROL** (`recolector.apto_para_telegram`): toda noticia pasa este filtro único
+  antes de enviarse. Debe cumplir TODO: fuente fiable (tier≤2), **PRIMER EQUIPO** (categoria),
+  movimiento real, **no femenino**, y ser del **club** (menciona "Barça/blaugrana…", no la
+  ciudad "Barcelona"; salvo tier 0 oficial). Si no encaja, se descarta.
+- **Femenino:** `_es_femenino` (marcas + lista de jugadoras del Femení en F.JUGADORAS_FEMENINO)
+  excluye femenino de web Y Telegram (proyecto masculino).
+- **Formato mensaje:** jugador / importe / estado / % / Fuente (SIN etiqueta de categoría,
+  porque en Telegram todo es primer equipo).
+- **Limitaciones conocidas:** el nombre del jugador no siempre se extrae bien (usa el titular);
+  el % es estimación simple. Ajustar F.JUGADORAS_FEMENINO si aparece alguna jugadora nueva.
 
 ### Nota técnica (SSL en local)
 El PC del usuario intercepta TLS (proxy) y Python local falla al validar certificados.

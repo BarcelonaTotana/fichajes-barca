@@ -147,7 +147,13 @@ PALABRAS_BLOQUEO = [
     # análisis / retrospectivas / partidos (no son movimientos de mercado)
     "1x1", "uno a uno", "cómo han rendido", "han rendido", "siguiendo el partido",
     "amistoso", "pretemporada", "resumen del partido",
+    # ruido de Barcelona-ciudad (tiempo, tráfico…)
+    "meteocat", "ola de calor", "lluvias", "temperaturas", "previsión del tiempo",
 ]
+
+# Señal de que la noticia es del CLUB (no de la ciudad de Barcelona). Para Telegram
+# se exige una de estas en el titular (salvo fuente oficial, tier 0, que ya es del club).
+PALABRAS_CLUB = ["barça", "barsa", "blaugrana", "azulgrana", "culé", "cule", "fc barcelona"]
 
 # ---------------------------------------------------------------------------
 # 9. MOVIMIENTO: para avisar por Telegram, el titular debe contener una señal
@@ -161,6 +167,23 @@ PALABRAS_MOVIMIENTO = [
     "se marcha", "adiós", "negocia", "quiere", "interesa", "gusta", "sigue a", "sondea",
     "puja", "va a por", "apuesta por", "en la agenda", "objetivo", "pretende", "ofrece",
     "cláusula", "clausula", "llega al", "cierra el fichaje", "cierra la",
+]
+
+# ---------------------------------------------------------------------------
+# 10. FÚTBOL FEMENINO: el proyecto es MASCULINO. Se descarta todo lo femenino,
+#     tanto en la web como en Telegram. Marcas + nombres de jugadoras del Barça
+#     Femení (para cazar las noticias que no dicen "femenino" explícitamente).
+# ---------------------------------------------------------------------------
+MARCAS_FEMENINO = ["femen", "femení", "women", "womens", "wsl", "liga f",
+                   "uwcl", "champions femenina", "barça femen"]
+
+JUGADORAS_FEMENINO = [
+    "aitana", "bonmatí", "bonmati", "alexia", "putellas", "paralluelo", "salma",
+    "guijarro", "patri guijarro", "mapi león", "mapi leon", "ona batlle", "cata coll",
+    "fridolina", "rolfö", "rolfo", "ewa pajor", "claudia pina", "vicky lópez",
+    "vicky lopez", "torrejón", "torrejon", "graham hansen", "kika nazareth",
+    "ainoa gómez", "ainoa gomez", "brugts", "engen", "schertenleib", "caroline graham",
+    "jana fernández", "alba caño", "clàudia pina",
 ]
 
 

@@ -33,13 +33,12 @@ def construir_mensaje(n):
     importe = A.extraer_importe(texto) or "—"
     estado = n["estado"]
     prob = A.probabilidad(estado, n["tier"])
-    cat = "🌱 Cantera" if n["categoria"] == "cantera" else "⭐ Primer equipo"
     return (
         f"⚽ <b>{_escapar(primera)}</b>\n"
         f"💰 {importe}\n"
         f"{A.ESTADO_EMOJI.get(estado, '💬')} {A.ESTADO_LEGIBLE.get(estado, estado)}\n"
         f"📊 {prob}%\n"
-        f"📰 Fuente: {_escapar(n['medio'])} · {cat}\n"
+        f"📰 Fuente: {_escapar(n['medio'])}\n"
         f'🔗 <a href="{n["enlace"]}">Ver noticia</a>'
     )
 
