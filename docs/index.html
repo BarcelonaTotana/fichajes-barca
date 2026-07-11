@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mercado de Fichajes · FC Barcelona</title>
+<style>
+  :root{
+    --blau:#004D98; --grana:#A50044; --oro:#EDBB00;
+    --bg:#f4f5f7; --card:#ffffff; --texto:#1a1d21; --suave:#606770; --linea:#e4e6eb;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#0f1216; --card:#1a1f26; --texto:#eef0f2; --suave:#9aa2ad; --linea:#2a323d; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+       background:var(--bg);color:var(--texto);line-height:1.45;-webkit-text-size-adjust:100%}
+  header{background:linear-gradient(120deg,var(--blau),var(--grana));color:#fff;padding:18px 16px 20px}
+  header .wrap{max-width:900px;margin:0 auto}
+  h1{margin:0;font-size:1.25rem;font-weight:800;letter-spacing:.2px}
+  .sub{opacity:.9;font-size:.82rem;margin-top:3px}
+  main{max-width:900px;margin:0 auto;padding:14px 12px 60px}
+
+  .filtros{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 14px;position:sticky;top:0;
+           background:var(--bg);padding:10px 0;z-index:5}
+  .grupo{display:flex;gap:6px;flex-wrap:wrap}
+  button.f{border:1px solid var(--linea);background:var(--card);color:var(--texto);
+           padding:7px 12px;border-radius:999px;font-size:.82rem;cursor:pointer;transition:.15s}
+  button.f.activo{background:var(--blau);color:#fff;border-color:var(--blau)}
+  button.f.activo.grana{background:var(--grana);border-color:var(--grana)}
+
+  .item{background:var(--card);border:1px solid var(--linea);border-radius:14px;
+        padding:12px 14px;margin-bottom:10px;border-left:5px solid var(--linea)}
+  .item.t0{border-left-color:var(--oro)}
+  .item.t1{border-left-color:#1a8f3c}
+  .item.t2{border-left-color:#5aa9e6}
+  .item .titulo{font-weight:700;font-size:.98rem}
+  .item .titulo a{color:inherit;text-decoration:none}
+  .item .titulo a:hover{text-decoration:underline}
+  .meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:8px;font-size:.74rem}
+  .badge{padding:3px 8px;border-radius:6px;font-weight:700;white-space:nowrap}
+  .b-tier0{background:var(--oro);color:#3a2e00}
+  .b-tier1{background:#1a8f3c;color:#fff}
+  .b-tier2{background:#dbeeff;color:#0b4a7a}
+  .b-tier3{background:var(--linea);color:var(--suave)}
+  .b-tier4{background:#f5d9a8;color:#6b4a00}
+  .b-tier5{background:#f6c9c9;color:#7a1414}
+  .b-cat{background:transparent;border:1px solid var(--linea);color:var(--suave)}
+  .b-estado{background:transparent;border:1px solid var(--linea);color:var(--suave)}
+  .medio{color:var(--suave)}
+  .fecha{color:var(--suave);margin-left:auto}
+  .vacio{text-align:center;color:var(--suave);padding:40px 10px}
+  footer{max-width:900px;margin:0 auto;padding:0 12px 40px;color:var(--suave);font-size:.72rem;text-align:center}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>🔵🔴 Mercado de Fichajes · FC Barcelona</h1>
+  <div class="sub" id="sub">Cargando…</div>
+</div></header>
+
+<main>
+  <div class="filtros">
+    <div class="grupo" id="fCat">
+      <button class="f activo" data-cat="todo">Todo</button>
+      <button class="f" data-cat="primer_equipo">⭐ Primer equipo</button>
+      <button class="f" data-cat="cantera">🌱 Cantera</button>
+    </div>
+    <div class="grupo" id="fTier">
+      <button class="f grana activo" data-tier="9">Todas las fuentes</button>
+      <button class="f grana" data-tier="2">Solo fiables</button>
+    </div>
+  </div>
+  <div id="lista"></div>
+</main>
+<footer>
+  Fuente ordenada por fiabilidad (tier). Datos vía Google News. Proyecto personal de aficionado, no oficial.
+</footer>
+
+<script>
+const ETIQ = {0:"OFICIAL",1:"Fiable",2:"Bastante fiable",3:"Verificar",4:"Poco fiable",5:"Ruido"};
+const ESTADO = {oficial:"✅ Oficial",here_we_go:"🤝 Acuerdo total",avanzado:"🔜 Avanzado",rumor:"💬 Rumor"};
+let DATOS=[], fCat="todo", fTier=9;
+
+function fecha(iso){
+  try{const d=new Date(iso.replace('Z',''));
+    return d.toLocaleDateString('es-ES',{day:'2-digit',month:'short'})+' '+
+           d.toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'});
+  }catch(e){return ''}
+}
+function pinta(){
+  const cont=document.getElementById('lista');
+  let f=DATOS.filter(n=> (fCat==="todo"||n.categoria===fCat) && n.tier<=fTier);
+  if(!f.length){cont.innerHTML='<div class="vacio">Sin noticias con estos filtros.</div>';return;}
+  cont.innerHTML=f.map(n=>`
+    <div class="item t${n.tier<=2?n.tier:''}">
+      <div class="titulo"><a href="${n.enlace}" target="_blank" rel="noopener">${n.titulo}</a></div>
+      <div class="meta">
+        <span class="badge b-tier${n.tier}">${ETIQ[n.tier]}</span>
+        <span class="badge b-cat">${n.categoria==='cantera'?'🌱 Cantera':'⭐ Primer equipo'}</span>
+        <span class="badge b-estado">${ESTADO[n.estado]||n.estado}</span>
+        <span class="medio">${n.medio||''}</span>
+        <span class="fecha">${fecha(n.fecha)}</span>
+      </div>
+    </div>`).join('');
+}
+function activar(grupo,attr,val){
+  document.querySelectorAll(`#${grupo} button`).forEach(b=>
+    b.classList.toggle('activo', b.dataset[attr]==String(val)));
+}
+document.getElementById('fCat').onclick=e=>{if(e.target.dataset.cat){fCat=e.target.dataset.cat;activar('fCat','cat',fCat);pinta();}};
+document.getElementById('fTier').onclick=e=>{if(e.target.dataset.tier){fTier=+e.target.dataset.tier;activar('fTier','tier',fTier);pinta();}};
+
+fetch('fichajes.json?_='+Date.now()).then(r=>r.json()).then(d=>{
+  DATOS=d.noticias||[];
+  const act=d.actualizado?fecha(d.actualizado):'—';
+  document.getElementById('sub').textContent=`${DATOS.length} noticias · Actualizado ${act}`;
+  pinta();
+}).catch(e=>{document.getElementById('sub').textContent='Aún no hay datos.';});
+</script>
+</body>
+</html>
