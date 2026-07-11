@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T22:01:11.454845Z",
-  "total": 121,
+  "actualizado": "2026-07-11T22:11:03.590983Z",
+  "total": 122,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -1036,6 +1036,19 @@
       "fecha": "2026-07-08T11:23:08",
       "fuente_feed": "Cadena SER",
       "visto_por_primera_vez": "2026-07-11T20:23:58.932200"
+    },
+    {
+      "id": "973bfaae2b51a3b4",
+      "titulo": "El Barça, muy cerca de atar el fichaje de Joao Cancelo",
+      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ29mWXNodDh5LV96RDBJal9TZnQyTEs5bTVEUWg0ZjZQZDhrTF95QVRzLVN6bHpyR0NvUC1GcERKbklqQ0ZxdU9iZ2JiTmhTZXcwcm9lVmYtSU05TEpsSWx5X3dEY1VJWkhGWGExbXBabXdZWUZHc0JnRnZaWGxJbWNxTWnSAYQBQVVfeXFMTmJ6ckN0TWR1LTlnbndjQXh6bnJ1TUJ4dFBmQWRqb2Z0VlpULWp0c0JxMGdEaG9MUkQ2Ujl0VkcyNWQzVnEwNHNCVF9yMWhlVEdLTk1wSmNVbUZFclM3bDRDaHNPakVhTmpjcVRLdmNNSDJ0RmswSU8yQlM1amt1UkFsRm52?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-08T06:43:00",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-11T22:10:53.704164"
     },
     {
       "id": "55eef78b05e4894d",
