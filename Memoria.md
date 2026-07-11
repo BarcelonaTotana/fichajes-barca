@@ -63,6 +63,19 @@ Herramientas manuales añadidas (workflows con "Run workflow" en la pestaña Act
    (o Settings → Secrets and variables → Actions en la web).
 4. A partir de ahí, cada ejecución enviará alertas push de fuentes tier 0-1.
 
+### Clasificador v2 (mejorado el 2026-07-11)
+Tras revisar el usuario, se reconstruyó el clasificador (`recolector.py` + `config/fuentes.py`):
+- **Relevancia (anti-ruido):** una noticia se guarda solo si menciona al Barça Y a un fichaje Y
+  no contiene palabras de bloqueo (merch/camiseta, circuito, ajuntament, CEO, otros deportes…).
+- **Fiabilidad real:** búsquedas por medio con `site:DOMINIO` (SPORT, MD, ARA, SER, RAC1, oficial)
+  → tier garantizado. ⚠️ GOTCHA: la consulta `site:` debe ser SIMPLE (`Barça site:X`); si se le
+  añade el gran grupo `(fichaje OR traspaso OR …)`, Google News IGNORA el `site:` y devuelve
+  resultados generales. Relevo, The Athletic y ccma.cat dan 0 en Google News ES (no se usan).
+- **Rescate por periodista:** si el texto cita a Romano/Moretto/Ornstein/Monfort… se sube el tier.
+- **Cantera por contenido:** solo si hay palabra de cantera de peso (Masia, filial, juvenil, Barça Atlètic…).
+- **Salvaguarda anti-ráfaga:** si la BD está vacía (reinicio), NO se envían alertas (arranque en frío).
+- Resultado: "Verificar" 182→70; medios fiables (tier 2) 1→~72; ruido eliminado.
+
 ### Nota técnica (SSL en local)
 El PC del usuario intercepta TLS (proxy) y Python local falla al validar certificados.
 Para pruebas LOCALES: `SSL_NO_VERIFY=1 python recolector.py`. En GitHub Actions NO hace falta.

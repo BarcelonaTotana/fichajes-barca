@@ -2,162 +2,152 @@
 """
 Configuración de fuentes del monitor de fichajes del FC Barcelona.
 
-Estrategia 100% gratuita:
-- Usamos Google News RSS con búsquedas (agrega TODOS los medios, formato estable).
-- Añadimos algún RSS directo de medios clave.
-- Cada noticia se PONDERA por el "tier" (fiabilidad) del medio del que procede.
+Estrategia 100% gratuita, con clasificación mejorada:
+- BÚSQUEDAS POR MEDIO FIABLE (site:relevo.com, sport.es…): sabemos con certeza
+  de qué medio viene cada noticia -> tier real, no "Verificar".
+- BÚSQUEDAS GENERALES (Google News): capturan todo lo demás; el tier se decide por
+  el medio y, sobre todo, por el PERIODISTA citado en el texto.
+- FILTRO DE RELEVANCIA: descarta lo que no es un fichaje del Barça (ruido).
+- CANTERA por contenido: solo si hay una palabra de cantera de peso.
 
-La clasificación de tiers se basa en la guía comunitaria de fiabilidad de medios
-del Barça (ver Memoria.md, sección 4.1). Es una heurística: el panel muestra el
-tier de cada noticia para que el usuario juzgue.
+Ver Memoria.md, sección 4, para el contexto de la fiabilidad de cada fuente.
 """
+from urllib.parse import quote
 
-# ---------------------------------------------------------------------------
-# 1. BÚSQUEDAS EN GOOGLE NEWS (RSS). hl=idioma, gl=país, ceid=edición.
-#    Devuelven noticias de muchísimos medios en formato RSS estándar.
-# ---------------------------------------------------------------------------
+
 def _google_news(consulta):
-    from urllib.parse import quote
     return f"https://news.google.com/rss/search?q={quote(consulta)}&hl=es&gl=ES&ceid=ES:es"
 
 
-BUSQUEDAS_GOOGLE_NEWS = [
-    # categoria "primer_equipo" o "cantera" para clasificar de origen
-    ("Barça fichaje primer equipo", "primer_equipo",
-     _google_news('(Barça OR Barcelona) (fichaje OR fichajes OR traspaso OR cesión OR '
-                  'renovación OR acuerdo OR oferta OR firma) -femenino -baloncesto when:7d')),
+# Núcleo de la consulta: términos de fichaje. Se reutiliza en todas las búsquedas.
+_FICHAJE = ('(fichaje OR fichajes OR traspaso OR cesión OR cedido OR renovación OR '
+            'renueva OR acuerdo OR oferta OR firma OR fichar OR vende OR venta OR '
+            'salida OR negocia OR refuerzo OR cláusula OR presentación OR oficial)')
 
-    ("Barça salidas y renovaciones", "primer_equipo",
-     _google_news('(Barça OR "FC Barcelona") (renueva OR vende OR negocia OR "aquí vamos" OR '
-                  '"here we go" OR oficial) -femenino -baloncesto when:7d')),
+# ---------------------------------------------------------------------------
+# 1. BÚSQUEDAS POR MEDIO FIABLE (tier y medio GARANTIZADOS).
+#    Formato: (medio, tier, categoria_hint, url)
+# ---------------------------------------------------------------------------
+def _feed_medio(medio, tier, dominio):
+    # OJO: la consulta debe ser SIMPLE. Si se le añade el gran grupo de sinónimos
+    # de fichaje, Google News IGNORA el operador site: y devuelve resultados generales.
+    # Por eso aquí solo pedimos "Barça site:DOMINIO"; el filtro de relevancia
+    # (_es_relevante) ya se encarga de quedarse solo con lo que es fichaje.
+    url = _google_news(f'(Barça OR Barcelona) site:{dominio} when:30d')
+    return (medio, tier, "auto", url)
 
-    ("Barça cantera / La Masia fichajes", "cantera",
-     _google_news('(Barça OR Barcelona) (Masia OR canterano OR juvenil OR "Barça Atlètic" OR '
-                  'filial OR cadete OR infantil) (fichaje OR ficha OR promesa) '
-                  '-femenino -baloncesto when:14d')),
+
+# Solo medios que Google News (edición ES) indexa de verdad. Relevo, The Athletic
+# y ccma.cat devuelven 0 resultados, así que no se incluyen (no aportan nada).
+BUSQUEDAS_POR_MEDIO = [
+    _feed_medio("RAC1", 1, "rac1.cat"),
+    _feed_medio("SPORT", 2, "sport.es"),
+    _feed_medio("Mundo Deportivo", 2, "mundodeportivo.com"),
+    _feed_medio("Diari ARA", 2, "ara.cat"),
+    _feed_medio("Cadena SER", 2, "cadenaser.com"),
+    _feed_medio("FC Barcelona (oficial)", 0, "fcbarcelona.com"),
 ]
 
 # ---------------------------------------------------------------------------
-# 2. RSS DIRECTOS de medios clave (se validan al ejecutar; si uno falla, se ignora).
-#    Google News ya agrega SPORT, MD, etc., así que de momento no hacen falta.
-#    Si encontramos un feed oficial estable del club, lo añadimos aquí.
+# 2. BÚSQUEDAS GENERALES (tier por medio + periodista).
+#    Formato: (nombre, tier_forzado=None, categoria_hint, url)
 # ---------------------------------------------------------------------------
-RSS_DIRECTOS = []
+BUSQUEDAS_GENERALES = [
+    ("General primer equipo", None, "auto",
+     _google_news(f'(Barça OR "FC Barcelona") {_FICHAJE} -femenino -baloncesto when:10d')),
+
+    ("Cantera / La Masia", None, "auto",
+     _google_news('(Barça OR Barcelona) (Masia OR canterano OR "Barça Atlètic" OR filial OR '
+                  'juvenil OR cadete) ' + _FICHAJE + ' -femenino -baloncesto when:21d')),
+]
 
 # ---------------------------------------------------------------------------
-# 3. TIER (fiabilidad) por dominio del medio.
-#    0 = oficial (máxima) · 1 = fiable · 2 = bastante fiable · 3 = verificar ·
-#    4 = poco fiable · 5 = ruido/clickbait. Desconocido -> 3 por defecto.
+# 3. TIER por dominio (para RSS directos, si algún día se usan).
 # ---------------------------------------------------------------------------
 TIER_POR_DOMINIO = {
-    "fcbarcelona.com": 0,
-    "fcbarcelona.cat": 0,
-
-    "relevo.com": 1,          # Matteo Moretto
-    "theathletic.com": 1,     # David Ornstein
-    "nytimes.com": 1,
-    "rac1.cat": 1,            # Marta Ramon
-    "rac1.com": 1,
-    "ccma.cat": 1,            # Catalunya Ràdio / Xavi Campos
-
-    "sport.es": 2,           # Carlos Monfort (Tier1) en medio grande -> 2
-    "mundodeportivo.com": 2, # Fernando Polo (Tier1) en medio grande -> 2
-    "ara.cat": 2,
-    "cadenaser.com": 2,
-    "tv3.cat": 2,
-
-    "elnacional.cat": 3,
-    "jijantes.com": 3,       # Gerard Romero: mucho volumen, baja precisión
-    "gazzetta.it": 3,
-    "goal.com": 3,
-
+    "fcbarcelona.com": 0, "fcbarcelona.cat": 0,
+    "relevo.com": 1, "theathletic.com": 1, "rac1.cat": 1, "ccma.cat": 1,
+    "sport.es": 2, "mundodeportivo.com": 2, "ara.cat": 2, "cadenaser.com": 2,
+    "elnacional.cat": 3, "goal.com": 3,
     "marca.com": 4,
-    "lasexta.com": 4,
-    "beinsports.com": 4,
-
-    "as.com": 5,
-    "bild.de": 5,
-    "thesun.co.uk": 5,
-    "dailymail.co.uk": 5,
-    "elchiringuitotv.com": 5,
-    "donbalon.com": 5,
+    "as.com": 5, "bild.de": 5, "thesun.co.uk": 5, "dailymail.co.uk": 5,
 }
 TIER_POR_DEFECTO = 3
 
-# Tier por NOMBRE de medio (como aparece en Google News, p. ej. "SPORT",
-# "Mundo Deportivo", "Fichajes.com"). Se comprueba en orden: el primero que
-# encaje como subcadena del nombre del medio gana. Pon los nombres más
-# específicos ANTES que los genéricos (p. ej. "sports illustrated" antes que "sport").
+# ---------------------------------------------------------------------------
+# 4. TIER por NOMBRE de medio (como aparece en Google News). Palabra completa.
+# ---------------------------------------------------------------------------
 TIER_POR_NOMBRE = [
     ("fc barcelona", 0),
-    ("barça oficial", 0),
-
-    ("relevo", 1),
-    ("the athletic", 1),
-    ("rac1", 1),
-    ("catalunya ràdio", 1),
-    ("catalunya radio", 1),
-    ("catradio", 1),
-
+    ("relevo", 1), ("the athletic", 1), ("rac1", 1), ("catalunya ràdio", 1), ("catradio", 1),
     ("sports illustrated", 3),
-    ("sport.es", 2),
-    ("sport", 2),
-    ("mundo deportivo", 2),
-    ("cadena ser", 2),
-    ("ara", 2),
+    ("sport.es", 2), ("sport", 2), ("mundo deportivo", 2), ("cadena ser", 2), ("diari ara", 2),
+    ("el nacional", 3), ("crónica global", 3), ("cronica global", 3), ("goal", 3),
+    ("onefootball", 3), ("besoccer", 3), ("segre", 3), ("infobae", 3), ("tudn", 3),
+    ("marca", 4), ("tribuna", 4), ("la sexta", 4), ("bein", 4),
+    ("diario as", 5), ("fichajes", 5), ("don balón", 5), ("don balon", 5),
+    ("el chiringuito", 5), ("chiringuito", 5), ("bild", 5), ("the sun", 5), ("daily mail", 5),
+]
 
-    ("el nacional", 3),
-    ("crónica global", 3),
-    ("cronica global", 3),
-    ("goal", 3),
-    ("onefootball", 3),
-    ("besoccer", 3),
-    ("segre", 3),
-
-    ("marca", 4),
-    ("tribuna", 4),
-    ("la sexta", 4),
-
-    ("diario as", 5),
-    ("fichajes", 5),     # fichajes.com / .net -> clickbait
-    ("don balón", 5),
-    ("don balon", 5),
-    ("el chiringuito", 5),
-    ("bild", 5),
-    ("the sun", 5),
-    ("daily mail", 5),
+# ---------------------------------------------------------------------------
+# 5. PERIODISTAS: si el texto cita a uno, se usa su tier (el mejor, nº más bajo).
+#    Esto rescata scoops fiables aunque los publique un medio menor.
+# ---------------------------------------------------------------------------
+PERIODISTAS_TIER = [
+    ("fabrizio romano", 1), ("matteo moretto", 1), ("moretto", 1),
+    ("david ornstein", 1), ("ornstein", 1), ("carlos monfort", 1), ("monfort", 1),
+    ("fernando polo", 1), ("marta ramon", 1), ("xavi campos", 1),
+    ("gerard romero", 3), ("di marzio", 3),
+    ("guillem balagué", 4), ("balague", 4),
+    ("pedrerol", 5), ("nicolò schira", 5), ("schira", 5),
 ]
 
 # Etiqueta legible por tier
-ETIQUETA_TIER = {
-    0: "OFICIAL",
-    1: "Fiable",
-    2: "Bastante fiable",
-    3: "Verificar",
-    4: "Poco fiable",
-    5: "Ruido / clickbait",
-}
+ETIQUETA_TIER = {0: "OFICIAL", 1: "Fiable", 2: "Bastante fiable",
+                 3: "Verificar", 4: "Poco fiable", 5: "Ruido / clickbait"}
 
 # ---------------------------------------------------------------------------
-# 4. ESTADO del fichaje según palabras clave (de menor a mayor certeza).
+# 6. ESTADO del fichaje según palabras clave (de mayor a menor certeza).
 # ---------------------------------------------------------------------------
 PALABRAS_ESTADO = [
-    ("oficial",   ["oficial", "hecho oficial", "confirma el fichaje", "presentación"]),
-    ("here_we_go", ["here we go", "aquí vamos", "acuerdo total", "acuerdo cerrado", "todo cerrado"]),
-    ("avanzado",  ["acuerdo", "principio de acuerdo", "negociación avanzada", "cerca de", "reunión"]),
-    ("rumor",     ["interés", "sondeo", "gusta", "podría", "suena", "en la agenda", "objetivo"]),
+    ("oficial",    ["oficial", "hecho oficial", "confirma el fichaje", "presentación", "presenta a"]),
+    ("here_we_go", ["here we go", "aquí vamos", "acuerdo total", "acuerdo cerrado", "todo cerrado", "acuerdo definitivo"]),
+    ("avanzado",   ["acuerdo", "principio de acuerdo", "negociación avanzada", "cerca de", "reunión", "pacto"]),
+    ("rumor",      ["interés", "sondeo", "gusta", "podría", "suena", "en la agenda", "objetivo", "seguimiento"]),
 ]
 ESTADO_POR_DEFECTO = "rumor"
 
-# Palabras que indican categoría inferior (si aparecen, es cantera).
-PALABRAS_CANTERA = [
-    "masia", "masía", "canterano", "cantera", "juvenil", "filial", "barça atlètic",
-    "barca atletic", "atlètic", "cadete", "infantil", "alevín", "sub-19", "sub19",
-    "sub-17", "juvenil a", "juvenil b", "promesa",
+# ---------------------------------------------------------------------------
+# 7. RELEVANCIA: una noticia se queda solo si (habla del Barça) Y (es de fichajes)
+#    Y (no contiene ninguna palabra de bloqueo).
+# ---------------------------------------------------------------------------
+PALABRAS_BARSA = ["barça", "barsa", "barcelona", "culé", "cule", "blaugrana",
+                  "azulgrana", "la masia", "masia", "masía", "barça atlètic"]
+
+PALABRAS_FICHAJE = ["fichaje", "fichajes", "ficha ", "fichar", "fichado", "traspaso",
+                    "cesión", "cesion", "cedido", "cede ", "préstamo", "prestamo",
+                    "renueva", "renovación", "renovacion", "acuerdo", "oferta", "firma",
+                    "firmar", "vende", "venta ", "salida", "negocia", "negociación",
+                    "refuerzo", "contrato", "cláusula", "clausula", "presentación",
+                    "presenta a", "llega al", "aterriza", "desembolsa"]
+
+# Si aparece alguna de estas, se descarta (otras secciones / no fútbol / otros clubes).
+PALABRAS_BLOQUEO = [
+    "femenino", "femení", "baloncesto", "basket", "bàsquet", "balonmano", "hockey",
+    "futsal", "fútbol sala", "waterpolo", "rugby", "nba", "tenis",
+    "circuit", "circuito", "ajuntament", "ayuntamiento", "fórmula 1", "formula 1",
+    "motogp", "moto gp", "como ceo", "nuevo ceo", "elecciones", "eurolliga", "euroliga",
+    "presupuesto municipal",
+    # merchandising de la tienda oficial (se colaba como tier 0)
+    "camiseta", "official store", "megastore", "sudadera", "bufanda", "firmada por",
+    "summer camp", "summer cump",
 ]
 
-# Filtro de ruido: descartar si aparece alguna de estas (otras secciones).
-PALABRAS_DESCARTE = [
-    "femenino", "femení", "baloncesto", "basket", "bàsquet", "balonmano",
-    "hockey", "futsal", "fútbol sala",
+# ---------------------------------------------------------------------------
+# 8. CANTERA: solo si aparece una palabra de cantera DE PESO (no de pasada).
+# ---------------------------------------------------------------------------
+PALABRAS_CANTERA = [
+    "masia", "masía", "la masia", "barça atlètic", "barça b", "filial",
+    "juvenil", "cadete", "infantil", "alevín", "alevin", "canterano", "cantera",
+    "sub-19", "sub19", "sub-17", "sub17", "sub-16", "sub-14", "juvenil a", "juvenil b",
 ]

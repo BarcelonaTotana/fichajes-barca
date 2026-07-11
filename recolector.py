@@ -2,14 +2,15 @@
 """
 Recolector de fichajes del FC Barcelona (fútbol masculino).
 
-Lee las fuentes RSS (Google News + medios directos), filtra lo relacionado con
-fichajes del Barça, clasifica cada noticia (tier de fiabilidad, categoría,
-estado del fichaje), deduplica y guarda todo en data/fichajes.json.
+Flujo:
+1. Descarga RSS de: búsquedas por medio fiable (tier garantizado) + búsquedas generales.
+2. FILTRA por relevancia: solo fichajes reales del Barça (descarta ruido).
+3. CLASIFICA cada noticia: fiabilidad (tier del medio, mejorado por el periodista citado),
+   categoría (cantera por contenido) y estado del fichaje.
+4. Deduplica y guarda docs/fichajes.json.
+5. Envía alertas a Telegram de las noticias NUEVAS de fuentes fiables (tier 0 ó 1).
 
-Si hay noticias NUEVAS de fuentes fiables (tier 0 ó 1) y hay credenciales de
-Telegram, envía una alerta al móvil.
-
-Uso:  python recolector.py
+Uso:  python recolector.py   (en local: SSL_NO_VERIFY=1 python recolector.py)
 """
 import os
 import re
@@ -28,28 +29,23 @@ import telegram_alertas
 
 # El JSON vive dentro de docs/ para que GitHub Pages lo sirva junto al panel.
 RUTA_DATOS = os.path.join("docs", "fichajes.json")
-MAX_NOTICIAS = 400          # límite para no crecer sin fin
-ANTIGUEDAD_DIAS = 30        # descarta noticias más viejas de N días
+MAX_NOTICIAS = 400
+ANTIGUEDAD_DIAS = 30
 
-# En GitHub Actions los certificados funcionan (verify=True, lo normal).
-# Solo en local, si tu Python no tiene los certificados bien, exporta
-# SSL_NO_VERIFY=1 para saltar la verificación (NO usar en producción).
 VERIFICAR_SSL = os.environ.get("SSL_NO_VERIFY", "").strip() != "1"
 if not VERIFICAR_SSL:
     urllib3.disable_warnings()
-
 CABECERAS = {"User-Agent": "Mozilla/5.0 (compatible; MonitorFichajesBarca/1.0)"}
 
 
 def _descargar(url):
-    """Descarga el XML del feed con User-Agent de navegador y lo devuelve en bytes."""
     r = requests.get(url, headers=CABECERAS, timeout=25, verify=VERIFICAR_SSL)
     r.raise_for_status()
     return r.content
 
 
 # ---------------------------------------------------------------------------
-# Utilidades de clasificación
+# Clasificación
 # ---------------------------------------------------------------------------
 def _dominio(url):
     try:
@@ -59,17 +55,34 @@ def _dominio(url):
         return ""
 
 
-def _tier(dominio, medio):
-    """Tier por dominio (RSS directo) o por nombre de medio (Google News)."""
+def _tier_medio(dominio, medio):
+    """Tier según el dominio o el nombre del medio (palabra completa)."""
     if dominio and dominio in F.TIER_POR_DOMINIO:
         return F.TIER_POR_DOMINIO[dominio]
     nombre = (medio or "").lower()
     for clave, tier in F.TIER_POR_NOMBRE:
-        # Coincidencia por palabra completa: "sport" casa con el diario "SPORT"
-        # pero NO con "beIN Sports" ni "Motorcycle Sports".
         if re.search(r"\b" + re.escape(clave) + r"\b", nombre):
             return tier
     return F.TIER_POR_DEFECTO
+
+
+def _tier_periodista(texto):
+    """Mejor tier (nº más bajo) de los periodistas citados en el texto, o None."""
+    t = texto.lower()
+    tiers = [tier for nombre, tier in F.PERIODISTAS_TIER if nombre in t]
+    return min(tiers) if tiers else None
+
+
+def _es_relevante(texto):
+    """Verdadero si habla del Barça Y de un fichaje Y no está bloqueado."""
+    t = texto.lower()
+    if any(b in t for b in F.PALABRAS_BLOQUEO):
+        return False
+    if not any(b in t for b in F.PALABRAS_BARSA):
+        return False
+    if not any(f in t for f in F.PALABRAS_FICHAJE):
+        return False
+    return True
 
 
 def _estado(texto):
@@ -80,16 +93,9 @@ def _estado(texto):
     return F.ESTADO_POR_DEFECTO
 
 
-def _es_cantera(texto, categoria_origen):
-    if categoria_origen == "cantera":
-        return True
+def _es_cantera(texto):
     t = texto.lower()
-    return any(p in t for p in F.PALABRAS_CANTERA)
-
-
-def _es_descartable(texto):
-    t = texto.lower()
-    return any(p in t for p in F.PALABRAS_DESCARTE)
+    return any(re.search(r"\b" + re.escape(p) + r"\b", t) for p in F.PALABRAS_CANTERA)
 
 
 def _id_noticia(enlace, titulo):
@@ -98,10 +104,10 @@ def _id_noticia(enlace, titulo):
 
 
 def _limpia_titulo(titulo):
-    # Google News añade " - Medio" al final del título. Lo separamos.
+    # Google News añade " - Medio" al final del título.
     if " - " in titulo:
-        partes = titulo.rsplit(" - ", 1)
-        return partes[0].strip(), partes[1].strip()
+        cuerpo, medio = titulo.rsplit(" - ", 1)
+        return cuerpo.strip(), medio.strip()
     return titulo.strip(), ""
 
 
@@ -116,17 +122,14 @@ def _fecha_iso(entrada):
 # ---------------------------------------------------------------------------
 # Recolección
 # ---------------------------------------------------------------------------
-def recolectar_feed(nombre, categoria_origen, url):
+def recolectar_feed(nombre, tier_forzado, url):
+    """tier_forzado=int -> todas las noticias son de ese medio/tier (búsqueda por medio).
+       tier_forzado=None -> se deduce el medio y el tier de cada noticia."""
     noticias = []
     try:
-        contenido = _descargar(url)
-        feed = feedparser.parse(contenido)
+        feed = feedparser.parse(_descargar(url))
     except Exception as e:
         print(f"  [ERROR] {nombre}: {repr(e)[:150]}")
-        return noticias
-
-    if getattr(feed, "bozo", 0) and not feed.entries:
-        print(f"  [aviso] {nombre}: feed vacío o no válido")
         return noticias
 
     for entrada in feed.entries:
@@ -137,29 +140,36 @@ def recolectar_feed(nombre, categoria_origen, url):
         resumen = re.sub("<[^>]+>", " ", entrada.get("summary", ""))
         texto = titulo_bruto + " " + resumen
 
-        if _es_descartable(texto):
+        if not _es_relevante(texto):
             continue
 
         titulo, medio_en_titulo = _limpia_titulo(titulo_bruto)
-        dominio = _dominio(enlace)
-        # En Google News el enlace es news.google.com; el medio real va en el título.
-        fuente_medio = medio_en_titulo or dominio or nombre
-        tier = _tier(dominio, fuente_medio)
+
+        if tier_forzado is not None:
+            medio = nombre
+            tier = tier_forzado
+        else:
+            medio = medio_en_titulo or _dominio(enlace) or nombre
+            tier = _tier_medio(_dominio(enlace), medio)
+            # Rescate por periodista: si citan a alguien más fiable, mejora el tier.
+            tp = _tier_periodista(texto)
+            if tp is not None:
+                tier = min(tier, tp)
 
         noticias.append({
             "id": _id_noticia(enlace, titulo),
             "titulo": titulo,
             "enlace": enlace,
-            "medio": fuente_medio,
+            "medio": medio,
             "tier": tier,
             "tier_etiqueta": F.ETIQUETA_TIER.get(tier, "?"),
-            "categoria": "cantera" if _es_cantera(texto, categoria_origen) else "primer_equipo",
+            "categoria": "cantera" if _es_cantera(texto) else "primer_equipo",
             "estado": _estado(texto),
             "fecha": _fecha_iso(entrada),
             "fuente_feed": nombre,
             "visto_por_primera_vez": dt.datetime.utcnow().isoformat(),
         })
-    print(f"  {nombre}: {len(noticias)} noticias")
+    print(f"  {nombre}: {len(noticias)} relevantes")
     return noticias
 
 
@@ -187,14 +197,16 @@ def guardar(noticias):
 def main():
     print("== Recolector de fichajes FC Barcelona ==")
     existentes = {n["id"]: n for n in cargar_existentes()}
+    arranque_en_frio = len(existentes) == 0   # tras un reinicio, no alertar (evita ráfaga)
     print(f"Noticias previas en base de datos: {len(existentes)}")
 
     recolectadas = []
-    for nombre, categoria, url in F.BUSQUEDAS_GOOGLE_NEWS:
-        recolectadas += recolectar_feed(nombre, categoria, url)
+    # Primero los medios fiables (así ganan en la deduplicación).
+    for medio, tier, _cat, url in F.BUSQUEDAS_POR_MEDIO:
+        recolectadas += recolectar_feed(medio, tier, url)
         time.sleep(1)
-    for nombre, categoria, url in F.RSS_DIRECTOS:
-        recolectadas += recolectar_feed(nombre, categoria, url)
+    for nombre, tier_forzado, _cat, url in F.BUSQUEDAS_GENERALES:
+        recolectadas += recolectar_feed(nombre, tier_forzado, url)
         time.sleep(1)
 
     nuevas = []
@@ -203,7 +215,6 @@ def main():
             existentes[n["id"]] = n
             nuevas.append(n)
 
-    # Ordena por fecha (más reciente primero) y recorta antigüedad/tamaño.
     limite = dt.datetime.utcnow() - dt.timedelta(days=ANTIGUEDAD_DIAS)
     todas = []
     for n in existentes.values():
@@ -219,9 +230,10 @@ def main():
     guardar(todas)
     print(f"\nNoticias nuevas: {len(nuevas)} · Total guardadas: {len(todas)}")
 
-    # Alertas: solo noticias NUEVAS de fuentes fiables (tier 0 ó 1).
     alertar = [n for n in nuevas if n["tier"] <= 1]
-    if alertar:
+    if arranque_en_frio:
+        print(f"Arranque en frío: se omiten {len(alertar)} alertas (evita ráfaga).")
+    elif alertar:
         telegram_alertas.enviar_alertas(alertar)
 
 
