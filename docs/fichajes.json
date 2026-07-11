@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-07-11T12:24:58.055587Z",
-  "total": 207,
+  "actualizado": "2026-07-11T12:39:46.305239Z",
+  "total": 209,
   "noticias": [
+    {
+      "id": "24a29fceac4e766b",
+      "titulo": "El Barcelona pagará 22 millones más 7 en variables por Adeyemi",
+      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVW1oLW8wTFhrc2RRZDBqeDA5Y1hUM0dsTzJXX2E5TjFrYzhyYzlWUzNZZkxNQWlPVWcyaWRYWnN2TG5BQnQ1STJIMGFtaWpXY244QktyRC0wLTZwdGxnc1ZsN1ZIU0N3S3NPaUJqamRNX1pxeVRxTkFMbHFJSW00TUkweVRPNUXSAYcBQVVfeXFMT0VMYVRwdUdTcUh3SG13ejNXRXhHUlFNS3d6ZjdiNEF0VFo3Y1BvM2NTOFZKMjVQaEs2NzNIVGlsMkd5T2R1X1B6d0dQek1UeUJpOWthSHIzcDRWeTd6b0NydnVLTTltV1ZlOVlnTUNSUjRMRDM1eWtNYW5vNldIUzVNQUtDSnQ4?oc=5",
+      "medio": "MARCA",
+      "tier": 4,
+      "tier_etiqueta": "Poco fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-11T12:13:51",
+      "fuente_feed": "Barça fichaje primer equipo",
+      "visto_por_primera_vez": "2026-07-11T12:39:42.425929"
+    },
     {
       "id": "16156a80115480db",
       "titulo": "¿Porque Karim Adeyemi viene del BVB? Al parecer, el FC Barcelona traspasa a jugadores de la selección nacional",
@@ -1210,6 +1223,19 @@
       "fecha": "2026-07-09T15:24:22",
       "fuente_feed": "Barça fichaje primer equipo",
       "visto_por_primera_vez": "2026-07-11T11:46:20.322027"
+    },
+    {
+      "id": "18f66d8df1b565d9",
+      "titulo": "El Barça solicita un crédito de 210 millones para acometer tres fichajes",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1Nla3dzdWMyYWdCTmF2SUJ3a1RDMFRuN2dZTnhfSlZOUmdDRFR4V0cxNDhxc2dpM29qV1VnVE1pQWJBazVhazJqc3pQNDhYWnRuYUlhb2Y3UGdDQlRxb2hVU3MzVEZHMG1zRUFvQlc0b1FKRlRVVkhLNVJIUjRiUGtBTW8xZ2hDa3pCRXpqZ18xU0kyTDByLWlDUlhlNlgtV21TdWlGWlBVRU0xTlVjV18zbkZ4a1R6YWRpd2UzQUMxaXpRSmt0eVdfUFdCQzhmRUVscnI1cHN5R201OUHSAeMBQVVfeXFMTWpvOHBDV19NZ1VoVlVOeXR1Vi1mYzU5c3dCMXo3WWVLd25VeFNDSXZNNU1aX2lwVXd1SlZqbmVPdkNjYnVRTmRXZmZGalpFSVNieGZLVk5VTEZvYThsbmNZUGhFNUJBRE9aV3VfOGtxZWFMcnVadlFlbm1VWGlQdEc2Z2ZlWXY1X2NnekRRcVNld2VDUGZTNFRKaGxaZTBJTXF6U0JNdnJ2czBlVUpDVnZTZXhvcnFmbVN5YlJvazFvWWk2TFVZS0lQRDE2NXJqYTh2ZFVielpKN0JDU1Y3eFJ4cEk?oc=5",
+      "medio": "MUNDIARIO",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-09T15:24:22",
+      "fuente_feed": "Barça fichaje primer equipo",
+      "visto_por_primera_vez": "2026-07-11T12:39:42.419763"
     },
     {
       "id": "dc72d9b939b996cd",
