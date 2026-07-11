@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T23:01:11.970337Z",
-  "total": 122,
+  "actualizado": "2026-07-11T23:11:02.378036Z",
+  "total": 123,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -178,6 +178,19 @@
       "fecha": "2026-07-11T10:18:12",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.035110"
+    },
+    {
+      "id": "770ff1830e8a010b",
+      "titulo": "Ferran Torres negocia con uno de los grandes rivales del Barça: principio de acuerdo y 50 millones",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZzIzVVNlNWI5a0duTlBjblZtSXNnNndZN2xyWjFpQ2F3Wm1udU14aVdlODVYRjkxRnUwcU54Wm1fZ184ZGJHSjVTUUN6MzZNS21lNkhmVjZER3IxM2tYVW9OclpTM2xTNVplbVROLUdlemRlTGE3ckQ4bGlCZGJIWXdQSFoyRFlkZWpFbHk4eXU5Z1ZsRjZEZE1XUFVIRlFINTVEX0hmSk1MY0tmVFhZNG12MGZJQVU0?oc=5",
+      "medio": "El Nacional.cat",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-11T10:03:44",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-11T23:10:59.883847"
     },
     {
       "id": "f6077b9dc4673321",
