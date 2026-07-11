@@ -32,7 +32,14 @@ fichajes del **FC Barcelona en fútbol masculino**:
 - [x] Recolector v1 (RSS Google News) + clasificador (tier/categoría/estado) — FUNCIONANDO.
 - [x] Dashboard responsive + workflow cron (cada 20 min) — DESPLEGADO Y EN VIVO.
 - [x] Repo público creado y subido bajo la cuenta BarcelonaTotana.
-- [ ] Configurar secretos de Telegram (falta token nuevo del bot + Chat ID del usuario).
+- [x] Secretos de Telegram configurados (TELEGRAM_TOKEN + TELEGRAM_CHAT_ID=1967570245).
+- [x] Alerta de prueba enviada y recibida en el móvil — CIRCUITO COMPLETO Y VERIFICADO.
+
+### ✅ PROYECTO COMPLETO Y OPERATIVO — nada pendiente crítico.
+Bot Telegram: @fichajes_barca_bot · Chat ID: 1967570245 (no es secreto).
+Herramientas manuales añadidas (workflows con "Run workflow" en la pestaña Actions):
+- "Obtener Chat ID" (chat-id.yml) — vuelve a averiguar el Chat ID si hiciera falta.
+- "Probar alerta Telegram" (probar-alerta.yml) — envía un mensaje de prueba.
 
 ### 🟢 EN PRODUCCIÓN (a fecha 2026-07-11)
 - **Repo:** https://github.com/BarcelonaTotana/fichajes-barca
