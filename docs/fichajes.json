@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-11T21:31:12.515408Z",
-  "total": 120,
+  "actualizado": "2026-07-11T21:41:02.247114Z",
+  "total": 121,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -1322,6 +1322,19 @@
       "fecha": "2026-07-02T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:31:02.948032"
+    },
+    {
+      "id": "6bc505012424fb3e",
+      "titulo": "El Barça aligera la portería: Kochen se irá a Dinamarca y Ter Stegen interesa al Ajax",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaUYwWkNoUWxxZkpiWVhFanpjQnhXUTBJY2g5QnFoc0VoRWQwek1WcHBWZTU2OVNYaDd6V1daempMUDhhM2x2ZG1VSEFRWmFNYkNra0s3SU1OQ2VTUjNxMWFwYXczWjdnNVBTQm1uWE9ZTDRwUFZ1RU1XT3pCZ0g4QmZ0NGlrQTBNbXZnMjJTaE03YlJVazBIMThkN1NjWGVZTWhKdXF3blVfQkVOMzlhOVhRU2w3bEhKbVZicUxtdmtWdXFVaWlkVDlaV3BFUnJOdGfSAewBQVVfeXFMTkNvVmpQNG9ISUZERkNxU2hXOXZhMS1OM2ZRTXV2WDM2eWNtNHZpRUNUOTA5YldqblZQZTZQSkYtbzBPcTFOZ21HN3ZLUjJuQXZGUmNZSnV4YS1YY3pGVjhVVFh4RFFrZ2MwTUhVelJHUmQ3czF5MzA2SnhhSEZvV0wyb2xDaFFUX1NTNzBmam1RVDBiSXFESDdCMDN0c2p5U0NmNXFvX1VVX2xGUHgtWHFYQ1lHVTNYNnhYSXJGRmhTZE1lenRpNXVXYk5lYUNCMjBGazJaQi1GRjNpMWd2RmJfeXlHMnVRQmJuN1g?oc=5",
+      "medio": "Infobae",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-02T07:00:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-11T21:41:01.236172"
     },
     {
       "id": "f33fbdb61ce25271",
