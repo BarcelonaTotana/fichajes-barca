@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T10:26:42.167254Z",
-  "total": 162,
+  "actualizado": "2026-07-12T10:32:36.922179Z",
+  "total": 163,
   "cerradas": [
     "juan ybarra"
   ],
@@ -59,6 +59,19 @@
       "fecha": "2026-07-12T10:21:34",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-12T10:26:33.851333"
+    },
+    {
+      "id": "4030ce6beb3de09f",
+      "titulo": "El ala-pívot finlandés Olivier Nkamhoua, primer fichaje del Barça, firma hasta 2028",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSnFtSGkwS3hhSUNEaWtmTjRRUTFhXzY0V1MxUVBuWjZtbVJ5aEJLTXFwZFBuWktrWDhRZUZ6Um1ETWdLUWphUFdUQVZFU3RLaGRiZHRFRlRkY2FSaXFCSG54MGxralFlZXN6bTNPZWxKMU50VnNTY1ZBd2h2MnNWVW9QV0tTMXJTcmhNZXNtLXM3YXhBa2FyTTFwZkxLVHpfb1RnUGpB?oc=5",
+      "medio": "HolaNews",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T10:20:42",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T10:32:34.409080"
     },
     {
       "id": "39ae6282708f6765",
