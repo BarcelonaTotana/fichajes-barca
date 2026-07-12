@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T22:02:19.692431Z",
-  "total": 206,
+  "actualizado": "2026-07-12T22:10:57.094685Z",
+  "total": 208,
   "cerradas": [
     "juan ybarra",
     "olivier nkamhoua"
@@ -51,6 +51,32 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "7f6ed66570e0b690",
+      "titulo": "Laporta, claro sobre Julián: \"No bailaremos la música de nadie\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260712/1004205841/laporta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T21:49:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T22:10:51.446664"
+    },
+    {
+      "id": "e33c4fad5927feb6",
+      "titulo": "Laporta confirma el fichaje de Adeyemi y asegura que Raphinha se queda",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260712/1004205840/laporta-confirma-fichaje-adeyemi-asegura-raphinha-queda.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-12T21:41:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T22:10:51.446814"
+    },
     {
       "id": "13348896efae5f80",
       "titulo": "Joan Laporta llega hoy a Dallas y el martes verá el Francia-España",
