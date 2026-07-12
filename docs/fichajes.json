@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T11:21:14.194963Z",
-  "total": 164,
+  "actualizado": "2026-07-12T11:32:53.529745Z",
+  "total": 165,
   "cerradas": [
     "juan ybarra"
   ],
@@ -137,6 +137,19 @@
       "fecha": "2026-07-12T09:21:38",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-12T09:32:09.819630"
+    },
+    {
+      "id": "8ae64b83fcbf9800",
+      "titulo": "El futuro de Raphinha se enreda en el Barça: ¿oferta del Al-Hilal o presión para un aumento salarial?",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTF9wWXNTY182Q0VNN1FOTkwteHlGSVhIZlNpY1RoMW94eS1ycjZWZHI1djR5UnJ0UkdIZVJNVmhCR09SaDdmY3VkOGFnQVoya1F3RWtfZ2E0R0lOczlVcElsSmNlQVAwVWhKbHNCajJ3MUF1dG1ZMGpsOUprWEZuZjd2aDdIdFJZWU94VThXWTRGNEFHbm5WSDVxMmNnSmFBQjFXa0ttemdZZjJZeVBZZWl5WlRpNjYzazdGNUplSXpQT1NtbkU2RG5xVDNQMUdlcjA3N3hhdTZhLTd3TGfSAeMBQVVfeXFMTzhnbFktbDlMYVVES1dhTXluaXZOV3pONGZOQkJjWWFBY1lURXh4a3pCMTZaaWt5anpuWEZQbmhnTi1Xa3VDUWZIc0hISVp1aThZclM2dGRhX011NUFXSjdMeVZBRmNkajB6bGQtbS16YTljT2NlX242M2I1Z0tvMGRIX1RZcURpcXZVY28zNnFqTEk4Mi1Ic2hXVTBIZnMxM241NDB1aGhJWXpFRWFIOEhBSVFFb2t4S0VCeGJDbDVWNWVaVHpxcVBRQ2dkS0lmZ0dtTHlJUmxDUUstaWNTd2RfLXc?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T09:02:58",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T11:32:51.023869"
     },
     {
       "id": "a43a9a8f0e93e0ae",
