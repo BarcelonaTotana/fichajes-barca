@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T09:42:12.713429Z",
-  "total": 156,
+  "actualizado": "2026-07-12T09:51:48.652388Z",
+  "total": 157,
   "cerradas": [
     "juan ybarra"
   ],
@@ -85,6 +85,19 @@
       "fecha": "2026-07-12T08:50:39",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-12T09:02:35.527468"
+    },
+    {
+      "id": "2dbfdb8c3b21d91b",
+      "titulo": "Acuerdo cerrado para que el Barça, ahora sí, venda al jugador que tanto pide Hansi Flick",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM2pNSXlKeWJWUFUzamNTcUdGRXhFSXg1bjA3cnlQSTQxSUNuWkNPYXo0d2xNelY4ZEJnZ09DM1VrcWwxcmJYOWhWRU9kTnpQTHJYU1pKT1dUM3gtNm5ocG1WWU05Njl3eHVlMm8yS2FVSEd5VTQxR09HOUZ0QWNtR21lV3NRbTFVaHB5NVVoemVIZF8tQWJjejFSUHctZnp6QzF1bGxVcmtkbWFnNUNQcjR6c1hCQTNQUEM2UG1WMWY?oc=5",
+      "medio": "El Nacional.cat",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "here_we_go",
+      "fecha": "2026-07-12T06:05:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T09:51:46.238037"
     },
     {
       "id": "0efa9b0714bbdd08",
