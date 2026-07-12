@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T11:53:23.573609Z",
-  "total": 165,
+  "actualizado": "2026-07-12T12:03:19.647693Z",
+  "total": 166,
   "cerradas": [
     "juan ybarra"
   ],
@@ -47,6 +47,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "72aad63f16772ea7",
+      "titulo": "El Borussia Dortmund libera a Adeyemi para cerrar su fichaje por el Barça",
+      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWWFDYzZJZ0tMeE1Xb251eC1oYk1IYjZBb21xZnAxXzFwcG1Zejl1SVJncHpxRTB4eTRhVWxIbFFrNUFMUzZ0dXJScWFoRklvNUN1ODNHbWY2VmRJbGJFUS1aSzdTYVczcVRQaXlySU91OVZSWndidU01M3NiSVQ5cTZySmNBc1cyMFBaQUJlOEVyd9IBkgFBVV95cUxQZzZEWnVoTVF1LXBFY2VXMU0zYmpjSHk5VFNMN3BkcFJHQ1oyWm9ZZ2dsMWVVS0FpM3lEc19CMjd2OUw5VFMwRHFPLW9QeXQtZFlWUWpMWi1fM3d6el9feGtRa3dqRUtzZlFpMERhNnprekpLdlFVOUVHY3BXN3k5YWI2SU5IYW1tSEtCaHFHRzRuZw?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T12:00:27",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-12T12:03:09.650685"
+    },
     {
       "id": "e91fdf69904d04a6",
       "titulo": "Josean Querejeta: el brutal negociador con el que se enfrenta el Barça",
