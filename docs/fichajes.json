@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T10:57:35.374119Z",
-  "total": 163,
+  "actualizado": "2026-07-12T11:06:55.970115Z",
+  "total": 164,
   "cerradas": [
     "juan ybarra"
   ],
@@ -47,6 +47,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "e91fdf69904d04a6",
+      "titulo": "Josean Querejeta: el brutal negociador con el que se enfrenta el Barça",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmpqdWljVTB4VTNTVGs2RG1IcWV6NWdOWDNDUEdzMlJCOFlHVHMyRHV6SHBvbGhnRURIN0lvT3lMQzB3SklfM1k5Mm9PTHdiZldkeDRZUEpaVFRMckpmNEplVTlxek5VMjVSQUNnZGxGUzVWSmVzX1hPb18tQnRoV3F6YTZwczFWN2FuYXdjQ0lFbm5rZk5lS1pKcWxYaFpGTGtCMzN5OEJ4amhLSXU4Rk9tS0tZM0XSAbcBQVVfeXFMTUNnWWQ3WlpNT3hvOUQ1ZXVCS3E5eDJKU3U5eVJDMlEzLU5TUnN1cXpsMDJwOUQ4S1J6NzF5M2ZxXzNTUGo0ejdQa0ZIQmp2VDBNczRVdjF6Mk1weEkzY1dOaTljMlR1MXVaLTRsOXpSNGp4aTR6LVZwMUczNjlEV3IxMHZXYU5Db2NNMTNDRkVFQlBXYjVLQkFHTFBGSnlYTU5KYUJ0b3ZNV3VrenZYc0JQUk5HTHU4?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T10:57:36",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-12T11:06:46.227358"
+    },
     {
       "id": "3918a48cc024f92f",
       "titulo": "Nkamhoua, primer refuerzo del Barça: \"Estoy muy contento de estar aquí\"",
