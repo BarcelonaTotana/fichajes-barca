@@ -39,25 +39,37 @@ def _feed_medio(medio, tier, dominio):
     return (medio, tier, "auto", url)
 
 
-# Solo medios que Google News (edición ES) indexa de verdad. Relevo, The Athletic
-# y ccma.cat devuelven 0 resultados, así que no se incluyen (no aportan nada).
+# Solo se mantienen los medios que aportan un TIER que los feeds de fútbol no dan:
+# RAC1 (tier 1, scoops catalanes) y el sitio OFICIAL (tier 0). SPORT y Mundo
+# Deportivo salen de aquí porque ahora entran por su RSS de fútbol (ver punto 2),
+# que es solo fútbol y no cuela otras secciones (básket, balonmano…).
 BUSQUEDAS_POR_MEDIO = [
     _feed_medio("RAC1", 1, "rac1.cat"),
-    _feed_medio("SPORT", 2, "sport.es"),
-    _feed_medio("Mundo Deportivo", 2, "mundodeportivo.com"),
-    _feed_medio("Diari ARA", 2, "ara.cat"),
-    _feed_medio("Cadena SER", 2, "cadenaser.com"),
     _feed_medio("FC Barcelona (oficial)", 0, "fcbarcelona.com"),
 ]
 
 # ---------------------------------------------------------------------------
-# 2. BÚSQUEDAS GENERALES (tier por medio + periodista).
-#    Formato: (nombre, tier_forzado=None, categoria_hint, url)
+# 2. FUENTES DE FÚTBOL (tier por medio + periodista). tier_forzado=None.
+#    Formato: (nombre, None, categoria_hint, url)
+#
+#    NÚCLEO: RSS de la SECCIÓN de fútbol de cada medio. Al estar bajo /futbol/,
+#    NO puede colarse baloncesto/balonmano/etc. (eso mató a las búsquedas
+#    generales de Google News, que mezclaban todas las secciones del Barça).
+#    - MD Barça: solo noticias del Barça de fútbol.
+#    - MD fichajes / Sport fútbol: todo el mercado de fútbol; el filtro de
+#      relevancia (_es_relevante) se queda solo con lo que menciona al Barça.
+#    El dominio del enlace resuelve el tier (mundodeportivo.com y sport.es = 2)
+#    y, si el texto cita a un periodista fiable, se mejora (rescate por periodista).
 # ---------------------------------------------------------------------------
 BUSQUEDAS_GENERALES = [
-    ("General primer equipo", None, "auto",
-     _google_news(f'(Barça OR "FC Barcelona") {_FICHAJE} -femenino -baloncesto when:10d')),
+    ("Mundo Deportivo · Barça", None, "auto",
+     "https://www.mundodeportivo.com/rss/futbol/fc-barcelona"),
+    ("Mundo Deportivo · Fichajes", None, "auto",
+     "https://www.mundodeportivo.com/rss/futbol/fichajes"),
+    ("SPORT · Fútbol", None, "auto",
+     "https://www.sport.es/es/rss/futbol/rss.xml"),
 
+    # Barça Atlètic (filial, fútbol): sigue por Google News, es coto limpio.
     ("Barça Atlètic", None, "auto",
      _google_news('("Barça Atlètic" OR "Barça B" OR filial) '
                   '(fichaje OR ficha OR cesión OR cedido OR traspaso OR venta OR vende OR firma) '
@@ -139,9 +151,22 @@ PALABRAS_FICHAJE = ["fichaje", "fichajes", "ficha ", "fichar", "fichado", "trasp
                     "en el punto de mira", "interés", "interesa", "objetivo"]
 
 # Si aparece alguna de estas, se descarta (otras secciones / no fútbol / otros clubes).
-# Nombres de deportistas del Barça de OTRAS secciones (balonmano, basket…) que se
-# cuelan porque el titular no nombra el deporte. Ampliable según vayan apareciendo.
-JUGADORES_OTROS_DEPORTES = ["marcos fis"]
+# Nombres de deportistas del Barça de OTRAS secciones (balonmano, basket, futsal) que
+# se cuelan porque el titular no nombra el deporte. Red de seguridad para las búsquedas
+# por Google News (RAC1 / oficial). Se usan apellidos distintivos para no chocar con
+# futbolistas. Ampliable según vayan apareciendo.
+JUGADORES_OTROS_DEPORTES = [
+    "marcos fis",
+    # Baloncesto
+    "mirotic", "mirotić", "vesely", "veselý", "satoransky", "satoranský",
+    "hernangómez", "hernangomez", "laprovittola", "brizuela", "abrines",
+    "jokubaitis", "shengelia", "tornike",
+    # Balonmano
+    "dika mem", "aleix gómez", "aleix gomez", "makuc", "melvyn richardson",
+    "blaz janc", "blaž janc", "n'guessan", "nguessan",
+    # Fútbol sala
+    "ferrao", "ferrão", "dyego", "catela",
+]
 
 PALABRAS_BLOQUEO = [
     "femenino", "femení", "baloncesto", "basket", "bàsquet", "balonmano", "hockey",
@@ -221,7 +246,7 @@ JUGADORAS_FEMENINO = [
     "fridolina", "rolfö", "rolfo", "ewa pajor", "claudia pina", "vicky lópez",
     "vicky lopez", "torrejón", "torrejon", "graham hansen", "kika nazareth",
     "ainoa gómez", "ainoa gomez", "brugts", "engen", "schertenleib", "caroline graham",
-    "jana fernández", "alba caño", "clàudia pina",
+    "jana fernández", "alba caño", "clàudia pina", "aleixandri", "laia aleixandri",
 ]
 
 
