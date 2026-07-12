@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T12:03:19.647693Z",
-  "total": 166,
+  "actualizado": "2026-07-12T12:20:58.933488Z",
+  "total": 167,
   "cerradas": [
     "juan ybarra"
   ],
@@ -176,6 +176,19 @@
       "fecha": "2026-07-12T08:50:39",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-12T09:02:35.527468"
+    },
+    {
+      "id": "4c75e0898cc2a2aa",
+      "titulo": "Incógnita Bardghji en el Barça: más de diez ofertas, charla con Flick y decisión final",
+      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTERpRVhlakYyUGRwYUlhdHJYS0VNVVNENXgyaG9scTM4LUFxUWxHWllsclB3S0V1NHV5SkJQaFdGbFNzUy02b0UzdEZjOHRLNG85a3g5MzBLZU1mZThSaTlmdlc5T2tMdEV2THAtSWRGSWZVMEEyUjFsQmZuaVJMQzNCVTl3TlJRbzdDN0130gGOAUFVX3lxTFBHMEY3eWwwNUdzanlxVFFEc2JKd0dRblBHN0xTVDZRdzJVWmttckJSZUxoRGV4OWYxZTBjSUQxTnlmWElXM0NrNTE4ckI0OFlod0tNR211VXFNWloxX3pFVlh0VE5QYzVLdDVUVnNqNmFsSmYzN084OFVJcV9xbjZROExNVWVMU3hiUmlYdFE?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T08:50:39",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-12T12:20:48.929488"
     },
     {
       "id": "2dbfdb8c3b21d91b",
