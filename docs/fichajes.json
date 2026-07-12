@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T17:03:52.060911Z",
-  "total": 204,
+  "actualizado": "2026-07-12T17:10:58.656151Z",
+  "total": 205,
   "cerradas": [
     "juan ybarra",
     "olivier nkamhoua"
@@ -51,6 +51,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "5fa1efda32c0dcc2",
+      "titulo": "Sergi Domínguez ya tiene precio y el Barça, atento",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260712/1004205747/sergi-dominguez-precio-barca-atento.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T16:40:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T17:10:52.701139"
+    },
     {
       "id": "72aad63f16772ea7",
       "titulo": "El Borussia Dortmund libera a Adeyemi para cerrar su fichaje por el Barça",
