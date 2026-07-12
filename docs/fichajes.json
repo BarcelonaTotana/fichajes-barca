@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T09:22:13.894193Z",
-  "total": 154,
+  "actualizado": "2026-07-12T09:32:20.642051Z",
+  "total": 155,
   "cerradas": [
     "juan ybarra"
   ],
@@ -32,6 +32,7 @@
     "7f5de7c97cea0906",
     "831ffdba8f3957f2",
     "8b4dc1648da51d1b",
+    "8f35aa9144d84d17",
     "9edce93ae27b024e",
     "a6a4505cce06ed66",
     "ab109c4f2d31ccf8",
@@ -46,6 +47,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "8f35aa9144d84d17",
+      "titulo": "El plan del Barça por Casadó: venta sin rebajas de 20 millones mínimo",
+      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMXg5eTBLUVVDOVRfNkhfaW5rSHlHQndBOHBwdGdFRkZsOE9jUGQ4RmpnTndBcTBibWxvTFFhakNYYk53UHdJYWJ2ZlQzMmZMS1NsLXZGTHRKUlh1WEdzb3FCOFhGTWsxTFo2YURWbzJScHV6bzF4RlRCclZRNEtzWTJYZWZWa3fSAYcBQVVfeXFMTkw2RklGTGszSnRpQ3hfay15cGhUM3l3WmhaTktIWWRfWmFwb251em9RZHZGYkFBb0UtR3ZPV1pGa3hnNjZIU1RLYXRuV1FlSWFWcXpseDVkbmM3SnctUnZRUmQxejZySVV4djQ3elltNzhxUXNQNlZ0Ymw0OTBCNWdnVFY2QVNn?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T09:21:38",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-12T09:32:09.819630"
+    },
     {
       "id": "a43a9a8f0e93e0ae",
       "titulo": "Incógnita Bardhji en el Barça: más de diez ofertas, charla con Flick y decisión final",
