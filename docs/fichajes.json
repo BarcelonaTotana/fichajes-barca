@@ -1,8 +1,9 @@
 {
-  "actualizado": "2026-07-12T12:53:56.965459Z",
-  "total": 167,
+  "actualizado": "2026-07-12T13:02:42.386326Z",
+  "total": 168,
   "cerradas": [
-    "juan ybarra"
+    "juan ybarra",
+    "olivier nkamhoua"
   ],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -14,6 +15,7 @@
     "15e1138a42f69040",
     "20234a678e468e32",
     "2424d14d53098add",
+    "27f25d89b4825926",
     "30f4eae64d270777",
     "3b3868743b3b44cd",
     "3e1e9d7b56e10b9a",
@@ -124,6 +126,19 @@
       "fecha": "2026-07-12T09:52:07",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-12T10:03:21.725316"
+    },
+    {
+      "id": "27f25d89b4825926",
+      "titulo": "¡OFICIAL!: Olivier Nkamhoua, primer fichaje del Barça",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVXd3aFhfWDRaWEdRS2dHV3R6Y3FCQ3pLMldYbDg4aEJvemZIM3d1dDF2Yy1tQW5mN3BuVG1BQ25Wb1p0S3hCWGk0WGwxMWQ4NHFMZ2FkN3dKbFVIdGo2UEtqVDJaNjlnbmd4blRlX0x2RnZrRWRPbUNwMk9URVBqOW00Vk5SZUpYNWVtbTBlU0xyeV9lWWxlZ01IaF8xeHNs0gGgAUFVX3lxTE15czZlaUM4Zk5mVjVabkFCV1Rldy1QMG91SWZTcHZ3MGtGYVNNdE5TSW8tVXFKUkFoUGd1dUl4ZlVzem9pNGlfWDJCYklzbW1lWEVLWFFub0xiNDRpYXNnWUtBWFRsWHMwT0dnclpMcjhpOHc0TkdYRWhScUozQmRKUTluSW11bWJBVmEzSFJXUzRxVWVjMXBjN2pZZUk3MTI?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-12T09:48:05",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-12T13:02:31.046650"
     },
     {
       "id": "5a0ee75c2b2b89ed",
