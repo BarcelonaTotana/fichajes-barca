@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T13:20:59.353139Z",
-  "total": 168,
+  "actualizado": "2026-07-12T13:32:16.838300Z",
+  "total": 169,
   "cerradas": [
     "juan ybarra",
     "olivier nkamhoua"
@@ -113,6 +113,19 @@
       "fecha": "2026-07-12T10:13:21",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T10:26:39.744147"
+    },
+    {
+      "id": "74e5901669c129e9",
+      "titulo": "Olivier Nkamhoua, primer fichaje del Barça",
+      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzdCZGFJd0pLd0g2LU9jc24td21nR1RwZUFMVlVmcmdwbmFsY3FXN0pudkVReWxWanVPaDZHSjhqMUZlZGdVZFIzV01HRDVBcGstUzhheW5QWXpaVUZJWC1jRUYzLWIzdzg2b3ZmbFdBNTNEbEpTVUlJREdGckkyUDlMYnnSAZgBQVVfeXFMTnVzSVlwQWt1ajNMZmtxWlNYREw2dkdEVC1nRU0yRU5Ea1FGNUpyeXJYNVFNMzFoUWxGWXZmemxXNmRvNDFCdVI3TWdyVW9RNmFvb2FNZlcxNUV2S3JnQkxsdjJicEwtanV1V29tdG01SWhBeXNjbnBaeng4QzRXbi0wVXZ4TVZuY3hhcWk5QWRkS05ycGl4dDQ?oc=5",
+      "medio": "Diario AS",
+      "tier": 5,
+      "tier_etiqueta": "Ruido / clickbait",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T09:54:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T13:32:14.376163"
     },
     {
       "id": "6a794eef4ff717e2",
