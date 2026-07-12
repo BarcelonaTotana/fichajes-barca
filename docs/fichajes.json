@@ -1,12 +1,15 @@
 {
-  "actualizado": "2026-07-12T05:20:55.536219Z",
-  "total": 147,
-  "cerradas": [],
+  "actualizado": "2026-07-12T05:32:46.045621Z",
+  "total": 148,
+  "cerradas": [
+    "juan ybarra"
+  ],
   "alertadas": [
     "0069a55d2c0e761e",
     "05fed9472c50534b",
     "0f6dcf300e0cb34e",
     "10c093e3e5f4eedd",
+    "158c66cbb29b7567",
     "15e1138a42f69040",
     "20234a678e468e32",
     "2424d14d53098add",
@@ -1118,6 +1121,19 @@
       "fecha": "2026-07-07T15:01:01",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.098359"
+    },
+    {
+      "id": "158c66cbb29b7567",
+      "titulo": "Oficial: Juan Ybarra ficha por el Barça Atlètic",
+      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd0pVdDhQaGhyVWtILXJvcWQ1N2V2QlpKZjBzQXMwV3JVSTFuY3hKNHljemd3ODJ1cFBmLTdOQjBfZUkxNGJfdUhoNzc3d2JuTWFIQ2NDalZhSjFWOEFPMDU4VHJKdC12bzI5WlNGS0FCNEFaLU1DUHVKZEJuTzZNd3hwaTVlUnPSAYcBQVVfeXFMTWdjUU9qZjVvTEtIVmJWOWt2N0FVYkhDUkYtcGhBYjRjWnNKQXFqQmN2QWFGMlNjd0xJQnhnUHRrdFpHbjljY1V6dlZiLVVsTi12RXJKYmgwcE1OUWVkZTFjSEJlT28yQUlRTWJuRzZoWHFaLW9acndRY3Y1ZGQwY2V3Q3VsSmE4?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-07-07T14:44:49",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-12T05:32:35.515165"
     },
     {
       "id": "cc5c87c2ea6b4292",
