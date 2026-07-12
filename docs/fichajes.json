@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T07:50:59.392504Z",
-  "total": 150,
+  "actualizado": "2026-07-12T08:02:29.743394Z",
+  "total": 151,
   "cerradas": [
     "juan ybarra"
   ],
@@ -602,6 +602,19 @@
       "fecha": "2026-07-10T12:23:01",
       "fuente_feed": "Cadena SER",
       "visto_por_primera_vez": "2026-07-11T20:23:58.931632"
+    },
+    {
+      "id": "77eb11eaf864b40c",
+      "titulo": "El Dortmund frena el fichaje de Adeyemi por el Barça y pide una oferta mayor",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTB6QVFnZDVicU1yVGRjS3BkUHFFUFMzcHBJT1ZIMG9Ja2F2M1VIdGpNWEtseldmclJZVHl4bXNaMXZYVDZQTzNzWUhIdmVGNDk5a2RZVDN1TF9YOTF3eUt4dkFRd1VoNGJMS1FMRkU4TzlDMlZoSm5Qa2RHbkc1a2dYTmVOZEtlUkRaNFA4aEpnZXlydDQySms4VEpBZ3JlelZtTXp4bkloMk9WejNkQ0RCb3I?oc=5",
+      "medio": "El Nacional.cat",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-10T12:14:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T08:02:27.232859"
     },
     {
       "id": "78158ba6c45929cf",
