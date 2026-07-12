@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T18:01:04.866459Z",
-  "total": 205,
+  "actualizado": "2026-07-12T18:10:56.140065Z",
+  "total": 206,
   "cerradas": [
     "juan ybarra",
     "olivier nkamhoua"
@@ -51,6 +51,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "13348896efae5f80",
+      "titulo": "Joan Laporta llega hoy a Dallas y el martes verá el Francia-España",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260712/1004205776/joan-laporta-llega-hoy-dallas-martes-vera-francia-espana.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T17:38:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T18:10:50.726729"
+    },
     {
       "id": "5fa1efda32c0dcc2",
       "titulo": "Sergi Domínguez ya tiene precio y el Barça, atento",
