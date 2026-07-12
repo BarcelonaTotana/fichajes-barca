@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T08:11:10.387033Z",
-  "total": 151,
+  "actualizado": "2026-07-12T08:20:59.403578Z",
+  "total": 152,
   "cerradas": [
     "juan ybarra"
   ],
@@ -9,6 +9,7 @@
     "05fed9472c50534b",
     "0f6dcf300e0cb34e",
     "10c093e3e5f4eedd",
+    "12104adbc07a780e",
     "158c66cbb29b7567",
     "15e1138a42f69040",
     "20234a678e468e32",
@@ -966,6 +967,19 @@
       "fecha": "2026-07-09T11:24:44",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.036691"
+    },
+    {
+      "id": "12104adbc07a780e",
+      "titulo": "Pere Romeu renueva con el Barça hasta 2028",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcy1teWRSMG84Ry12OTlyT0FhTktSSUN6TVUweWYwaUJ4a1ZuLXdIdGx5X2FOUk5oZFltYm1pSm52RV84cDRuTlM1MHBpZ3RiTkNxdTc2bXpsX1h5Zmw0S0h2M1BBUTl6NGVaSV9DdTZPN01WRFVFVV9NZnNfQW4tN09uMDVGTkhmNk94cVlGVmFmNUVRc0HSAZYBQVVfeXFMT0NMLWQtc2k0c0pRRDhfV1ozSXRSUDBuVnNROFZ4czhVVDRBcXEzYjFEOE5ncGg3S0MzdGFQUTlDeTZJUjd6MmI1UTlDMHhuZnk1SkJDZUNUb3VxeUVJeFBDaUgzUDBNd2JZT0RsN3k2WkFQODlxRi1KQThKMGdKU2dpV1NtMmg3S2NyNV9YUDh4NG9CVmJB?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-09T10:36:43",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-12T08:20:49.175423"
     },
     {
       "id": "691258f1d096b114",
