@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T05:11:03.846801Z",
-  "total": 145,
+  "actualizado": "2026-07-12T05:20:55.536219Z",
+  "total": 147,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -32,6 +32,7 @@
     "b6be42fd132bae88",
     "c383845699e845be",
     "cdd58d239669ec52",
+    "cf86e5c6af4b5e90",
     "d99b318f89a79c54",
     "ed20b49c576f59d0",
     "eea11ae24a1b3e53",
@@ -1561,6 +1562,19 @@
       "visto_por_primera_vez": "2026-07-12T01:10:55.362144"
     },
     {
+      "id": "cf86e5c6af4b5e90",
+      "titulo": "El Ajax hace una oferta al Barça para llevarse cedido a Ter Stegen",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNkZ6Ti1ueTZaRmdlZ1IwQUZIelRlOFZ1UzdfWVdSU0g5NE5ZWEdaREdVSGdWUGtiWEdmT1hqQkZZSHpLblNIZXRIUnJEQXFZVGVLSHhmUWxLUTZTRnk2QUhVaktuYjh3TlRXc0QzRXVhR2FpdUt6a3llRXVMLXh2YmVXMVkyXzN3emxYaHdjV1NYSXZKUWZHc19QdXBCRUNsWElVS0NncGx5Q0NoSENaVWFLb0hsZDh2ZzVSdNIBygFBVV95cUxQbmhjTDM1aXNNZzdJTGhieERnMlh1bl9ZMFZIbmIxYjVsLXhLU3lpR3pKTjZROEJuLWt6MmNWNVpGd2dTZk1neHdkeDMyNlBQQmZaT3VyWDBqRm5aOF9DMnNvS2V2cmYtTllKMHM1WUU4R2JuXzI5ZVRLQnB1ckRoaG1Fbkk0LURTNTFJWG5jMDFHN1FhbnU5Z1Uzd0RWQndIZGo4OXNWa3pSNFc0YWVWd1BCazh0MThiQkI2MEszdVktakVqZGJTbjVB?oc=5",
+      "medio": "Mundo Deportivo",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-29T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T05:20:52.582291"
+    },
+    {
       "id": "5e8514e597c29118",
       "titulo": "Quién es Josué Caicedo: el fichaje sorpresa del Barça que llega desde Ecuador",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVNpUVBDYXJVQ0hqRndnVnNZT1I1dlRnV0FmRElUakwyUm1IcGZqVm1tc3VUdTRDRHo2RkF2bXpQeTVDNnlQNTJWQ1BmNFg5WU5vVWFnUzJCY0ZJbzVHTURTQ3dpdGYwNFdVRWs0b2liSzdlUGtrbXBBRFZOcG1heHI5OHVJZVFCU29TV2ZVWmx5NkxCVmo2aXN5ZFNzZFphVmU1S2RXbTdQVmNXOWJxUWZDYWRNUQ?oc=5",
@@ -1650,6 +1664,19 @@
       "fecha": "2026-06-27T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T01:10:55.361477"
+    },
+    {
+      "id": "a66c1f52aabdb403",
+      "titulo": "El Barça activa la operación salida",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX1o5M2RaczV4d29Bcnp6Wi1BLU55NWdjNk1TczcwTnNMYWtZY0FreXJnMGFqejZpc0pyZ0ZHM0dWSFEtY2xqVU5CUmxVbndsR3MyaVhuWmktdTdleFhtWXVHeWFRR01hRmlmLXYxY241TVhjMGVrTTdYZGItcmRWWGxOM09CTDV6M0h3ZkY1dnpvNUpQaF95MVZlbzl2WnhPb3FUVVU4YmXSAbYBQVVfeXFMTV95N0tSR0ZUUHpVQjlObjZzNkkxYWw0RF9iMzEtdnlHUHRQbGV6Y2dOSGJlS1dvZmUydE00OXdxYzQ0d2pjb3k4TWNwdE1sVFY2UTFORlVhTTZtMjVycWt5QURXQkJOLXBBSXdmV3BQY09xUUNBQjBsRVAxWDNXbTRWbVJpWDl4bDdtUmhSN1hyTGFJSkp4UXpISHJKbWlGRW1JM054ZVpZTGdCQllqVXZBSC1qUWc?oc=5",
+      "medio": "Mundo Deportivo",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-26T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T05:20:52.582378"
     },
     {
       "id": "20b2d84db5e5791e",
