@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T09:32:20.642051Z",
-  "total": 155,
+  "actualizado": "2026-07-12T09:42:12.713429Z",
+  "total": 156,
   "cerradas": [
     "juan ybarra"
   ],
@@ -47,6 +47,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "5a0ee75c2b2b89ed",
+      "titulo": "Negociar con Josean Querejeta, una autentica tortura para el Barça",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUVDX1pVa3llU2ZOQ1Nsa1ZXYkp6dHAyak9vb3paOHdHXzEzblFONHo1SVlaakNPYnJVX0hZY0xjakRRdDRQa2NGOUlpZDV5OGtCb0lhbERfRXYtR2hvaXdZQnN2QV91MEpGWV95NThCbWhOekMxYVFVaGxuM1pUeEUzVVNYR3lNU25jUldIMVBaVVRDTG1YZC1wXzJXaUs4ZEFQUVdn0gGmAUFVX3lxTFBHWlZWRkhRdzZqSDV3aGZhTHZsU3JnTGlzMExzVkE1c3VDYnlBdXZLcW1XczNjSkVmUXZ2bVpqZHVSTHVJWFF6ZFVURE5XSGNwM0ZxWTBOVUlsdW5JSUg4QUZjRkhUV0tJNFV0elpDbFI0dVFVcE9aNURtRXZyc3BYZmdBdnFNTEFBUzJ0Yl9LRHVYeWNxZy1MdnNpd0xiaVZHdVBiVXc?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T09:35:06",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-12T09:42:02.713149"
+    },
     {
       "id": "8f35aa9144d84d17",
       "titulo": "El plan del Barça por Casadó: venta sin rebajas de 20 millones mínimo",
