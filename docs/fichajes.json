@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T01:02:37.567393Z",
-  "total": 125,
+  "actualizado": "2026-07-12T01:10:58.967909Z",
+  "total": 143,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -27,12 +27,15 @@
     "7f5de7c97cea0906",
     "8b4dc1648da51d1b",
     "9edce93ae27b024e",
+    "a6a4505cce06ed66",
     "ab109c4f2d31ccf8",
+    "b6be42fd132bae88",
     "c383845699e845be",
     "cdd58d239669ec52",
     "d99b318f89a79c54",
     "ed20b49c576f59d0",
     "eea11ae24a1b3e53",
+    "f20ed5cc2751badd",
     "f6077b9dc4673321"
   ],
   "noticias": [
@@ -1454,6 +1457,19 @@
       "visto_por_primera_vez": "2026-07-11T20:24:02.101602"
     },
     {
+      "id": "00dc834fc708c3da",
+      "titulo": "Deco cierra la segunda venta oficial del Barça este verano: 11 millones de traspaso y adiós a 12 ‘kilos’ de ficha",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2hob21CVWJ1VWx1N3p1eU95UFFRMW82eTFXMnNMQUZSTDMtTnpDNHNmTHRpV1hydzZCN3lRMW1ndFlJeVFEclpsbVR5bThlUmhJelhpdHh5cHJjRjhHM0ZaaDRyV1pmdGNKbkFTQ0lMNVViazJxMzZ6WFR0djVySGM2aFRtX0RhWVIxOEJ1eTl2UkNVNEpPbWEwYWJ2aUxLdUZiSHU1aUJpSXRRdE5uSUxudmFjWmNBajdnb1MyM1cxd1Q1OWdCNnUyUXV6VjFLYThPbS1oUkjSAd4BQVVfeXFMUEc3dTRpZE9fbjNhWlBubDRJNndCbTZBSnZFMTIxNnB2ckF3UjhXLUxHRHl6YlplajdERGs5UmxLbDFod1NHTWtFRHNFeEtaMmhtZjhENjV0NnpwX2dKcFhWZzNsZUZRcmpuTUQ1ZGJMWFBGVmlVaGFRRWZBX0ozb2VIcHlFMVpJXzQyOV9laU5PYXdVTzQ2MFBlckpNQUN0VktOOTVFaUoxNlRKUEkxS0ZTWkMtbzlmOEZSV3RDc21BU0czWm45LWp6YzhXenNPeEJWbE14S2Zobkt4S1F3?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-06-30T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.362650"
+    },
+    {
       "id": "c1f61e2100fae43b",
       "titulo": "¿Puede este Mundial traer al Barça un fichaje a lo Lineker, Hagi o Krankl?",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWWVZQlRNcjM2clJEa2psbnRYWlB3SVNnUDVQNmVfY3F1T1dDcThEVWtUWTlmOU5pWC05NkNjMGJIdXl3U1ltdUVpSmtDUTNQT2t1Q2xJWGl1X0VoazVOV2tNOUVCLVFKX1hnT3lET2V2TEhwRkxWOU5KWEhndlZTd2czRHIxOWZ6YWs3THNkcmZyN0RHY2tINGZyVklwWU9WVXhWSzI4S2R5WHlFS1gxemJUQU5RZ9IBwwFBVV95cUxPV2VjZXduV21hMVdpcDdjUlhoR2lpRFh5TVE4VTZ0WHo5QzlHTm4zZFRRQVUweVhyaWw4QjdTR3Mzb2xNajQtLVFGNE9ndEJqSjM1UUFac0RVbTViMWRfVmh4TjQtUU5aSlNZTzBaUkl6RGdKX2hxemhnOXFoQ05fdWJKajVKNm83TjNieFRtbmRCRDZRdTUtVlBCN1VUYTM2Vm9UYTFLb1hvb04yMm9jVERlaXY0V3JRY2x0XzA3WV9GelE?oc=5",
@@ -1519,6 +1535,19 @@
       "visto_por_primera_vez": "2026-07-11T20:24:02.101753"
     },
     {
+      "id": "b6be42fd132bae88",
+      "titulo": "El Barça cierra el fichaje del MVP de Francia",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3BMR1hfMTZkSkhjYU5EQVowelgzaWRUX19Bc3M5VzV5ZjZNbUY2ZXF1dHpQWlkzRnZFTmpxYmRaOUdnVDQxSmxsMmI3YjhNS3lZNGxQWUM5U0tmbEJDQ2FjVEtNSVM1Y0RpQmNUbVJ0WF9Qa0xtY0N1Qk9OOEtaQTB6UU42d0ZkR0hRLVUtWDg3eVdybkhpYS1RN3ZqMHg3eDF4QjNvZEd6MFRM0gG6AUFVX3lxTE5SNnZjSEJqT2dxMXFDbmpXWUpHa01JS1JsWURPTmJ2WjBWVmlhVXROc2lKVi1zdnNRQU9xV0hTNjB2eGFfdk90OWZZOHZDRHJnT0V4aDNsM1M1U1JMVjNBVVY0OUNlbkViR0dtMXJ4T2ZpczdYN0pOQldaR3lrSHJlQ0RmUFRGRTMzX1lfNGxJRDVfZWtsMzREa2cyUWJveGVSNTRjWV9yY1F0SlA0dUw2Q3h1V0NRSEI3Zw?oc=5",
+      "medio": "Mundo Deportivo",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-29T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.362144"
+    },
+    {
       "id": "5e8514e597c29118",
       "titulo": "Quién es Josué Caicedo: el fichaje sorpresa del Barça que llega desde Ecuador",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVNpUVBDYXJVQ0hqRndnVnNZT1I1dlRnV0FmRElUakwyUm1IcGZqVm1tc3VUdTRDRHo2RkF2bXpQeTVDNnlQNTJWQ1BmNFg5WU5vVWFnUzJCY0ZJbzVHTURTQ3dpdGYwNFdVRWs0b2liSzdlUGtrbXBBRFZOcG1heHI5OHVJZVFCU29TV2ZVWmx5NkxCVmo2aXN5ZFNzZFphVmU1S2RXbTdQVmNXOWJxUWZDYWRNUQ?oc=5",
@@ -1530,6 +1559,58 @@
       "fecha": "2026-06-28T17:01:15",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-11T20:24:03.640336"
+    },
+    {
+      "id": "20b6d49fe1e50646",
+      "titulo": "Graeme Souness sentencia a Gordon y su fichaje por el Barça: \"No durará mucho en Catalunya\"",
+      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUxUVEdaUXZhVHdsR1lBZzV5TVl1MDVILS1lQ3N0cmRmdVBPMWh5M3FJZnRobkg4Z3BEQVluQXR2VWpCVXVjWHNkcjRxT1g2SXhKRDdhZGpsc2xrOWRFRUt3VDBDOTBzc0doTUpZc05Gc0NuV19Nc1Y0eU5oSjVEb0stZm5kdHVnS2NrU0ZscGNoUdIBkgFBVV95cUxQN2dRZ19uZVlMX1hhcXhtVi1QUUthUVd6ZFpxUEhoODNjRjQwQ2RXeGxMM1dHTXl1cDc0M0kwOWtpbDBXZU9PYmFEOWNyaUNiZHhBTUpwZkRXUG1MdEFmTGpuNGlNVmxtbjBqaVdfRGxPcEM5bkRrOFpQN0hTVmZQSmJZM1Y4Y0pvdmNlTXhWN2VQUQ?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-28T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.361214"
+    },
+    {
+      "id": "895c0d77f11267cd",
+      "titulo": "Deco se queda sin tiempo: el segundo fichaje del Barça 2026-27 se atasca en el último momento",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWFVMdXRRM0pvU0dwT2t1R21mZzdYWlltNXk5ZmhuUmdsb0VPSVdYQWhXOHJCQWl6MFNlTzRLcEYwcy1WNE1fV2JGNnBqTExJX0tjeURfOG1Ta0hOMURocDRscFh0Vmd1QWdNTDJhMm4tQlV4RlZkU0NQQlgydU1QNGdoSjZtWTFoQjIzMmEzSm9TZzRIRElxQ3NHOG5IbjF0djdrczQxbDRfajVkMTJKOFZGNERHdzRZVWc5cDVNYU1qajcwdmxjbU5DQXc5TE1KU01MatIB2gFBVV95cUxQRG5aZWFQSDJ1S3NwdWo0RjYzQmNOQkJhNU80OEloXzlDLWRLOUZKRU12N0RFcDJtZXY2NlcwTjJWaVYzQUswMW5fd0Z6eUZXQXhXbUdyQS1ubmZXODR6N0xiMlNSbmhsZGFjdU9VVlVLQkpPMlhyZTRINkJRTzctb25qVWlNMHpDWWEtQk5idS10dlhYX2Y0NW95Mk1PdmM4RS0yOElFRzhVcmk3Y3RJN09IZGUzU2V4ZXRlc0lZUnE2ZXFvcmJFU1huSXQ5UEJtN3RDV1FoaHFjdw?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-28T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.362268"
+    },
+    {
+      "id": "4fe25ee7ce434cf8",
+      "titulo": "El Barça consumirá todo su saldo de Fair Play con el fichaje de Julián Álvarez: el sustituto de Lewandowski cuesta 45 millones al año",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcVlOOTk4Ny1rMXctdGJ6UUhSSG9zU3FUUUtNMGZhQWIya2dmeXNRXzZKRDhLUTViUFZDcnI5aGpTX2JRWHNRXzdVWkVzY1pQOUpVemtWV1VacXJIUmhKekJnSEZLRVRoQXJqSFk0UUVVNmNXSHhCbHV5cTBEUnYzeUZCWTVlbmhSTUozem5MNXdTU3lPVk1NVXRURi1lNGpGcEVDQWVZalRKV1RCM09HSHFESVdYTnluQ0JHUmNyWHlMN3A3aHBJa3RpQUdET1XSAdQBQVVfeXFMT0ZnUS15NlVGUVExWVBBWW1fY1RkWFhBX0JMWEJnNE1NZURYSUVrNE00MlczbUo5emxPdl8wcWR3bjVQanVTY1h5eWYyVGNZRmlHVkZNQ3hMSXpaRVJFRVczLWNDVmRIQ1dudUlpUmNIYkk4N19JZWg4eGtYa0h6Mk5qbVdwNkhJMnkzX1pwaS1YcU5samhBQVljY1BIV0VRNXV1Z25SVUJwaGt3QWdhVVVXb2JCbno1cHAwVUJWOEQ5UnZjd3A3WHZDVUJQTHJwanNkYjg?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-28T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.363074"
+    },
+    {
+      "id": "575973da45e00432",
+      "titulo": "Moses Wright confirma su fichaje por el Barça",
+      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWF5aXRCNzNzMGI1RmNxQ0tKSUlIR3VDZl9QNzdRS0huZDhXUUZ4a3VnNE1lckVLY0xDX216SGZFQ2lNQmhBQ0ZNUHVUSjJnbjFpZ2FfU1hpcTI5QjVUb2o4bmZzU3RtbTlUb1BlaWNvRjRYUzB5SFBUOXFTUmpwT1h1WTlENWQ3NWlNNXNVTdIBowFBVV95cUxNbGN5VE1yR2RkMUw2ckZmX0xpU0xiNEM1YUt4V29Famk3ZlFiNnM1R3pEbDZBLVg4eXhhYm12Wll2VFBNenBfYW5FSC0zZnlSVDFJLW0yenlRZHFRTml0YkkxRFAtdVZXcExfV21VT0tWNzZob1hkRzltb04zX1Z5NkFBZDlmMEF1amRrZ0psTk41QnAxZ3FzTFhFcTFJanpJTWFr?oc=5",
+      "medio": "Diario AS",
+      "tier": 5,
+      "tier_etiqueta": "Ruido / clickbait",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-28T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.363788"
     },
     {
       "id": "e6c1e3f29496f3cf",
@@ -1545,6 +1626,19 @@
       "visto_por_primera_vez": "2026-07-11T20:24:02.100377"
     },
     {
+      "id": "aa3daf9231cb65a0",
+      "titulo": "El Barça B encarrila el fichaje del nuevo Ronald Araujo: cesión con opción de compra por dos millones",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeG10dmtOdlVGaWpQbEFFYkJYNThma3BfWGExUnlsNWJSVzdfdlYtWEdXSHJ0aGVDcWpyRDJweURlYmFpeEE2VkxaWG5LSjhLMkRPMzJQczFRdlJWMW5GUHhxakF5T0RpUFpPek1YNlA1bk9xSWxKVUotbnVKTmFaSkJCa0p1OFdPbjBKN3JSNDFaT2FFZ09zUDFndG5nRTd1SkJ0d2w1RTFaczI1NHZaVVVUTHY1MkJHNjkyZjRfTzNmQU1ZR1dGZ0RBUVRoRWhFRnppWUZ30gHbAUFVX3lxTFBlVExFOU1temU0RGRYbHJGYktOMy1QYnlvQURvY1lrejNtbHZsYlFvc21HcExSRmc4Zy1VV3U1eGVUVlFHNDcxOEtwLVB1OUZlOWd0REV4QWE0RlNrWVBMUDZNejFOMnBsMUxvQkJhRU1HNlZtNTZGSlpsdUZHb2xaa3c4V09kUVdmWW1XY1NPY2txX3hTeFZxX3duMmRTM1d0MjgtWlhZTjZXdVhwb2Vjb1dIQldJWkJMQ0NHSmxseHhsNHZxWkxUOXpmWFdqRFVsU1ZXUDQ2STR6UQ?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-06-27T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.361477"
+    },
+    {
       "id": "20b2d84db5e5791e",
       "titulo": "No es amor, es obsesión: el enorme favor de Míchel al Barça en forma de fichaje",
       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR1hQX3pKNjc4VnVQTFM2LWNXY0lIakFFSFVQMDNfZWNyMjZQeGtLdHJZRl80Y0JIZWtxZzYzVmNZNWViQndPMG5NRnpGUGxCRk8wZVRKQUF6eWtSZmlzTUprYWpYR0Zfb2Vmc2Y3TXhEYjc1NU96VmJQTW1pVmNlVklBTUo1Mm9lREU2WXRlbWhjOWF5VkdLVV9NMW40cXJtcEdWdWdzR1l5c1VfRllKd0xCMW1tYV9MTWhhbWN3N0Q3Q2lCcGVPR2VqLXBwS1FZ0gHWAUFVX3lxTFBqVkVhWnhBUTNqWUR3VWFlZU9FVGEtdy14cFg2UVItbF8yR0hGNm51TTczcVNhVkJYQWViV0N6OEFIUWpuWXZkY1NQSzc4Ri1QMmUwNjZ5ZXN4WWFNVGJJVW5HcEhZU0FpQVRVWG1oXzBZMnBPTU0zNUkyM2lyNl9qOXExMy1MdVhMZ2ZoU09fbm4zbFhWTkVmcGhDTlppeE1xWnZReW9OYXlnNWNJT2VQMjh6RkZvQTU1dGExczFwYmo4aXpncUl2WE11dVpkek1HYzNaNWc?oc=5",
@@ -1556,6 +1650,19 @@
       "fecha": "2026-06-25T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:40:56.272996"
+    },
+    {
+      "id": "fca7cca468b6417e",
+      "titulo": "La inaudita sinceridad de Cucurella y la triple negación sobre la oferta del Barça",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVd2RHBLT19ELUdoMWJWcndnSUNmVDBQTUlxbmRDenVkMF9TTElCSlZ0Q3hCMWVTREdXVEo3TGktUmVPWmpLYVhNWUFWM0RWYWlfOEFwaExfRTFaUFlSSU5rak1RUGFJU2hWNkxXeXVUZi1TQk9UTDV5XzdYQ2s1M0lvMk0tN3J2Wno3Tk9NdTBEWURfaHB4eGJKZEYxaWZya3d0c3VIT2tuN1RUQm1ZeVRhR1lnNFAx?oc=5",
+      "medio": "El Desmarque",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-25T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.363363"
     },
     {
       "id": "45f3afb2d4372202",
@@ -1649,6 +1756,58 @@
       "visto_por_primera_vez": "2026-07-12T01:02:36.556529"
     },
     {
+      "id": "c14c3deb69e42f08",
+      "titulo": "La operación salida de Deco en el Barça a una semana de la regla 1:1 del Fair Play: en busca de 20 millones antes del 30 de junio",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOXFyQm1GZ1pUa2ZvSlpTcVQ5U282UVc3SEZuZzFkNmVGbWp5NFpSY1Zhdk9Fdm5FRGNUOU1OVG9yWjVCY0k3TjBFLVQyblRUVlR5aTdNTnVxdHBSMHNHYVRkOHRYQTJ0eXo0UTdubThzZUxXbk1BTkRJTnhhUFNHbDVPTE4yV3ZDQ2o1cXl6S3YxTWhVOEJOcUk0QVhUN0p1NlVYZEVtZFZBeGE3Sng4bTFJMzE0UUx2X09ySHQ4TTdVbU02WndF0gHMAUFVX3lxTE5MNWVsZ0lLVzUweXA2UzREQUhZTlNpTmZ1eGREX180Q3pfV0FOclk4Z3VPbTZwYVA1TVFMU3p2OGloYmMzTFVZNU9vR0NzLUJXbm91V3gwU2VSM3R5eXc4ZnNPVElnUnM1TDZVNk10UUpmWDZGTXdhUVRhdXViWmJPZ2l1Qk1FVDdabGt4eHkyZzFVWWpfTXJfT2ZrdEsxenVnR3ZIUWRldWoyRWRGUnpOMHNUeXA3d2hRcGFsYlVlRjJjanNWeTNabXNHbw?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-23T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.361801"
+    },
+    {
+      "id": "d710d8c239ded59f",
+      "titulo": "El segundo fichaje de Deco para el Barça 2026-27 ya es oficial: refuerzo para la delantera tras Anthony Gordon",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSUhiWlNRRUxfdy1uU0dNOW9lUzJwc1F6d1JMN1BjSURkOFBxR2stdktsWkJ6cVhPYnEzNHI5MFo5ZzAwRjRycV81czNpa2pzR2JKWnZvYWk0RW5XVkZPRVFyNGpUY05TRUN5bW1PZ1lzczJwTG5RUTVfOXFob3BacGNFWXozRHNLcVF1YVlPU2J0eDV1Z1JOMlZLd05MWGQwblVwaDN0RXFxVThaeEhHd0IteGhqWGh2YjlCaV8wc3BnT2VIMkY2NTZQaE5iejFGWlVUNWIxbk5wQdIB3wFBVV95cUxOVjNRRWVyVUdtajJ5NGozZTRvM1VxM2RPYWZrNnRvcEo3REdoMnVyY0h4NkNzY1lpWGhIT0VwTWpuakR4Slo3bE5pT09lMU56QWpGdzcxTjJKRlZRa0lqVUUtODZvM0VyQlMwNkV3VW44RFUxb3BEM0x5UTd5enJ1U05SaVRnZXhfX052WENDNnVmUmxjeTlKUlI4Tjk3YVJfNDdvYTlDNG9mM0t2WnJVTWpJblpuQWw2cWM0UVhIVWZlMFVVYnFLak5QMW4tRWFyTXMzdFc3MW9OUmpUTFBn?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-06-23T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.363500"
+    },
+    {
+      "id": "1efa6e38677dd22a",
+      "titulo": "El Barça vende a Iñaki Peña al Panathinaikos: Así queda el puzzle de la portería azulgrana",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZFZOVzhiNDZneGIwaXRMMmxpRFFEX2FpV1AtMGRLSUlHem1XQVkyZTEtOXRRb3RfbFRmbDlLV3lWNWxiSkZ4VVJILXJ5LXlUTzZwR2pWWGVyWVZ0ZzVJUm8xZENYcTBGMnVLaVlrSkJjRHJfNkhBWFN0V3pDYmhuekZSTnlrWnlMRDFLbFpJLVRKTDBpTHd4U0RRbTlIaWFnRUNGWXNpa01zSXA5X0toanhSTnN2TTJSMndJa2pSQXVVTmNaSG41dWU1bHBla2NnVWIza1B4bXVyU2xBMlZB0gHkAUFVX3lxTE9vV0dmamJlZTNLS200ZDNlbXJQNUdQMXc1Sk41b21IMEJ1UzN4bFl6eWVabGxYaVlKM0Q2eV9LQTkzTTNuT2l5ank4MGNaYWplSWI1YkFNbjJlTFdnX3NGdWpmSm1kRWgyTHFPWjJpNnBrd0t6ekFWd0VvTUVEc1BjQlBUTlpiaDR0bXk4TmF4TjJyMmZTYXlpb3lHLUxEWGtwQkxZSXFMRXZDX0FSWERYVWpsV2VQVlIzME9JelBxUFJ2XzJpR1NCa2Q4WnV5S0hUSDF6ZFlKeHdIU1BvOFRiOVZPWQ?oc=5",
+      "medio": "La Vanguardia",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-23T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.363668"
+    },
+    {
+      "id": "04a1bd57ce57a14a",
+      "titulo": "El FC Barcelona ingresará 3 M€ con una venta",
+      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaWw4MDltSGFRMktFY3NRY1BLbnRJb01VN3RuMXNDWXVfb3JRTGk3QjltZk5McUVOR2laT2hfVWpLU0NYdWVvd2lDclhITmEwUlcwRnhwSXVWazBYMjExV0thYms0cFRDQ2RIVEEtTk9YVkExNjZoRjlJUFFlUjFpZFR1RUc4M0xTRXVjblZYa3JNSmU2emd3?oc=5",
+      "medio": "Fichajes.com",
+      "tier": 5,
+      "tier_etiqueta": "Ruido / clickbait",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-22T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.362917"
+    },
+    {
       "id": "f83f4da5a7c2f37f",
       "titulo": "El FC Barcelona, cerca de perder a una de las principales piezas de su filial",
       "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQk1qekxYdTM1M1FhSTBQS1pPV0hsZjBFdFVFQ2NnMy1QbTdxR00talVvZFNDNTZWWV9LLU9OelFndVBWU3J0R2c1WHdESXpuNVIxSmZIbVh5blU4RGdzclNILTRsSHZrcUlsU3N1eXpIN1NobzFBYUZ4d2J2X1V0Nmt5R3BtNHlvcHl5cktWSHpRTUpXSUlDSkYyMUx4NjlGSE5EUkQwR1BMeVRmR2RCSTd0VER5RzFfYUpGM0V6SQ?oc=5",
@@ -1660,6 +1819,84 @@
       "fecha": "2026-06-21T07:00:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-11T20:24:03.640535"
+    },
+    {
+      "id": "15f1e99d3de6f129",
+      "titulo": "El segundo fichaje de Deco para el Barça 2026-27 tiene nombre y apellidos: cuesta ocho millones de euros",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWHdHaXJ1WkpLLXRBYllTZnNCTDJSenQwcm9odnlmUjVoZ3JQc2FrZ0NSQXFXaDdxeXlIRHJaVEFpaEQtTk04YV9lcG1Dc1MwX2x0UHpOMHFIQlM5Q0NXbUlkZlcyU3dxTy0zZkRWb3VFV2UyTHFJOTMtNWNOX2NPWDY4QlNrNTNGcF9qYTVVNHdIX2J3MU5Reld4cW81S2NGOXhIOWxlT0dVbVpTeDhWZHZEYUFXZWt0Q29BZGhFYWZTa1pYRlAwNEhPclloNFprN2pjb1ZxNEVlQdIB3wFBVV95cUxPM1ZRNFU4cE4wc3FURGJFcGgyLUtzeTJYQzdkOHI3VEZCQWFRclRJMGdUWk9ydXA4TE5Ed0hza1BRU2tFUEJnRkM1OFYzY21DemszMFR0V1NXNVVRSnpqY3lNZ2x4SGtFMEd6UXJQMjM2OXh6WG9JWUtvMUdyQXYwc1JiQmpiNHJjWU93X2x0UTU1MVhyTWQ3STdmVEtibXY4YjliZjVaNlVEang1LVV0YVZiaXZ6NWxSTUloSGtsREJvQmJRdWJneXc4UmV1SVNZUXRTRERlc2JnSmFzOXc4?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-19T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.361932"
+    },
+    {
+      "id": "47f43e0862ea926e",
+      "titulo": "El Barça ata a su segundo fichaje, Jorge Salinas",
+      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSDNNZHZ2TkY5OGFPYTFvVkVlUnB1enhPcG1rYUU4ZmthZVZMYXpOMG9CZkk3d3hNc3FMUGtBTVFBU0VnaGd5LXJ5NHd0R05qa1h0dGZkZmdGNERhRHpvaEI5MEo4QWc4bzFuUzdBVG1MVTF6dU5KSVJ6NWtZTkZUVXdMU3c5RDjSAYcBQVVfeXFMUFk5OVZXZk5aelI3dkp3SmN0aGhwNzFaTjFoemQ0c3F6SGttQVU4c2hXYUdZdWxBb0l0Nm02aEh0UDMtZ3VTVk1KeldqNUlxVFlZb1F5a0NqQXI0djFZcllpY0NsMVN3UEpHSWNZRlExcTlESjRsWkZVU1VfZTB2VFREWm90WklJ?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-19T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.363871"
+    },
+    {
+      "id": "29360680464be754",
+      "titulo": "Las 3 opciones de fichajes que maneja el FC Barcelona por si no logran traer a Julián Álvarez",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ3lhRFdkcGNFQ2tjdHBhSU43Uk9LdmhuTk9KYUp2TTY2YUx5Q3ZkcE9QYXo1Qk9WTDh2LXhpeDVNeUxKZEFSVTNsbVR5VGN6Q2k5dFE0UlF5Zkhfai0yclFodGVyN3VlTUhDMzBpZUR2Vzd4NXhLR0dhc2xTYTNjNVhZeVlZMGlOSy1YMzdLYVViQjN5RlpWMldXVGVSZkxWYUVEdEp1WGp6SGp5dmxPN1I5QjlvSWcxQ0U3VVdmUHVvYTA?oc=5",
+      "medio": "Sports Illustrated",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-18T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.362053"
+    },
+    {
+      "id": "14c5fb02ea2605da",
+      "titulo": "Se estanca la operación salida en el Barça: así están todos los casos",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXNQN0padmtfRnl3T2w2U2FvSl94NlozWnJNbXhod0xVWm15TERyVlBVQmw0c3pfU0lXZzdfTUNVMnV6VkdTMjJMVE8xSHliekxmMXZWRVF0WXpiTjF1MzNqS2JoVnBYVW9qamRVWnJEMWJySUVtZ2ZhNks5Y0dlRmxoUGI2V1puSm9iVXZKNmJqdXRBbzdDbTdUS1FtSFhIb0E2a0J5bEQwUDFxRFVhbW9R0gGyAUFVX3lxTE0wSlFJZW9pWGN1RDJkVV9CNkRUaWlHdDQyMHlVU2F2LW1aa3htczkzZXJCUTVLVnRxY3NQMDA2M1dFanhYelgxNEY5M0gwWlp2MjhyZVBINFgxdlZ3MktTQTJtZ29uVnpqQW9CV3BsRFNKNVA5NldWaHBja2NqNlFSZzZ2UFhmMDBnZ0RSVkt2azhja2xqcUFjMlRrS01XY05taS10STV1NGRhMGl0aHZDekE?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-17T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.362505"
+    },
+    {
+      "id": "80af4a854e283744",
+      "titulo": "Últimas noticias de fichajes del FC Barcelona: Dusan Vlahovic, Eli Junior Kroupi, Marc Casadó, Vitor Reis y más",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOVROWVNLc1Vfa003VERXZEd5NklHNENaeDJ2bXNvdnFPaTBSTzFIS3ZzOVZfck9MeWVRMUVPcnJOT0czMVhMMWdkZlBNNFI2bkZ3SHdhWlIxckx2aE1QYUJ2UHFncDZ5XzJablU4OE02UGZlSHFtN0dIVzBCendFSlNUUlhzOGtYdVF3cmZCWGJmdlU0Nm4weXFXMGtwRWtpX1VZT190VDc4bWpqWFBROFB2SzZCbFMtRkh2S1A0Z3dQdlBFWWFuRmtrZWJPS2ZORnpLOW5B?oc=5",
+      "medio": "Sports Illustrated",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-16T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.362387"
+    },
+    {
+      "id": "a6a4505cce06ed66",
+      "titulo": "El Barça no descarta una nueva cesión de Ter Stegen tras su lesión: Míchel es un enamorado del alemán y le quiere en el Ajax",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYzBfQkQ0UW42ZXgwVmhpMmJJeER5cHU0TzJlVXlkRzFPOHVvNHhlZm5ZTU1RV0Z5em8wWTVldHFtcW82bE9qb3FhNmJaQ2FmOXc2TTVfMm5scnlMLVFJTFJBckJUeTU3aUNCNGtMOTN4dEswYmFtSzllTUVuQUhNZHhNTGw4MmhuMEo5a2FrTk9WUHgtVmx5dGFabDQ3c0tFY2szWllZZEF2aUVLQ1RuRmNhdU5GbTF1dFZPeHpIRkxqYUhqdjhqLTFabXNoTkFodnFYUTZzc0NIZjY4bk5UbjJaZE1BNkNXUTdIVHkyNFJ6djNFV2k5RW5jTWxjZ1pOVlptbUdxU0bSAZwCQVVfeXFMTjNxU2w3WHUyZ3NScFlSVVgtWkVUNXdSbmdNQWVZaU1vcEwycnI3cDVSSmdRVTlaYkk2TGg0NDZ4U3ZJMy04Yi1aSVJnck9Zanc5b0JDUnMzVGhqZjh3bDFYZC1MbmZKQnJYY3NOeWVOS2NIRU9BTDJxZkQySW9TMFFpRXk1a2t4Uk5uMmZvdE92aWZhMWxOMU1manNIWjFaNlVDTG5ySC1MSXlGNnBWZ2hUSlZNV3NwcHA5UzZIYjh1djVaVTVPOS1nTXNzNUR4OUNoc19Ddl9YV0xDeVhQbTg3UXg0ZFhnc0dsMFJOd002aXl5R1FWRkpvU1d1aEJ4aUNDLTFRWmZhZ2EwanowSE02X092YV93OFRnVnQ?oc=5",
+      "medio": "Cadena SER",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-16T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T01:10:55.362782"
     }
   ]
 }
