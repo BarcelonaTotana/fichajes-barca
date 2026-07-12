@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T00:52:03.590722Z",
-  "total": 124,
+  "actualizado": "2026-07-12T01:02:37.567393Z",
+  "total": 125,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -1634,6 +1634,19 @@
       "fecha": "2026-06-23T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.102235"
+    },
+    {
+      "id": "6a6895bd049b8564",
+      "titulo": "Un periódico español: Hamza Abdelkarim, un fichaje ideal para el Barcelona",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb0ZDYWl1UC1MbWptZlVXTnItcnMwUTl3VnA2MXU5ODgyRFNBT19Lc3k3aFJHR05rc1JUQXYyVEg5RFNNRWxZYU1MYmhPc3lCVkUtb05OWUdvdm53X25LeU9oMEhrcE9KMi1wNkFSYVlpZ0M5elBGZk9xYU5hWjJVcXJKUHNFUC1qNHhpblYxbWtRZkZ4UWlQQWFyeU1vNVVWS084NEFZUFpOdzBNWnpza1dwSGYwRUQ1VG1KT3lwSEp1cW1yYnk4?oc=5",
+      "medio": "Goal.com",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-23T07:00:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-12T01:02:36.556529"
     },
     {
       "id": "f83f4da5a7c2f37f",
