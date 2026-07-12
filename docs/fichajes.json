@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T14:03:38.106276Z",
-  "total": 169,
+  "actualizado": "2026-07-12T14:15:17.844801Z",
+  "total": 204,
   "cerradas": [
     "juan ybarra",
     "olivier nkamhoua"
@@ -17,8 +17,10 @@
     "2424d14d53098add",
     "27f25d89b4825926",
     "30f4eae64d270777",
+    "352f8451dd4e256b",
     "3b3868743b3b44cd",
     "3e1e9d7b56e10b9a",
+    "3e2c4f091ab5587f",
     "3fdddeb97e3bd4a4",
     "40c7579b1923fccf",
     "4350d89f43a19914",
@@ -115,6 +117,19 @@
       "visto_por_primera_vez": "2026-07-12T10:26:39.744147"
     },
     {
+      "id": "080407db3db9f2ff",
+      "titulo": "Gordon empieza a convencer",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260712/1004205633/gordon-empieza-convencer.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-12T10:07:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:11.998043"
+    },
+    {
       "id": "74e5901669c129e9",
       "titulo": "Olivier Nkamhoua, primer fichaje del Barça",
       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzdCZGFJd0pLd0g2LU9jc24td21nR1RwZUFMVlVmcmdwbmFsY3FXN0pudkVReWxWanVPaDZHSjhqMUZlZGdVZFIzV01HRDVBcGstUzhheW5QWXpaVUZJWC1jRUYzLWIzdzg2b3ZmbFdBNTNEbEpTVUlJREdGckkyUDlMYnnSAZgBQVVfeXFMTnVzSVlwQWt1ajNMZmtxWlNYREw2dkdEVC1nRU0yRU5Ea1FGNUpyeXJYNVFNMzFoUWxGWXZmemxXNmRvNDFCdVI3TWdyVW9RNmFvb2FNZlcxNUV2S3JnQkxsdjJicEwtanV1V29tdG01SWhBeXNjbnBaeng4QzRXbi0wVXZ4TVZuY3hhcWk5QWRkS05ycGl4dDQ?oc=5",
@@ -165,6 +180,19 @@
       "fecha": "2026-07-12T09:35:06",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-12T09:42:02.713149"
+    },
+    {
+      "id": "6d6aba67c3f53407",
+      "titulo": "La salida de Brian Fariñas al Girona, inminente",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260712/1004205625/salida-brian-farinas-girona-inminente.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T09:34:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:11.998220"
     },
     {
       "id": "8f35aa9144d84d17",
@@ -232,6 +260,45 @@
       "visto_por_primera_vez": "2026-07-12T09:51:46.238037"
     },
     {
+      "id": "18f140ea9d1bd6b2",
+      "titulo": "Girona-Brian Fariñas avanzan pero falta para el acuerdo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260712/1004205519/girona-brian-farinas-avanzan-no-hay-acuerdo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "avanzado",
+      "fecha": "2026-07-12T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:11.998548"
+    },
+    {
+      "id": "5dd0956ad597b7f7",
+      "titulo": "El Ajax se impacienta con la 'operación Ter Stegen'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260712/1004205492/ajax-impacienta-operacion-ter-stegen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-12T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:11.998813"
+    },
+    {
+      "id": "8ca1728ed2244464",
+      "titulo": "Colocan al Barça en la batalla por Kaua 'Pavuna' Lucas, a quien comparan con Ronaldinho",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205527/colocan-barca-batalla-kaua-pavuna-lucas-comparan-ronaldinho.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-11T21:32:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:11.998980"
+    },
+    {
       "id": "0efa9b0714bbdd08",
       "titulo": "La agenda del Barça con el fichaje de Adeyemi",
       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3VicmRqeXp3dTNiY2hOZUhQOXFjU1R0Q1d3OXN6QjAwcEVTNWxZWkdITTAyS0xCdllDOHhjY2oyZVF5T1ZITUlSaWpXSUxvRnpacF95MWRqYjE4SXZqMDhfc2pRWUdzaGphWmJLRmhVekMteTBuOFQ0NzRjYUp1alJETdIBgwFBVV95cUxPVkFaTnBpLUwtMFJ3YjYzcXNNZ3lIN2pVTkJqc3Q2cHlydFh3YnZObWhCdUdPMXNQZlkyZ3RvS1I5SW9INXJuX1U4amVJWWlZa2tVcFIwa0tMMUg0bWpIUzBfdjhEbURJdF9MSkNmLW1IVk9nRk5nZkE2blEtXzhBQVJQMA?oc=5",
@@ -297,6 +364,19 @@
       "visto_por_primera_vez": "2026-07-11T20:24:02.091078"
     },
     {
+      "id": "db805e8a0dd79381",
+      "titulo": "En el vestuario del Ajax ya esperan a Ter Stegen con los brazos abiertos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205414/vestuario-ajax-esperan-ter-stegen-brazos-abiertos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-11T14:31:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:11.999708"
+    },
+    {
       "id": "50d1a01ff4dc6c9f",
       "titulo": "¡Acuerdo total para el fichaje de Bisiwu por el Barça!",
       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNlMtdkJFR1hNWEIwdFV4STMtN1N0ZDduaXpFcFVlZ19INWRuOXp4alB6MmZYZFYwNzREN2JSU29EQTdmVVFCUzhEcXFfSE5zQWRBeDh1cDdUM2hwdDdfZVRIeU9LUW1nVkhPS2dmTGJseDU2dk5nYVI0SXdFV0hVWGEyQ2lrU0g0VDVj0gGLAUFVX3lxTE1fNjRicFc4SGZmem1QUDlVbmthUmpwemJUdHBMdjlYSFh2WkJhLVBFeTBVblVhWXRxVkNRbU5mSmdwY2xYVkZhU3h3cDZybURFTldKci04bHJEOFpwU2JnWDNhQUttcEhvUnpzSUN6dVh4WTVTNTJvOUpLZXBmaXYtNGF2ejczUkNPdzA?oc=5",
@@ -308,6 +388,19 @@
       "fecha": "2026-07-11T14:22:38",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.034741"
+    },
+    {
+      "id": "71e31924a389a20b",
+      "titulo": "Flick y la apuesta por el máximo dinamismo en el ataque",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205406/flick-apuesta-maximo-dinamismo-ataque.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-11T13:54:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:11.999885"
     },
     {
       "id": "e51a7d6e1cc44247",
@@ -334,6 +427,19 @@
       "fecha": "2026-07-11T12:33:45",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.733466"
+    },
+    {
+      "id": "c16c3c2d0ccfea22",
+      "titulo": "El Bayern, muy atento a Koundé",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205376/bayern-atento-kounde.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-11T12:27:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.000035"
     },
     {
       "id": "9fc838d50de0fe9d",
@@ -375,6 +481,19 @@
       "visto_por_primera_vez": "2026-07-11T20:23:54.035110"
     },
     {
+      "id": "0ae2a9f27f11d820",
+      "titulo": "El Al-Hilal sigue obsesionado con Raphinha",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205339/hilal-sigue-obsesionado-raphinha.html",
+      "medio": "mundodeportivo.com",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-11T10:16:54",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.000655"
+    },
+    {
       "id": "770ff1830e8a010b",
       "titulo": "Ferran Torres negocia con uno de los grandes rivales del Barça: principio de acuerdo y 50 millones",
       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZzIzVVNlNWI5a0duTlBjblZtSXNnNndZN2xyWjFpQ2F3Wm1udU14aVdlODVYRjkxRnUwcU54Wm1fZ184ZGJHSjVTUUN6MzZNS21lNkhmVjZER3IxM2tYVW9OclpTM2xTNVplbVROLUdlemRlTGE3ckQ4bGlCZGJIWXdQSFoyRFlkZWpFbHk4eXU5Z1ZsRjZEZE1XUFVIRlFINTVEX0hmSk1MY0tmVFhZNG12MGZJQVU0?oc=5",
@@ -386,6 +505,19 @@
       "fecha": "2026-07-11T10:03:44",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T23:10:59.883847"
+    },
+    {
+      "id": "0a2d3fa780f69c69",
+      "titulo": "En Bélgica dan por cerrado el fichaje de Bisiwu",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205313/brujas-empieza-asumir-marcha-bisiwu.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-11T09:19:30",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.000796"
     },
     {
       "id": "f6077b9dc4673321",
@@ -412,6 +544,19 @@
       "fecha": "2026-07-11T08:12:16",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.091586"
+    },
+    {
+      "id": "b54da08687b4ee93",
+      "titulo": "Negociación en marcha y muy buena sintonía entre Ferran Torres y el PSG",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205288/negociacion-marcha-buena-sintonia-ferran-psg.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-11T07:48:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.001054"
     },
     {
       "id": "9edce93ae27b024e",
@@ -531,6 +676,19 @@
       "visto_por_primera_vez": "2026-07-11T20:23:55.733159"
     },
     {
+      "id": "a9232bbbb345d5ad",
+      "titulo": "Las cifras del fichaje de Adeyemi",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004205193/cifras-fichaje-adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-10T18:02:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.001487"
+    },
+    {
       "id": "4ef1ea1c8d089474",
       "titulo": "El Barça ultima el fichaje de Karim Adeyemi",
       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1VZWm5TZFZyMzY0ODVHNkNHcC1hLU9LX3A0dDZMclpHZFlRUk1PQnVnTi1meFlOSi1ySTRRd3BaQ2ZmQ0x5NHE2b0tteGw3N29TOHZmclp3TjdscXNjV1RGV2NMQ3Bkd19RWXZNNXhyZndPTzYxa0hGSEg0TGJHR2hJVEVnZ2QyZHQtZ1I4aWl2MzBySmfSAZsBQVVfeXFMTm0xUC00VEhCOG5yLWQ3T0tGVXR1bGhwQ3lrZ0EwVHc1ck54dkxtNExYZjd6QVVaVWJjU1dRSHlwSGhmUU9OT2NOSDZSeE1tclVIRG9abzBxWFo3VXNwMi1rUXh2RlRRNFg5UjF2cVZrQ3hvcGFHOEhhOUE0TDFiQWlqOVJYckRmMU9XVUYtR09QT0hpRndSVnFpdkE?oc=5",
@@ -568,6 +726,19 @@
       "fecha": "2026-07-10T17:20:31",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.095466"
+    },
+    {
+      "id": "d3e5f13356af651c",
+      "titulo": "Al-Ahly, rival del Barça en el Gamper",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004205178/ahly-rival-barca-gamper.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-10T17:20:29",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.001587"
     },
     {
       "id": "d6f54fcbef38986d",
@@ -646,6 +817,19 @@
       "fecha": "2026-07-10T16:49:43",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.095195"
+    },
+    {
+      "id": "1d224b86345eb4b7",
+      "titulo": "El Barça muestra su apoyo a las víctimas de los incendios en Almería y Catalunya",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004205163/barca-muestra-apoyo-victimas-incendios-almeria-cataluna.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-10T16:49:27",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.001887"
     },
     {
       "id": "d0f0a160514d299f",
@@ -765,6 +949,19 @@
       "visto_por_primera_vez": "2026-07-11T20:24:03.640671"
     },
     {
+      "id": "29df672f8a3884f7",
+      "titulo": "Así juega Adeyemi: un talento en busca de la redención",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004204846/asi-juega-adeyemi-talento-busca-redencion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-10T14:20:04",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.002257"
+    },
+    {
       "id": "3e1e9d7b56e10b9a",
       "titulo": "Surrealista: cierra su fichaje por el Barça, pero paga su cláusula para irse antes de ser anunciado",
       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbEthLW5FTVBMQ2Ffalo1WUxWV3lIYjlPeXJZUGVOcVdhWGNtS0VtR3EzLTV5N1g0Q244ekE2QlhhWDJ4UnFpNTFwQk94T0IyVF9Yd1dzUWtBYkZmb3FHbXVhblNfMmhmSWhFMUFYWnEwWElUVGJsVkRXZzhhRDR1M1BGVjNUdU1qNFJfT3VPX0hGVE5feUVFU25LdnB3YkpIeHg4TkVDX0h6enNQV3E0alNIWXZlT1NSUlNJOW9TVU1jUVd5X25qU2dremtEejJxY3JF0gHgAUFVX3lxTE9Oekl3MC15TU83aVBickJncTdlUlVvVTZFX3ZwYUhKSTItYUR6Sm1Sdms4X0ZYcE44LWwtYzZhZjlBNE44aUpQT2EwWjhsaGp3NS05ZXhvOE1ldG5uMktDX1VBLUdaREFoRno0c1c4bml6WU9DY2RsSDdwb2dicjdxMWdpM05OQllUbTA3bXdiMkY5dGN5cnpILVhDUG1qOHQ3aVRmQVVDZ1VQRThMY3g0YURMNFVOZGMyMHphRnpXUWtud1ZMMVZIUFpXOUxueldSaThYWUZlUWY1eVZhWS1D?oc=5",
@@ -843,6 +1040,19 @@
       "visto_por_primera_vez": "2026-07-11T20:23:54.036073"
     },
     {
+      "id": "73c6b10260a6cef5",
+      "titulo": "El Dortmund ya negocia con el sustituto de Adeyemi",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004204897/dortmund-negocia-sustituto-adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-10T06:56:07",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.002641"
+    },
+    {
       "id": "f153787e0d3b471a",
       "titulo": "La oferta del Barcelona por Adeyemi y el España-Bélgica, protagonistas de las portadas deportivas de hoy",
       "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSWNVZ3VkczdQRWw1REltcXBkbkowamZiSEctQkNXNUM4YW9uN3AxZ0JRZGZrdGprRXljMjgwTDhleEd6RlZGUXQ1Q0xZLW5WZWYyVzNQS0hwSUQyY2NnR1hKRnU0Y3czUmVVMlVtNkJXR1pvZzN0RThnSHBYTXFDcGdTN2dvOEdaN19sYnB5TVo0ZTBNT0tSZnQ3cEpHWTdFSDNkbUNUdWF2ZTJ1b2k4elVHRkZDZEVmc19Ba1ZLRG1pUjNPZk9XZ09rWktua2tXQjlvTVF1Z282T1BOWldqbk9R0gHvAUFVX3lxTE8tampJbW0xYl8yNFFibUVxclRsclVWaUhDYXlNWmlwcFRjdjBuYU8xdGxFQTFVeXd6MkNubjEtbzZxYU9LdVdRSGQzZVh0YXEwTVh1VzdiblZobVlpcFJwQkpnMWl0RVRCYnpJRG0yU1N4am8tS2F1aVQxbmtIS3lZTWdWelJQendnQ2pTNUQ3YVM1Ums3ajRQWFU4cFRweHpwaVdFcEdwYi0zLS1MTlA1QV9TVTVHb0UxdVdLajhoZXpaT1c3STRpb2dSTmhyeFo1dUY3N0l6dUJrWFNKWE41bnpxMGprUUc2eW9rektR?oc=5",
@@ -854,6 +1064,45 @@
       "fecha": "2026-07-10T05:06:28",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.734315"
+    },
+    {
+      "id": "b2cd0b6b0302ce36",
+      "titulo": "Si llegan Gordon y Adeyemi ¿qué no nos han contado?",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004204817/llegan-gordon-adeyemi-no-han-contado.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-10T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.002864"
+    },
+    {
+      "id": "c7028ef0a6dcece0",
+      "titulo": "Lamine Yamal y Pedri sí apuestan por Julián Álvarez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004204826/lamine-yamal-pedri-apuestan-julian-alvarez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-10T04:55:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.003057"
+    },
+    {
+      "id": "4efae5593365bd44",
+      "titulo": "Dos Primeras y un Segunda, a por Yaako",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204837/dos-primeras-segunda-yaako.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-09T21:19:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.003319"
     },
     {
       "id": "26fdac9f5d9333a6",
@@ -882,6 +1131,19 @@
       "visto_por_primera_vez": "2026-07-11T20:23:55.735306"
     },
     {
+      "id": "2999e7e11505586d",
+      "titulo": "Se acerca el 'pellizco' por Sergi Domínguez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204812/acerca-pellizco-sergi-dominguez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-09T19:59:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.003483"
+    },
+    {
       "id": "3b3868743b3b44cd",
       "titulo": "¡Acuerdo total Barça-Adeyemi!",
       "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXJGVnRNZ0lPWVdKMkdOUjd0TWI0eXdBZlFkZ2lncTVtbldsZklRd29XYjdEaHlfdnJic19DQ0p3UjM2NE9yaFdvVS1DZVRyX0ctcEZmNjV4RDIzcXVzYjlJMXJhdzVIWXd2cHNsdzNKTWJxdEZ5bzdISjd0dFRRQVBn0gGCAUFVX3lxTE9EVEdZTUxVa2JVWEJiNzM4Zm9QVzQtRU9LYUZ5cjZUZmhjR3NYdzFPenNPbE5CcDRmUkd1TnN2U1RMa2VRQnYtM1BoNEhfY1pXN09QN2t1ZG05RWpzNVJxMWd3RDZPQ2hIa3M0RW50V0hkb2Zpa1pGeEpDZzBEOEQxdXc?oc=5",
@@ -906,6 +1168,19 @@
       "fecha": "2026-07-09T18:56:34",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.091709"
+    },
+    {
+      "id": "ed94df701e37fbbe",
+      "titulo": "Nuevo césped para el Spotify Camp Nou",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204759/nuevo-cesped-spotify-camp-nou.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-09T18:45:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.003671"
     },
     {
       "id": "c383845699e845be",
@@ -984,6 +1259,19 @@
       "fecha": "2026-07-09T17:33:04",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.734615"
+    },
+    {
+      "id": "26b0a969a599ebe7",
+      "titulo": "El Dortmund rechaza la primera oferta por Adeyemi pero sigue con voluntad de negociar",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204746/dortmund-rechaza-primera-oferta-adeyemi-sigue-voluntad-negociar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-09T17:09:03",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.003942"
     },
     {
       "id": "0069a55d2c0e761e",
@@ -1090,6 +1378,19 @@
       "visto_por_primera_vez": "2026-07-11T20:24:02.099084"
     },
     {
+      "id": "60320534fddd628f",
+      "titulo": "El Newcastle ficha al nuevo De Jong por 27 millones de euros",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260709/1004204657/newcastle-ficha-joya-ajax-27-millones-euros.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-09T13:18:25",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-07-12T14:15:13.409129"
+    },
+    {
       "id": "006c52cf8fac6981",
       "titulo": "El Barça contará con un adelanto de 210 millones para fichajes",
       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTW5vaDFXQmtQNXotRDRPQWNhbXZyVDRreFUzUWt4SXo0SVZkRlFJQ0JtdE82cXFlcWlBbWlHSUFPYUlETzhPSVpRTGNaUi1aNXZRbW5jUGlkZEFFbll1aWQzR2pMMXl3M2t5c2MxNC01azlXZFlYb0tJc1haM1RkTnRBV3BXV1NxR3YyZzNn0gGOAUFVX3lxTFBuUDA1Vl94NTRSX2N4Z0UwbXRfOUhGSzAzN1hNWEZyWXJpajNpeWJtd3pJOGxKSVF5dDN5aUZwc0c1Rjc5ZTJlVDhTTG5LSjJ3VEthNTZvWERKcEMyUFVhb1FXdTk5bmFpNmMxR0wtN3VZQlFZcTBQNkJhUVNmT2lLX3AxLXdRcTY3SGdlWXc?oc=5",
@@ -1140,6 +1441,19 @@
       "fecha": "2026-07-09T12:41:08",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.037477"
+    },
+    {
+      "id": "3e2c4f091ab5587f",
+      "titulo": "Flick ya apostó por Adeyemi y ahora lo quiere en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204634/flick-aposto-adeyemi-quiere-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-09T12:22:06",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.004316"
     },
     {
       "id": "620077c2b51e1fd5",
@@ -1233,6 +1547,19 @@
       "visto_por_primera_vez": "2026-07-11T20:24:02.094658"
     },
     {
+      "id": "10d7f095069d3c18",
+      "titulo": "Adeyemi ya dejó claro hace años su deseo de jugar en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204511/adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-09T07:17:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.005124"
+    },
+    {
       "id": "98eecd3df6977fd7",
       "titulo": "Caos en el Barça: cinco fichajes frustrados, sin entrenador ni responsable y apenas jugadores para un quint...",
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkNKRnl3SEVuRzJseDhCZFBMazdPUnM1Ui13ZXVQZzFBb0t1cjdQREZzVVlwR1FfSnZQRTdReHpXRm4wWHEwdnV5UXZyLWtETk9Kdm9KTDNQZjhYNGlmLVpZMlZiOEZueXdvTmNPbUdRU2xsNjhLWUc2dXlmbVJldGw2a2gxS1RYcEtRc0dUTmpEeHFha0c4Nm9mRnFHRHEyR2hNb3ZFSjhfTXRfVUNzd2psc2IyUkdVM19HdG01c3R3VXpjMS1QNldyNNIB0AFBVV95cUxPY2xpVzQzWXhVb2NFLVd0eFZaQjRSQ0FiSFB4TFNUVUdPajEyUE5UUmM1U3pXaUdyS3hmbklndUNySFNKV3NRUUQzamhTNnpnWDlxaXJVaWVTVXA2QmlGeHhrY0M0RjhQNXhMZnFhTWx0ZEoxTVJaOW1tMUZ2bThQUGJwSkVhT0FtLXZKWkVmclhPTHhkSEFlV3ZYbTFGS3RILU0wYmFpMHBqMVpJa1UxMGRVVXBLMGtnUnFKVGVObXktRUlvZ09YQlYxMG96MUhQ?oc=5",
@@ -1257,6 +1584,58 @@
       "fecha": "2026-07-09T06:21:02",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.037157"
+    },
+    {
+      "id": "6582fa113bc553e3",
+      "titulo": "Ha pasado un mes y de José Mourinho nunca más se supo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204435/pasado-mes-jose-mourinho-nunca-supo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-09T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.006001"
+    },
+    {
+      "id": "f553bc21c6db35a4",
+      "titulo": "El escaparate del Johan convence a Ybarra",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204336/escaparate-johan-convence-ybarra.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-09T04:25:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.006308"
+    },
+    {
+      "id": "2f9d5483558c79c4",
+      "titulo": "Flick, pendiente de entradas y salidas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204452/flick-pendiente-entradas-salidas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-09T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.006563"
+    },
+    {
+      "id": "6ed5eac18d56c5d3",
+      "titulo": "¡El Barça se lanza a por Adeyemi!",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204485/barca-lanza-adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-09T00:08:02",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.006775"
     },
     {
       "id": "7857946182e35b5f",
@@ -1322,6 +1701,45 @@
       "fecha": "2026-07-08T06:43:00",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T22:10:53.704164"
+    },
+    {
+      "id": "99ea19e92e6e451b",
+      "titulo": "Ofensiva del Barça por Bisiwu (Brujas)",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260708/1004203848/ofensiva-barca-bisiwu-brujas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-08T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.007913"
+    },
+    {
+      "id": "12b775df67220152",
+      "titulo": "Tranquilidad con Joao Cancelo en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260708/1004204074/tranquilidad-joao-cancelo-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-08T04:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.008261"
+    },
+    {
+      "id": "51d26e905641924a",
+      "titulo": "Una zurda de muchos quilates para el Barça Atlètic",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260708/1004203591/zurda-quilates-barca-atletic.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-08T04:20:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-12T14:15:12.008656"
     },
     {
       "id": "55eef78b05e4894d",
@@ -1439,6 +1857,19 @@
       "fecha": "2026-07-05T22:46:16",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.097494"
+    },
+    {
+      "id": "150f5ac209adfbbd",
+      "titulo": "El Newcastle anuncia el fichaje del sustituto de Gordon",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260705/1004203159/newcastle.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-05T17:34:24",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-07-12T14:15:13.410301"
     },
     {
       "id": "95de755381e23720",
@@ -1608,6 +2039,19 @@
       "fecha": "2026-07-02T12:18:57",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.100893"
+    },
+    {
+      "id": "f9acae6fab289c5b",
+      "titulo": "La Premier League se suma a la puja por Oso",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260702/1004201918/premier-league-suma-puja-oso.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-02T09:23:15",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-07-12T14:15:13.411622"
     },
     {
       "id": "ee43f99940cffd0f",
@@ -2219,6 +2663,19 @@
       "fecha": "2026-06-17T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T01:10:55.362505"
+    },
+    {
+      "id": "67bc06e59be96655",
+      "titulo": "No hay acuerdo: adiós a Arthur Melo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260616/1004195911/no-hay-acuerdo-adios-arthur-melo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-06-16T19:46:19",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-07-12T14:15:13.414755"
     },
     {
       "id": "80af4a854e283744",
