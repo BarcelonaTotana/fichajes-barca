@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T09:51:48.652388Z",
-  "total": 157,
+  "actualizado": "2026-07-12T10:03:30.184946Z",
+  "total": 158,
   "cerradas": [
     "juan ybarra"
   ],
@@ -47,6 +47,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "6a794eef4ff717e2",
+      "titulo": "El Barça abre el mercado con Olivier Nkamhoua, su primer fichaje de la temporada",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU3NaaU51b2F6cXE0VjV2R3pmVFZxZFBuTU5LNHNJWWpVV2hXOWtyT09COTFPQWJjOENjbkpjakNFM1FJend3dllIX184aGoteTI3aVpSQnJ0Vk9kTlMya1pGX21uZ3dnR0o2eF80VEdfbjQ4cWk4RzAxS0hJYmpTelNDS01FQlc3REF1V2o0YVZTNUhJVlVNZnpkMGZZazROUmhGLWhVZkNwblBKQzNuQnF3SU5kbHBDSFBRMHZIZGhKbDE1NktUR1FMUmd5SEE5OUHSAd8BQVVfeXFMUGJESnEyN0pYRTdhcnhCdXdwYklZVkhSc29wem44bTItekZ2VlZHbXBfQ1JNeHF2WHVWYzh5ZW1aOGJBZF9DX0l4eWN6d3ZpX0FGUTYtOWQ4eHY0eTNiT0NaNzBTSUFZMXd1VnFpNzVfemRTQUI5cm41ZjhsenQwNW10YUN6bHFaQWJhZm00dDZFREZqNnJSSkJ2SDlqSkNzV3d3M1RvMXdiNG5sOVBLWjJwM1V2eHE2QjJYMXVza3hNOFBSNnBZODVXdE45c0xKelpMUEdmb1FIVktPTlh4MA?oc=5",
+      "medio": "Mundo Deportivo",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T09:52:07",
+      "fuente_feed": "Mundo Deportivo",
+      "visto_por_primera_vez": "2026-07-12T10:03:21.725316"
+    },
     {
       "id": "5a0ee75c2b2b89ed",
       "titulo": "Negociar con Josean Querejeta, una autentica tortura para el Barça",
