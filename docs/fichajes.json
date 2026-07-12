@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T03:10:59.329713Z",
-  "total": 144,
+  "actualizado": "2026-07-12T03:20:55.223375Z",
+  "total": 145,
   "cerradas": [],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -1468,6 +1468,19 @@
       "fecha": "2026-06-30T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T01:10:55.362650"
+    },
+    {
+      "id": "50dc44b8c241f6da",
+      "titulo": "Llega otra lista de fichajes espectaculares en Europa con Barça, Veszprem y Kiel al mando",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcEw5RVpaZnkzZmw5cmJCZ2NzcVFyUTFsR2ZRRVFROGx6NFJDNVdoWXRoYk91eldXTlZ5UEVIajlkZ0xsUkRlTDlYTlNjakI2TzlVUXBaeFd3NjlXS2xGU1lMRjMwQmJwaGtMeUlOS2JmeGhXb1lESkxsRzFLSjV3SndTd19pcHBVdkdBMmp2bXhPbVV2anFLNV9aSElaWWxqWXBFQ2M2aWkyU2FtNXpSbnlIQ0dveGNUSW40SFBySTRWOUhkalNkWHlueHpyTUHSAdwBQVVfeXFMTnZ5V210TkZlWXBIY3hheGV0NjBtT04xQkwydW1VS1EwTFFjR2xESjRLMG8yd1I2WmlEY2VnbXMySWt4NWNqdTd3ZlFRV0lGQWZVcXc3V19QZzdyZDgzX2NDOGF4VjgtOVJGZnYxYXlHN1pJS1I1SjU4a1ZxUUFhYk5hX0dKY3RhTUJWQVRTZHItb21zUEZnbEhwNENDNzdvYTZLaHp5Sm1Eck4wNW5KR3hMa3B3YzF0dkR1X1N1V3dZcy1kVkthcnJCUDFwc1pPTmotVjBHVW5Rc0JIbg?oc=5",
+      "medio": "Mundo Deportivo",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-30T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T03:20:52.679820"
     },
     {
       "id": "c1f61e2100fae43b",
