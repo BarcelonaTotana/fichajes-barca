@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T10:13:16.766864Z",
-  "total": 158,
+  "actualizado": "2026-07-12T10:26:42.167254Z",
+  "total": 162,
   "cerradas": [
     "juan ybarra"
   ],
@@ -47,6 +47,32 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "3918a48cc024f92f",
+      "titulo": "Nkamhoua, primer refuerzo del Barça: \"Estoy muy contento de estar aquí\"",
+      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2NKRlJybTdlbGs1bkpHQVIzNjZTcVpqV1JyZjBTSHJtc2lfTm0xQXZfWTl4dUFzOVVzNk1OQjZHUE5TcjNMbjRCMFBycHNHVEpuLWMwVEVrR1hTME1seUJaelNGOGc2OVdhdEtyRU00ekVhMXZXbkZFN0ZOSmd1TEZCeEFsWk5TV3Z2MDNEZ0JSZjJGOFZ6Ml9ON0lFdlpOdVhoc1RWZDZFdjVnaFl4djZZTEpVNHI2SnFrR2tzMVZ1Z9IBzwFBVV95cUxOdklQQ2x4VHRLUHlkT041aTItUTdPbHdWN3YzTzZWQTNvVVFYUEozY2FHcktTZncxalNrcmZ4VGpLWTRkejJSeTZVM09RNmgzTlpFUzdqYmJEN3lBVnBYbWo2TmJuamxmZXZ0d0lmWDBQa253WHhRTGI1VWlnbkFCVGYxbkZmSXZJQmVOVEpkbVBZcjNsRG5lZ3Ixb2t3R252TzVQSUVvZWNhaDFzeXViaXE5aXpzYUxDNnRZM2dyREJCVG9GUGVrc1J4eHhTQjg?oc=5",
+      "medio": "Mundo Deportivo",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T10:21:34",
+      "fuente_feed": "Mundo Deportivo",
+      "visto_por_primera_vez": "2026-07-12T10:26:33.851333"
+    },
+    {
+      "id": "39ae6282708f6765",
+      "titulo": "El Barça comienza su tortuosa reconstrucción: oficializa el fichaje del finlandés Nkamhoua",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2J2S1MtVGJOZG5KUU5BZ0VJYTBjRmNoR0hwam1FU2FKbzBrel92Yl9BRC13UF82S0xKUVZGNHNLVlVDQzJsVzdCOWFkSzBNMkxFWXIzR2hHblJPQS1yd2ZvNVJrRElTVWZ4eURSaGoyeTRRRndyZG5SODBRVmF2ZGlDcDRZbkZyd1BOcjJSdkZJQmdsMUtHUV9GQ0R4aWpoczhJaEQxWVc0cHdN?oc=5",
+      "medio": "El Periódico",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-12T10:13:21",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T10:26:39.744147"
+    },
     {
       "id": "6a794eef4ff717e2",
       "titulo": "El Barça abre el mercado con Olivier Nkamhoua, su primer fichaje de la temporada",
@@ -1151,6 +1177,32 @@
       "fecha": "2026-07-08T15:32:46",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.038245"
+    },
+    {
+      "id": "a0953555958047c5",
+      "titulo": "El FC Barcelona acelera por el fichaje de una nueva joya para el ataque",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOelNaOVhWa01ZdHk4Q0dsVGFqcVBtajJkZDFCMlc3R3VjOHRmelBDNlhCY0V4Z0l6aWZKZXUxamZIc1lNbXU1QzVTano1cmdzN2YyYlUtcGUzQ1NjSENxek1BOXM0WkVtMnJ6UHlrd3ZOc3VUY29Fa2dGanl1Q0xweE5KckF4MUlOMU9wX2RhZjEzMkUtR0F0R01iMnhyZzY1QzdzNzNn?oc=5",
+      "medio": "Sports Illustrated",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-08T13:52:44",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T10:26:39.752305"
+    },
+    {
+      "id": "1c574a3364ac3494",
+      "titulo": "David Bernabéu revela que Diomande fue ofrecido al Barcelona",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3paYWZFZ0t3Y1JjU1pzcjlZM0VuZjc0MUg3R0pZZjUwSk4ydUV6WWh1SXIxbEQ4WW5CNXNGUTJVMU5KUHlPM0J4V1FTRk9QcUJkdXM1SGNCMWVOajlPVTFhQ3JSNEVsYXVSNFNWaGo1aC1yaUFTeWlDUEl2SzNXVjBTZmdVUmw5S1VjYnFmaDFpZFdxMnhHYmY2UmdqV29oaTB2UdIBpAFBVV95cUxNZnpoQTNtS0J0ZDVGRm1HSHpJQzRaSGV6ZG9rTGhiNExzUnJ6OTFOSVNXbHprQ2dIcVl2OUd2N1hWSE1NaDByWGNzcGNpQVVrYUs3Q2ZjQ1JIY3B6NGdpdkp2Y2hVZExieG5RUHlUREN5LVVqNUlvX09Nc2IzVGFCUElNU3hEYmJFNnRuNzNfdjFWSi1pb1ZBWVNpbnVRVC1hUUZpOQ?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-08T12:54:12",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-12T10:26:32.359159"
     },
     {
       "id": "6c8f00b103dc3566",
