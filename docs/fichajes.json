@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T08:51:01.874130Z",
-  "total": 152,
+  "actualizado": "2026-07-12T09:02:46.336624Z",
+  "total": 154,
   "cerradas": [
     "juan ybarra"
   ],
@@ -25,6 +25,7 @@
     "50d1a01ff4dc6c9f",
     "5b462f2a0265786c",
     "69e2532d04071127",
+    "6c872010888cca54",
     "6c8f00b103dc3566",
     "6e71035cd811a191",
     "7311a4fc282f6a99",
@@ -45,6 +46,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "a43a9a8f0e93e0ae",
+      "titulo": "Incógnita Bardhji en el Barça: más de diez ofertas, charla con Flick y decisión final",
+      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTERpRVhlakYyUGRwYUlhdHJYS0VNVVNENXgyaG9scTM4LUFxUWxHWllsclB3S0V1NHV5SkJQaFdGbFNzUy02b0UzdEZjOHRLNG85a3g5MzBLZU1mZThSaTlmdlc5T2tMdEV2THAtSWRGSWZVMEEyUjFsQmZuaVJMQzNCVTl3TlJRbzdDN0130gGOAUFVX3lxTFBHMEY3eWwwNUdzanlxVFFEc2JKd0dRblBHN0xTVDZRdzJVWmttckJSZUxoRGV4OWYxZTBjSUQxTnlmWElXM0NrNTE4ckI0OFlod0tNR211VXFNWloxX3pFVlh0VE5QYzVLdDVUVnNqNmFsSmYzN084OFVJcV9xbjZROExNVWVMU3hiUmlYdFE?oc=5",
+      "medio": "SPORT",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T08:50:39",
+      "fuente_feed": "SPORT",
+      "visto_por_primera_vez": "2026-07-12T09:02:35.527468"
+    },
     {
       "id": "0efa9b0714bbdd08",
       "titulo": "La agenda del Barça con el fichaje de Adeyemi",
@@ -1370,6 +1384,19 @@
       "fecha": "2026-07-03T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.101289"
+    },
+    {
+      "id": "6c872010888cca54",
+      "titulo": "Acuerdo para la rescisión de contrato de Ferran Font",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVdfdGJFU2ZmYVphWnBrTWNPTVFOOUFvbzhyVXVjOC1KWnVLSzhRRzZWbGh2QjE2c1FwUFhFSWcteEZveHp3NnpJd056RHFnaHFiT0NtVTkxRHVVb1h6SklkaGlueno1UTVJQWh2U3BwRjJ0WS10WG9tOFRleXVpOGxvSU1SUVl0ek1QMTRiMzZ0bDdNVzhIUGhncmdhQzF4N2NmbnVRY05XeGs?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-02T16:47:57",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-07-12T09:02:41.772498"
     },
     {
       "id": "885acda367f2b59d",
