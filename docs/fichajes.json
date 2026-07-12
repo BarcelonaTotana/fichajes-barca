@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-12T07:41:02.334379Z",
-  "total": 149,
+  "actualizado": "2026-07-12T07:41:31.112668Z",
+  "total": 150,
   "cerradas": [
     "juan ybarra"
   ],
@@ -28,6 +28,7 @@
     "6e71035cd811a191",
     "7311a4fc282f6a99",
     "7f5de7c97cea0906",
+    "831ffdba8f3957f2",
     "8b4dc1648da51d1b",
     "9edce93ae27b024e",
     "a6a4505cce06ed66",
@@ -1667,6 +1668,19 @@
       "fecha": "2026-06-28T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T01:10:55.363788"
+    },
+    {
+      "id": "831ffdba8f3957f2",
+      "titulo": "El Barça cierra la cesión del carrilero ecuatoriano Josué Caicedo",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1F4ZGZFQUdWOVc1UzVNR1pUZVNsWnN6WGdBS2ZieW4zeHEwSU9UYl9CN0J4MnBGQmFJR2d0WFA5WGg3ZzZON1N3T3NneVgtcTJtb0pmdmVnVW42XzVxUXkwQTVIVUJ2RTJEVm5xN3RLLUgwN2NPa1BGWElMejQ4YUR6SkRkNV90ajhGd2FSQ2p0TlUzcnRqTHlPdUE4c2V2eXpYek9HZGk3VURPVzFSaGFoTzc4RmFudmhyUVQtRVlrQmFLb1J5Nml6a9IB2AFBVV95cUxQUUhmM1BPdUFOc2NOUHhGUWJzZ0Q2OXJqRzQzZWszLVdHRUo5cEpXTUNNall2dmF1djU4VnJya3NxWTR1QVRIZGNRUzk4Q1lSbXVuMTQyd3hyVVg3RmtBeS1GSU9LRHdkTS13Z2FJZktRUDBVMUM1aUdwT21jajhtZUNHeWl0ZVJ4R2hjOVlmMlcxU2E1UkpTN2NfOThFT3VwUkw1V19ZUHZCSTJlRjZYZFJhZ1dvb3E2UFcxM0wyT0xYMUpsLWxZV1FreGlWZ1dUbnZWbTVzZnA?oc=5",
+      "medio": "Mundo Deportivo",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-06-28T07:00:00",
+      "fuente_feed": "General primer equipo",
+      "visto_por_primera_vez": "2026-07-12T07:41:28.220743"
     },
     {
       "id": "e6c1e3f29496f3cf",
