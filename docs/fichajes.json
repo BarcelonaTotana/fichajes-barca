@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T20:01:11.278358Z",
-  "total": 231,
+  "actualizado": "2026-07-13T20:11:00.802845Z",
+  "total": 232,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -66,6 +66,19 @@
       "fecha": "2026-07-13T19:24:44",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-13T19:40:58.020771"
+    },
+    {
+      "id": "e3d648167c40f7b0",
+      "titulo": "El nuevo fichaje de Juliano Belletti para el Barça B que sigue la estela de Patricio Pacífico y Hamza Abdelkarim",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcmZJQlNtelBnbXVESlRWUmgyVlhyVTVLT00wb0xKNzh2TXM5ZjJYblRIYWVpdlFiSXdKWnRJaVpKdHlaelhhNkJ2UHBDWFE2Z29LWnVua0Jvd0xoU19mUzMxRmJYU01PaVdZa3pjZVVBbWFadW4wNnNHUlJGcmZIcjZBVV9PVlNLMUM5ck9pZ2lGS3dOY3BrSmo1MmN5bzIydk92TGpsM1NBSEJRWFlsc0xBZDFIY1dQczM4al9HZmF3MVg0NmJyYWREMUlhRGxDQjE1dlRGUlhhdGY1bW1LNtIB4AFBVV95cUxNcmZJQlNtelBnbXVESlRWUmgyVlhyVTVLT00wb0xKNzh2TXM5ZjJYblRIYWVpdlFiSXdKWnRJaVpKdHlaelhhNkJ2UHBDWFE2Z29LWnVua0Jvd0xoU19mUzMxRmJYU01PaVdZa3pjZVVBbWFadW4wNnNHUlJGcmZIcjZBVV9PVlNLMUM5ck9pZ2lGS3dOY3BrSmo1MmN5bzIydk92TGpsM1NBSEJRWFlsc0xBZDFIY1dQczM4al9HZmF3MVg0NmJyYWREMUlhRGxDQjE1dlRGUlhhdGY1bW1LNg?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-13T19:06:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T20:10:59.787914"
     },
     {
       "id": "7294d7e02237fbb2",
