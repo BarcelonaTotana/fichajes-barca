@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T17:50:56.684546Z",
-  "total": 226,
+  "actualizado": "2026-07-13T18:01:22.150050Z",
+  "total": 227,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -105,6 +105,19 @@
       "fecha": "2026-07-13T16:15:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-13T16:20:59.791151"
+    },
+    {
+      "id": "e84844e0fff80a93",
+      "titulo": "Oficial: Barcelona ficha al talento ecuatoriano Josué Caicedo para el Barça Atlètic",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTZxX3dKVEZjR1VBSERYNlpzY0ZDWXBXXy1tdDhYLVdPSnl2ZWJ3UTJrNXFyNTYya2k0UDZQVFBpWGswZzBIcER0SU1qNXFpcjJUN3lxS3VIaXBNVlNmdW9ybTdsbnN1blV5LXZmQjRhSjFsY0tvcEU1X0NWdzVPamhTS3h3em1pSUpDQjB5cWJ5TGxNVU5UdUdZX3pZN1psOGszN2lPZXN5ZUZHTVJVc1dNLWpYV0xhaFVJLTNtQdIBxAFBVV95cUxOeXN6cllXb0JPMldqdzllUW13a2pwU1dyOXVzcHpzdHdteExuMFctam1YTFZjTm9Sd3EzU29sak81b1B4eXJCUkFhSDFZdjN2U0V0WVg1T0xhT0NvSmVEbWhwLVJCWFFsd3lnWV8taS1pVkNFZjVXdl9NVmFNVWs4OHYtWXhBUW96RDlCUXM1Z1FZX01GekN2VFdIVDY4MFY1MFU0NnRYdDBCQnBzcFNYZ2o1TC1KTU9rbWEwREhxWUFqVDBG?oc=5",
+      "medio": "Tribuna.com",
+      "tier": 4,
+      "tier_etiqueta": "Poco fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-07-13T16:12:01",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T18:01:21.136200"
     },
     {
       "id": "9612895aba4f655b",
