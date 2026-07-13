@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T23:01:09.004328Z",
-  "total": 235,
+  "actualizado": "2026-07-13T23:11:01.320726Z",
+  "total": 237,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -54,6 +54,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "2deb60981954a8b0",
+      "titulo": "El Barça ficha a Josué Caicedo: así llega la joya ecuatoriana al Barça Atlètic",
+      "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUZlNjQjlpdTJScXJyZmxOR245Zmc1a0t2Q0g1N2tudzZ6N2dBN2JwYXBWZXl1Y0dOSlhOVS1SZnFRZ05vNkFsenoyS2lWUzJQbV9PVURBTlRUWXVPNElualBZcmFCZw?oc=5",
+      "medio": "Jointly News",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-13T23:02:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T23:11:00.309097"
+    },
+    {
+      "id": "1382e448a3334cc2",
+      "titulo": "FC Barcelona apuesta por el talento ecuatoriano: Josué Caicedo llega al Barça Atlètic",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZkJLVlhhX0k4amlUQThMcGhMdmlVdzdTWVVOZHdkUjB4Vzh2YXB3Q2d4WmN0Q0lGdUp3VzBjQklzMTI5Qld1VU5NQWthVDF4RnJNZ0UyRWQzXzVZM3RDYjVhaHZGaXp1Y1QyYXBKa1VQQ2pPY19acEFqNm1Ucko2X0JZaHBqUHZJSTczUlF1VDFtMzRUUjEzX3kzWGNkOFZDMUNpOEpKQ1ZVMEQ1Y2ltU1RJVm8zV081NGc?oc=5",
+      "medio": "expreso.ec",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-13T23:01:04",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T23:11:00.309237"
+    },
     {
       "id": "a43d74d0bc403ab0",
       "titulo": "Josué Caicedo ficha por el FC Barcelona Atlètic: así fue el acuerdo con Liga de Quito",
