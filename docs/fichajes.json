@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T17:31:07.761826Z",
-  "total": 225,
+  "actualizado": "2026-07-13T17:41:01.123379Z",
+  "total": 226,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -170,6 +170,19 @@
       "fecha": "2026-07-13T14:28:58",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-13T14:40:53.754589"
+    },
+    {
+      "id": "c1ea4288e4fe7688",
+      "titulo": "Oscar estuvo a punto de llegar al Barça: “Intentaron ficharme para que jugara gratis”",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004206060/oscar-revela-estuvo-punto-llegar-barca-intentaron-ficharme-jugara-gratis.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-13T14:28:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-13T17:40:55.998226"
     },
     {
       "id": "b931085094d6fe73",
