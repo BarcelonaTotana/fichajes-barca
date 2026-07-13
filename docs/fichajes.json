@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T10:01:15.323839Z",
-  "total": 212,
+  "actualizado": "2026-07-13T10:11:01.799853Z",
+  "total": 213,
   "cerradas": [
     "juan ybarra",
     "olivier nkamhoua"
@@ -51,6 +51,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "d418f4a8d9cf4d63",
+      "titulo": "La cláusula que encarece la renovación de Ferran Torres",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004205931/clausula-encarece-renovacion-ferran-torres.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-13T10:00:48",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-13T10:10:56.636161"
+    },
     {
       "id": "4912b0566284362d",
       "titulo": "Laporta, sobre el interés del PSG en Ferran Torres: \"No tenemos constancia\"",
