@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T07:31:04.303947Z",
-  "total": 211,
+  "actualizado": "2026-07-13T07:40:56.748188Z",
+  "total": 212,
   "cerradas": [
     "juan ybarra",
     "olivier nkamhoua"
@@ -102,6 +102,19 @@
       "fecha": "2026-07-12T21:49:28",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T22:10:51.446664"
+    },
+    {
+      "id": "3160707d6ee40601",
+      "titulo": "Laporta, claro sobre Julián Álvarez: \"No bailaremos la música de nadie\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260712/1004205841/laporta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-12T21:49:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-13T07:40:51.166906"
     },
     {
       "id": "e33c4fad5927feb6",
