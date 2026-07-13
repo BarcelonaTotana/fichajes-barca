@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T19:01:17.593009Z",
-  "total": 229,
+  "actualizado": "2026-07-13T19:10:59.775324Z",
+  "total": 230,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -79,6 +79,19 @@
       "fecha": "2026-07-13T18:45:25",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-13T19:01:16.578836"
+    },
+    {
+      "id": "d35950099b405611",
+      "titulo": "Los Kluivert confirman que hay brecha generacional en los fans",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004206168/kluivert-confirman-hay-brecha-generacional-fans.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-13T18:38:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-13T19:10:54.698025"
     },
     {
       "id": "d1d56c4e6a5e4964",
