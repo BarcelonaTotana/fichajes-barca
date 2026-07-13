@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T14:31:06.726604Z",
-  "total": 216,
+  "actualizado": "2026-07-13T14:40:58.487892Z",
+  "total": 217,
   "cerradas": [
     "juan ybarra",
     "olivier nkamhoua"
@@ -51,6 +51,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "06c20191e2079c64",
+      "titulo": "Oscar revela que estuvo a punto de llegar al Barça: “Intentaron ficharme para que jugara gratis”",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004206060/oscar-revela-estuvo-punto-llegar-barca-intentaron-ficharme-jugara-gratis.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-13T14:28:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-13T14:40:53.754589"
+    },
     {
       "id": "b931085094d6fe73",
       "titulo": "A Flick le toca mover ficha en defensa: las decisiones",
