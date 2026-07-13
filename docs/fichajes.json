@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T22:50:57.389866Z",
-  "total": 234,
+  "actualizado": "2026-07-13T23:01:09.004328Z",
+  "total": 235,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -54,6 +54,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a43d74d0bc403ab0",
+      "titulo": "Josué Caicedo ficha por el FC Barcelona Atlètic: así fue el acuerdo con Liga de Quito",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjJHaXFfWE1qRWMwMHFBMGdJVjlIUm9ySW5kU3k1V204aGRaNEY3VWZpSWJRNXNqeEoxTmhpamhlY01lZWxETGFIOUN1T0tzbmZFNnpUZXVfVlREOTVMZVoxbENvdjVlaVFiaGgxVjJVYVhBWFRKRGwzVDlNanJUQmYtZDMtV0Y1NnFlSW10WVRZUTRXZFdaWE9MNmlDY3Fka3RhdDR2OVRBUzI5bHJ5RlMxZw?oc=5",
+      "medio": "extra.ec",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-13T22:49:45",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T23:01:07.990472"
+    },
     {
       "id": "5ef9c0d06519c0d2",
       "titulo": "Barcelona anuncia el fichaje del ecuatoriano Josué Caicedo para el filial",
