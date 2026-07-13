@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T17:01:13.995205Z",
-  "total": 224,
+  "actualizado": "2026-07-13T17:05:01.280949Z",
+  "total": 225,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -43,6 +43,7 @@
     "ab109c4f2d31ccf8",
     "b6be42fd132bae88",
     "c383845699e845be",
+    "c4e9378d7e1652b2",
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
     "d99b318f89a79c54",
@@ -143,6 +144,19 @@
       "fecha": "2026-07-13T15:15:36",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-13T15:40:56.442907"
+    },
+    {
+      "id": "c4e9378d7e1652b2",
+      "titulo": "Oficial: Josué Caicedo, cedido al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004206085/oficial-barca-ficha-josue-caicedo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-07-13T15:15:36",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-13T17:03:59.645904"
     },
     {
       "id": "06c20191e2079c64",
