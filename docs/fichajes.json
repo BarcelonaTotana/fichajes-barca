@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T19:31:09.869059Z",
-  "total": 230,
+  "actualizado": "2026-07-13T19:41:03.543037Z",
+  "total": 231,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -54,6 +54,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "8ce7607ab68ab244",
+      "titulo": "Casadó: el Barça pide entre 30 y 40 millones por él y Arabia sigue apretando",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004206182/casado-barca-pide-30-40-millones-arabia-sigue-apretando.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-13T19:24:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-13T19:40:58.020771"
+    },
     {
       "id": "7294d7e02237fbb2",
       "titulo": "Barça ficha a Josué Caicedo: Barça Atlètic 2026/27",
