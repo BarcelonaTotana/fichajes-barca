@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T16:11:05.443198Z",
-  "total": 220,
+  "actualizado": "2026-07-13T16:21:00.804330Z",
+  "total": 221,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -53,6 +53,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "4497b7be3a362a08",
+      "titulo": "Oficial: el Barça ficha a la nueva joya ecuatoriana",
+      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUhWZVI0dy15MHVZclF1SXNDS1FWc2d0ZFRzczNkYXlYZDV5MUd6ZmRlUlNoTEZ5XzNuSWFrZDhGX1QtRzRRQUNRV3lBTHBzaDBhUy1ncGF0b2wzYXFjSFZkWmk4OTJST2ZWZXNSTXVld3JSZnBnV3Q3djBqZU9QV1NhTlN6bXhWOE9MUEc5dFpGS3ky?oc=5",
+      "medio": "Fichajes.net",
+      "tier": 5,
+      "tier_etiqueta": "Ruido / clickbait",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-13T16:15:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T16:20:59.791151"
+    },
     {
       "id": "9612895aba4f655b",
       "titulo": "El lateral ecuatoriano Josué Caicedo, cedido con opción de compra al filial del Barcelona",
