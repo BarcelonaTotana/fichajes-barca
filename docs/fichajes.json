@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T16:21:00.804330Z",
-  "total": 221,
+  "actualizado": "2026-07-13T16:31:03.768798Z",
+  "total": 222,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -53,6 +53,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "8627b64eaac19f53",
+      "titulo": "El FC Barcelona hace oficial el fichaje del ecuatoriano Josué Caicedo para su filial",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUtPQnQycllkQmtzd01yQUo5dnhVdG93ZnlVZXNHaGRjOWdRTTdPT1lHLUIydzVpaHlyVmxxN2dMT1ZPaUtUbG83MFFIY1B3S1dUNE03dXpRUm5YUU5FMHpNbUlTRi15MjZMR0kxZkk3WjlOaVlVVGpORHNZQ0xNeUE4cnN6Nlg1RmlZX1pjeTN2MnNwTnhGdUxkb2pndnI1amF0TDJPWnQxczYyWDhpQkFmTVladkRJekZmeTVGR3Q0ZHc?oc=5",
+      "medio": "eldiario.ec",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-07-13T16:20:07",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T16:31:02.755032"
+    },
     {
       "id": "4497b7be3a362a08",
       "titulo": "Oficial: el Barça ficha a la nueva joya ecuatoriana",
