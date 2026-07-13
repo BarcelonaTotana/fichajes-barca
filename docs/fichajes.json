@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T20:31:13.400030Z",
-  "total": 232,
+  "actualizado": "2026-07-13T20:41:47.403976Z",
+  "total": 233,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -54,6 +54,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "5ef9c0d06519c0d2",
+      "titulo": "Barcelona anuncia el fichaje del ecuatoriano Josué Caicedo para el filial",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaW4tMjZkTDgwMHRQRXRlcTE2ZTdnUHpSZTFzOUEzTnVBLWRUS0hwMzE0aUx3N21MSG1aclVyZXlOcm0yYW54MndIcmxUV3hDbURQSUhFSXA4NnFLeXZ6VEtrRXI1Z0VVcm1ZRzhFeHp6UDl6VUE0MlVmaXBDVU1DV1VwbXR4elJXOU40LTFhTDJwZjNMU0RXRjRkWWQ0d1hM?oc=5",
+      "medio": "elgoldigital",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-13T20:32:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T20:41:46.389871"
+    },
     {
       "id": "8ce7607ab68ab244",
       "titulo": "Casadó: el Barça pide entre 30 y 40 millones por él y Arabia sigue apretando",
