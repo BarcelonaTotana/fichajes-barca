@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T18:50:59.959185Z",
-  "total": 227,
+  "actualizado": "2026-07-13T19:01:17.593009Z",
+  "total": 229,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -54,6 +54,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "7294d7e02237fbb2",
+      "titulo": "Barça ficha a Josué Caicedo: Barça Atlètic 2026/27",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFdrOWIxWHZLZUhkek9yQ09MTGxDNWNJYmg3aDZLU0JDd2JRcnA3YkNBUHprVFVFOVp4NHU4WDBaWHlUUUJfa2hycTFEbVFzSHVGb2dybk4zX1V0NTVaN2NqZ1hLYVVXTTlDQmdLZzdhSzQ0QWE0MUQ2eEl0NThYX1ZLem5ZSmZibFFja1VtOHRkRGptcExsRU5UR0I3c3JXSzJWQw?oc=5",
+      "medio": "redamazonica.org",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-13T18:56:40",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T19:01:16.578630"
+    },
+    {
+      "id": "7971057224ab4dfc",
+      "titulo": "El Barcelona confirma el fichaje de la joven promesa Josué Caicedo",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWTB0OWk0MWRPYmZ0aDc1S1pYV1BFSkFfZFJGcXhZeGZSU2RlalRLNHVUcktsRmlmOVJOdURSRnFDZTVjVUNuSHFwM3V5S3NZcm5LczFOZ2VvSGxVR05HM0RfU1lYRkszM1VnMkhnVG52NkJVNWo5OHIyTldZd1IxWEs1V3RRNk9IRzgzTmhQQ2lodThFLWVjVDNXN0h5VE1XM1o2X21MQVNldHdPa1poRlVPMXZsc1djMHVPX2JuRQ?oc=5",
+      "medio": "Goal.com",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-13T18:45:25",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T19:01:16.578836"
+    },
     {
       "id": "d1d56c4e6a5e4964",
       "titulo": "El Barcelona hace oficial la vinculación de Josué Caicedo tras acuerdo con Liga de Quito",
