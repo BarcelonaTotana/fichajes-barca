@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T13:01:10.347719Z",
-  "total": 215,
+  "actualizado": "2026-07-13T13:11:07.219278Z",
+  "total": 216,
   "cerradas": [
     "juan ybarra",
     "olivier nkamhoua"
@@ -51,6 +51,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "b931085094d6fe73",
+      "titulo": "A Flick le toca mover ficha en defensa: las decisiones",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004206029/flick-le-toca-mover-ficha-defensa-decisiones.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-13T12:53:25",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-13T13:11:01.491015"
+    },
     {
       "id": "8be8348afa335cbe",
       "titulo": "Ven al Atleti detrás de Ferran con una fórmula singular",
