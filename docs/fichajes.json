@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T10:31:04.601800Z",
-  "total": 213,
+  "actualizado": "2026-07-13T10:40:57.931267Z",
+  "total": 214,
   "cerradas": [
     "juan ybarra",
     "olivier nkamhoua"
@@ -63,6 +63,19 @@
       "fecha": "2026-07-13T10:00:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-13T10:10:56.636161"
+    },
+    {
+      "id": "3088ac7763f0c2d4",
+      "titulo": "La cláusula que encarecería la renovación de Ferran Torres",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004205931/clausula-encarece-renovacion-ferran-torres.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-13T10:00:48",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-13T10:40:53.015389"
     },
     {
       "id": "4912b0566284362d",
