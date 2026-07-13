@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T06:31:03.765199Z",
-  "total": 210,
+  "actualizado": "2026-07-13T06:40:57.410363Z",
+  "total": 211,
   "cerradas": [
     "juan ybarra",
     "olivier nkamhoua"
@@ -51,6 +51,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "4912b0566284362d",
+      "titulo": "Laporta, sobre el interés del PSG en Ferran Torres: \"No tenemos constancia\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004205870/laporta-sobre-interes-psg-ferran-torres-no-constancia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-13T06:21:34",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-13T06:40:51.866276"
+    },
     {
       "id": "541b53e818043442",
       "titulo": "Ter Stegen, citado mientras cierra su cesión",
