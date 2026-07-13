@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T16:01:21.291880Z",
-  "total": 219,
+  "actualizado": "2026-07-13T16:11:05.443198Z",
+  "total": 220,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -53,6 +53,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9612895aba4f655b",
+      "titulo": "El lateral ecuatoriano Josué Caicedo, cedido con opción de compra al filial del Barcelona",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWjF5Q1lfOUVPX3hMWVhkMFNRVXBCWG40TDRVWDFDUWIxM2NtOGxtMEJUdU1yc21CQkdqMXV6LVdKZlFjaXVUakVKQjZkUkZqUkljTnVROFNvZ05sUVB4ZE5BeDktdnlxQnFKRFRlMTkzQ3BqSElIV2FEaHh0czVsR3ZyS242TFlWMXE0aEZBQURzUy1vVDZoVVh0NlBwNXpSaEFVUzZlOHpieDBELWxoRlhvTjBWemN3bjFqck5EcllZb3ZwOU5hY0ZqSEFCUHNsYnFIUHV4Z9IB8gFBVV95cUxPR0pBRTRyTnMxV0JGa1lmajNqeUZTVXFCOWEzYXBETTJYb3NmRmswTlBvd2RmUUF4SG5ZUFFlOFRTbldEX0hWOHFtaEZGQkJzb3JuUUNPc2NuM2s2Ry00Vjl0NDkyS2Jxcmg1R2tmajVoOThQTEV4SEktQ2dHUGtCWFFkLUVLVUlIR1o1YVhoelE0XzljdHdxaV9LY3BBQ1ZOV1dfVFZWY0xQOHNJS0pBZVcwTHFma1B4aTBrQUJsQnluY3JvQzV2c1JKb1JXSEJLRFNWX2pTTGhsX0tYalI0dzZwLVNra1ZRZ0xOeEo5X09lZw?oc=5",
+      "medio": "Infobae",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-13T16:08:02",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T16:11:04.434017"
+    },
     {
       "id": "2b39f705d5552328",
       "titulo": "Nuevo refuerzo para el FC Barcelona",
