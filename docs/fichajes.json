@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T15:50:57.356262Z",
-  "total": 218,
+  "actualizado": "2026-07-13T16:01:21.291880Z",
+  "total": 219,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -53,6 +53,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "2b39f705d5552328",
+      "titulo": "Nuevo refuerzo para el FC Barcelona",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnhSVXE4WmFwZFhoTWJtVm5jZkZMNk5yRmlMSDgyMURydkVUcGoyMDVYUmU3YW5HNFhodkZIVjBBM1VkTEVqdms1T3hJSjBfYVlhajMwUFhGektFeWR6QjdLM1MwOTZndXgzVXFyMk5iYXJQNzFBTHZMMWpVWFNjWkRmQXBKbm0z?oc=5",
+      "medio": "Fichajes.com",
+      "tier": 5,
+      "tier_etiqueta": "Ruido / clickbait",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-13T15:57:40",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T16:01:20.279838"
+    },
     {
       "id": "fa8e9a7abfd2ddc7",
       "titulo": "Oficial: el Barça ficha a Josué Caicedo",
