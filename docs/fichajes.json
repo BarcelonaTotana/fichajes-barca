@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T16:40:59.721593Z",
-  "total": 223,
+  "actualizado": "2026-07-13T16:51:03.472641Z",
+  "total": 224,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -53,6 +53,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d1d56c4e6a5e4964",
+      "titulo": "El Barcelona hace oficial la vinculación de Josué Caicedo tras acuerdo con Liga de Quito",
+      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ2VUR0l1VUFrNFNRcEVjZlBQZmJBZGptenZpeFBUQkk0cWM5d2RZcmxraTRJa1laaUsyZUZESzdfVWNmRFhSWWJmMFo3SzBCU0FVeFEyV0dWN3lqV2dIV2Rjbm9DVTMyREdOa0w1bXVLYkNjNUNHQWQwNVA2R1BmLTZZc1QxdGl1YkE?oc=5",
+      "medio": "Afición Central",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-13T16:38:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-13T16:51:02.458648"
+    },
     {
       "id": "5131aa71365e898b",
       "titulo": "FC Barcelona ficha a la promesa ecuatoriana Josué Caicedo: llega cedido desde Liga de Quito con opción de compra",
