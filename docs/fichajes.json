@@ -1,7 +1,8 @@
 {
-  "actualizado": "2026-07-13T15:31:07.774903Z",
-  "total": 217,
+  "actualizado": "2026-07-13T15:41:01.767760Z",
+  "total": 218,
   "cerradas": [
+    "josue caicedo",
     "juan ybarra",
     "olivier nkamhoua"
   ],
@@ -48,9 +49,23 @@
     "ed20b49c576f59d0",
     "eea11ae24a1b3e53",
     "f20ed5cc2751badd",
-    "f6077b9dc4673321"
+    "f6077b9dc4673321",
+    "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "fa8e9a7abfd2ddc7",
+      "titulo": "Oficial: el Barça ficha a Josué Caicedo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004206085/oficial-barca-ficha-josue-caicedo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-07-13T15:15:36",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-13T15:40:56.442907"
+    },
     {
       "id": "06c20191e2079c64",
       "titulo": "Oscar revela que estuvo a punto de llegar al Barça: “Intentaron ficharme para que jugara gratis”",
