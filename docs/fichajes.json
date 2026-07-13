@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-13T11:31:04.688601Z",
-  "total": 214,
+  "actualizado": "2026-07-13T11:41:02.424475Z",
+  "total": 215,
   "cerradas": [
     "juan ybarra",
     "olivier nkamhoua"
@@ -51,6 +51,19 @@
     "f6077b9dc4673321"
   ],
   "noticias": [
+    {
+      "id": "8be8348afa335cbe",
+      "titulo": "Ven al Atleti detrás de Ferran con una fórmula singular",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004205974/ven-atleti-detras-ferran-formula-singular.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-13T11:20:02",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-13T11:40:57.410566"
+    },
     {
       "id": "d418f4a8d9cf4d63",
       "titulo": "La cláusula que encarece la renovación de Ferran Torres",
