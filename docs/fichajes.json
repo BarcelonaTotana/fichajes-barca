@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-14T18:31:09.908233Z",
-  "total": 243,
+  "actualizado": "2026-07-14T18:41:00.925142Z",
+  "total": 244,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -56,6 +56,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "915ba7f4725298a7",
+      "titulo": "Sin oferta de renovación a Ferran hasta septiembre por el 'fair play'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260714/1004206500/oferta-renovacion-ferran-septiembre-fair-play.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-14T18:09:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-14T18:40:55.267260"
+    },
     {
       "id": "e41d61869a967225",
       "titulo": "Si Casadó sale, Tommy Marqués ocuparía su lugar",
