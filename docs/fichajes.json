@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-14T22:50:55.049640Z",
-  "total": 245,
+  "actualizado": "2026-07-14T23:01:07.089784Z",
+  "total": 246,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -46,6 +46,7 @@
     "c170708f840cd195",
     "c383845699e845be",
     "c4e9378d7e1652b2",
+    "c7770ea441e9cd96",
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
     "d99b318f89a79c54",
@@ -94,6 +95,19 @@
       "fecha": "2026-07-14T16:31:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-14T17:10:58.065041"
+    },
+    {
+      "id": "c7770ea441e9cd96",
+      "titulo": "Xavi Pascual hace efectiva su cláusula de rescisión",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWRIQW8tamowelJvV0NiX3ZrcWtFZ0dlLV9fUTFpWTR5UGxIcWl4SU5CTUZSN0lWTFIwbVFPd1dZWE5WS1ZPdmNQTWRTQ0N6Vm02WFNlM2VNaUQwWXVzR0k0dnp1NWV2cFlrUFJ0TEIyNWhwTl84MDNpeHhRd3U2WWh1Ulg1X2ZVWk9Wd0owaGdPaTI1YS1KcW9zWG5naXRteHBHQm1qU3dxdw?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-14T16:28:10",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-07-14T23:01:00.682773"
     },
     {
       "id": "d2c7e221f71bf970",
