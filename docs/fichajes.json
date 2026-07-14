@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-14T01:01:07.780900Z",
-  "total": 237,
+  "actualizado": "2026-07-14T01:10:52.896692Z",
+  "total": 238,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -9,6 +9,7 @@
   "alertadas": [
     "0069a55d2c0e761e",
     "05fed9472c50534b",
+    "09144d5ce9eed317",
     "0f6dcf300e0cb34e",
     "10c093e3e5f4eedd",
     "12104adbc07a780e",
@@ -54,6 +55,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "09144d5ce9eed317",
+      "titulo": "Marc Bernal es el azulgrana que quiere el Atlético",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260714/1004206170/marc-bernal-azulgrana-quiere-atletico.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-14T01:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-14T01:10:47.728386"
+    },
     {
       "id": "2deb60981954a8b0",
       "titulo": "El Barça ficha a Josué Caicedo: así llega la joya ecuatoriana al Barça Atlètic",
