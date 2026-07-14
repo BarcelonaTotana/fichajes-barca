@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-14T13:31:22.382834Z",
-  "total": 238,
+  "actualizado": "2026-07-14T13:41:54.583362Z",
+  "total": 240,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -55,6 +55,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e3ceb1ec02d1e98c",
+      "titulo": "El Barça maneja un Plan B ilusionante por si se encalla Julián",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260714/1004206392/barca-maneja-plan-b-ilusionante-encalla-julian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-14T13:15:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-14T13:41:49.397332"
+    },
+    {
+      "id": "c4c916cc29ea3981",
+      "titulo": "Julián: nueva oferta tras el Mundial con tope de 100 millones",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260714/1004206391/julian-nueva-oferta-mundial-tope-100-millones.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-14T13:12:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-14T13:41:49.397554"
+    },
     {
       "id": "09144d5ce9eed317",
       "titulo": "Marc Bernal es el azulgrana que quiere el Atlético",
