@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-14T16:31:06.593013Z",
-  "total": 241,
+  "actualizado": "2026-07-14T16:40:56.985920Z",
+  "total": 242,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -56,6 +56,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d2c7e221f71bf970",
+      "titulo": "La progresión de Gerard Martín varía el plan de fichajes de Flick",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260714/1004206459/progresion-gerard-martin-varia-plan-fichajes-flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-14T16:09:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-14T16:40:51.474933"
+    },
     {
       "id": "c170708f840cd195",
       "titulo": "El Barça frena la salida de Fariñas porque Flick lo quiere ver",
