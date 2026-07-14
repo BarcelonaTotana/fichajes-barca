@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-14T22:31:08.367156Z",
-  "total": 244,
+  "actualizado": "2026-07-14T22:40:56.960044Z",
+  "total": 245,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -56,6 +56,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "dd3b69f62f8a7494",
+      "titulo": "Casadó: \"Me quiero quedar; si alguien no quiere, que me lo diga\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206562/casado-me-quiero-quedar-alguien-no-quiere-me-diga.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-14T22:15:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-14T22:40:51.286794"
+    },
     {
       "id": "915ba7f4725298a7",
       "titulo": "Sin oferta de renovación a Ferran hasta septiembre por el 'fair play'",
