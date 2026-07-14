@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-14T15:31:06.280365Z",
-  "total": 240,
+  "actualizado": "2026-07-14T15:41:02.368436Z",
+  "total": 241,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -43,6 +43,7 @@
     "a6a4505cce06ed66",
     "ab109c4f2d31ccf8",
     "b6be42fd132bae88",
+    "c170708f840cd195",
     "c383845699e845be",
     "c4e9378d7e1652b2",
     "cdd58d239669ec52",
@@ -55,6 +56,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c170708f840cd195",
+      "titulo": "El Barça frena la salida de Fariñas porque Flick lo quiere ver",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260714/1004206443/barca-frena-salida-farinas-flick-quiere-ver.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-14T15:27:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-14T15:40:55.983103"
+    },
     {
       "id": "e3ceb1ec02d1e98c",
       "titulo": "El Barça maneja un Plan B ilusionante por si se encalla Julián",
