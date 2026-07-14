@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-14T23:20:58.160465Z",
-  "total": 246,
+  "actualizado": "2026-07-14T23:31:00.737919Z",
+  "total": 247,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -57,6 +57,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "4379b66e1791997c",
+      "titulo": "Oficial: Greenwood se le escapa definitivamente al Atlético",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260715/1004206566/oficial-greenwood-le-escapa-definitivamente-atletico.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-14T22:36:03",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-07-14T23:30:56.553579"
+    },
     {
       "id": "dd3b69f62f8a7494",
       "titulo": "Casadó: \"Me quiero quedar; si alguien no quiere, que me lo diga\"",
