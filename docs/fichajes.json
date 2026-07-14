@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-14T17:01:10.192684Z",
-  "total": 242,
+  "actualizado": "2026-07-14T17:11:03.081634Z",
+  "total": 243,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -56,6 +56,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e41d61869a967225",
+      "titulo": "Si Casadó sale, Tommy Marqués ocuparía su lugar",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260714/1004206464/casado-sale-tommy-marques-ocuparia-lugar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-14T16:31:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-14T17:10:58.065041"
+    },
     {
       "id": "d2c7e221f71bf970",
       "titulo": "La progresión de Gerard Martín varía el plan de fichajes de Flick",
