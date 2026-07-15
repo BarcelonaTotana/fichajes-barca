@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-15T13:20:57.089962Z",
-  "total": 257,
+  "actualizado": "2026-07-15T13:31:10.711924Z",
+  "total": 258,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -83,6 +83,19 @@
       "fecha": "2026-07-15T12:23:03",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-07-15T12:50:54.976251"
+    },
+    {
+      "id": "229fef1be478e3f4",
+      "titulo": "El Deportivo ultima detalles para que Aubameyang refuerce su delantera: los detalles de la operación",
+      "enlace": "https://www.sport.es/es/noticias/futbol/deportivo-ultima-detalles-aubameyang-refuerce-132479567?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-15T12:23:03",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-07-15T13:31:08.162012"
     },
     {
       "id": "47e489b21975375c",
