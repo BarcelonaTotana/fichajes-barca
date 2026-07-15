@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-15T16:31:05.986952Z",
-  "total": 262,
+  "actualizado": "2026-07-15T16:40:58.145209Z",
+  "total": 263,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -60,6 +60,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "5f7e5fef4e4b32d8",
+      "titulo": "'Barça Team': ¿Qué aportará Adeyemi al nuevo Barça?",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206811/barca-team-aportara-adeyemi-nuevo-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-15T16:03:51",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-15T16:40:53.168684"
+    },
     {
       "id": "4f8299454254f7e5",
       "titulo": "Adeyemi llega a Barcelona cargado de ilusión",
