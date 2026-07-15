@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-15T12:20:58.147116Z",
-  "total": 253,
+  "actualizado": "2026-07-15T12:31:05.330085Z",
+  "total": 254,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -58,6 +58,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "88d62556816263cb",
+      "titulo": "El Deportivo va a por Aubameyang para reforzar su delantera",
+      "enlace": "https://www.sport.es/es/noticias/futbol/deportivo-aubameyang-reforzar-delantera-132479567?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-15T12:23:03",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-07-15T12:31:02.918301"
+    },
     {
       "id": "836ef578c7088a31",
       "titulo": "El Barça sólo pone a la venta entradas VIP en Liga hasta Navidad",
