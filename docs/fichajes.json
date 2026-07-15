@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-15T15:01:12.624215Z",
-  "total": 260,
+  "actualizado": "2026-07-15T15:11:00.482997Z",
+  "total": 262,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -41,6 +41,7 @@
     "836ef578c7088a31",
     "8b4dc1648da51d1b",
     "8f35aa9144d84d17",
+    "942698cb9b788434",
     "9edce93ae27b024e",
     "a6a4505cce06ed66",
     "ab109c4f2d31ccf8",
@@ -59,6 +60,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "4f8299454254f7e5",
+      "titulo": "Adeyemi llega a Barcelona cargado de ilusión",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206792/adeyemi-llega-barcelona-cargado-ilusion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-15T14:57:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-15T15:10:54.203151"
+    },
+    {
+      "id": "942698cb9b788434",
+      "titulo": "Laporte, ofrecido al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206799/laporte-ofrecido-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-15T14:47:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-15T15:10:54.203504"
+    },
     {
       "id": "3916dd3ee8186767",
       "titulo": "En el Barça gusta 'Cuti' Romero pero ser diestro no le ayuda",
