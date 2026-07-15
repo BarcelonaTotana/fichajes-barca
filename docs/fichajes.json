@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-15T05:01:06.058659Z",
-  "total": 247,
+  "actualizado": "2026-07-15T05:10:57.413828Z",
+  "total": 248,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -57,6 +57,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "fb0849ae6e851d8e",
+      "titulo": "Así es el restaurante de Ander Herrera en pleno centro de Zaragoza: cocina tradicional, diseño moderno y alma zaragocista",
+      "enlace": "https://www.sport.es/es/noticias/futbol/restaurante-ander-herrera-pleno-centro-132463391?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-15T05:00:40",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-07-15T05:10:54.989812"
+    },
     {
       "id": "4379b66e1791997c",
       "titulo": "Oficial: Greenwood se le escapa definitivamente al Atlético",
