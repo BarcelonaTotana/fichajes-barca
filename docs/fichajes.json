@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-15T12:31:05.330085Z",
-  "total": 254,
+  "actualizado": "2026-07-15T12:41:03.042017Z",
+  "total": 255,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -96,6 +96,19 @@
       "fecha": "2026-07-15T08:35:25",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-15T09:10:56.291137"
+    },
+    {
+      "id": "ad97e5f3e391f376",
+      "titulo": "Adeyemi ya vuela rumbo a Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206635/adeyemi-llega-hoy-manana-revision-medica.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-15T08:35:25",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-15T12:40:57.593649"
     },
     {
       "id": "fb0849ae6e851d8e",
