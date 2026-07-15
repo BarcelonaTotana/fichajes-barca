@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-15T10:31:02.723220Z",
-  "total": 252,
+  "actualizado": "2026-07-15T10:40:58.316336Z",
+  "total": 253,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -37,6 +37,7 @@
     "7311a4fc282f6a99",
     "7f5de7c97cea0906",
     "831ffdba8f3957f2",
+    "836ef578c7088a31",
     "8b4dc1648da51d1b",
     "8f35aa9144d84d17",
     "9edce93ae27b024e",
@@ -57,6 +58,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "836ef578c7088a31",
+      "titulo": "El Barça sólo pone a la venta entradas VIP en Liga hasta Navidad",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206673/barca-pone-venta-entradas-vip-liga-navidad.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-15T10:23:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-15T10:40:51.878145"
+    },
     {
       "id": "de905b69d4de977d",
       "titulo": "Adeyemi llega hoy y mañana, revisión médica",
