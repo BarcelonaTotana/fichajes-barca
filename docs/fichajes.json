@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-15T05:31:03.084555Z",
-  "total": 248,
+  "actualizado": "2026-07-15T05:40:54.096690Z",
+  "total": 251,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -69,6 +69,45 @@
       "fecha": "2026-07-15T05:00:40",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-07-15T05:10:54.989812"
+    },
+    {
+      "id": "9589a0b05d0b2c0d",
+      "titulo": "Los otros nombres del plan B del Barça por un delantero",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206501/otros-nombres-plan-b-barca-delantero.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-15T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-15T05:40:49.146146"
+    },
+    {
+      "id": "ab46a2d8b5084655",
+      "titulo": "Ferran, el único del 'plan renove' de Deco que se resiste",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206481/ferran-unico-plan-renove-deco-resiste.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-15T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-15T05:40:49.146354"
+    },
+    {
+      "id": "91ab20f0c70ca2fc",
+      "titulo": "El United quiso incluir a Bernal en 'la operación Rashford'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206458/united-incluyo-bernal-operacion-rashford.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-15T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-15T05:40:49.146525"
     },
     {
       "id": "4379b66e1791997c",
