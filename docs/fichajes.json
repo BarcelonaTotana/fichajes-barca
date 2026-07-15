@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-15T09:01:07.543401Z",
-  "total": 251,
+  "actualizado": "2026-07-15T09:11:01.766426Z",
+  "total": 252,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -57,6 +57,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "de905b69d4de977d",
+      "titulo": "Adeyemi llega hoy y mañana, revisión médica",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206635/adeyemi-llega-hoy-manana-revision-medica.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-15T08:35:25",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-15T09:10:56.291137"
+    },
     {
       "id": "fb0849ae6e851d8e",
       "titulo": "Así es el restaurante de Ander Herrera en pleno centro de Zaragoza: cocina tradicional, diseño moderno y alma zaragocista",
