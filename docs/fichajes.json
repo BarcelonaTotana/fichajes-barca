@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-15T19:31:03.687425Z",
-  "total": 265,
+  "actualizado": "2026-07-15T19:40:59.440877Z",
+  "total": 266,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -2620,6 +2620,19 @@
       "fecha": "2026-07-07T08:34:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.098249"
+    },
+    {
+      "id": "2283efe1df8e6d8d",
+      "titulo": "Juliano Belletti recibe el cuarto fichaje del verano para el Barça B: otro refuerzo procedente del Tenerife",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWkl6U19DNm9KZTNpR0o4UDNTQ3FocnBHYmR6b3hUNUNibFEwVG9BTk9RNEpJakozcWx2S2JLbUNQd1E0QU93YVpUOE1jLVh3V3VBWWs5c3pQekJqUDJBS19nMjllSmxYcmNHUm5GZkczbnlEVGpzM1l3NUNQU3NkeDR6aWl5RXFrbG92dm15M2RROEwtVjEwX0ZtcUhycTM1dUFzY1R4ZnlaLTZrb2h6ay1aN2d2Rl85Q2w0dk5xVkdEVFV0OVBWWVJvLXNSWkhRUjBrd1FoY1p4dWk1QVHSAeMBQVVfeXFMUGQ0LTctaHgyYVVGaThEZENPRl80Wm1LQThZSWpIVV9SMDhGZ0ZzRTVqd0hXUGdXamY5WW1GSmhmdGJpTE5LUmhpcWQtc3luQmRENXlQME1wZllyNDFieUNISDM1MFNtMTZXWUdmV1kyNDZwMzdaWVpuS2JSUzhPNGJWWmxESkI2N3ExX2ctMEJfUTB4blFpRjd6UTczQ3NONnhuZF96ZmliYUhGVWdOa3FZODYtNHB6RFFGTUxTcG9LakFVNnNDcFF1X2pwZzVZLXdaaEVpNnBzZkhTdmdJQks4X1E?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-07T07:00:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-15T19:40:58.425738"
     },
     {
       "id": "a6dc80e4ac3f03f8",
