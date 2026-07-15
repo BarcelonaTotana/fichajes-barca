@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-15T12:41:03.042017Z",
-  "total": 255,
+  "actualizado": "2026-07-15T12:50:57.515942Z",
+  "total": 257,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -70,6 +70,32 @@
       "fecha": "2026-07-15T12:23:03",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-07-15T12:31:02.918301"
+    },
+    {
+      "id": "732230537feba591",
+      "titulo": "El Deportivo ultima detalles para que Aubameyang refuerce su delantera",
+      "enlace": "https://www.sport.es/es/noticias/futbol/deportivo-ultima-detalles-aubameyang-refuerce-132479567?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-15T12:23:03",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-07-15T12:50:54.976251"
+    },
+    {
+      "id": "47e489b21975375c",
+      "titulo": "Aubameyang, muy cerca de regresar a un equipo de LaLiga",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260715/1004206733/aubameyang-cerca-regresar-equipo-laliga.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-15T12:19:15",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-07-15T12:50:53.774446"
     },
     {
       "id": "836ef578c7088a31",
