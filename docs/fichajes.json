@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-15T14:01:09.432774Z",
-  "total": 259,
+  "actualizado": "2026-07-15T14:11:00.891675Z",
+  "total": 260,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -20,6 +20,7 @@
     "27f25d89b4825926",
     "30f4eae64d270777",
     "352f8451dd4e256b",
+    "3916dd3ee8186767",
     "3b3868743b3b44cd",
     "3e1e9d7b56e10b9a",
     "3e2c4f091ab5587f",
@@ -58,6 +59,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "3916dd3ee8186767",
+      "titulo": "En el Barça gusta 'Cuti' Romero pero ser diestro no le ayuda",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206782/barca-gusta-cuti-romero-diestro-no-le-ayuda.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-15T14:00:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-15T14:10:54.610714"
+    },
     {
       "id": "88d62556816263cb",
       "titulo": "El Deportivo va a por Aubameyang para reforzar su delantera",
