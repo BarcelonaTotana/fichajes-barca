@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T19:40:32.501165Z",
-  "total": 280,
+  "actualizado": "2026-07-16T19:50:35.402605Z",
+  "total": 279,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -3689,19 +3689,6 @@
       "fecha": "2026-06-17T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T01:10:55.362505"
-    },
-    {
-      "id": "67bc06e59be96655",
-      "titulo": "No hay acuerdo: adiós a Arthur Melo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260616/1004195911/no-hay-acuerdo-adios-arthur-melo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-06-16T19:46:19",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-07-12T14:15:13.414755"
     }
   ]
 }
