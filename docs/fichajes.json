@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T11:01:06.008280Z",
-  "total": 270,
+  "actualizado": "2026-07-16T11:10:57.741198Z",
+  "total": 272,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -62,6 +62,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a9bc6faace7f6829",
+      "titulo": "El Barcelona empezará a cobrar de la FIFA por Frenkie de Jong desde el 28 de julio",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207036/barcelona-empezara-cobrar-fifa-frenkie-jong-28-julio.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-16T10:46:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T11:10:52.585891"
+    },
+    {
+      "id": "dfd02dcbe2cad611",
+      "titulo": "Clubs de 5 ligas, interesados en fichar a Roony",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207039/clubs-5-ligas-interesados-fichar-roony.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-16T10:33:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T11:10:52.586080"
+    },
     {
       "id": "0dcc3195962dd4cd",
       "titulo": "El Barça oficializa la renovación de Àlex Campos",
