@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T05:01:03.618601Z",
-  "total": 267,
+  "actualizado": "2026-07-16T05:11:00.529840Z",
+  "total": 268,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -60,6 +60,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "f7289fa4108bde44",
+      "titulo": "El Barça ingresará un botín millonario por el Mundial",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206942/barca-ingresara-botin-millonario-mundial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-16T04:45:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T05:10:55.419198"
+    },
     {
       "id": "471158e04cbcbd08",
       "titulo": "Hoy, día Karim Adeyemi",
