@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T04:31:03.817574Z",
-  "total": 266,
+  "actualizado": "2026-07-16T04:41:00.514453Z",
+  "total": 267,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -60,6 +60,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "471158e04cbcbd08",
+      "titulo": "Hoy, día Karim Adeyemi",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206939/hoy-dia-karim-adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-16T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T04:40:55.202721"
+    },
     {
       "id": "c7b6afa950d9b7b3",
       "titulo": "Sorpresa: Cardoso Varela, que estuvo en la lista culé, vuelve al Porto",
