@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T17:01:00.007168Z",
-  "total": 275,
+  "actualizado": "2026-07-16T17:10:31.938226Z",
+  "total": 276,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -113,6 +113,19 @@
       "fecha": "2026-07-16T10:33:23",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T11:10:52.586080"
+    },
+    {
+      "id": "f13738c4145ad4f3",
+      "titulo": "Clubs de seis ligas, interesados en fichar a Roony",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207039/clubs-5-ligas-interesados-fichar-roony.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-16T10:33:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T17:10:27.136534"
     },
     {
       "id": "0dcc3195962dd4cd",
