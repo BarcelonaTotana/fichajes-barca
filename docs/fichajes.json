@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T13:31:04.528089Z",
-  "total": 272,
+  "actualizado": "2026-07-16T13:40:56.316589Z",
+  "total": 274,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -62,6 +62,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "529c6db7279ba708",
+      "titulo": "La intrahistoria del fichaje culé de Adeyemi: la presión del jugador, clave",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207087/intrahistoria-fichaje-cule-adeyemi-presion-adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-16T13:08:45",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T13:40:51.115178"
+    },
     {
       "id": "a9bc6faace7f6829",
       "titulo": "El Barcelona empezará a cobrar de la FIFA por Frenkie de Jong desde el 28 de julio",
@@ -165,6 +178,19 @@
       "fecha": "2026-07-16T04:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T10:40:51.981083"
+    },
+    {
+      "id": "9e3a7848f5ac70f4",
+      "titulo": "Adeyemi, con el OK médico y los contratos revisados, firmará esta tarde",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206939/hoy-dia-karim-adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-16T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T13:40:51.116851"
     },
     {
       "id": "c7b6afa950d9b7b3",
