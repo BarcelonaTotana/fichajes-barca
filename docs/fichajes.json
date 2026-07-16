@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T06:31:00.329161Z",
-  "total": 268,
+  "actualizado": "2026-07-16T06:40:53.717289Z",
+  "total": 269,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -60,6 +60,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "8d3694e48d1ef2a4",
+      "titulo": "El Córdoba CF hace oficial la continuidad de Theo Zidane: el centrocampista francés seguirá vistiendo la blanquiverde la próxima temporada",
+      "enlace": "https://www.sport.es/es/noticias/futbol/cordoba-cf-oficial-continuidad-theo-132500356?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-16T06:26:24",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-07-16T06:40:51.334147"
+    },
     {
       "id": "f7289fa4108bde44",
       "titulo": "El Barça ingresará un botín millonario por el Mundial",
