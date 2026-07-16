@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T08:01:06.625242Z",
-  "total": 267,
+  "actualizado": "2026-07-16T08:10:55.999508Z",
+  "total": 268,
   "cerradas": [
     "josue caicedo",
     "juan ybarra",
@@ -98,6 +98,19 @@
       "fecha": "2026-07-16T04:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T04:40:55.202721"
+    },
+    {
+      "id": "59c728190ce017cb",
+      "titulo": "Karim Adeyemi ya pasa la revisión médica con el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206939/hoy-dia-karim-adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-16T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T08:10:50.362066"
     },
     {
       "id": "c7b6afa950d9b7b3",
