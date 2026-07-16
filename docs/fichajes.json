@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T19:30:48.177014Z",
-  "total": 279,
+  "actualizado": "2026-07-16T19:40:32.501165Z",
+  "total": 280,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "0d1c8402b0a3ea51",
+      "titulo": "Andrés Cuenca, en Como para firmar contrato",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207225/andres-cuenca-firmar-contrato.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-16T19:07:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T19:40:27.585856"
+    },
     {
       "id": "ffe178a335ad0405",
       "titulo": "Pedro Porro impresiona en Can Barça pero acaba de renovar",
