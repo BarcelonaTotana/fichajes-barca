@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T20:00:59.071946Z",
-  "total": 279,
+  "actualizado": "2026-07-16T20:10:32.475705Z",
+  "total": 280,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -140,6 +140,19 @@
       "fecha": "2026-07-16T10:46:32",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T11:10:52.585891"
+    },
+    {
+      "id": "498b6dcecacd8032",
+      "titulo": "El Barcelona cobrará de la FIFA por De Jong a partir de los 28 días de la lesión",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207036/barcelona-empezara-cobrar-fifa-frenkie-jong-28-julio.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-16T10:46:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T20:10:26.679712"
     },
     {
       "id": "dfd02dcbe2cad611",
