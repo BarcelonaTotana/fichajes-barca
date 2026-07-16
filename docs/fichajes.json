@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T14:31:03.430252Z",
-  "total": 274,
+  "actualizado": "2026-07-16T14:41:03.964847Z",
+  "total": 275,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -74,6 +74,19 @@
       "fecha": "2026-07-16T13:08:45",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T13:40:51.115178"
+    },
+    {
+      "id": "a61f06b12d583f46",
+      "titulo": "La intrahistoria del fichaje culé: la presión del jugador, clave",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207087/intrahistoria-fichaje-cule-adeyemi-presion-adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-16T13:08:45",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T14:40:59.181005"
     },
     {
       "id": "a9bc6faace7f6829",
