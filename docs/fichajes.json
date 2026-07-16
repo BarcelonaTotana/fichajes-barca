@@ -1,7 +1,8 @@
 {
-  "actualizado": "2026-07-16T10:31:01.805723Z",
-  "total": 268,
+  "actualizado": "2026-07-16T10:40:57.462553Z",
+  "total": 270,
   "cerradas": [
+    "alex campos",
     "josue caicedo",
     "juan ybarra",
     "olivier nkamhoua"
@@ -10,6 +11,7 @@
     "0069a55d2c0e761e",
     "05fed9472c50534b",
     "09144d5ce9eed317",
+    "0dcc3195962dd4cd",
     "0f6dcf300e0cb34e",
     "10c093e3e5f4eedd",
     "12104adbc07a780e",
@@ -61,6 +63,19 @@
   ],
   "noticias": [
     {
+      "id": "0dcc3195962dd4cd",
+      "titulo": "El Barça oficializa la renovación de Àlex Campos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207030/barca-oficializa-renovacion-alex-campos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-16T10:17:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T10:40:51.980061"
+    },
+    {
       "id": "8d3694e48d1ef2a4",
       "titulo": "El Córdoba CF hace oficial la continuidad de Theo Zidane: el centrocampista francés seguirá vistiendo la blanquiverde la próxima temporada",
       "enlace": "https://www.sport.es/es/noticias/futbol/cordoba-cf-oficial-continuidad-theo-132500356?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
@@ -111,6 +126,19 @@
       "fecha": "2026-07-16T04:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T08:10:50.362066"
+    },
+    {
+      "id": "a7757456f4001759",
+      "titulo": "Adeyemi completa la revisión médica y está a la espera de firmar",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206939/hoy-dia-karim-adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-16T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T10:40:51.981083"
     },
     {
       "id": "c7b6afa950d9b7b3",
