@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T18:00:57.215705Z",
-  "total": 276,
+  "actualizado": "2026-07-16T18:10:33.391769Z",
+  "total": 279,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -32,6 +32,7 @@
     "48df898ce25b7861",
     "4a9825affa03580e",
     "50d1a01ff4dc6c9f",
+    "56fdc33f742463d4",
     "5b462f2a0265786c",
     "69e2532d04071127",
     "6c872010888cca54",
@@ -62,6 +63,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ffe178a335ad0405",
+      "titulo": "Pedro Porro impresiona en Can Barça pero acaba de renovar",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207211/pedro-porro-impresiona-can-barca-acaba-renovar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-16T18:01:07",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T18:10:27.577265"
+    },
+    {
+      "id": "56fdc33f742463d4",
+      "titulo": "Firma Karim Mendikanov, primer kazajo en la historia del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207206/firma-karim-mendikanov-primer-kazajo-historia-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-16T17:51:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T18:10:27.577615"
+    },
     {
       "id": "529c6db7279ba708",
       "titulo": "La intrahistoria del fichaje culé de Adeyemi: la presión del jugador, clave",
@@ -217,6 +244,19 @@
       "fecha": "2026-07-16T04:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T13:40:51.116851"
+    },
+    {
+      "id": "c4ee90bac33a708c",
+      "titulo": "La oficialidad del fichaje de Adeyemi se traslada a este viernes",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206939/hoy-dia-karim-adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-16T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-16T18:10:27.579716"
     },
     {
       "id": "c7b6afa950d9b7b3",
