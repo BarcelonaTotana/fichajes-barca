@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T20:38:35.299426Z",
-  "total": 280,
+  "actualizado": "2026-07-16T20:40:35.085646Z",
+  "total": 281,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -673,6 +673,19 @@
       "fecha": "2026-07-13T23:01:04",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-13T23:11:00.309237"
+    },
+    {
+      "id": "9ac6fe35ce9c88b3",
+      "titulo": "El Barça ficha a una promesa de Liga de Quito: estos son los tres impactos deportivos del día",
+      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTVpvLW5TRUhXS0R0OHVoUXdyeXlzMmlmc3dMeXFBdVoxMHpVY2FnWkFQVjVLeGVsZGRSTS1BNkJidVJnSUFWY0JuVXd0NDEwYnVlTlVVRjBCV0R1UXpLckZkU3FxZ3l1SDZGSjBfN2JrZnJ4ZzE1RDVwS3oyXzZaRTZMdGxCRl9IeEtGNkttUkhKVGJzQVpDVG9TSS03Nkg5cFlpMGdFNm5yd1ZxOGo5MlV3QXFVVFA0RGhJdTJiTVBXdHctX1NpcGZvVGlCNjdRcHE5b3pwMklYOHJISVZYclRjcW1YRWtLNnVQcEtB0gGCAkFVX3lxTE5KS0dPNHBOeVdSSm1TdkxRN2RQNHA2cktaWXBuZHVwZUpjb2lJMXpWZDRYQzV4RWU2MmlIMXBieHY1dHlwWWlaQUFiMVZVd25PdjNjTDMzb1ltemhfSTZRc2FnSjNwZlZmYnoxclo4R3hqNUtUbXB4emFLTlNtUVZmRnBYNUZmSHpIclhlWEdKTlhGZGk0Q0lqalJ4VFBTajgyd243eW44ZkR5bjVza3A0VUZhY3dxMU0yNnU5c0lYeEd5TmdXWDZZekM2aEtTMDJPZ1hiMWFfNS1UVGR4T2ZLMEx5VUwwYU56SVhGU0p4c1ZQajV1THRPYnBKdy0zSXk4QQ?oc=5",
+      "medio": "El Universo",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-13T23:00:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-16T20:40:34.071013"
     },
     {
       "id": "a43d74d0bc403ab0",
