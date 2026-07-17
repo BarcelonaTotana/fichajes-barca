@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-17T09:01:02.133109Z",
-  "total": 281,
+  "actualizado": "2026-07-17T09:10:33.455144Z",
+  "total": 284,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,45 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "fcbc27b80cd5e5f3",
+      "titulo": "Ter Stegen vuelve a entrenarse con el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207367/ter-stegen-vuelve-entrenarse-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-17T08:48:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-17T09:10:28.585257"
+    },
+    {
+      "id": "c06511940cf027c7",
+      "titulo": "El Barça completa una emisión de bonos por 105 millones",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207370/barca-completa-emision-bonos-105-millones.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-17T08:46:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-17T09:10:28.585607"
+    },
+    {
+      "id": "2f08c795906992bb",
+      "titulo": "Se cumplen 30 años del fichaje de Ronaldo por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207364/cumplen-30-anos-fichaje-ronaldo-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-17T08:36:18",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-17T09:10:28.585848"
+    },
     {
       "id": "84b20b6ed05fffa2",
       "titulo": "El central del futuro de Holanda se deja querer: \"Mi objetivo es hacer pareja con Cubarsí\"",
