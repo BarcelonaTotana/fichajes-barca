@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-17T16:00:59.426662Z",
-  "total": 290,
+  "actualizado": "2026-07-17T16:10:34.398025Z",
+  "total": 291,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "eab152d23822b0d3",
+      "titulo": "Andrés Cuenca, presentado por el Como",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207527/andres-cuenca-presentado.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-17T15:38:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-17T16:10:29.489467"
+    },
     {
       "id": "26d9b8810bcaecad",
       "titulo": "El Barça observa la negociación del Oviedo por Estanis Pedrola",
