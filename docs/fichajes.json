@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-17T12:00:58.316820Z",
-  "total": 285,
+  "actualizado": "2026-07-17T12:10:35.447629Z",
+  "total": 287,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -64,6 +64,19 @@
   ],
   "noticias": [
     {
+      "id": "5579a77ac4aa6460",
+      "titulo": "La final del Mundial esconde historias de mercado culé",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207433/historias-mercado-cule-final-mundial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-17T11:52:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-17T12:10:30.390395"
+    },
+    {
       "id": "fcbc27b80cd5e5f3",
       "titulo": "Ter Stegen vuelve a entrenarse con el Barça",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207367/ter-stegen-vuelve-entrenarse-barca.html",
@@ -101,6 +114,19 @@
       "fecha": "2026-07-17T08:46:42",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-17T11:40:25.811067"
+    },
+    {
+      "id": "dd310e728079d5bd",
+      "titulo": "Respaldo de los inversores: completada la emisión de bonos por 105 millones",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207370/barca-completa-emision-bonos-105-millones.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-17T08:46:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-17T12:10:30.391150"
     },
     {
       "id": "2f08c795906992bb",
