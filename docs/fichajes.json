@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-17T19:30:46.861879Z",
-  "total": 292,
+  "actualizado": "2026-07-17T19:40:42.349415Z",
+  "total": 293,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "00b19fa0e9b93099",
+      "titulo": "Adeyemi saluda a Flick y el anuncio del fichaje puede demorarse",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207605/adeyemi-saluda-flick-anuncio-fichaje-demorarse.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-17T19:08:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-17T19:40:36.853465"
+    },
     {
       "id": "eab152d23822b0d3",
       "titulo": "Andrés Cuenca, presentado por el Como",
