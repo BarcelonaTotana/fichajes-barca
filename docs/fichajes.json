@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-17T14:30:46.786942Z",
-  "total": 288,
+  "actualizado": "2026-07-17T14:40:33.645750Z",
+  "total": 289,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -140,6 +140,19 @@
       "fecha": "2026-07-17T08:46:42",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-17T12:10:30.391150"
+    },
+    {
+      "id": "13ec56b898fcad62",
+      "titulo": "Respaldo de los inversores: emisión de bonos por 105 millones",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207370/barca-completa-emision-bonos-105-millones.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-17T08:46:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-17T14:40:28.007170"
     },
     {
       "id": "2f08c795906992bb",
