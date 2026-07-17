@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-17T06:50:33.188616Z",
-  "total": 281,
+  "actualizado": "2026-07-17T07:01:01.236296Z",
+  "total": 280,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -3702,19 +3702,6 @@
       "fecha": "2026-06-18T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T01:10:55.362053"
-    },
-    {
-      "id": "14c5fb02ea2605da",
-      "titulo": "Se estanca la operación salida en el Barça: así están todos los casos",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXNQN0padmtfRnl3T2w2U2FvSl94NlozWnJNbXhod0xVWm15TERyVlBVQmw0c3pfU0lXZzdfTUNVMnV6VkdTMjJMVE8xSHliekxmMXZWRVF0WXpiTjF1MzNqS2JoVnBYVW9qamRVWnJEMWJySUVtZ2ZhNks5Y0dlRmxoUGI2V1puSm9iVXZKNmJqdXRBbzdDbTdUS1FtSFhIb0E2a0J5bEQwUDFxRFVhbW9R0gGyAUFVX3lxTE0wSlFJZW9pWGN1RDJkVV9CNkRUaWlHdDQyMHlVU2F2LW1aa3htczkzZXJCUTVLVnRxY3NQMDA2M1dFanhYelgxNEY5M0gwWlp2MjhyZVBINFgxdlZ3MktTQTJtZ29uVnpqQW9CV3BsRFNKNVA5NldWaHBja2NqNlFSZzZ2UFhmMDBnZ0RSVkt2azhja2xqcUFjMlRrS01XY05taS10STV1NGRhMGl0aHZDekE?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-06-17T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T01:10:55.362505"
     }
   ]
 }
