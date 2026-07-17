@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-17T21:00:58.758925Z",
-  "total": 294,
+  "actualizado": "2026-07-17T21:10:31.147757Z",
+  "total": 295,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "da5fede7af8d0057",
+      "titulo": "Deco cierra dos fichajes sorpresa para complacer a Hansi Flick: refuerzos de lujo para el Barça B",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVDItMDFIdUtfanItQmhBX1p0WE5DajRvUlV6WWJOVHJBVUExdlNJYmFMQUtXcElNdklxamFlZURQdGQyR2pQaVBIQlJzcEhpT0syZTAxcUMwNnlqdnBFS19nUFp5VFRXRmM3UVJ2UUhoaUVOQkFZTEJhWFJSSXJNT0lvWWJhamZmRzBoRFJ6OWk0VmtWZkFucjNrOGV5NjdRRDV1bFFDSTNNcTlEVnl2c2FtYUUyeGxQVEtzNkotZFVCR2pSVzBxYmJqQlh3VTd1djFVeXJLdG_SAdgBQVVfeXFMUFQyLTAxSHVLX2pyLUJoQV9adFhOQ2o0b1JVelliTlRyQVVBMXZTSWJhTEFLV3BJTXZJcWphZWVEUHRkMkdqUGlQSEJSc3BIaU9LMmUwMXFDMDZ5anZwRUtfZ1BaeVRUV0ZjN1FSdlFIaGlFTkJBWUxCYVhSUklyTU9Jb1liYWpmZkcwaERSejlpNFZrVmZBbnIzazhleTY3UUQ1dWxRQ0kzTXE5RFZ5dnNhbWFFMnhsUFRLczZKLWRVQkdqUlcwcWJiakJYd1U3dXYxVXlyS3Rv?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-17T20:06:58",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-17T21:10:30.131873"
+    },
     {
       "id": "00b19fa0e9b93099",
       "titulo": "Adeyemi saluda a Flick y el anuncio del fichaje puede demorarse",
