@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-17T22:30:44.124136Z",
-  "total": 295,
+  "actualizado": "2026-07-17T22:40:34.466647Z",
+  "total": 296,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "08517f5d2c99358c",
+      "titulo": "Ter Stegen no llega a tiempo para empezar la Conference League con el Ajax",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004207636/ter-stegen-no-llega-empezar-conference-ajax.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-17T22:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-17T22:40:28.844302"
+    },
     {
       "id": "da5fede7af8d0057",
       "titulo": "Deco cierra dos fichajes sorpresa para complacer a Hansi Flick: refuerzos de lujo para el Barça B",
