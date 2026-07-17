@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-17T14:00:59.814314Z",
-  "total": 287,
+  "actualizado": "2026-07-17T14:10:33.803200Z",
+  "total": 288,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "72d8cb7bbef4b73c",
+      "titulo": "El Barça no entra al trapo con Gil Marín y opta por esperar",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207486/barca-no-entra-trapo-gil-marin-opta-esperar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-17T13:50:17",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-17T14:10:28.800846"
+    },
     {
       "id": "5579a77ac4aa6460",
       "titulo": "La final del Mundial esconde historias de mercado culé",
