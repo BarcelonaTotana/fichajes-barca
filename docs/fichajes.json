@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-17T07:01:01.236296Z",
-  "total": 280,
+  "actualizado": "2026-07-17T07:10:32.977748Z",
+  "total": 281,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "84b20b6ed05fffa2",
+      "titulo": "El central del futuro de Holanda se deja querer: \"Mi objetivo es hacer pareja con Cubarsí\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207324/central-futuro-holanda-deja-querer-mi-objetivo-pareja-cubarsi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-17T06:53:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-17T07:10:27.462668"
+    },
     {
       "id": "0d1c8402b0a3ea51",
       "titulo": "Andrés Cuenca, en Como para firmar contrato",
