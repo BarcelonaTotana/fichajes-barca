@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-17T15:01:02.160002Z",
-  "total": 289,
+  "actualizado": "2026-07-17T15:10:36.106499Z",
+  "total": 290,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "26d9b8810bcaecad",
+      "titulo": "El Barça observa la negociación del Oviedo por Estanis Pedrola",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207507/barca-observa-negociacion-oviedo-estanis-pedrola.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-17T14:44:51",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-17T15:10:30.578885"
+    },
     {
       "id": "72d8cb7bbef4b73c",
       "titulo": "El Barça no entra al trapo con Gil Marín y opta por esperar",
