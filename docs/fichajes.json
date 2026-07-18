@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-18T13:02:20.561763Z",
-  "total": 299,
+  "actualizado": "2026-07-18T13:10:32.172156Z",
+  "total": 300,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "1c6c3d4bc7cc5051",
+      "titulo": "La oficilidad del fichaje de Adeyemi, aplazada hasta el retorno de Laporta y Deco",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004207766/oficilidad-fichaje-adeyemi-aplazada-retorno-laporta-deco.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-18T12:43:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-18T13:10:26.724439"
+    },
     {
       "id": "b66fc0fa48ba56c5",
       "titulo": "Laporta pone fecha a la vigencia de la oferta por Julián Álvarez",
