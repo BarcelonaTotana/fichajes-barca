@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-18T07:30:42.849222Z",
-  "total": 298,
+  "actualizado": "2026-07-18T07:40:34.996215Z",
+  "total": 299,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "b66fc0fa48ba56c5",
+      "titulo": "Laporta pone fecha a la vigencia de la oferta por Julián Álvarez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004207683/laporta-pone-fecha-vigencia-oferta-julian-alvarez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-18T07:08:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-18T07:40:30.126149"
+    },
     {
       "id": "7ba76e3e525fd457",
       "titulo": "Cuenta atrás para el adiós de Ter Stegen",
