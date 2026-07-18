@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-18T02:00:51.998038Z",
-  "total": 296,
+  "actualizado": "2026-07-18T02:10:31.322553Z",
+  "total": 297,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "03502bd46286b4ee",
+      "titulo": "Abde marcó en Pamplona su único gol como blaugrana",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/barca-goles/20260718/1004206515/abde-marco-pamplona-unico-gol-blaugrana.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-18T02:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-18T02:10:25.545107"
+    },
     {
       "id": "08517f5d2c99358c",
       "titulo": "Ter Stegen no llega a tiempo para empezar la Conference League con el Ajax",
