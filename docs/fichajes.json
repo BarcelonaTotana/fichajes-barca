@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-18T17:32:01.622872Z",
-  "total": 300,
+  "actualizado": "2026-07-18T17:40:37.417367Z",
+  "total": 301,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "f17c9eec6a62bfae",
+      "titulo": "Nuevo destino para el exazulgrana Trincao",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004207873/nuevo-destino-exazulgrana-trincao.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-18T17:20:40",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-18T17:40:31.757253"
+    },
     {
       "id": "1c6c3d4bc7cc5051",
       "titulo": "La oficilidad del fichaje de Adeyemi, aplazada hasta el retorno de Laporta y Deco",
