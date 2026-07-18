@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-18T03:00:58.529408Z",
-  "total": 297,
+  "actualizado": "2026-07-18T03:10:30.581450Z",
+  "total": 298,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "2c726bbc1ce5231c",
+      "titulo": "Récord millonario de las tiendas del Barça, que abrirá una en Estambul",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004202085/record-historico-negocio-tiendas-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-18T03:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-18T03:10:24.920974"
+    },
     {
       "id": "03502bd46286b4ee",
       "titulo": "Abde marcó en Pamplona su único gol como blaugrana",
