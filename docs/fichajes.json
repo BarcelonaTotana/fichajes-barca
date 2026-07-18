@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-18T06:50:29.217531Z",
-  "total": 299,
+  "actualizado": "2026-07-18T07:00:57.035629Z",
+  "total": 298,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -3936,19 +3936,6 @@
       "fecha": "2026-06-19T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T01:10:55.363871"
-    },
-    {
-      "id": "29360680464be754",
-      "titulo": "Las 3 opciones de fichajes que maneja el FC Barcelona por si no logran traer a Julián Álvarez",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ3lhRFdkcGNFQ2tjdHBhSU43Uk9LdmhuTk9KYUp2TTY2YUx5Q3ZkcE9QYXo1Qk9WTDh2LXhpeDVNeUxKZEFSVTNsbVR5VGN6Q2k5dFE0UlF5Zkhfai0yclFodGVyN3VlTUhDMzBpZUR2Vzd4NXhLR0dhc2xTYTNjNVhZeVlZMGlOSy1YMzdLYVViQjN5RlpWMldXVGVSZkxWYUVEdEp1WGp6SGp5dmxPN1I5QjlvSWcxQ0U3VVdmUHVvYTA?oc=5",
-      "medio": "Sports Illustrated",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-06-18T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T01:10:55.362053"
     }
   ]
 }
