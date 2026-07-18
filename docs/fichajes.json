@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-18T05:30:42.339879Z",
-  "total": 298,
+  "actualizado": "2026-07-18T05:41:09.519575Z",
+  "total": 299,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "7ba76e3e525fd457",
+      "titulo": "Cuenta atrás para el adiós de Ter Stegen",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004207529/cuenta-adios-ter-stegen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-18T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-18T05:41:04.235011"
+    },
     {
       "id": "2c726bbc1ce5231c",
       "titulo": "Récord millonario de las tiendas del Barça, que abrirá una en Estambul",
