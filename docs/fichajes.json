@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-19T05:02:25.098707Z",
-  "total": 305,
+  "actualizado": "2026-07-19T05:10:29.756714Z",
+  "total": 306,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c89eb04d5abc5f74",
+      "titulo": "Pocos alemanes en el paraíso de los tulipanes",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207576/pocos-alemanes-paraiso-tulipanes.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-19T04:55:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-19T05:10:24.997728"
+    },
     {
       "id": "c873626843ce0967",
       "titulo": "Laporta responde al Atlético: \"Un club grande no puede permitirse jugadores a disgusto\"",
