@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-19T15:32:07.735693Z",
-  "total": 310,
+  "actualizado": "2026-07-19T15:40:33.237541Z",
+  "total": 311,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "201cadfd109cf4c8",
+      "titulo": "\"Julián Álvarez me vuelve loco\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004208124/julian-alvarez-me-vuelve-loco.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-19T15:29:53",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-19T15:40:27.721067"
+    },
     {
       "id": "7fcc874e968e1911",
       "titulo": "La Lazio puede dejar al Barça sin el esperado 'pellizco' por Sergi Domínguez",
