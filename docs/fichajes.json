@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-19T02:32:00.835795Z",
-  "total": 302,
+  "actualizado": "2026-07-19T02:40:34.514255Z",
+  "total": 305,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -64,6 +64,32 @@
   ],
   "noticias": [
     {
+      "id": "c873626843ce0967",
+      "titulo": "Laporta responde al Atlético: \"Un club grande no puede permitirse jugadores a disgusto\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207974/laporta-responde-atletico-sobre-julian-club-grande-no-permitirse-jugadores-disgusto.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-19T02:13:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-19T02:40:28.386362"
+    },
+    {
+      "id": "7ea2d21e130adb37",
+      "titulo": "Las claves del plazo que se marca Laporta con Julián",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207937/claves-plazo-marca-laporta-julian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-19T02:05:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-19T02:40:28.386672"
+    },
+    {
       "id": "beb497cad2da4fc3",
       "titulo": "Tebas confirma que el Barça está en la regla 1-1",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207971/tebas-confirma-barca-regla-1-1.html",
@@ -75,6 +101,19 @@
       "fecha": "2026-07-19T01:36:25",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-19T02:10:24.937648"
+    },
+    {
+      "id": "784e9ccf05ecd77c",
+      "titulo": "Tebas también confirma que el Barça está en la regla 1-1",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207971/tebas-confirma-barca-regla-1-1.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-19T01:36:25",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-19T02:40:28.386930"
     },
     {
       "id": "f17c9eec6a62bfae",
