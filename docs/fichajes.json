@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-19T09:31:50.231485Z",
-  "total": 304,
+  "actualizado": "2026-07-19T09:42:15.355912Z",
+  "total": 305,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c9d909dbee917d52",
+      "titulo": "Koundé se despidió del Mundial con mensaje sobre su futuro",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004208025/kounde-despidio-mundial-mensaje-sobre-futuro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-19T09:09:39",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-19T09:42:10.575014"
+    },
     {
       "id": "c89eb04d5abc5f74",
       "titulo": "Pocos alemanes en el paraíso de los tulipanes",
