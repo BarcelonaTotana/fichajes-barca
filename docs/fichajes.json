@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-19T13:02:10.324808Z",
-  "total": 306,
+  "actualizado": "2026-07-19T13:10:32.372702Z",
+  "total": 308,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -64,6 +64,19 @@
   ],
   "noticias": [
     {
+      "id": "69aae814f3fe646c",
+      "titulo": "El Dortmund desea éxitos a Adeyemi, pendiente aún de firmar con el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004208085/dortmund-desea-exitos-adeyemi-pendiente-aun-firmar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-19T12:49:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-19T13:10:26.861141"
+    },
+    {
       "id": "c9d909dbee917d52",
       "titulo": "Koundé se despidió del Mundial con mensaje sobre su futuro",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004208025/kounde-despidio-mundial-mensaje-sobre-futuro.html",
@@ -114,6 +127,19 @@
       "fecha": "2026-07-19T02:13:41",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-19T12:10:29.510681"
+    },
+    {
+      "id": "4e76d4bb7a3a9014",
+      "titulo": "Laporta responde al Atlético sobre Julián: \"Un club grande no puede permitirse jugadores a disgusto\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207974/laporta-responde-atletico-sobre-julian-club-grande-no-permitirse-jugadores-disgusto.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-19T02:13:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-19T13:10:26.862933"
     },
     {
       "id": "7ea2d21e130adb37",
