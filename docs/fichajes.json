@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-19T14:02:23.678540Z",
-  "total": 308,
+  "actualizado": "2026-07-19T14:11:40.268918Z",
+  "total": 310,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "7fcc874e968e1911",
+      "titulo": "La Lazio puede dejar al Barça sin el esperado 'pellizco' por Sergi Domínguez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004208102/lazio-dejar-barca-esperado-pellizco-sergi-dominguez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-19T13:53:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-19T14:11:35.267248"
+    },
     {
       "id": "69aae814f3fe646c",
       "titulo": "El Dortmund desea éxitos a Adeyemi, pendiente aún de firmar con el Barça",
@@ -140,6 +153,19 @@
       "fecha": "2026-07-19T02:13:41",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-19T13:10:26.862933"
+    },
+    {
+      "id": "6c1629813ac642ae",
+      "titulo": "\"Un club grande no puede permitirse jugadores a disgusto\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207974/laporta-responde-atletico-sobre-julian-club-grande-no-permitirse-jugadores-disgusto.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-19T02:13:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-19T14:11:35.269786"
     },
     {
       "id": "7ea2d21e130adb37",
