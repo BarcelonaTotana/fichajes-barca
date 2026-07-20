@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-20T14:30:49.556121Z",
-  "total": 315,
+  "actualizado": "2026-07-20T14:40:35.362701Z",
+  "total": 316,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "42de21f3b31072a2",
+      "titulo": "Cubarsí, el único mundialista del Barça intocable con pleno de minutos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260720/1004208508/cubarsi-unico-mundialista-barca-intocable-pleno-minutos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-20T14:17:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-20T14:40:30.289436"
+    },
     {
       "id": "9bc567ac00d4f3ab",
       "titulo": "El Barcelona cierra el fichaje de Jesse Bisiwu para reforzar el filial",
