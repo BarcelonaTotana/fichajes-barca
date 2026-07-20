@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-20T22:03:37.232474Z",
-  "total": 318,
+  "actualizado": "2026-07-20T22:10:31.636178Z",
+  "total": 320,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -64,6 +64,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "26f4c43eaa2ce687",
+      "titulo": "Oficial: Se 'escapa' Cardoso Varela, que ficha por el Oporto",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260720/1004208641/oficial-escapa-cardoso-varela-ficha-oporto.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-20T21:57:51",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-20T22:10:26.030970"
+    },
+    {
+      "id": "0a04bf49eb74bc3d",
+      "titulo": "Preventa Entradas FC BARCELONA - RAYO VALLECANO - LALIGA EA Sports - fútbol masculino",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmdyZE0zMENZU1N3S2JRTXVmWV9ObW1GdXdOMlJFQ2pndTI4MXNVM01zM3RrMWkteHNuemxhazNJSmtQY1hmd2tmMVpEMUVjTkQ4MXlmYTYwbE5VSmlQRHVIdGxIQUVnelkzNVV3bVNmVnNuN0IzckVVZ01idGpkYi12cjc4NXYwMGxfTmtUSTBRbVVHclhNUEJNS0ZSV2FLRGNOa3kyU3p0c0hydFE?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-20T21:52:48",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-07-20T22:10:24.707994"
+    },
     {
       "id": "e49e7f759c100926",
       "titulo": "Laporta da el paso definitivo: fichaje sorpresa para el Barça, Hansi Flick ha dado su aprobación",
