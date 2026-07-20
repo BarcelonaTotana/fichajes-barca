@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-20T17:01:04.160396Z",
-  "total": 316,
+  "actualizado": "2026-07-20T17:13:13.502991Z",
+  "total": 317,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -55,6 +55,7 @@
     "c7770ea441e9cd96",
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
+    "d74b02004bbf149f",
     "d99b318f89a79c54",
     "ed20b49c576f59d0",
     "eea11ae24a1b3e53",
@@ -63,6 +64,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d74b02004bbf149f",
+      "titulo": "El Barça pone a la venta entradas para los primeros cuatro partidos con descuento",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260720/1004208570/barca-pone-venta-entradas-primeros-cuatro-partidos-descuento.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-20T16:59:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-20T17:12:13.498799"
+    },
     {
       "id": "42de21f3b31072a2",
       "titulo": "Cubarsí, el único mundialista del Barça intocable con pleno de minutos",
