@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-20T18:20:31.590071Z",
-  "total": 317,
+  "actualizado": "2026-07-20T18:30:47.765934Z",
+  "total": 318,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -64,6 +64,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e49e7f759c100926",
+      "titulo": "Laporta da el paso definitivo: fichaje sorpresa para el Barça, Hansi Flick ha dado su aprobación",
+      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZS1KbVBubjNKZ0F4b0U0eEJVUDY4clgxUzFFOFgzQ1l5ZDUteUFjS3QyQXpkWlFZcW55ZGJubXE3Z2ZlVDdyYjNYVllJQjU0eHBYV3pMc3BlV1VOS09qVFU4SVlVdVhXMVVHT2NNdkYxbTI3TzAzN19DMGJsLVVtQVlmQ1pON2hvZnJmZFk2TS05Q3lLeUt1NzB6VjBRaXB1TW9jeVZxazNpRTFxenpEeDBKQW5KcFFJNGpYazIwOGpJX1Z2ZHBXUFBJdkxRb05sMUJNZEFLMzg0djBrNzZwazhhdWhqZ2xSbGxycHVPM1dhLWJ5dklVenpvZy1QNVF3UlNR0gGDAkFVX3lxTFBlLUptUG5uM0pnQXhvRTR4QlVQNjhyWDFTMUU4WDNDWXlkNS15QWNLdDJBemRaUVlxbnlkYm5tcTdnZmVUN3JiM1hWWUlCNTR4cFhXekxzcGVXVU5LT2pUVThJWVV1WFcxVUdPY012RjFtMjdPMDM3X0MwYmwtVW1BWWZDWk43aG9mcmZkWTZNLTlDeUt5S3U3MHpWMFFpcHVNb2N5VnFrM2lFMXF6ekR4MEpBbkpwUUk0alhrMjA4aklfVnZkcFdQUEl2TFFvTmwxQk1kQUszODR2MGs3NnBrOGF1aGpnbFJsbHJwdU8zV2EtYnl2SVV6em9nLVA1UXdSU1E?oc=5",
+      "medio": "madrid-barcelona.com",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-20T17:00:10",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-20T18:30:46.750294"
+    },
     {
       "id": "d74b02004bbf149f",
       "titulo": "El Barça pone a la venta entradas para los primeros cuatro partidos con descuento",
