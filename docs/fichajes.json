@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-20T02:00:59.321754Z",
-  "total": 311,
+  "actualizado": "2026-07-20T02:10:32.932781Z",
+  "total": 312,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -179,6 +179,19 @@
       "fecha": "2026-07-19T02:13:41",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-19T14:11:35.269786"
+    },
+    {
+      "id": "4e9d31e428d67dd9",
+      "titulo": "Laporta: \"Un club grande no puede permitirse jugadores a disgusto\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207974/laporta-responde-atletico-sobre-julian-club-grande-no-permitirse-jugadores-disgusto.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-19T02:13:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-20T02:10:27.465244"
     },
     {
       "id": "7ea2d21e130adb37",
