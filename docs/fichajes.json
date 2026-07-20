@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-20T14:10:34.795925Z",
-  "total": 314,
+  "actualizado": "2026-07-20T14:20:36.239312Z",
+  "total": 315,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9bc567ac00d4f3ab",
+      "titulo": "El Barcelona cierra el fichaje de Jesse Bisiwu para reforzar el filial",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZV9sN0ZUUXhIbWNoa2tQSTVMMHJ6eVlTb01rcTk2eVF1U1pQN0ZVellNOTFNZXc1dksxSklmaDEwMDdoYy04QlFaWENwbFZka3dzSDQ3WldGQnRIQnVPTndtc0NtRzBDaGt1dzVHclhIcHVXbEVMdm51bmpucHJPZEE4S3pEWXBzc3doRERHSXRDcUZneFFjVjVxRkg0X0tpTy01YzItd0VKX1pzRFJmU2dFcGlZMW4wX2tMWnpmM3rSAcYBQVVfeXFMTU94cjFzMFlSU19rc3JRUFFpVTN3SFBOam85MEt6SjVfMHZ2SEYyVFp4MFdVRFNoUU5JaUt1WHhaTTBERHpJaVBDMDB2NERjQ0k3UUUtLTlqR0JMV3NjTnBQY0pDWG1tTEtkcS00a1ZNYjFmN0poblR6Nm5Qc01VaV8xanhhUlgxeFB4ZUVjQ3JGN01reUlfMDd1QzJqWVlaYmRYLVZsbHRlRTUtbGRlWkVVU3hIbURGaXhPQ01qVDVwWjdaNVh3?oc=5",
+      "medio": "FútbolFantasy",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-20T11:45:40",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-20T14:20:35.220789"
+    },
     {
       "id": "895224098a48f3dd",
       "titulo": "Cumbre del Barça con Ferran Torres la próxima semana",
