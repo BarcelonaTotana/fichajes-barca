@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-20T07:01:01.050897Z",
-  "total": 312,
+  "actualizado": "2026-07-20T07:10:32.788989Z",
+  "total": 313,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -63,6 +63,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "10d4b516c65cfaee",
+      "titulo": "Eric Garcia y su recompensa a la constancia",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260720/1004208341/eric-garcia-recompensa-constancia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-20T06:32:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-20T07:10:27.280463"
+    },
     {
       "id": "201cadfd109cf4c8",
       "titulo": "\"Julián Álvarez me vuelve loco\"",
