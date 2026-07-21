@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-21T20:33:25.630563Z",
-  "total": 326,
+  "actualizado": "2026-07-21T20:39:26.753349Z",
+  "total": 327,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -65,6 +65,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "1768c74688c084cb",
+      "titulo": "\"Adeyemi tiene una velocidad increíble\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260721/1004208932/adeyemi-velocidad-increible.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-21T20:01:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-21T20:39:21.544509"
+    },
     {
       "id": "23b1ee7c30dbe3fc",
       "titulo": "Preventa Entradas FC BARCELONA - REAL RACING CLUB - LALIGA EA Sports - fútbol masculino",
