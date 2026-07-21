@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-21T09:30:55.302630Z",
-  "total": 319,
+  "actualizado": "2026-07-21T09:40:30.313417Z",
+  "total": 320,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -64,6 +64,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c5bfa2a8791f6176",
+      "titulo": "El fichaje del talentoso Bisiwu por el Barça, muy cerca",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260721/1004208703/fichaje-talentoso-bisiwu-barca-cerca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-21T09:17:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-21T09:40:25.571757"
+    },
     {
       "id": "26f4c43eaa2ce687",
       "titulo": "Oficial: Se 'escapa' Cardoso Varela, que ficha por el Oporto",
