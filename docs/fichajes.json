@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-21T06:50:35.458878Z",
-  "total": 320,
+  "actualizado": "2026-07-21T07:01:04.551158Z",
+  "total": 319,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -4210,19 +4210,6 @@
       "fecha": "2026-06-21T11:48:19",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-07-12T01:40:54.614874"
-    },
-    {
-      "id": "f83f4da5a7c2f37f",
-      "titulo": "El FC Barcelona, cerca de perder a una de las principales piezas de su filial",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQk1qekxYdTM1M1FhSTBQS1pPV0hsZjBFdFVFQ2NnMy1QbTdxR00talVvZFNDNTZWWV9LLU9OelFndVBWU3J0R2c1WHdESXpuNVIxSmZIbVh5blU4RGdzclNILTRsSHZrcUlsU3N1eXpIN1NobzFBYUZ4d2J2X1V0Nmt5R3BtNHlvcHl5cktWSHpRTUpXSUlDSkYyMUx4NjlGSE5EUkQwR1BMeVRmR2RCSTd0VER5RzFfYUpGM0V6SQ?oc=5",
-      "medio": "Fichajes.com",
-      "tier": 5,
-      "tier_etiqueta": "Ruido / clickbait",
-      "categoria": "barca_atletic",
-      "estado": "avanzado",
-      "fecha": "2026-06-21T07:00:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-11T20:24:03.640535"
     }
   ]
 }
