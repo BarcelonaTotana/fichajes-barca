@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-21T11:40:31.402263Z",
-  "total": 323,
+  "actualizado": "2026-07-21T11:50:32.561615Z",
+  "total": 322,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -4250,19 +4250,6 @@
       "fecha": "2026-06-22T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T01:10:55.362917"
-    },
-    {
-      "id": "681a3e32ffc926b8",
-      "titulo": "El Málaga, último equipo confirmado de la Liga 26/27",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWc3SUh1QzlPZUkwMERRU3pYNjdpTVZFNWdEVDg0V0gwVk5Ka2tWVlhJQ2g0RDR3bHp4c0U4eTgwcWczaGxGMjhoZTg1OGtYU0NxN0lNd1RkTW1Lc3d3NjJyUzVRZ3RtcTB0Rkd4Y2h4ZzJwUUpYeHBvNlQ4UWFkOGRVSXFNVThfSnhSQ3lBM3lCRS1NWUtUdF95SWpZWkJT?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-06-21T11:48:19",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-07-12T01:40:54.614874"
     }
   ]
 }
