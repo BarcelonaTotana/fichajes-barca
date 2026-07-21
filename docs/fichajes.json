@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-21T11:01:08.026970Z",
-  "total": 322,
+  "actualizado": "2026-07-21T11:10:35.021791Z",
+  "total": 323,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -15,6 +15,7 @@
     "0f6dcf300e0cb34e",
     "10c093e3e5f4eedd",
     "12104adbc07a780e",
+    "158ac38fd80cae55",
     "158c66cbb29b7567",
     "15e1138a42f69040",
     "20234a678e468e32",
@@ -102,6 +103,19 @@
       "fecha": "2026-07-21T09:17:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-21T09:40:25.571757"
+    },
+    {
+      "id": "158ac38fd80cae55",
+      "titulo": "Acuerdo Barça-Brujas por Bisiwu, que irá al stage",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260721/1004208703/fichaje-talentoso-bisiwu-barca-cerca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-21T09:17:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-21T11:10:29.336982"
     },
     {
       "id": "26f4c43eaa2ce687",
