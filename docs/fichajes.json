@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-21T10:01:05.517026Z",
-  "total": 320,
+  "actualizado": "2026-07-21T10:10:36.803488Z",
+  "total": 322,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -64,6 +64,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "477cd6d7fcbe54b8",
+      "titulo": "Laporta confirma que Adeyemi será presentado mañana",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260721/1004208730/laporta-confirma-adeyemi-sera-presentado-manana.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-21T09:58:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-21T10:10:31.819472"
+    },
+    {
+      "id": "abd11d710b22396e",
+      "titulo": "Refuerzo para Flick en otra dura sesión",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260721/1004208717/refuerzo-flick-dura-sesion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-21T09:56:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-21T10:10:31.819610"
+    },
     {
       "id": "c5bfa2a8791f6176",
       "titulo": "El fichaje del talentoso Bisiwu por el Barça, muy cerca",
