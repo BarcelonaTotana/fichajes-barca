@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-21T12:10:34.936635Z",
-  "total": 325,
+  "actualizado": "2026-07-21T12:20:39.669664Z",
+  "total": 326,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -65,6 +65,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "23b1ee7c30dbe3fc",
+      "titulo": "Preventa Entradas FC BARCELONA - REAL RACING CLUB - LALIGA EA Sports - fútbol masculino",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWm03dkZQNXBhVGQtb3FFcjRwc0FGSkdRbndDdFAyamVpSi1RS3pvS0treVJpS1lDOWZlVmxtSm12Y1JDOXU1aTMzTlFZbFRNR0xBR2JocjRPNWFKWi1namNqcDkyMzRPMDNERncyV285QnNQa2kzOHJqTjFUbGk2NGVuU1Q1Y3U3ZGdwQm15VS1kdHU4dHBBN0hvU21VM3FEaElQNmlhUjdGS0hlRnc?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-21T12:13:37",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-07-21T12:20:32.359776"
+    },
     {
       "id": "29fd612ee73f36e7",
       "titulo": "Preventa Entradas FC BARCELONA - GETAFE CF - LALIGA EA Sports - fútbol masculino",
