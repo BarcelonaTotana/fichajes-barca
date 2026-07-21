@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-21T22:30:43.935761Z",
-  "total": 327,
+  "actualizado": "2026-07-21T22:40:29.719015Z",
+  "total": 328,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -65,6 +65,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "768612504d339b06",
+      "titulo": "En Argentina comparan la 'salvada' de Cubarsí con la parada de Dibu a Kolo Muani en 2022",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004208964/argentina-comparan-salvada-cubarsi-parada-dibu-kolo-muani-2022.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-21T22:23:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-21T22:40:24.438801"
+    },
     {
       "id": "1768c74688c084cb",
       "titulo": "\"Adeyemi tiene una velocidad increíble\"",
