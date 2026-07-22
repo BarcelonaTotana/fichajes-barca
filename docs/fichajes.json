@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-22T17:01:03.109616Z",
-  "total": 332,
+  "actualizado": "2026-07-22T17:10:37.283914Z",
+  "total": 333,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -68,6 +68,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "0e669fe0c5e16537",
+      "titulo": "Al Hilal cambia el ofertón a Raphinha por Summerville",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209190/hilal-cambia-oferton-raphinha-summerville.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-22T16:42:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-22T17:10:31.472359"
+    },
     {
       "id": "9df9b7157a05088a",
       "titulo": "Bisiwu puede llegar al Barça en pleno trabajo en Inglaterra",
