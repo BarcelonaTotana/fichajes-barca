@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-22T09:01:04.516540Z",
-  "total": 329,
+  "actualizado": "2026-07-22T09:10:41.094994Z",
+  "total": 330,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -67,6 +67,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "dc2414a308274a5a",
+      "titulo": "El Barça sigue negociando con el Manchester City por Kerolin",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209005/barca-sigue-negociando-manchester-city-kerolin.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-22T08:31:27",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-22T09:10:35.486006"
+    },
     {
       "id": "895a78b03cb87710",
       "titulo": "Oficial: Van Asten, primer fichaje del Barça",
