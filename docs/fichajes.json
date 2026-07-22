@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-22T06:50:29.445762Z",
-  "total": 328,
+  "actualizado": "2026-07-22T07:01:00.476147Z",
+  "total": 327,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -4315,19 +4315,6 @@
       "fecha": "2026-06-23T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T01:10:55.363668"
-    },
-    {
-      "id": "04a1bd57ce57a14a",
-      "titulo": "El FC Barcelona ingresará 3 M€ con una venta",
-      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaWw4MDltSGFRMktFY3NRY1BLbnRJb01VN3RuMXNDWXVfb3JRTGk3QjltZk5McUVOR2laT2hfVWpLU0NYdWVvd2lDclhITmEwUlcwRnhwSXVWazBYMjExV0thYms0cFRDQ2RIVEEtTk9YVkExNjZoRjlJUFFlUjFpZFR1RUc4M0xTRXVjblZYa3JNSmU2emd3?oc=5",
-      "medio": "Fichajes.com",
-      "tier": 5,
-      "tier_etiqueta": "Ruido / clickbait",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-06-22T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T01:10:55.362917"
     }
   ]
 }
