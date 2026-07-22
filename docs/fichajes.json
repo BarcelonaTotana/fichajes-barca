@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-22T13:30:48.990020Z",
-  "total": 331,
+  "actualizado": "2026-07-22T13:40:36.469369Z",
+  "total": 332,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -68,6 +68,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9df9b7157a05088a",
+      "titulo": "Bisiwu puede llegar al Barça en pleno trabajo en Inglaterra",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209126/bisiwu-llegar-barca-pleno-trabajo-inglaterra.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-22T13:20:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-22T13:40:31.266004"
+    },
     {
       "id": "09e90e74922a2b9b",
       "titulo": "El acuerdo del Barça por Cancelo, para después del ‘stage’",
