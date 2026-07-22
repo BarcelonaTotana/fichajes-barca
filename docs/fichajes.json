@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-22T13:01:04.466114Z",
-  "total": 330,
+  "actualizado": "2026-07-22T13:10:35.837173Z",
+  "total": 331,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -12,6 +12,7 @@
     "0069a55d2c0e761e",
     "05fed9472c50534b",
     "09144d5ce9eed317",
+    "09e90e74922a2b9b",
     "0dcc3195962dd4cd",
     "0f6dcf300e0cb34e",
     "10c093e3e5f4eedd",
@@ -67,6 +68,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "09e90e74922a2b9b",
+      "titulo": "El acuerdo del Barça por Cancelo, para después del ‘stage’",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209107/acuerdo-barca-cancelo-stage.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-22T12:32:01",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-22T13:10:29.984759"
+    },
     {
       "id": "dc2414a308274a5a",
       "titulo": "El Barça sigue negociando con el Manchester City por Kerolin",
