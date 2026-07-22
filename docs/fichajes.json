@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-22T22:30:46.590958Z",
-  "total": 336,
+  "actualizado": "2026-07-22T22:40:35.101257Z",
+  "total": 337,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -68,6 +68,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a18d79de4ba08525",
+      "titulo": "Adeyemi & Gordon: presión y vértigo para el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004207247/adeyemi-gordon-presion-vertigo-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-22T22:22:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-22T22:40:29.536559"
+    },
     {
       "id": "68caf40174751b15",
       "titulo": "El Mundial revaloriza a Gordon por encima de lo que pagó el Barça",
