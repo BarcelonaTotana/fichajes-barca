@@ -1,11 +1,12 @@
 {
-  "actualizado": "2026-07-22T08:30:47.253390Z",
-  "total": 327,
+  "actualizado": "2026-07-22T08:40:33.874626Z",
+  "total": 329,
   "cerradas": [
     "alex campos",
     "josue caicedo",
     "juan ybarra",
-    "olivier nkamhoua"
+    "olivier nkamhoua",
+    "van asten"
   ],
   "alertadas": [
     "0069a55d2c0e761e",
@@ -43,6 +44,7 @@
     "7f5de7c97cea0906",
     "831ffdba8f3957f2",
     "836ef578c7088a31",
+    "895a78b03cb87710",
     "8b4dc1648da51d1b",
     "8f35aa9144d84d17",
     "942698cb9b788434",
@@ -65,6 +67,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "895a78b03cb87710",
+      "titulo": "Oficial: Van Asten, primer fichaje del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004208996/oficial-asten-primer-fichaje-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-22T08:05:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-22T08:40:27.918280"
+    },
     {
       "id": "768612504d339b06",
       "titulo": "En Argentina comparan la 'salvada' de Cubarsí con la parada de Dibu a Kolo Muani en 2022",
@@ -285,6 +300,19 @@
       "fecha": "2026-07-20T09:49:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-20T10:10:26.627773"
+    },
+    {
+      "id": "781d2544393821fa",
+      "titulo": "Preventa Entradas FC BARCELONA - ATHLETIC CLUB - LALIGA EA Sports - fútbol masculino",
+      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVJjOW9ETEU0UXc5bUIzQVZ5N0lIa1l4dGd5T3hHenhrVTlLb1NCNUpYTWlVX3VfRlpJR2o4TkdDLVAyaWJGS1hYREItUEoxREE0WUJ2WEVLVnZfWUtncHFvNmdTRHE3RzhOM1Zpc21zelU5RmU3WEgzcWJBNHlvc1l5eXVKaWdWM0p0cWVQZkVRMWNzOVFQc09QcXZqajYwQklv?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-20T09:39:08",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-07-22T08:40:26.641272"
     },
     {
       "id": "10d4b516c65cfaee",
