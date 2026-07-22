@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-22T21:30:45.355283Z",
-  "total": 335,
+  "actualizado": "2026-07-22T21:40:34.517970Z",
+  "total": 336,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -68,6 +68,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "68caf40174751b15",
+      "titulo": "El Mundial revaloriza a Gordon por encima de lo que pagó el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209264/mundial-revaloriza-gordon-encima-pago-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-22T21:11:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-22T21:40:28.825081"
+    },
     {
       "id": "c2493172f30a6aea",
       "titulo": "La presentación de Adeyemi, este jueves",
