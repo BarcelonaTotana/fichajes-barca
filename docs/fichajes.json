@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-22T18:01:01.077552Z",
-  "total": 333,
+  "actualizado": "2026-07-22T18:10:31.742629Z",
+  "total": 334,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -68,6 +68,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9461704a66211089",
+      "titulo": "Darwin Núñez regresa a Arabia mirando de reojo al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209210/darwin-nunez-regresa-arabia-mirando-reojo-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-22T17:42:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-22T18:10:26.846513"
+    },
     {
       "id": "0e669fe0c5e16537",
       "titulo": "Al Hilal cambia el ofertón a Raphinha por Summerville",
