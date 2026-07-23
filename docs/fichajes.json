@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-23T11:01:03.418429Z",
-  "total": 331,
+  "actualizado": "2026-07-23T11:10:37.101166Z",
+  "total": 332,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -57,6 +57,7 @@
     "c383845699e845be",
     "c4e9378d7e1652b2",
     "c7770ea441e9cd96",
+    "ca774448b957d12b",
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
     "d74b02004bbf149f",
@@ -68,6 +69,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ca774448b957d12b",
+      "titulo": "Oficial: Adeyemi ya es jugador del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004207134/oficial-adeyemi-jugador-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-23T10:33:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T11:10:31.148324"
+    },
     {
       "id": "6f8674072e92807b",
       "titulo": "Anthony Gordon ya se deja ver por Barcelona antes de incorporarse al equipo de Flick",
