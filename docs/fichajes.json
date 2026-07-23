@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-23T13:01:06.762700Z",
-  "total": 333,
+  "actualizado": "2026-07-23T13:10:36.356928Z",
+  "total": 334,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -69,6 +69,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "18492f771055f712",
+      "titulo": "Adeyemi: \"Flick es la principal razón de que esté aquí\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209429/adeyemi-flick-principal-razon.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-23T12:30:22",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T13:10:30.518307"
+    },
     {
       "id": "aa3d63e7c4219930",
       "titulo": "La presentación de Adeyemi como nuevo jugador del Barça, en directo",
