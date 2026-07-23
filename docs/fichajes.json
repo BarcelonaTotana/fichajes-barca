@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-23T13:30:47.120976Z",
-  "total": 334,
+  "actualizado": "2026-07-23T13:40:32.420379Z",
+  "total": 337,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -70,6 +70,19 @@
   ],
   "noticias": [
     {
+      "id": "cbe4783f7f586477",
+      "titulo": "Adeyemi, ambicioso: \"La Champions no es el único objetivo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209441/adeyemi-ambicioso-champions-no-unico-objetivo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-23T13:17:48",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T13:40:27.591919"
+    },
+    {
       "id": "18492f771055f712",
       "titulo": "Adeyemi: \"Flick es la principal razón de que esté aquí\"",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209429/adeyemi-flick-principal-razon.html",
@@ -81,6 +94,19 @@
       "fecha": "2026-07-23T12:30:22",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T13:10:30.518307"
+    },
+    {
+      "id": "bb64ea37152eeb12",
+      "titulo": "Presentación de Adeyemi como nuevo jugador del Barça, en directo | Última hora y reacciones del FC Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209278/adeyemi-presentacion-directo-ultima-hora-fc-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-23T11:14:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T13:40:27.592521"
     },
     {
       "id": "aa3d63e7c4219930",
@@ -120,6 +146,19 @@
       "fecha": "2026-07-23T07:54:54",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T08:10:28.025596"
+    },
+    {
+      "id": "fe2546c255d4d29f",
+      "titulo": "Anthony Gordon se deja ver por Barcelona antes de incorporarse",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209321/anthony-gordon-deja-ver-barcelona-incorporarse-equipo-flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-23T07:54:54",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T13:40:27.593213"
     },
     {
       "id": "f1b0c746c7bf883b",
