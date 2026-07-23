@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-23T07:00:58.108016Z",
-  "total": 329,
+  "actualizado": "2026-07-23T07:10:32.970510Z",
+  "total": 330,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -68,6 +68,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "f1b0c746c7bf883b",
+      "titulo": "Lewandowski inicia su aventura americana sin olvidar al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209298/lewandowski-inicia-aventura-americana-olvidar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-23T06:36:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T07:10:27.786258"
+    },
     {
       "id": "3da68c99075bd8c2",
       "titulo": "Avances para desencallar el 'caso Ter Stegen'",
