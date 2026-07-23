@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-23T05:00:58.900065Z",
-  "total": 337,
+  "actualizado": "2026-07-23T05:10:32.248788Z",
+  "total": 338,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -68,6 +68,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "3da68c99075bd8c2",
+      "titulo": "Avances para desencallar el 'caso Ter Stegen'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209251/avances-desencallar-caso-ter-stegen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-23T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T05:10:26.861723"
+    },
     {
       "id": "a18d79de4ba08525",
       "titulo": "Adeyemi & Gordon: presión y vértigo para el Barça",
