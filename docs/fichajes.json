@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-23T17:30:53.710907Z",
-  "total": 340,
+  "actualizado": "2026-07-23T17:40:34.130730Z",
+  "total": 342,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -20,6 +20,7 @@
     "158ac38fd80cae55",
     "158c66cbb29b7567",
     "15e1138a42f69040",
+    "1f5fed6548852821",
     "20234a678e468e32",
     "2424d14d53098add",
     "27f25d89b4825926",
@@ -70,6 +71,19 @@
   ],
   "noticias": [
     {
+      "id": "1f5fed6548852821",
+      "titulo": "Oficial: El Barça ficha a un talento marroquí",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209533/oficial-barca-confirma-fichaje-talento-marroqui.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-07-23T17:05:39",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T17:40:28.649427"
+    },
+    {
       "id": "e04f1dcae5b959dd",
       "titulo": "Oficial: Modric sigue en el Milan",
       "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260723/1004209530/oficial-modric-sigue-milan.html",
@@ -81,6 +95,19 @@
       "fecha": "2026-07-23T16:49:29",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-07-23T17:10:28.807801"
+    },
+    {
+      "id": "6450d2c30c390685",
+      "titulo": "Frenkie da su versión sobre la lesión y no cierra la puerta a una operación",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209528/frenkie-jong-da-version-sobre-lesion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-23T16:44:39",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T17:40:28.649629"
     },
     {
       "id": "27ca23acc6f51574",
