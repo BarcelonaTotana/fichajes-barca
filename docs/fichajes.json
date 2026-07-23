@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-23T17:05:40.990709Z",
-  "total": 339,
+  "actualizado": "2026-07-23T17:10:32.774088Z",
+  "total": 340,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -69,6 +69,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e04f1dcae5b959dd",
+      "titulo": "Oficial: Modric sigue en el Milan",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260723/1004209530/oficial-modric-sigue-milan.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-23T16:49:29",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-07-23T17:10:28.807801"
+    },
     {
       "id": "27ca23acc6f51574",
       "titulo": "El Barça confirma los malos presagios con De Jong",
