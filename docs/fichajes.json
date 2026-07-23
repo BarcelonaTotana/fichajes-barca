@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-23T19:40:34.148482Z",
-  "total": 342,
+  "actualizado": "2026-07-23T19:50:30.602402Z",
+  "total": 343,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -70,6 +70,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "0642b7c0dc8aff84",
+      "titulo": "El Deportivo abre mercados en un verano de ‘Ley Bosman’",
+      "enlace": "https://www.sport.es/es/noticias/futbol/deportivo-abre-mercados-verano-ley-132752228?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-23T19:39:49",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-07-23T19:50:28.134838"
+    },
     {
       "id": "1f5fed6548852821",
       "titulo": "Oficial: El Barça ficha a un talento marroquí",
