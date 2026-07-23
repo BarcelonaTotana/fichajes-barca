@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-23T14:01:16.324143Z",
-  "total": 337,
+  "actualizado": "2026-07-23T14:10:35.294576Z",
+  "total": 338,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -81,6 +81,19 @@
       "fecha": "2026-07-23T13:17:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T13:40:27.591919"
+    },
+    {
+      "id": "56a9a4b4bce505bc",
+      "titulo": "Adeyemi: \"La Champions no es el único objetivo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209441/adeyemi-ambicioso-champions-no-unico-objetivo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-23T13:17:48",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T14:10:30.006821"
     },
     {
       "id": "18492f771055f712",
