@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-23T08:01:03.715573Z",
-  "total": 330,
+  "actualizado": "2026-07-23T08:10:33.377282Z",
+  "total": 331,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -68,6 +68,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "6f8674072e92807b",
+      "titulo": "Anthony Gordon ya se deja ver por Barcelona antes de incorporarse al equipo de Flick",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209321/anthony-gordon-deja-ver-barcelona-incorporarse-equipo-flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-23T07:54:54",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T08:10:28.025596"
+    },
     {
       "id": "f1b0c746c7bf883b",
       "titulo": "Lewandowski inicia su aventura americana sin olvidar al Barça",
