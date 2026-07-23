@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-23T11:30:50.514782Z",
-  "total": 332,
+  "actualizado": "2026-07-23T11:40:43.154320Z",
+  "total": 333,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -69,6 +69,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "aa3d63e7c4219930",
+      "titulo": "La presentación de Adeyemi como nuevo jugador del Barça, en directo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209278/adeyemi-presentacion-directo-ultima-hora-fc-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-23T11:14:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T11:40:37.425847"
+    },
     {
       "id": "ca774448b957d12b",
       "titulo": "Oficial: Adeyemi ya es jugador del Barça",
