@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-23T17:00:59.918357Z",
-  "total": 338,
+  "actualizado": "2026-07-23T17:05:40.990709Z",
+  "total": 339,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -69,6 +69,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "27ca23acc6f51574",
+      "titulo": "El Barça confirma los malos presagios con De Jong",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209527/comunicado-medico-jong-rotura-ligamento.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-23T16:37:22",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-23T17:05:35.435149"
+    },
     {
       "id": "cbe4783f7f586477",
       "titulo": "Adeyemi, ambicioso: \"La Champions no es el único objetivo\"",
