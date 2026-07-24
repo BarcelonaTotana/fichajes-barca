@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-24T14:01:03.689505Z",
-  "total": 347,
+  "actualizado": "2026-07-24T14:13:14.953793Z",
+  "total": 348,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -188,6 +188,19 @@
       "fecha": "2026-07-23T16:44:39",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T17:40:28.649629"
+    },
+    {
+      "id": "b6287e62662bc28c",
+      "titulo": "De Jong da su versión sobre la lesión y no cierra la puerta a una operación",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209528/frenkie-jong-da-version-sobre-lesion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-23T16:44:39",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-24T14:12:13.907824"
     },
     {
       "id": "27ca23acc6f51574",
