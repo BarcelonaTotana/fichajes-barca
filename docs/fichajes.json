@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-24T22:32:05.664701Z",
-  "total": 350,
+  "actualizado": "2026-07-24T22:40:31.769401Z",
+  "total": 351,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -72,6 +72,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "fce1a30da4765d47",
+      "titulo": "Lamine Yamal, un gigante lanzado a por el Balón de Oro",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260725/1004209902/lamine-yamal-gigante-lanzado-balon-oro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-24T22:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-24T22:40:26.430186"
+    },
     {
       "id": "386090ebc0cce144",
       "titulo": "El Barça fichó a Adeyemi sin que el Borussia lograra su tradicional plusvalía",
