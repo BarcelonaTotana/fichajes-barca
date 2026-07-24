@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-24T17:30:49.242916Z",
-  "total": 348,
+  "actualizado": "2026-07-24T17:40:32.986252Z",
+  "total": 349,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -72,6 +72,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a90bd4187a824c7f",
+      "titulo": "El Al Ahly, confirmado como rival del Gamper",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260724/1004209748/ahly-confirmado-rival-gamper.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-24T17:03:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-24T17:40:27.844577"
+    },
     {
       "id": "b631447530d14036",
       "titulo": "El Barça renueva a Carla Julià y le da ficha de primer equipo",
