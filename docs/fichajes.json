@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-24T18:00:57.093382Z",
-  "total": 349,
+  "actualizado": "2026-07-24T18:10:35.386623Z",
+  "total": 350,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -72,6 +72,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "386090ebc0cce144",
+      "titulo": "El Barça fichó a Adeyemi sin que el Borussia lograra su tradicional plusvalía",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260724/1004209875/barca-ficho-adeyemi-borussia-lograra-tradicional-plusvalia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-24T17:55:09",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-24T18:10:29.860603"
+    },
     {
       "id": "a90bd4187a824c7f",
       "titulo": "El Al Ahly, confirmado como rival del Gamper",
