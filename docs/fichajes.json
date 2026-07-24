@@ -1,8 +1,9 @@
 {
-  "actualizado": "2026-07-24T10:30:48.152419Z",
-  "total": 345,
+  "actualizado": "2026-07-24T10:40:31.799773Z",
+  "total": 347,
   "cerradas": [
     "alex campos",
+    "carla julia",
     "josue caicedo",
     "juan ybarra",
     "olivier nkamhoua",
@@ -53,6 +54,7 @@
     "9edce93ae27b024e",
     "a6a4505cce06ed66",
     "ab109c4f2d31ccf8",
+    "b631447530d14036",
     "b6be42fd132bae88",
     "c170708f840cd195",
     "c383845699e845be",
@@ -70,6 +72,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "b631447530d14036",
+      "titulo": "El Barça renueva a Carla Julià y le da ficha de primer equipo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260724/1004209733/barca-renueva-carla-julia-le-da-ficha-primer-equipo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-24T10:28:36",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-24T10:40:26.015459"
+    },
+    {
+      "id": "fb5d2474ee421bea",
+      "titulo": "Se desencalla la cesión de Ter Stegen, que apunta a no ir al 'stage'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260724/1004209711/desencalla-cesion-ter-stegen-apunta-no-stage.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-24T10:00:34",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-24T10:40:26.015642"
+    },
     {
       "id": "ac63fc3f089ff2a1",
       "titulo": "Adeyemi completa su primer entrenamiento con el Barça",
