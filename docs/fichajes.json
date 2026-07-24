@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-24T07:01:07.612008Z",
-  "total": 343,
+  "actualizado": "2026-07-24T07:10:34.846315Z",
+  "total": 344,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -70,6 +70,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "238e62fcaacb3347",
+      "titulo": "La presentación de Adeyemi desde dentro: familia, satisfacción en el club y celebración en el Leña",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260724/1004209636/look-estilo-kounde-celebracion-especial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-24T06:35:55",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-24T07:10:29.421761"
+    },
     {
       "id": "840b6a7ed3737b0c",
       "titulo": "Más calidad en ataque",
