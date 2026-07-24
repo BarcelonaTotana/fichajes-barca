@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-24T05:00:59.586801Z",
-  "total": 343,
+  "actualizado": "2026-07-24T05:10:29.428133Z",
+  "total": 344,
   "cerradas": [
     "alex campos",
     "josue caicedo",
@@ -70,6 +70,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "840b6a7ed3737b0c",
+      "titulo": "Más calidad en ataque",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260724/1004209561/mas-calidad-ataque.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-24T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-24T05:10:24.684124"
+    },
     {
       "id": "0642b7c0dc8aff84",
       "titulo": "El Deportivo abre mercados en un verano de ‘Ley Bosman’",
