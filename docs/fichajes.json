@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-25T21:00:58.274638Z",
-  "total": 352,
+  "actualizado": "2026-07-25T21:10:37.108685Z",
+  "total": 353,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -72,6 +72,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a43c3f38d2c74668",
+      "titulo": "Julián sí, Julián no",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260725/1004210175/faltan-goles.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-25T20:57:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-25T21:10:31.478198"
+    },
     {
       "id": "ae3bf7ca3978a254",
       "titulo": "Deco y Echevarría, en el concierto de Diana Krall",
