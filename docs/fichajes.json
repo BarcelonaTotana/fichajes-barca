@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-25T09:03:51.980791Z",
-  "total": 349,
+  "actualizado": "2026-07-25T09:10:31.718739Z",
+  "total": 350,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -72,6 +72,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "86a66219e2d81663",
+      "titulo": "Flick no presionará a los descartados sin 'stage'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260725/1004209965/flick-no-presionara-descartados-stage.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-25T08:32:27",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-25T09:10:26.173827"
+    },
     {
       "id": "fce1a30da4765d47",
       "titulo": "Lamine Yamal, un gigante lanzado a por el Balón de Oro",
