@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-25T23:02:11.962459Z",
-  "total": 353,
+  "actualizado": "2026-07-25T23:10:35.907215Z",
+  "total": 354,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -72,6 +72,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "62d2d7badd1237a7",
+      "titulo": "El Barça sigue queriendo a Julián Álvarez pero no hará locuras",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210184/barca-sigue-queriendo-julian-alvarez-no-hara-locuras.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-25T22:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-25T23:10:30.270249"
+    },
     {
       "id": "a43c3f38d2c74668",
       "titulo": "Julián sí, Julián no",
