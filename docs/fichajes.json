@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-25T16:20:30.382768Z",
-  "total": 350,
+  "actualizado": "2026-07-25T16:31:42.597989Z",
+  "total": 351,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -72,6 +72,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "2d1670dce2bc982e",
+      "titulo": "El United quiere incluir a Rashford para fichar a un semifinalista del Mundial",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260725/1004210109/rashford.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-25T16:20:17",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-07-25T16:31:38.884370"
+    },
     {
       "id": "86a66219e2d81663",
       "titulo": "Flick no presionará a los descartados sin 'stage'",
