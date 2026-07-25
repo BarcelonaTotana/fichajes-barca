@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-25T20:31:59.331488Z",
-  "total": 351,
+  "actualizado": "2026-07-25T20:40:34.979239Z",
+  "total": 352,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -72,6 +72,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ae3bf7ca3978a254",
+      "titulo": "Deco y Echevarría, en el concierto de Diana Krall",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260725/1004210179/deco-echevarria-concierto-diana-krall.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-25T20:19:53",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-25T20:40:29.794670"
+    },
     {
       "id": "2d1670dce2bc982e",
       "titulo": "El United quiere incluir a Rashford para fichar a un semifinalista del Mundial",
