@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-26T11:30:41.725371Z",
-  "total": 357,
+  "actualizado": "2026-07-26T11:41:18.830403Z",
+  "total": 359,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -76,6 +76,19 @@
   ],
   "noticias": [
     {
+      "id": "5adfead18a0d005b",
+      "titulo": "El cerco del Arsenal por Vinicius puede afectar a Julián Álvarez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210291/cerco-arsenal-vinicius-afectar-julian-alvarez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-26T11:10:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-26T11:41:13.364206"
+    },
+    {
       "id": "3fc8e8a0d3a9d421",
       "titulo": "El Barça ficha a Martina Fernández",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210288/barca-ficha-martina-fernandez.html",
@@ -87,6 +100,19 @@
       "fecha": "2026-07-26T10:27:23",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-26T10:41:49.015724"
+    },
+    {
+      "id": "618a4f3ee96da9cb",
+      "titulo": "Martina Fernández regresa al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210288/barca-ficha-martina-fernandez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-26T10:27:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-26T11:41:13.364397"
     },
     {
       "id": "c1b8a3c089e5fe2a",
