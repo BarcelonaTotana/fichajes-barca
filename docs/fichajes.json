@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-26T03:00:56.716700Z",
-  "total": 354,
+  "actualizado": "2026-07-26T03:11:43.258013Z",
+  "total": 356,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -65,6 +65,7 @@
     "cf86e5c6af4b5e90",
     "d74b02004bbf149f",
     "d99b318f89a79c54",
+    "e6801ae14559f1b4",
     "ed20b49c576f59d0",
     "eea11ae24a1b3e53",
     "f20ed5cc2751badd",
@@ -72,6 +73,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e6801ae14559f1b4",
+      "titulo": "El Barça no quiere líos con el Athletic por Laporte",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210190/barca-no-quiere-lios-athletic-laporte.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-26T03:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-26T03:11:37.773424"
+    },
+    {
+      "id": "b1455aaf929efb9c",
+      "titulo": "Koundé, una opción más de central",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210191/kounde-opcion-central.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-26T02:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-26T03:11:37.773603"
+    },
     {
       "id": "62d2d7badd1237a7",
       "titulo": "El Barça sigue queriendo a Julián Álvarez pero no hará locuras",
