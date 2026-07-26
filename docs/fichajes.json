@@ -1,11 +1,12 @@
 {
-  "actualizado": "2026-07-26T10:31:25.920534Z",
-  "total": 356,
+  "actualizado": "2026-07-26T10:41:55.167693Z",
+  "total": 357,
   "cerradas": [
     "alex campos",
     "carla julia",
     "josue caicedo",
     "juan ybarra",
+    "martina fernandez",
     "olivier nkamhoua",
     "van asten"
   ],
@@ -31,6 +32,7 @@
     "3b3868743b3b44cd",
     "3e1e9d7b56e10b9a",
     "3e2c4f091ab5587f",
+    "3fc8e8a0d3a9d421",
     "3fdddeb97e3bd4a4",
     "40c7579b1923fccf",
     "4350d89f43a19914",
@@ -73,6 +75,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "3fc8e8a0d3a9d421",
+      "titulo": "El Barça ficha a Martina Fernández",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210288/barca-ficha-martina-fernandez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-26T10:27:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-26T10:41:49.015724"
+    },
     {
       "id": "c1b8a3c089e5fe2a",
       "titulo": "De la Fuente explica con detalle la 'repesca' de Eric Garcia para la final del Mundial",
