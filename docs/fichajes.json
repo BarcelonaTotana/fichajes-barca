@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-26T18:02:11.364752Z",
-  "total": 363,
+  "actualizado": "2026-07-26T18:13:09.791806Z",
+  "total": 364,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -100,6 +100,19 @@
       "fecha": "2026-07-26T16:02:49",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-26T16:40:27.226582"
+    },
+    {
+      "id": "68b28e89881cee6d",
+      "titulo": "La clara postura del Ajax con Ter Stegen: habla Míchel",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210386/clara-postura-ajax-caso-ter-stegen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-26T16:02:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-26T18:12:08.789157"
     },
     {
       "id": "10e1d9d99ac53f52",
