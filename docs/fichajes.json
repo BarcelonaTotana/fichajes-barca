@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-26T06:51:11.153805Z",
-  "total": 356,
+  "actualizado": "2026-07-26T07:02:01.417627Z",
+  "total": 355,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -4687,19 +4687,6 @@
       "fecha": "2026-06-27T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T01:10:55.361477"
-    },
-    {
-      "id": "a66c1f52aabdb403",
-      "titulo": "El Barça activa la operación salida",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX1o5M2RaczV4d29Bcnp6Wi1BLU55NWdjNk1TczcwTnNMYWtZY0FreXJnMGFqejZpc0pyZ0ZHM0dWSFEtY2xqVU5CUmxVbndsR3MyaVhuWmktdTdleFhtWXVHeWFRR01hRmlmLXYxY241TVhjMGVrTTdYZGItcmRWWGxOM09CTDV6M0h3ZkY1dnpvNUpQaF95MVZlbzl2WnhPb3FUVVU4YmXSAbYBQVVfeXFMTV95N0tSR0ZUUHpVQjlObjZzNkkxYWw0RF9iMzEtdnlHUHRQbGV6Y2dOSGJlS1dvZmUydE00OXdxYzQ0d2pjb3k4TWNwdE1sVFY2UTFORlVhTTZtMjVycWt5QURXQkJOLXBBSXdmV3BQY09xUUNBQjBsRVAxWDNXbTRWbVJpWDl4bDdtUmhSN1hyTGFJSkp4UXpISHJKbWlGRW1JM054ZVpZTGdCQllqVXZBSC1qUWc?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-06-26T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T05:20:52.582378"
     }
   ]
 }
