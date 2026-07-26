@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-26T14:30:44.579286Z",
-  "total": 360,
+  "actualizado": "2026-07-26T14:41:48.575560Z",
+  "total": 361,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -75,6 +75,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "10e1d9d99ac53f52",
+      "titulo": "Diego Kochen, titular en su debut con el Lyngby",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210347/diego-kochen-titular-debut-lyngby.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-26T14:09:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-26T14:41:43.499831"
+    },
     {
       "id": "903fb57b222b727c",
       "titulo": "La cesión de Ter Stegen al Ajax avanza pero lentamente",
