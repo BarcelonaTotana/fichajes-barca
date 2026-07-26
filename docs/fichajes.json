@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-26T12:03:30.790496Z",
-  "total": 359,
+  "actualizado": "2026-07-26T12:10:32.116671Z",
+  "total": 360,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -75,6 +75,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "903fb57b222b727c",
+      "titulo": "La cesión de Ter Stegen al Ajax avanza pero lentamente",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210319/cesion-ter-stegen-ajax-avanza-lentamente.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-26T11:57:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-26T12:10:27.124397"
+    },
     {
       "id": "5adfead18a0d005b",
       "titulo": "El cerco del Arsenal por Vinicius puede afectar a Julián Álvarez",
