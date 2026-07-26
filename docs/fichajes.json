@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-26T16:30:42.914614Z",
-  "total": 361,
+  "actualizado": "2026-07-26T16:40:32.734853Z",
+  "total": 363,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -75,6 +75,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ef47fd23b61c7f2b",
+      "titulo": "Pedri y su 'boom' en China: vacaciones en familia, actos y hasta un saque de honor",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210387/pedri-boom-china-vacaciones-familia-actos-saque-honor.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-26T16:05:34",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-26T16:40:27.226379"
+    },
+    {
+      "id": "88e9cf688a9795c7",
+      "titulo": "La clara postura del Ajax en el 'caso Ter Stegen'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210386/clara-postura-ajax-caso-ter-stegen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-26T16:02:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-26T16:40:27.226582"
+    },
     {
       "id": "10e1d9d99ac53f52",
       "titulo": "Diego Kochen, titular en su debut con el Lyngby",
