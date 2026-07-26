@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-26T19:00:57.764982Z",
-  "total": 364,
+  "actualizado": "2026-07-26T19:10:32.466635Z",
+  "total": 365,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -75,6 +75,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "89549da99e0db3ab",
+      "titulo": "El tercer portero del Barça, entre Áron Yaakobishvili o Eder Aller",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210343/tercer-portero-yaako-eder.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-26T19:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-26T19:10:27.437025"
+    },
     {
       "id": "ef47fd23b61c7f2b",
       "titulo": "Pedri y su 'boom' en China: vacaciones en familia, actos y hasta un saque de honor",
