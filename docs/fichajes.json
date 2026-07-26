@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-26T08:00:53.016968Z",
-  "total": 355,
+  "actualizado": "2026-07-26T08:10:34.855474Z",
+  "total": 356,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -73,6 +73,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c1b8a3c089e5fe2a",
+      "titulo": "De la Fuente explica con detalle la 'repesca' de Eric Garcia para la final del Mundial",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210234/fuente-explica-repesca-eric-garcia-final-mundial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-26T07:30:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-26T08:10:29.361589"
+    },
     {
       "id": "e6801ae14559f1b4",
       "titulo": "El Barça no quiere líos con el Athletic por Laporte",
