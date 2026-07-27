@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T22:30:51.319385Z",
-  "total": 379,
+  "actualizado": "2026-07-27T22:40:32.494637Z",
+  "total": 380,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -105,6 +105,19 @@
       "fecha": "2026-07-27T20:04:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T20:40:30.982471"
+    },
+    {
+      "id": "2d3d2a4ffeece0d3",
+      "titulo": "Galería: Primer entrenamiento del Barça en Saint George's Park",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210784/primer-entrenamiento-pretemporada-barca-tierras-inglesas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T19:21:48",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T22:40:27.151103"
     },
     {
       "id": "af0089361f15efe2",
