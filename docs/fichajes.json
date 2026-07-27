@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T20:30:49.386160Z",
-  "total": 377,
+  "actualizado": "2026-07-27T20:40:36.751038Z",
+  "total": 378,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -80,6 +80,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "6c75bb692f96835d",
+      "titulo": "El Barça preguntó por Diomande",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210752/barca-valoro-diomande-aposto-gordon.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-27T20:04:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T20:40:30.982471"
+    },
     {
       "id": "af0089361f15efe2",
       "titulo": "\"El Barça sondea el fichaje de Rodri\"",
