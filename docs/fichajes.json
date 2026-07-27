@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T10:01:06.256156Z",
-  "total": 365,
+  "actualizado": "2026-07-27T10:10:34.732645Z",
+  "total": 366,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -76,6 +76,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "4b3334ecc4e4e503",
+      "titulo": "Los 31 elegidos por Flick para el 'stage' y sorpresa con De Jong",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210557/31-elegidos-flick-stage-sorpresa-jong.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T09:40:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T10:10:29.533571"
+    },
     {
       "id": "f75c3f69b1a7e1a2",
       "titulo": "Así vivió Adeyemi sus primeros días tras fichar por el Barça",
