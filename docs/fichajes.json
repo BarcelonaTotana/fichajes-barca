@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T13:30:51.075529Z",
-  "total": 367,
+  "actualizado": "2026-07-27T13:40:36.739343Z",
+  "total": 369,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -77,6 +77,19 @@
   ],
   "noticias": [
     {
+      "id": "1c26eb53036e118c",
+      "titulo": "Sale a la luz una de las claves del fichaje de Bisiwu por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210663/sale-luz-claves-fichaje-bisiwu-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T13:29:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T13:40:31.175714"
+    },
+    {
       "id": "d95d05df23943e2d",
       "titulo": "Dos balas para el nuevo Barça: la velocidad a la que van Adeyemi y Gordon",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210547/dos-balas-barca-futbolistas-corren-25-km-h-bdg.html",
@@ -101,6 +114,19 @@
       "fecha": "2026-07-27T09:40:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T10:10:29.533571"
+    },
+    {
+      "id": "3386688dc9e18859",
+      "titulo": "Los 30 de Flick para el 'stage' y la sorpresa De Jong ya están en Inglaterra",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210557/31-elegidos-flick-stage-sorpresa-jong.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T09:40:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T13:40:31.176388"
     },
     {
       "id": "f75c3f69b1a7e1a2",
