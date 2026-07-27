@@ -1,9 +1,10 @@
 {
-  "actualizado": "2026-07-27T15:30:51.240808Z",
-  "total": 370,
+  "actualizado": "2026-07-27T15:40:38.222724Z",
+  "total": 373,
   "cerradas": [
     "alex campos",
     "carla julia",
+    "celia segura",
     "josue caicedo",
     "juan ybarra",
     "martina fernandez",
@@ -45,6 +46,7 @@
     "6c872010888cca54",
     "6c8f00b103dc3566",
     "6e71035cd811a191",
+    "6f0a75f24ee3a1d2",
     "7311a4fc282f6a99",
     "7f5de7c97cea0906",
     "831ffdba8f3957f2",
@@ -76,6 +78,45 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "6f0a75f24ee3a1d2",
+      "titulo": "Celia Segura renueva con el Barça y se marcha cedida al Atlético de Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/femenino/20260727/1004210711/celia-segura-renueva-barca-marcha-cedida-atletico-madrid.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-07-27T15:26:18",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T15:40:31.897493"
+    },
+    {
+      "id": "87ba8e90687dddb9",
+      "titulo": "Khadijah Cissé, nueva guardameta del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/femenino/20260727/1004210703/khadijah-cisse-nueva-guardameta-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-07-27T15:12:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T15:40:31.897622"
+    },
+    {
+      "id": "042d040f7ab37260",
+      "titulo": "El fichaje de Kerolin por el Barça, a punto",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210701/fichaje-kerolin-baca-punto.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-27T15:11:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T15:40:31.897731"
+    },
     {
       "id": "1c26eb53036e118c",
       "titulo": "Sale a la luz una de las claves del fichaje de Bisiwu por el Barça",
