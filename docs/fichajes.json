@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T18:30:48.567208Z",
-  "total": 376,
+  "actualizado": "2026-07-27T18:40:35.757163Z",
+  "total": 377,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -59,6 +59,7 @@
     "9edce93ae27b024e",
     "a6a4505cce06ed66",
     "ab109c4f2d31ccf8",
+    "af0089361f15efe2",
     "b631447530d14036",
     "b6be42fd132bae88",
     "c170708f840cd195",
@@ -79,6 +80,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "af0089361f15efe2",
+      "titulo": "\"El Barça sondea el fichaje de Rodri\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210763/barca-sondea-fichaje-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T18:02:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T18:40:29.947103"
+    },
     {
       "id": "62e748acf1dcaf9c",
       "titulo": "El Barça hace oficial un nuevo fichaje",
