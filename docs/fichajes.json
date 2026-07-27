@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T16:01:00.850670Z",
-  "total": 373,
+  "actualizado": "2026-07-27T16:10:32.954820Z",
+  "total": 374,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -181,6 +181,19 @@
       "fecha": "2026-07-27T09:40:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T13:40:31.176388"
+    },
+    {
+      "id": "10725eb892c6746e",
+      "titulo": "El Barça ya está en Inglaterra, con 30 jugadores y una sorpresa",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210557/31-elegidos-flick-stage-sorpresa-jong.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T09:40:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T16:10:27.984039"
     },
     {
       "id": "f75c3f69b1a7e1a2",
