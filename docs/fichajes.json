@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T15:01:01.306197Z",
-  "total": 369,
+  "actualizado": "2026-07-27T15:10:37.382392Z",
+  "total": 370,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -88,6 +88,19 @@
       "fecha": "2026-07-27T13:29:31",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T13:40:31.175714"
+    },
+    {
+      "id": "49653f2fc4b38eb4",
+      "titulo": "Sale a la luz una de las claves del inminente fichaje de Bisiwu por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210663/sale-luz-claves-fichaje-bisiwu-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T13:29:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T15:10:31.682063"
     },
     {
       "id": "d95d05df23943e2d",
