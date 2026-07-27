@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T08:00:56.303865Z",
-  "total": 364,
+  "actualizado": "2026-07-27T08:10:34.032554Z",
+  "total": 365,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -72,9 +72,23 @@
     "eea11ae24a1b3e53",
     "f20ed5cc2751badd",
     "f6077b9dc4673321",
+    "f75c3f69b1a7e1a2",
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "f75c3f69b1a7e1a2",
+      "titulo": "Así vivió Adeyemi sus primeros días tras fichar por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210519/asi-vivio-adeyemi-primeros-dias-fichar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-27T07:35:25",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T08:10:28.758403"
+    },
     {
       "id": "111335837376455a",
       "titulo": "Flick se exige recuperar al mejor Raphinha: irá al 'stage'",
