@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T06:50:33.454737Z",
-  "total": 366,
+  "actualizado": "2026-07-27T07:00:55.169060Z",
+  "total": 364,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -4806,32 +4806,6 @@
       "fecha": "2026-06-28T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T07:41:28.220743"
-    },
-    {
-      "id": "e6c1e3f29496f3cf",
-      "titulo": "El Barça aprieta para cerrar una salida antes del 30 de junio",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTnQtVHpaRFQ2djRRZjFHR3JkU1B2dldlMzE2ajhUVkJlalRnVWQyNzZvVE5fbjVfQWs1QVNqX1BfcTlMeWdnRHFOOW1SYWRKY1BheXF3YXhYLTZqeUJKQzQ2VzNyMkh1cWNNWkNTMmhXaXRpTXRxYk9jSjNvb2pPTmcwTEl3a0NCM0N0eVNlekFpdnpfRWVidWF3Sjd5T2JaZkRWa9IBuAFBVV95cUxNNlZXMnVfS21rekJQcFU3anBtSnBZQ3NjaEJPNFduZExNU2p6SXZZeW4xNm42YW1lNTNHYndocjQwZzRMZUJpYmlZZS1WX0d0Uzl3bXpCdkl6YzRUOURCOUpaWXVaU1RZS0NjLVJpcHVzRy0wM25fN3pXN1o1UEdVYWlraTN6eGg1OGRIU0dMWTNlZWtGellKb1UzSlZOU1lsU2FqQ3pvajltcEJFc29fbG1JNjJnTnZ4?oc=5",
-      "medio": "Diario AS",
-      "tier": 5,
-      "tier_etiqueta": "Ruido / clickbait",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-06-27T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.100377"
-    },
-    {
-      "id": "aa3daf9231cb65a0",
-      "titulo": "El Barça B encarrila el fichaje del nuevo Ronald Araujo: cesión con opción de compra por dos millones",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeG10dmtOdlVGaWpQbEFFYkJYNThma3BfWGExUnlsNWJSVzdfdlYtWEdXSHJ0aGVDcWpyRDJweURlYmFpeEE2VkxaWG5LSjhLMkRPMzJQczFRdlJWMW5GUHhxakF5T0RpUFpPek1YNlA1bk9xSWxKVUotbnVKTmFaSkJCa0p1OFdPbjBKN3JSNDFaT2FFZ09zUDFndG5nRTd1SkJ0d2w1RTFaczI1NHZaVVVUTHY1MkJHNjkyZjRfTzNmQU1ZR1dGZ0RBUVRoRWhFRnppWUZ30gHbAUFVX3lxTFBlVExFOU1temU0RGRYbHJGYktOMy1QYnlvQURvY1lrejNtbHZsYlFvc21HcExSRmc4Zy1VV3U1eGVUVlFHNDcxOEtwLVB1OUZlOWd0REV4QWE0RlNrWVBMUDZNejFOMnBsMUxvQkJhRU1HNlZtNTZGSlpsdUZHb2xaa3c4V09kUVdmWW1XY1NPY2txX3hTeFZxX3duMmRTM1d0MjgtWlhZTjZXdVhwb2Vjb1dIQldJWkJMQ0NHSmxseHhsNHZxWkxUOXpmWFdqRFVsU1ZXUDQ2STR6UQ?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-06-27T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T01:10:55.361477"
     }
   ]
 }
