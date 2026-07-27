@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T05:32:10.850531Z",
-  "total": 365,
+  "actualizado": "2026-07-27T05:40:30.163595Z",
+  "total": 366,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -75,6 +75,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "111335837376455a",
+      "titulo": "Flick se exige recuperar al mejor Raphinha: irá al 'stage'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210459/flick-exige-recuperar-mejor-raphinha-ira-stage.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T05:40:25.358318"
+    },
     {
       "id": "89549da99e0db3ab",
       "titulo": "El tercer portero del Barça, entre Áron Yaakobishvili o Eder Aller",
