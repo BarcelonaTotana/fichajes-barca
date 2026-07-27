@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T21:30:58.408313Z",
-  "total": 378,
+  "actualizado": "2026-07-27T21:40:39.810928Z",
+  "total": 379,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -80,6 +80,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "3ee1859f7f224cbb",
+      "titulo": "Oficial: Barça Atlètic, firma Aziz Issah",
+      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY0d0NUlvZjFvNk1BbjZZM2Z3bmt6bVFOQnM3UDFxY3BjR1pQRkZXaVVncnkyM2I4ZXVzSW9SbG11ZjAwMEdnaDM2dEEyYXlEUEZZN19vOUFycUVDY2hwSTFnMmxLeS1EMlNSOGJDTV9pQ0dGdVRNT2k1ZGU3anpYRzRXTEVIdw?oc=5",
+      "medio": "nuevofutbol.com",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-07-27T21:31:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-27T21:40:38.797393"
+    },
     {
       "id": "6c75bb692f96835d",
       "titulo": "El Barça preguntó por Diomande",
