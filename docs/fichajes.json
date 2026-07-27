@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T16:30:57.803659Z",
-  "total": 374,
+  "actualizado": "2026-07-27T16:40:30.308209Z",
+  "total": 375,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -78,6 +78,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "596d3fe7d604d7a9",
+      "titulo": "El Barça no estará solo durante su stage en St. George's Park",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210737/barca-no-estara-stage-st-george-s-park.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T16:23:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T16:40:25.146350"
+    },
     {
       "id": "6f0a75f24ee3a1d2",
       "titulo": "Celia Segura renueva con el Barça y se marcha cedida al Atlético de Madrid",
