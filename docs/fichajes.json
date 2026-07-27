@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T12:01:03.614445Z",
-  "total": 366,
+  "actualizado": "2026-07-27T12:01:36.928699Z",
+  "total": 367,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -76,6 +76,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d95d05df23943e2d",
+      "titulo": "Dos balas para el nuevo Barça: la velocidad a la que van Adeyemi y Gordon",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210547/dos-balas-barca-futbolistas-corren-25-km-h-bdg.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T11:32:06",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-27T12:01:31.345807"
+    },
     {
       "id": "4b3334ecc4e4e503",
       "titulo": "Los 31 elegidos por Flick para el 'stage' y sorpresa con De Jong",
