@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T17:40:40.444889Z",
-  "total": 386,
+  "actualizado": "2026-07-28T17:50:32.276916Z",
+  "total": 387,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -92,6 +92,19 @@
       "fecha": "2026-07-28T17:20:42",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T17:40:35.391967"
+    },
+    {
+      "id": "dba63faa5269fdec",
+      "titulo": "El Dortmund se ilusiona con el 'nuevo Lamine' tras la marcha de Adeyemi",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260728/1004211069/karetsas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-28T17:08:33",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-07-28T17:50:28.574775"
     },
     {
       "id": "cef7f8ac4ba12a9d",
