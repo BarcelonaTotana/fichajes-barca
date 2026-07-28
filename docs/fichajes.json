@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T16:40:39.369656Z",
-  "total": 385,
+  "actualizado": "2026-07-28T16:50:37.487014Z",
+  "total": 386,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -118,6 +118,19 @@
       "fecha": "2026-07-28T12:31:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T13:10:34.941540"
+    },
+    {
+      "id": "16d637fc0c991980",
+      "titulo": "Aziz Issah ya es del Barça Atlètic: firma hasta 2028",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUVlSEMyMWIwRUVUbkV5bnFSRW1KZ1V3QUNIQkREbm5BTTZNeHZ2eUQ3bU9Eckdpa0xENV9vZW4xZG5aSndaSnZDSGdNN2t4a0ZBSnFUQlg0Um1FZ1FncW82SUUwWkJxUXExcFdlVk8tc0dzQ3BqUUE1SzNNemZHbzhUcXBQcE5QbHZMaTFtLU1QcTRNOTl0a05XZmFnblQ5LTJXNg?oc=5",
+      "medio": "fcbarcelonanoticias.com",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-28T11:12:41",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-28T16:50:36.469740"
     },
     {
       "id": "347c40ef74d2ccb5",
