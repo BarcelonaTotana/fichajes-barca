@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T07:01:11.935114Z",
-  "total": 378,
+  "actualizado": "2026-07-28T07:10:39.601195Z",
+  "total": 379,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -339,6 +339,19 @@
       "fecha": "2026-07-27T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T05:40:25.358318"
+    },
+    {
+      "id": "3adeb58269f3e521",
+      "titulo": "Flick se exige recuperar al mejor Raphinha: irá al 'stage' el miércoles",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210459/flick-exige-recuperar-mejor-raphinha-ira-stage.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-28T07:10:34.541777"
     },
     {
       "id": "89549da99e0db3ab",
