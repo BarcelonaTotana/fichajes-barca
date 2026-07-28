@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T08:00:59.103586Z",
-  "total": 379,
+  "actualizado": "2026-07-28T08:10:39.043267Z",
+  "total": 380,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -80,6 +80,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9be8e6e415d09243",
+      "titulo": "\"Lewandowski rechazó 200 millones por seguir en el Barça\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004210864/lewandowski-rechazo-200-millones-seguir-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-28T07:56:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-28T08:10:34.034179"
+    },
     {
       "id": "577489aefd8af78b",
       "titulo": "El Barcelona anuncia su séptimo fichaje: un delantero africano junto a Hamza Abdelkarim",
