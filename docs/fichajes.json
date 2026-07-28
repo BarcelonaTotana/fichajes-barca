@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T17:30:52.195924Z",
-  "total": 385,
+  "actualizado": "2026-07-28T17:40:40.444889Z",
+  "total": 386,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -80,6 +80,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "fdce5ab552ed85c3",
+      "titulo": "Dragoni apunta al Chelsea",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004211080/dragoni-apunta-chelsea.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-28T17:20:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-28T17:40:35.391967"
+    },
     {
       "id": "cef7f8ac4ba12a9d",
       "titulo": "Dos novedades para el retorno al Spotify Camp Nou",
