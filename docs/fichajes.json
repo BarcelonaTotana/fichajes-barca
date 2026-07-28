@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T13:01:14.156949Z",
-  "total": 381,
+  "actualizado": "2026-07-28T13:10:39.962232Z",
+  "total": 383,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -80,6 +80,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d597a351a2b070f6",
+      "titulo": "Christensen: \"Estoy muy agradecido por renovar y tener esta nueva oportunidad\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004210981/christensen-agradecido-renovar-nueva-oportunidad.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-28T12:31:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-28T13:10:34.941540"
+    },
     {
       "id": "347c40ef74d2ccb5",
       "titulo": "El Sporting ficha al exculé Oriol Pallàs para su filial",
@@ -170,6 +183,19 @@
       "fecha": "2026-07-27T19:21:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T22:40:27.151103"
+    },
+    {
+      "id": "3a94c5f84fcb244a",
+      "titulo": "Primer entrenamiento del Barça en Saint George's Park",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210784/primer-entrenamiento-pretemporada-barca-tierras-inglesas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T19:21:48",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-28T13:10:34.943313"
     },
     {
       "id": "af0089361f15efe2",
