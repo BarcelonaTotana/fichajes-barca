@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T19:30:52.218920Z",
-  "total": 388,
+  "actualizado": "2026-07-28T19:40:37.766611Z",
+  "total": 389,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -81,6 +81,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "124c30ed10c65f64",
+      "titulo": "\"Gordon deberá demostrar un gran carácter en el Barça\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004211115/gordon-debera-demostrar-gran-caracter-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-28T19:09:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-28T19:40:32.570064"
+    },
     {
       "id": "ba812cf40b662f4a",
       "titulo": "Insisten en que una promesa brasileña es objetivo de Barça y United",
