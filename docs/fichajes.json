@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T06:53:14.381164Z",
-  "total": 383,
+  "actualizado": "2026-07-28T07:01:11.935114Z",
+  "total": 378,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -4993,71 +4993,6 @@
       "fecha": "2026-06-28T17:01:15",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-11T20:24:03.640336"
-    },
-    {
-      "id": "20b6d49fe1e50646",
-      "titulo": "Graeme Souness sentencia a Gordon y su fichaje por el Barça: \"No durará mucho en Catalunya\"",
-      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUxUVEdaUXZhVHdsR1lBZzV5TVl1MDVILS1lQ3N0cmRmdVBPMWh5M3FJZnRobkg4Z3BEQVluQXR2VWpCVXVjWHNkcjRxT1g2SXhKRDdhZGpsc2xrOWRFRUt3VDBDOTBzc0doTUpZc05Gc0NuV19Nc1Y0eU5oSjVEb0stZm5kdHVnS2NrU0ZscGNoUdIBkgFBVV95cUxQN2dRZ19uZVlMX1hhcXhtVi1QUUthUVd6ZFpxUEhoODNjRjQwQ2RXeGxMM1dHTXl1cDc0M0kwOWtpbDBXZU9PYmFEOWNyaUNiZHhBTUpwZkRXUG1MdEFmTGpuNGlNVmxtbjBqaVdfRGxPcEM5bkRrOFpQN0hTVmZQSmJZM1Y4Y0pvdmNlTXhWN2VQUQ?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-06-28T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T01:10:55.361214"
-    },
-    {
-      "id": "895c0d77f11267cd",
-      "titulo": "Deco se queda sin tiempo: el segundo fichaje del Barça 2026-27 se atasca en el último momento",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWFVMdXRRM0pvU0dwT2t1R21mZzdYWlltNXk5ZmhuUmdsb0VPSVdYQWhXOHJCQWl6MFNlTzRLcEYwcy1WNE1fV2JGNnBqTExJX0tjeURfOG1Ta0hOMURocDRscFh0Vmd1QWdNTDJhMm4tQlV4RlZkU0NQQlgydU1QNGdoSjZtWTFoQjIzMmEzSm9TZzRIRElxQ3NHOG5IbjF0djdrczQxbDRfajVkMTJKOFZGNERHdzRZVWc5cDVNYU1qajcwdmxjbU5DQXc5TE1KU01MatIB2gFBVV95cUxQRG5aZWFQSDJ1S3NwdWo0RjYzQmNOQkJhNU80OEloXzlDLWRLOUZKRU12N0RFcDJtZXY2NlcwTjJWaVYzQUswMW5fd0Z6eUZXQXhXbUdyQS1ubmZXODR6N0xiMlNSbmhsZGFjdU9VVlVLQkpPMlhyZTRINkJRTzctb25qVWlNMHpDWWEtQk5idS10dlhYX2Y0NW95Mk1PdmM4RS0yOElFRzhVcmk3Y3RJN09IZGUzU2V4ZXRlc0lZUnE2ZXFvcmJFU1huSXQ5UEJtN3RDV1FoaHFjdw?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-06-28T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T01:10:55.362268"
-    },
-    {
-      "id": "4fe25ee7ce434cf8",
-      "titulo": "El Barça consumirá todo su saldo de Fair Play con el fichaje de Julián Álvarez: el sustituto de Lewandowski cuesta 45 millones al año",
-      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcVlOOTk4Ny1rMXctdGJ6UUhSSG9zU3FUUUtNMGZhQWIya2dmeXNRXzZKRDhLUTViUFZDcnI5aGpTX2JRWHNRXzdVWkVzY1pQOUpVemtWV1VacXJIUmhKekJnSEZLRVRoQXJqSFk0UUVVNmNXSHhCbHV5cTBEUnYzeUZCWTVlbmhSTUozem5MNXdTU3lPVk1NVXRURi1lNGpGcEVDQWVZalRKV1RCM09HSHFESVdYTnluQ0JHUmNyWHlMN3A3aHBJa3RpQUdET1XSAdQBQVVfeXFMT0ZnUS15NlVGUVExWVBBWW1fY1RkWFhBX0JMWEJnNE1NZURYSUVrNE00MlczbUo5emxPdl8wcWR3bjVQanVTY1h5eWYyVGNZRmlHVkZNQ3hMSXpaRVJFRVczLWNDVmRIQ1dudUlpUmNIYkk4N19JZWg4eGtYa0h6Mk5qbVdwNkhJMnkzX1pwaS1YcU5samhBQVljY1BIV0VRNXV1Z25SVUJwaGt3QWdhVVVXb2JCbno1cHAwVUJWOEQ5UnZjd3A3WHZDVUJQTHJwanNkYjg?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-06-28T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T01:10:55.363074"
-    },
-    {
-      "id": "575973da45e00432",
-      "titulo": "Moses Wright confirma su fichaje por el Barça",
-      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWF5aXRCNzNzMGI1RmNxQ0tKSUlIR3VDZl9QNzdRS0huZDhXUUZ4a3VnNE1lckVLY0xDX216SGZFQ2lNQmhBQ0ZNUHVUSjJnbjFpZ2FfU1hpcTI5QjVUb2o4bmZzU3RtbTlUb1BlaWNvRjRYUzB5SFBUOXFTUmpwT1h1WTlENWQ3NWlNNXNVTdIBowFBVV95cUxNbGN5VE1yR2RkMUw2ckZmX0xpU0xiNEM1YUt4V29Famk3ZlFiNnM1R3pEbDZBLVg4eXhhYm12Wll2VFBNenBfYW5FSC0zZnlSVDFJLW0yenlRZHFRTml0YkkxRFAtdVZXcExfV21VT0tWNzZob1hkRzltb04zX1Z5NkFBZDlmMEF1amRrZ0psTk41QnAxZ3FzTFhFcTFJanpJTWFr?oc=5",
-      "medio": "Diario AS",
-      "tier": 5,
-      "tier_etiqueta": "Ruido / clickbait",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-06-28T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T01:10:55.363788"
-    },
-    {
-      "id": "831ffdba8f3957f2",
-      "titulo": "El Barça cierra la cesión del carrilero ecuatoriano Josué Caicedo",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1F4ZGZFQUdWOVc1UzVNR1pUZVNsWnN6WGdBS2ZieW4zeHEwSU9UYl9CN0J4MnBGQmFJR2d0WFA5WGg3ZzZON1N3T3NneVgtcTJtb0pmdmVnVW42XzVxUXkwQTVIVUJ2RTJEVm5xN3RLLUgwN2NPa1BGWElMejQ4YUR6SkRkNV90ajhGd2FSQ2p0TlUzcnRqTHlPdUE4c2V2eXpYek9HZGk3VURPVzFSaGFoTzc4RmFudmhyUVQtRVlrQmFLb1J5Nml6a9IB2AFBVV95cUxQUUhmM1BPdUFOc2NOUHhGUWJzZ0Q2OXJqRzQzZWszLVdHRUo5cEpXTUNNall2dmF1djU4VnJya3NxWTR1QVRIZGNRUzk4Q1lSbXVuMTQyd3hyVVg3RmtBeS1GSU9LRHdkTS13Z2FJZktRUDBVMUM1aUdwT21jajhtZUNHeWl0ZVJ4R2hjOVlmMlcxU2E1UkpTN2NfOThFT3VwUkw1V19ZUHZCSTJlRjZYZFJhZ1dvb3E2UFcxM0wyT0xYMUpsLWxZV1FreGlWZ1dUbnZWbTVzZnA?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-06-28T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T07:41:28.220743"
     }
   ]
 }
