@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T10:40:39.192169Z",
-  "total": 380,
+  "actualizado": "2026-07-28T10:50:30.129155Z",
+  "total": 381,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -80,6 +80,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "347c40ef74d2ccb5",
+      "titulo": "El Sporting ficha al exculé Oriol Pallàs para su filial",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMkhhOTV4eHFwTlRZZk1vRndzQVRDTHJRWjc4YVluLUlUUlozTkR5blNKY20zeVFaR0YwWExmYk1XSzZtZk9VeVJFby1rYVczdjdPVFQzTXFvRFBVSVVOaGh5c1N2UEp2VUJIRG1zMzByRE92RDNnX1BxY203UG9aVDc4enBya1JfZmN5M0ctS3JJNXhWYnc?oc=5",
+      "medio": "Killer Asturias",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-28T09:57:46",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-28T10:50:29.112327"
+    },
     {
       "id": "9be8e6e415d09243",
       "titulo": "\"Lewandowski rechazó 200 millones por seguir en el Barça\"",
