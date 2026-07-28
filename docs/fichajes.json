@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T22:32:20.257784Z",
-  "total": 389,
+  "actualizado": "2026-07-28T22:40:45.226179Z",
+  "total": 390,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -81,6 +81,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "5e454d499bbfd9f0",
+      "titulo": "Casos abiertos en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211117/casos-abiertos-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-28T22:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-28T22:40:39.368634"
+    },
     {
       "id": "124c30ed10c65f64",
       "titulo": "\"Gordon deberá demostrar un gran carácter en el Barça\"",
