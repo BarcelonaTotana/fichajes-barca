@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T16:50:37.487014Z",
-  "total": 386,
+  "actualizado": "2026-07-28T17:01:15.996809Z",
+  "total": 385,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5084,19 +5084,6 @@
       "fecha": "2026-06-29T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T05:20:52.582291"
-    },
-    {
-      "id": "5e8514e597c29118",
-      "titulo": "Quién es Josué Caicedo: el fichaje sorpresa del Barça que llega desde Ecuador",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVNpUVBDYXJVQ0hqRndnVnNZT1I1dlRnV0FmRElUakwyUm1IcGZqVm1tc3VUdTRDRHo2RkF2bXpQeTVDNnlQNTJWQ1BmNFg5WU5vVWFnUzJCY0ZJbzVHTURTQ3dpdGYwNFdVRWs0b2liSzdlUGtrbXBBRFZOcG1heHI5OHVJZVFCU29TV2ZVWmx5NkxCVmo2aXN5ZFNzZFphVmU1S2RXbTdQVmNXOWJxUWZDYWRNUQ?oc=5",
-      "medio": "El Nacional.cat",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-06-28T17:01:15",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-11T20:24:03.640336"
     }
   ]
 }
