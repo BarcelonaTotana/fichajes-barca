@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T06:30:43.314834Z",
-  "total": 382,
+  "actualizado": "2026-07-28T06:40:30.135560Z",
+  "total": 383,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -80,6 +80,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "577489aefd8af78b",
+      "titulo": "El Barcelona anuncia su séptimo fichaje: un delantero africano junto a Hamza Abdelkarim",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNWNtckFmRGNCZFptRG0wM0pydnFKckdJQ1d2d2paT2I3YkdRWmNBeTFJRzVtLTZ0VGJFSVREQUtPN19rTm9xd1VxNVRNN0VmSFpoMHkxUlpCeVVmS3VOZERFbi12ZTh5Y3RXVC1oQ3dmdHQ4dl9WNlRGMlo2VFpXV1ZiVmluYU1iVzJCclRTNV9xU0RYTUVQTVQwdkI1WHdWaFN1WUVweldGWFJqWE1qVXZ1QkpHQWRnV2xZU0J5NF80cjNqQThPSXpEVHVvQmlxRzNCZnI1TzBIdw?oc=5",
+      "medio": "Goal.com",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-28T06:34:26",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-28T06:40:29.117943"
+    },
     {
       "id": "576cd834a52feb60",
       "titulo": "Tasación alta del Barça por Casadó en un mercado al alza",
