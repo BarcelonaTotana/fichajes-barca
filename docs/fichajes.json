@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T13:30:56.997150Z",
-  "total": 383,
+  "actualizado": "2026-07-28T13:40:41.379690Z",
+  "total": 384,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -80,6 +80,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d98099a8637652d0",
+      "titulo": "Eli Junior Kroupi es inviable para el Barça por precio",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004211000/eli-junior-kroupi-inviable-barca-precio.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-28T13:24:39",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-28T13:40:36.319430"
+    },
     {
       "id": "d597a351a2b070f6",
       "titulo": "Christensen: \"Estoy muy agradecido por renovar y tener esta nueva oportunidad\"",
