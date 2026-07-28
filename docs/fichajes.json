@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T05:30:50.893391Z",
-  "total": 380,
+  "actualizado": "2026-07-28T05:40:29.168727Z",
+  "total": 382,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -80,6 +80,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "576cd834a52feb60",
+      "titulo": "Tasación alta del Barça por Casadó en un mercado al alza",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004210666/barca-tasa-marc-casado-40-millones.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-28T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-28T05:40:24.299965"
+    },
     {
       "id": "3ee1859f7f224cbb",
       "titulo": "Oficial: Barça Atlètic, firma Aziz Issah",
@@ -235,6 +248,19 @@
       "fecha": "2026-07-27T11:32:06",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T12:01:31.345807"
+    },
+    {
+      "id": "3c8e1ded5d571dd7",
+      "titulo": "Dos balas para el nuevo Barça: los números de los 'hiperactivos' Adeyemi y Gordon",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210547/dos-balas-barca-futbolistas-corren-25-km-h-bdg.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-27T11:32:06",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-28T05:40:24.301924"
     },
     {
       "id": "4b3334ecc4e4e503",
