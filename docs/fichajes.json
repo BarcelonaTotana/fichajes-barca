@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-28T16:30:44.260322Z",
-  "total": 384,
+  "actualizado": "2026-07-28T16:40:39.369656Z",
+  "total": 385,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -80,6 +80,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "cef7f8ac4ba12a9d",
+      "titulo": "Dos novedades para el retorno al Spotify Camp Nou",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004211044/dos-novedades-retorno-spotify-camp-nou.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-28T16:07:55",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-28T16:40:34.289618"
+    },
     {
       "id": "d98099a8637652d0",
       "titulo": "Eli Junior Kroupi es inviable para el Barça por precio",
