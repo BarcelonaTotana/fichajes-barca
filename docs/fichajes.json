@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-29T17:30:47.798854Z",
-  "total": 392,
+  "actualizado": "2026-07-29T17:40:44.460590Z",
+  "total": 394,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -23,6 +23,7 @@
     "158ac38fd80cae55",
     "158c66cbb29b7567",
     "15e1138a42f69040",
+    "1817b8a00079b0a1",
     "1f5fed6548852821",
     "20234a678e468e32",
     "2424d14d53098add",
@@ -82,6 +83,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "41aadab7b4dac62f",
+      "titulo": "Kroupi, baja entre tres y cuatro meses",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211422/kroupi-baja-tres-cuatro-meses.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-29T17:19:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T17:40:38.705347"
+    },
+    {
+      "id": "1817b8a00079b0a1",
+      "titulo": "Joan Anaya dice adiós al Barça y se va al Sant Andreu",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211413/joan-anaya-dice-adios-barca-sant-andreu.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-29T17:02:22",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T17:40:38.706125"
+    },
     {
       "id": "468a8f69c2850cce",
       "titulo": "Goretzka se habría ofrecido al Barça de Flick",
