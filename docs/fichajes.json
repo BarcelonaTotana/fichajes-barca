@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-29T16:01:04.930332Z",
-  "total": 390,
+  "actualizado": "2026-07-29T16:10:46.715479Z",
+  "total": 391,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -81,6 +81,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "93205646c93c8817",
+      "titulo": "Deco gana más peso y se hace también con el control del filial",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211386/deco-gana-peso-control-filial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "avanzado",
+      "fecha": "2026-07-29T15:34:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T16:10:41.485436"
+    },
     {
       "id": "7f6cbd489c2304c8",
       "titulo": "Marc Bernal: \"Me veo para ser titular\"",
