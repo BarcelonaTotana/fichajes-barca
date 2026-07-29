@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-29T15:00:59.744090Z",
-  "total": 388,
+  "actualizado": "2026-07-29T15:10:33.311057Z",
+  "total": 390,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -81,6 +81,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "7f6cbd489c2304c8",
+      "titulo": "Marc Bernal: \"Me veo para ser titular\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211380/marc-bernal-me-veo-titular.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-29T14:40:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T15:10:28.146475"
+    },
+    {
+      "id": "85ab83ecd8c126ce",
+      "titulo": "El sábado sube la cláusula de rescisión de Javi Guerra",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211379/sabado-sube-clausula-rescision-javi-guerra.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-29T14:39:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T15:10:28.147048"
+    },
     {
       "id": "35cdab816e8f11ee",
       "titulo": "Balde: \"Estoy seguro de que Adeyemi nos ayudará mucho\"",
