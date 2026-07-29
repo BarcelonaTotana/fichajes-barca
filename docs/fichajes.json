@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-29T22:30:48.795571Z",
-  "total": 396,
+  "actualizado": "2026-07-29T22:40:40.843432Z",
+  "total": 397,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a3999bd9d4b9e11e",
+      "titulo": "Adeyemi: \"Hay cosas grandes por venir\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211451/no-temo-lamine-yamal-nadie-mi-nivel-jugare.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-29T22:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T22:40:35.321915"
+    },
     {
       "id": "dd3bfe19950f70c8",
       "titulo": "El mensaje de Kroupi tras ser operado con éxito",
