@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-29T07:30:52.632173Z",
-  "total": 384,
+  "actualizado": "2026-07-29T07:40:36.455918Z",
+  "total": 385,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -81,6 +81,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d344f9efb5c1f842",
+      "titulo": "En Inglaterra afirman que el Tottenham va a por Koundé",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211191/inglaterra-afirman-tottenham-kounde.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-29T07:16:06",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T07:40:31.276913"
+    },
     {
       "id": "1a1070f0e5e69553",
       "titulo": "El Barça no se olvida de Jorge Salinas por un precio menor",
