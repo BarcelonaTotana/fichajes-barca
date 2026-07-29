@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-29T05:30:44.154539Z",
-  "total": 390,
+  "actualizado": "2026-07-29T05:40:42.602415Z",
+  "total": 391,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -81,6 +81,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "1a1070f0e5e69553",
+      "titulo": "El Barça no se olvida de Jorge Salinas por un precio menor",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211153/barca-no-olvida-jorge-salinas-precio-menor.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-29T05:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T05:40:37.034141"
+    },
     {
       "id": "5e454d499bbfd9f0",
       "titulo": "Casos abiertos en el Barça",
