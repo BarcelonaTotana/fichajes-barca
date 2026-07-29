@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-29T19:30:56.044797Z",
-  "total": 395,
+  "actualizado": "2026-07-29T19:40:42.674492Z",
+  "total": 396,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "dd3bfe19950f70c8",
+      "titulo": "El mensaje de Kroupi tras ser operado con éxito",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211450/mensaje-kroupi-operado-exito.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-29T19:08:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T19:40:36.898754"
+    },
     {
       "id": "112eb4e8fee85487",
       "titulo": "Adeyemi se confiesa: \"No temo ni a Lamine Yamal ni a ningún jugador\"",
