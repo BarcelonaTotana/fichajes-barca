@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-29T16:30:58.197676Z",
-  "total": 391,
+  "actualizado": "2026-07-29T16:40:36.464787Z",
+  "total": 392,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -37,6 +37,7 @@
     "3fdddeb97e3bd4a4",
     "40c7579b1923fccf",
     "4350d89f43a19914",
+    "468a8f69c2850cce",
     "48df898ce25b7861",
     "4a9825affa03580e",
     "50d1a01ff4dc6c9f",
@@ -81,6 +82,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "468a8f69c2850cce",
+      "titulo": "Goretzka se habría ofrecido al Barça de Flick",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211404/goretzka-habria-ofrecido-barca-flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-29T16:03:54",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T16:40:30.629241"
+    },
     {
       "id": "93205646c93c8817",
       "titulo": "Deco gana más peso y se hace también con el control del filial",
