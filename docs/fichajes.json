@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-29T08:00:59.247747Z",
-  "total": 385,
+  "actualizado": "2026-07-29T08:01:33.936328Z",
+  "total": 386,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -197,6 +197,19 @@
       "fecha": "2026-07-28T13:24:39",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T13:40:36.319430"
+    },
+    {
+      "id": "ca5832c55e104c5d",
+      "titulo": "Eli Junior Kroupi es inviable para el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004211000/eli-junior-kroupi-inviable-barca-precio.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-28T13:24:39",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T08:01:28.536136"
     },
     {
       "id": "d597a351a2b070f6",
