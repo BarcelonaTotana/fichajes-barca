@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-29T18:30:47.095982Z",
-  "total": 394,
+  "actualizado": "2026-07-29T18:40:38.758761Z",
+  "total": 395,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "112eb4e8fee85487",
+      "titulo": "Adeyemi se confiesa: \"No temo ni a Lamine Yamal ni a ningún jugador\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211430/adeyemi-confiesa-no-temo-lamine-yamal-jugador.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-29T18:24:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T18:40:33.944120"
+    },
     {
       "id": "41aadab7b4dac62f",
       "titulo": "Kroupi, baja entre tres y cuatro meses",
