@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-29T23:20:33.518502Z",
-  "total": 397,
+  "actualizado": "2026-07-29T23:30:52.200637Z",
+  "total": 398,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -238,6 +238,19 @@
       "fecha": "2026-07-29T07:16:06",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-29T07:40:31.276913"
+    },
+    {
+      "id": "0dd40314cdc4dd05",
+      "titulo": "EL SPORTING CIERRA PARA SU FILIAL EL FICHAJE DE ORIOL PALLAS PROCEDENTE DEL JUVENIL DEL F.C. BARCELONA",
+      "enlace": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPX3pTNHloYjl0SlpjUGFqSWoxejAzb2RJWVV2MUxyZEpYOU5ZSkVYQWJyMXpPcEJXaGNUeHl5NDZqTlFfbWt4RXFSZUlZaG5Oak9uZ0d6ekNLcUc5V3BPcnVlNjJsVmJ4bzQ0X1JXb3ZSRHhMeExDaWplVXhzeEFOT0tGaUJWcWFiaGV0YktZcU1adGx0VEN3VUJEa2pvbXgzc2dUeVJEbHIweGkyRFZJT0pIZ3Nrd01ieEFwVUxNQWFMSGdGcG9MS2dMbWNiN2ZpNVJ1TlZKTUM5R2plRE1HZUVnUkJrNDBuUDN6YTN3eU5lVGlsWUJvRFVheUdpa3o2RVIzcmxsSXNzU3ozQlp4MVJvWnAtZw?oc=5",
+      "medio": "Football Addict",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-29T05:38:26",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-29T23:30:51.183042"
     },
     {
       "id": "1a1070f0e5e69553",
