@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-29T13:00:57.054792Z",
-  "total": 387,
+  "actualizado": "2026-07-29T13:10:39.575913Z",
+  "total": 388,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -81,6 +81,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "35cdab816e8f11ee",
+      "titulo": "Balde: \"Estoy seguro de que Adeyemi nos ayudará mucho\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211338/balde-seguro-adeyemi-ayudara.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-29T12:49:02",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-29T13:10:34.081070"
+    },
     {
       "id": "fb4aff1baf66daa7",
       "titulo": "El Sporting Atlético se refuerza con el extremo Oriol Pallàs",
