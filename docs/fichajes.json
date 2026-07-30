@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-30T15:30:50.700913Z",
+  "actualizado": "2026-07-30T15:41:55.989666Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "413f7ec56f642119",
+      "titulo": "¡Ter Stegen abandonará la concentración para firmar por el Ajax!",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211705/ter-stegen-abandona-concentracion-firmar-ajax.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T15:09:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-30T15:41:50.400453"
+    },
     {
       "id": "d0d89eab728bf350",
       "titulo": "El Spotify Camp Nou ya luce nueva alfombra",
@@ -5269,19 +5282,6 @@
       "fecha": "2026-07-02T08:48:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.102087"
-    },
-    {
-      "id": "4c6ef647e36a26c1",
-      "titulo": "Deco cierra un nuevo fichaje inesperado para el Barça: refuerzo con 13 años de experiencia",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRnRBb0NvUUxvMmVtMFdBX0lNQlZfdWFfZ2JDb2o5MzhVZXNDYWt0MVYtQzJpQUEyNVhnczFUR3FQbm1rRHl1UHBrTVFRX1IydHVwNDZGTG1BeDcxMGVvcmZZb05lV2c1dy1GcE53cjNRZEF4UXpKbkNHTFMzRWpzQmpBdUl2WC1zNTZ4VjZzSUFLV2t3U1lRN2xGd3REQ2tYNGVwaGlpcG5JSWVpdEJYQzBHOUI3RFhnWGhMRVJlZ3gza21iLVREM09PV3lQX1dmQUpaZXlHOF9yMjDSAeABQVVfeXFMUHhvaV9ZTnlEZjJGcmtVMUI3Q3ZWY25oZ2RWWlI2NEVqVXJPNFNxM04tS0ZMRkY5dDRjOFRfblZ6SThiXzUwcURBNExaWWZLYzJya2NPSXMwQnJQdDhBOEJYcUE0U2VGa21reGV0NVNhZU1LLS1taVVGRnVjNTE1SnFlYmpvdkN4U2ZCQnNxSW5Hc1dKMU9MRzlJaGtQYk5URVFFX1N3TWltQkppTTh0RGxiNmlUN2RKUWotTGxERjJHSmJFeGFmZDFLc0V2cW9HVlhwVE1PbzBOSGVXWHlLRjQ?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-02T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:31:02.948032"
     }
   ]
 }
