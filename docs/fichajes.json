@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-30T08:30:54.780282Z",
-  "total": 396,
+  "actualizado": "2026-07-30T08:40:33.546179Z",
+  "total": 397,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "119634ca0b4bc2d4",
+      "titulo": "Contacto por Abde: El Barça, muy pendiente",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260730/1004211541/barca-pendiente-interes-roma-abde.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T08:09:19",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-07-30T08:40:29.424142"
+    },
     {
       "id": "ed46d0cece5938c0",
       "titulo": "Estas son las exigencias de Racing y Barça por Salinas",
