@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-30T18:50:41.604111Z",
+  "actualizado": "2026-07-30T19:00:56.084509Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ed36ad8dc08734e3",
+      "titulo": "Konrad, el \"chico tímido\" que pide protagonismo: así fue su descubrimiento y evolución hasta llegar al Sporting",
+      "enlace": "https://www.sport.es/es/noticias/futbol/konrad-chico-timido-pide-protagonismo-132971716?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T18:49:50",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-07-30T19:00:53.611594"
+    },
     {
       "id": "413f7ec56f642119",
       "titulo": "¡Ter Stegen abandonará la concentración para firmar por el Ajax!",
@@ -5269,19 +5282,6 @@
       "fecha": "2026-07-02T09:23:15",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-07-12T14:15:13.411622"
-    },
-    {
-      "id": "ee43f99940cffd0f",
-      "titulo": "El Barça quiere asegurarse a uno de los mejores centrocampistas de LaLiga: Contrato largo en firme",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOEtwZ2JobjJCOVFxZGs5U3Fxb1JFQ0Y5NTljaHJpWXJCT1VMeG5mS1h6bWVCS2dra21KOHRXNHNGVHlxMlJQYk1jSkpld2haOGRSSlExUUs5QW9DQWpYcUxIUUhYa0xjRHhmMTVXSjFGbE0tcnlUeGhTMlFVdzNaMkl5VVcyWjJad2ZGaXl2SnpxNDdmTHVYbldWVXR4ZUl4WlgySmtvYU51T1BER0ZXcHdkdnowLVk2QVA5RFJ4UUZzRkp1VDRnc2pZX3VJaERWaUZ3Z21n?oc=5",
-      "medio": "Eurosport",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-02T08:48:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.102087"
     }
   ]
 }
