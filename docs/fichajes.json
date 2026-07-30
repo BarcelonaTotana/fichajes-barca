@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-30T21:10:34.447418Z",
+  "actualizado": "2026-07-30T21:20:39.797884Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ed331fc4e07b5623",
+      "titulo": "El noveno fichaje del Barça B viene de la Masía: la joya de la generación 2008 que impresiona a Belletti",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOU1WRnhMWHI1emRieUVsdkh4N1duVVJoQV9BLVFDTC1PazlXVFlqOWdxX09MSE5fYmxva3lEZ0Rkd0MyVTZ0S1E2enhjSDFIM3YxaFh4Q2pSa1lkSkNfUFpUQnNDRGxrdmwyYm1qLXRacjJ0a211S0hrQTFTYTdDYWNVVURrX0JoSWxEMWpIYjdUUDFmT2N6RFhSYU14enN6SV9RSmZfQkhiamJ4djJpUzkwZVBmcGV5UmRMU1pRb2Y3TVBiSF8zZUhUaEZFUmgtSHpuSjlnRGxBV2ZuVlFHM9IB4AFBVV95cUxQOU1WRnhMWHI1emRieUVsdkh4N1duVVJoQV9BLVFDTC1PazlXVFlqOWdxX09MSE5fYmxva3lEZ0Rkd0MyVTZ0S1E2enhjSDFIM3YxaFh4Q2pSa1lkSkNfUFpUQnNDRGxrdmwyYm1qLXRacjJ0a211S0hrQTFTYTdDYWNVVURrX0JoSWxEMWpIYjdUUDFmT2N6RFhSYU14enN6SV9RSmZfQkhiamJ4djJpUzkwZVBmcGV5UmRMU1pRb2Y3TVBiSF8zZUhUaEZFUmgtSHpuSjlnRGxBV2ZuVlFHMw?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-07-30T19:49:39",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-30T21:20:38.777599"
+    },
     {
       "id": "ed36ad8dc08734e3",
       "titulo": "Konrad, el \"chico tímido\" que pide protagonismo: así fue su descubrimiento y evolución hasta llegar al Sporting",
@@ -5269,19 +5282,6 @@
       "fecha": "2026-07-02T16:47:57",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-07-12T09:02:41.772498"
-    },
-    {
-      "id": "885acda367f2b59d",
-      "titulo": "El Barça anuncia el fichaje de Javi Castro",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWNFcUdaX3RzUG1uOE14Rkd0MnZNTmZ0a1VXWkFjWGx3UXAzOFFYUmlTeGZ3ZVZFakVxcnBIaXpzVEg1VWlydHl1dTFJaElKX1lySHVTMmJaYUxDQXVxZHVseXdQdVpiVU5JczNwbW1hdHdxT3VNc2Ffb2lfVF9KbWlXV05xbWczTHMwTkxYTTFXMmR0akE4bFp5WUFqLTZZT2hzRDZKbzJxcGp5Z1HSAbsBQVVfeXFMTTMwei1TMk1wNXN5VEhGVVlMcS1FdWZqNENGNHVfMEpiTGliSUNuREFnWllNMTR3cFZUdEFNSHBwUFJQbTRha2RBMnhTTlp6QW9Lc2M3SG9FMEFWcXVyU1JaR0VlamF3RVNKX3g0XzFxOU5OMDhpVDJYRExNbFZDaEgwSWtlUjFNU1BTWHBjd1dXcnRoQzBJLUNCQ001YXdaMGE4Nmc3S2ROQkRERTVrRDNGbnF3dGJEaFYwbw?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-02T12:18:57",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.100893"
     }
   ]
 }
