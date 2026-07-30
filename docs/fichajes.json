@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-30T08:01:04.053830Z",
-  "total": 395,
+  "actualizado": "2026-07-30T08:10:34.493503Z",
+  "total": 396,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ed46d0cece5938c0",
+      "titulo": "Estas son las exigencias de Racing y Barça por Salinas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211534/son-exigencias-racing-barca-salinas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T07:46:17",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-30T08:10:29.148493"
+    },
     {
       "id": "9aa856daeba73353",
       "titulo": "Nervios en el Al Hilal por el retraso de Cancelo",
