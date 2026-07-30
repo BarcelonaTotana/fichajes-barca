@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-30T12:00:58.728129Z",
-  "total": 397,
+  "actualizado": "2026-07-30T12:10:34.146034Z",
+  "total": 399,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -84,6 +84,19 @@
   ],
   "noticias": [
     {
+      "id": "b986352e28d0fe27",
+      "titulo": "¡El Barça recibe la denuncia del Atlético por Julián Álvarez!",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211646/barca-recibe-denuncia-atletico-julian-alvarez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T11:48:17",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-30T12:10:28.491956"
+    },
+    {
       "id": "119634ca0b4bc2d4",
       "titulo": "Contacto por Abde: El Barça, muy pendiente",
       "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260730/1004211541/barca-pendiente-interes-roma-abde.html",
@@ -147,6 +160,19 @@
       "fecha": "2026-07-30T05:05:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T05:40:27.486373"
+    },
+    {
+      "id": "de3c77525e460dbe",
+      "titulo": "Adeyemi: \"Hay granes cosas por venir\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211451/no-temo-lamine-yamal-nadie-mi-nivel-jugare.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T01:15:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-30T12:10:28.493431"
     },
     {
       "id": "a3999bd9d4b9e11e",
