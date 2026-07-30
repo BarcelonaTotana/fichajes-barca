@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-30T05:30:52.372962Z",
-  "total": 398,
+  "actualizado": "2026-07-30T05:40:33.127822Z",
+  "total": 399,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "4e3668e497d7e34a",
+      "titulo": "El fichaje 'tapado' de Flick",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211383/fichaje-tapado-flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T05:05:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-30T05:40:27.486373"
+    },
     {
       "id": "a3999bd9d4b9e11e",
       "titulo": "Adeyemi: \"Hay cosas grandes por venir\"",
