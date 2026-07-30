@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-30T07:00:54.715440Z",
-  "total": 392,
+  "actualizado": "2026-07-30T07:10:32.219507Z",
+  "total": 393,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "67286982ffe34025",
+      "titulo": "Veloz Karim por la banda, veloz Deco fichándolo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211523/veloz-karim-banda-veloz-deco-fichandolo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T06:45:18",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-30T07:10:27.276920"
+    },
     {
       "id": "4e3668e497d7e34a",
       "titulo": "El fichaje 'tapado' de Flick",
