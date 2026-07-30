@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-30T07:30:52.480369Z",
-  "total": 393,
+  "actualizado": "2026-07-30T07:40:34.334304Z",
+  "total": 395,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9aa856daeba73353",
+      "titulo": "Nervios en el Al Hilal por el retraso de Cancelo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211526/nervios-hilal-retraso-cancelo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T07:08:18",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-30T07:40:28.761074"
+    },
     {
       "id": "67286982ffe34025",
       "titulo": "Veloz Karim por la banda, veloz Deco fichándolo",
@@ -199,6 +212,19 @@
       "fecha": "2026-07-29T15:34:42",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-29T16:10:41.485436"
+    },
+    {
+      "id": "8a2e0a36638ab99a",
+      "titulo": "Deco se hace con el control del filial",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211386/deco-gana-peso-control-filial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "avanzado",
+      "fecha": "2026-07-29T15:34:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-30T07:40:28.767850"
     },
     {
       "id": "7f6cbd489c2304c8",
