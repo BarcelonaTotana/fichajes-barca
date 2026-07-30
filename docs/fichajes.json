@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-30T12:30:48.391478Z",
-  "total": 399,
+  "actualizado": "2026-07-30T12:40:41.639743Z",
+  "total": 400,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d8e4cb051279b3f3",
+      "titulo": "Griezmann, un precedente del 'Caso Julián' que no tuvo mucho recorrido",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211660/griezmann-precedente-caso-julian-no-tuvo-recorrido.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T12:29:51",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-30T12:40:36.297406"
+    },
     {
       "id": "b986352e28d0fe27",
       "titulo": "¡El Barça recibe la denuncia del Atlético por Julián Álvarez!",
