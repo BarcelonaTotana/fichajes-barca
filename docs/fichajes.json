@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-30T15:00:59.141810Z",
+  "actualizado": "2026-07-30T15:10:32.727384Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d0d89eab728bf350",
+      "titulo": "El Spotify Camp Nou ya luce nueva alfombra",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211687/spotify-camp-nou-luce-nueva-alfombra.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T14:44:36",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-30T15:10:27.725107"
+    },
     {
       "id": "46746cb52779067b",
       "titulo": "El Barça, tranquilo pese a la denuncia del Atlético, mantendrá su plan",
@@ -5269,19 +5282,6 @@
       "fecha": "2026-07-02T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:31:02.948032"
-    },
-    {
-      "id": "6bc505012424fb3e",
-      "titulo": "El Barça aligera la portería: Kochen se irá a Dinamarca y Ter Stegen interesa al Ajax",
-      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaUYwWkNoUWxxZkpiWVhFanpjQnhXUTBJY2g5QnFoc0VoRWQwek1WcHBWZTU2OVNYaDd6V1daempMUDhhM2x2ZG1VSEFRWmFNYkNra0s3SU1OQ2VTUjNxMWFwYXczWjdnNVBTQm1uWE9ZTDRwUFZ1RU1XT3pCZ0g4QmZ0NGlrQTBNbXZnMjJTaE03YlJVazBIMThkN1NjWGVZTWhKdXF3blVfQkVOMzlhOVhRU2w3bEhKbVZicUxtdmtWdXFVaWlkVDlaV3BFUnJOdGfSAewBQVVfeXFMTkNvVmpQNG9ISUZERkNxU2hXOXZhMS1OM2ZRTXV2WDM2eWNtNHZpRUNUOTA5YldqblZQZTZQSkYtbzBPcTFOZ21HN3ZLUjJuQXZGUmNZSnV4YS1YY3pGVjhVVFh4RFFrZ2MwTUhVelJHUmQ3czF5MzA2SnhhSEZvV0wyb2xDaFFUX1NTNzBmam1RVDBiSXFESDdCMDN0c2p5U0NmNXFvX1VVX2xGUHgtWHFYQ1lHVTNYNnhYSXJGRmhTZE1lenRpNXVXYk5lYUNCMjBGazJaQi1GRjNpMWd2RmJfeXlHMnVRQmJuN1g?oc=5",
-      "medio": "Infobae",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-02T07:00:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-11T21:41:01.236172"
     }
   ]
 }
