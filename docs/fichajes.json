@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T09:30:46.659446Z",
+  "actualizado": "2026-07-31T09:40:33.222008Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -73,6 +73,7 @@
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
     "d74b02004bbf149f",
+    "d94545d1196ce20a",
     "d99b318f89a79c54",
     "e6801ae14559f1b4",
     "ed20b49c576f59d0",
@@ -83,6 +84,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d94545d1196ce20a",
+      "titulo": "Jesse Bisiwu firma hoy por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211893/jesse-bisiwu-firma-hoy-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-31T09:19:26",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T09:40:27.007296"
+    },
     {
       "id": "8224e9a8ba463a6f",
       "titulo": "Birmingham, una ciudad con historia para el Barcelona",
@@ -5269,19 +5283,6 @@
       "fecha": "2026-07-03T11:31:26",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.101898"
-    },
-    {
-      "id": "15e1138a42f69040",
-      "titulo": "El Barça negocia con el City el fichaje de Kerolin Nicoli",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FTSmxSdFROeTNYQkhmVS1xdERtVExha3ByNGNmOWgtZkh3RHdYTUNRc25PUEliTWRhdkVaRDEzY2pLRUtDbmVObV9HVlZMa29NZTN3TTZaZFNYd0FhZ1A1aERkOG0yR0JpODRxTFV2Q2FnV2xfSjZwR2EzYi1ZNDYxcmVCZFhEVHMxZTFJNHNfU3pyeDBTTk11WXFoTnpi0gGgAUFVX3lxTE1FeS1NTWlMazk1NTdYZHE4Z2cwZVFqNmN4aktqakVYbk1VWWtxdkZCVVF1SVZHSDlCMUJLM1hGU0tLcERjNUd2NERQWlZXcFBjWXF0czRtX0d1akozXzEtMWp0eXdYbXlCWDVjRGtlT25zXzZINnZUV2VldG1NSUpNa3AwWVNiSlpQX1phczh2a2g5cFlKM3BtQWxOSDRDSlE?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-03T10:45:00",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.038191"
     }
   ]
 }
