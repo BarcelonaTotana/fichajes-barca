@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T16:00:57.713125Z",
+  "actualizado": "2026-07-31T16:10:31.980583Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -84,6 +84,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "b0fd83013b6ca7fb",
+      "titulo": "Ter Stegen deja la concentración y pone rumbo a Amsterdam",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004212042/ter-stegen-deja-concentracion-pone-rumbo-amsterdam.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "here_we_go",
+      "fecha": "2026-07-31T15:58:27",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T16:10:26.841833"
+    },
     {
       "id": "d94545d1196ce20a",
       "titulo": "Jesse Bisiwu firma hoy por el Barça",
@@ -5270,19 +5283,6 @@
       "fecha": "2026-07-05T08:13:35",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.037677"
-    },
-    {
-      "id": "16c7173e8e5cc1d3",
-      "titulo": "Lamine Yamal, responsable de la venta de la promesa de 20 años que ilusionaba al Barça",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3pFQzRub2g1QXMtb1dEWjhNUS1QRWZzaXYwMng3TXJ3Z01zTzNvSlNBYlJrTnlaNUtxMTB1RjBOM2xSTVdTSXF6TDNkUVdTUWxiejVZZFhpN0VEYWVtQzFsOHd4dmtfUlY3Q21qbGJLX21rc2w5dXBTWFcwQUhKSFYzMmZWaWdLQ3czTlRLcnFHRVdkVXdEUlB6X2NMVzF6RFZiTXd2UGVMNUpBZGw5a1cxdjQ3bHBTWllr?oc=5",
-      "medio": "El Nacional.cat",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-05T08:10:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.098732"
     }
   ]
 }
