@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T17:01:05.238475Z",
+  "actualizado": "2026-07-31T17:10:32.228076Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -85,6 +85,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "27e719b1ecf4bb74",
+      "titulo": "En Portugal ven al Barça tras Pavlidis por su póquer en Europa",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004212049/wq.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-31T16:37:02",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T17:10:26.874791"
+    },
     {
       "id": "4eb73016b6efb218",
       "titulo": "El Barça anuncia el traspaso de Dragoni al Chelsea",
@@ -5271,19 +5284,6 @@
       "fecha": "2026-07-05T12:28:51",
       "fuente_feed": "Cadena SER",
       "visto_por_primera_vez": "2026-07-11T20:23:58.932797"
-    },
-    {
-      "id": "488798ec2de6d329",
-      "titulo": "Dos detenidos y desmantelados dos puntos de venta de droga en Barcelona y Badalona",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHRwNWpYZFh0c0tKVGVwRWRVSmVtWm81TXVQMlQyWGJOT3liS1FxYzNHOGstQWJnM1pxUjZtLXoxSFgtWHZMZ1hoSzU2bUhiVGJKdFN3dFNVTnhURTJnTmZUM3BFTEpiQWJnVXdCZkVSUy1ZQnNJSWxOSWtoa0pJVUhSWVVpUnd4akR4VDU4b3YxRURva0c1dUVmT3JLcHBxSVIzWlFMOEvSAa4BQVVfeXFMTWItbHVpSEdPZXNsNWxqbmlRRmk2ZHMzZXZQOTJPc09PbE5UU1ZCZkxfZ0hDVklJLXNHcE5pd2tNdmFla3lMYnNzOExWVTNMcVE5NFVINWM0M0drSkJZVVhlRV9ULVl2V3kycjI2QUFJZVFGT2lvYy02Rjc1dGJ5ZVUtM2Z3ak84ZzZqeGpkZDg4cEhrdkJteGc5YldtU3hjcHlfTEI1VTV4c3VRWGZR?oc=5",
-      "medio": "Diari ARA",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-05T10:44:40",
-      "fuente_feed": "Diari ARA",
-      "visto_por_primera_vez": "2026-07-11T20:23:57.319474"
     }
   ]
 }
