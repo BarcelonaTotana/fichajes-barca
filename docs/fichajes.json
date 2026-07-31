@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T19:01:00.818273Z",
+  "actualizado": "2026-07-31T19:10:41.448691Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -87,6 +87,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c7fd7eecfbae1990",
+      "titulo": "Kerolin, pendiente de que el City mande el transfer para volar a Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004212092/kerolin-pendiente-city-mande-transfer-volar-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-07-31T18:44:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T19:10:35.707053"
+    },
     {
       "id": "27e719b1ecf4bb74",
       "titulo": "En Portugal ven al Barça tras Pavlidis por su póquer en Europa",
@@ -5273,19 +5286,6 @@
       "fecha": "2026-07-05T22:46:16",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.097494"
-    },
-    {
-      "id": "150f5ac209adfbbd",
-      "titulo": "El Newcastle anuncia el fichaje del sustituto de Gordon",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260705/1004203159/newcastle.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-05T17:34:24",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-07-12T14:15:13.410301"
     }
   ]
 }
