@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T12:30:55.727873Z",
+  "actualizado": "2026-07-31T12:40:35.226856Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -96,6 +96,19 @@
       "fecha": "2026-07-31T09:19:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T09:40:27.007296"
+    },
+    {
+      "id": "89790074452b7534",
+      "titulo": "Jesse Bisiwu ya ha firmado por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211893/jesse-bisiwu-firma-hoy-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-31T09:19:26",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T12:40:29.639731"
     },
     {
       "id": "8224e9a8ba463a6f",
@@ -5270,19 +5283,6 @@
       "fecha": "2026-07-05T08:10:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.098732"
-    },
-    {
-      "id": "05fed9472c50534b",
-      "titulo": "Diego Kochen, cedido al Lyngby Boldklub",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQlhBUURGbW9MWTI3OTN1YmFRLTBRcWNPWVRpUzlDYUpPT0JySllWRjlWYlJjUjl6NUY2MzFHSnpNdEpqSkhGaUxTdk5reV9MTVZaLS1ZY0JiTHEyYnNMMmViQWFGRHIzalFROV9nRkFmX1VMSU4tRjM3ckpxaDhVTUIyejdZUDlBZ1JwLU0zZDEtd3JKeklYaQ?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-03T20:57:07",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-07-11T20:31:01.424747"
     }
   ]
 }
