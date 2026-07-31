@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T19:50:32.055368Z",
+  "actualizado": "2026-07-31T20:03:09.761604Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -99,6 +99,19 @@
       "fecha": "2026-07-31T18:44:12",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T19:10:35.707053"
+    },
+    {
+      "id": "21d194336dd3edda",
+      "titulo": "El FC Barcelona hace oficial el fichaje Jesse Bisiwu para el filial por 8.5M",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMzB5ZFhVVVFERmJSWEtsRGg5TEwxXzR4X3hSdWRXa2Qzd2o5RDJLdFBOS2JQLTVzUThuclVhVEVtZ2ZWOGN1OWwycUJqa2Y4VzNsZXVfREI4cGtiY21kVVp3T19RSHdQOWtDNDlUcVI5cEtZS1lRX3V2QnJib25XWjF5SkVjRWdfSGJlSW9DOWszcjF6U0JYZ19nMnVTU0o4NmNncHRLWjJGSjZHbmY2bXRuS0RORkZGSDcycEVUZ3B3dkZyalUxX0d2ODLSAcwBQVVfeXFMTjMweWRYVVVRREZiUlhLbERoOUxMMV80eF94UnVkV2tkM3dqOUQyS3RQTktiUC01c1E4bnJVYVRFbWdmVjhjdTlsMnFCamtmOFczbGV1X0RCOHBrYmNtZFVad09fUUh3UDlrQzQ5VHFSOXBLWUtZUV91dkJyYm9uV1oxeUpFY0VnX0hiZUlvQzlrM3IxelNCWGdfZzJ1U1NKODZjZ3B0S1oyRko2R25mNm10bktETkZGRkg3MnBFVGdwd3ZGcmpVMV9Hdjgy?oc=5",
+      "medio": "FútbolFantasy",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-07-31T18:29:32",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-07-31T20:03:08.741579"
     },
     {
       "id": "27e719b1ecf4bb74",
@@ -5273,19 +5286,6 @@
       "fecha": "2026-07-06T11:29:05",
       "fuente_feed": "Diari ARA",
       "visto_por_primera_vez": "2026-07-11T20:23:57.318951"
-    },
-    {
-      "id": "65542647de16cdb8",
-      "titulo": "Los mejores fichajes del Barça tras un Mundial: Julián Álvarez se suma a una lista de grandes cracks",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZnd6QTk3dnRoaDV5R2d0b28tRjgyejBwMTJCdENHWDJvUjNzanhRUFkzbmttZXhZWFpXamYtMDBvWkwtYmpLRlNyNTRIa0pNeHlUVVhNTzFYTDdJWnZGVmJNNVJoNFpPUENyWXlLTjQ0bzZHQm1LaE9ZV1V5VXNHQzJGZW5UcXlTTVpHbWdzelR3SzdKdGpXb3BDQ1ZQeEpzVFI0VzlLSWRGWkk2ZlF6RzB2eVBkd09kSlM4Ti1Sd3JGRUVJVC0wVUwxYWVVenl0QTNJcE5tczBJcXfSAeABQVVfeXFMTUNVQnpaRUx0Y2NOSTcta2hJMzFwVFpxOHhURXViTndvX3REYUd2YVF3Q3pLeExhcVpQenBWUXJTTkxNNVhPcHc4WVhhNUUzMGhSclpmSTZhbFA4YTdQQ0h6X3Bndk5BMGwxdmV4OEg3MmNJXzdrNHctRGFybWtQcHMtUHFiQkRpc0hMTVZwUm9VRlJnT2JSU2JFSi16b1Zna0YzSGNOOE81ak52ZjdUTlFNWkxYeWhRZlU2V01BRmd6MUtEWmxSbXB0SlRRQzRfZVhIdWZzU0dtRlZseU5DcWQ?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-05T22:46:16",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.097494"
     }
   ]
 }
