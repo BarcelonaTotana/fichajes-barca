@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T10:30:47.589708Z",
+  "actualizado": "2026-07-31T10:40:40.606971Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -200,6 +200,19 @@
       "fecha": "2026-07-30T15:09:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T05:40:25.088348"
+    },
+    {
+      "id": "56f9f251bfc27f97",
+      "titulo": "Ter Stegen viaja esta tarde a Amsterdam para firmar por el Ajax",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211705/ter-stegen-abandona-concentracion-firmar-ajax.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T15:09:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T10:40:32.541081"
     },
     {
       "id": "d0d89eab728bf350",
@@ -5270,19 +5283,6 @@
       "fecha": "2026-07-03T11:46:41",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-11T20:24:03.641333"
-    },
-    {
-      "id": "193c632e453662ff",
-      "titulo": "El Barça renueva al delantero Òscar Gistau hasta 2028",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWFZR3ZVMWxJS1FCM1M5OVYzY1hDd2V4c1VXTERvZ2Mwa2t1U3c1bElQNWFobEIzMk8zQnZRZU9KYUpJMzZqOHJPakxBaG1IbWJ6a2pvNzF0YUdPemc1YVJPT0J0YUJNbkRuSFBubkJKMk10NFhxQWpzZ3hSQVZzQU1uUmRzU0pRaUNpYzVQYmJZTTNoTnBBY0J3dk4wWExUZnVuSHFZTWI?oc=5",
-      "medio": "Notimérica",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-03T11:31:26",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.101898"
     }
   ]
 }
