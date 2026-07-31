@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T05:30:47.348572Z",
+  "actualizado": "2026-07-31T05:40:30.476706Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -84,6 +84,19 @@
   ],
   "noticias": [
     {
+      "id": "f61ce33d1a0ee4b2",
+      "titulo": "El problema del Barça de cada verano",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211694/problema-barca-verano.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-31T05:10:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T05:40:25.087235"
+    },
+    {
       "id": "a4ff4476b597e9d5",
       "titulo": "Fermín, el arma letal de Flick que puede jugar de todo",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211796/fermin-arma-letal-flick-jugar.html",
@@ -147,6 +160,19 @@
       "fecha": "2026-07-30T15:09:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T20:12:14.357967"
+    },
+    {
+      "id": "442f484c3b019099",
+      "titulo": "Ter Stegen abandonará hoy la concentración para firmar por el Ajax",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211705/ter-stegen-abandona-concentracion-firmar-ajax.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T15:09:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T05:40:25.088348"
     },
     {
       "id": "d0d89eab728bf350",
@@ -5256,32 +5282,6 @@
       "fecha": "2026-07-03T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.100102"
-    },
-    {
-      "id": "8a7a84876754fa51",
-      "titulo": "Polémica en el Barça tras filtrarse el precio real del fichaje de Gordón",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORFhoTlFBX2JKQ2VpMGMyYnZwOXF3ckpfWjUySTBVQzZhdjBpS1phemJ4dG02QnU5MGl6cUtweXRfZEJsVW1HcGZVdkxDcXlGeUhJdm1LdlJ3U0Q5OUZPeXdnQ3VhR2kyQjM4UXU5Yl9ES0lQM054Wlh5MU5nbTN3dlMtb0I5OERrMk5PVU1HS2VqQUxQTUd5dTYtTXRHdFkwTUhpTlZyYmxwTTVYWDZtNllHSzZ1UF9BVzFMTU5FbElnNkM0M0o00gHbAUFVX3lxTFBTOUtKenJNWjh3STBITHhabm11STA2MW8yX1M2eXQ0bE5hcU5VLXNBcWUwb1RQalZwd3RFTENjb0ZoRFpXbjZfdVdtSWRsamhkUnUyclRqandycGIwT3ctWEhmdkgxX3R0a0dQNGxBZzJsNENUUUZGMDdpV0Q2bUxmampqQk56N2E5U29RRGFha1d1R0Q2SWM4ZENYMmdxTWJpZ1BJVmF6MHdLbVRrR3ZKcHZpd2VKd2duQXRBVHRTNjFTMXFqdk9DcmlQTG4tc1hrVktUTjl0cjB3cw?oc=5",
-      "medio": "La Razón",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-03T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.100528"
-    },
-    {
-      "id": "ec151449aa06a254",
-      "titulo": "El Barça, cerca de cerrar dos fichajes de auténtico lujo",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbVplb3RRYUdRVGJXcnV0aFFvc2YxV25HUndaUTJHWlZVQVZsdDZCSDB0cXk4MHJZLTRjRWJ5UDBwSkdFMm01M0loNWIxeEhCMzZCTzF0VmJmNnZfR3V0clpZV0F1YnFIcC0zRXVZLXRwdmhVZ0V3ajBXZndjTWx4bGJxbldMZ0RGbUc1MnBGQWV6QjBSQm1pUklnRTBWNFRyVGl0WGFpQkwtRGdpQl9xV2c4a9IBwAFBVV95cUxOUzdzMDlINUZJaWQwVnUwVXRBcDMzOF84bXg4MnpzT05FUmxFSXh1d3loQUYwVEFvbWhFMWJobi1neGNLMmhPaVVyMnhGQmdGQ2VFVnBKckhYT0pEOVVSQV91TzRuLVVHbklYdlo2blp5V01uenBUV3FWRTh5YUM4OXpZY0FBVHFMMTVrWUtsSW1wZ3Q3aFh2NFdKWEljR0ItUnY2NlFsdXRyU1RiVnVpSmNyWE9vSWlscWJ5cG1rSUk?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-03T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.101289"
     }
   ]
 }
