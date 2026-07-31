@@ -1,10 +1,11 @@
 {
-  "actualizado": "2026-07-31T18:30:46.004541Z",
+  "actualizado": "2026-07-31T18:40:36.555828Z",
   "total": 400,
   "cerradas": [
     "alex campos",
     "carla julia",
     "celia segura",
+    "jesse bisiwu",
     "josue caicedo",
     "juan ybarra",
     "martina fernandez",
@@ -28,6 +29,7 @@
     "20234a678e468e32",
     "2424d14d53098add",
     "27f25d89b4825926",
+    "30f0349c496f2926",
     "30f4eae64d270777",
     "352f8451dd4e256b",
     "3916dd3ee8186767",
@@ -149,6 +151,19 @@
       "fecha": "2026-07-31T09:19:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T12:40:29.639731"
+    },
+    {
+      "id": "30f0349c496f2926",
+      "titulo": "Oficial: Jesse Bisiwu ya es del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211893/jesse-bisiwu-firma-hoy-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-07-31T09:19:26",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T18:40:31.015929"
     },
     {
       "id": "8224e9a8ba463a6f",
@@ -5271,19 +5286,6 @@
       "fecha": "2026-07-05T17:34:24",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-07-12T14:15:13.410301"
-    },
-    {
-      "id": "95de755381e23720",
-      "titulo": "Tour de Francia 2026 | Sigue en directo la etapa 2 con salida en Tarragona y llegada en Barcelona",
-      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZlVTcmxXekNBOEVBcjc5amdlUTg5ZGNMaDZRWWxOQ1M2UUtvSWRCMGREYi1Bd081Z1dHUFVNSDg5YnQzU0xWUE1HMkxTczZvU2F4QkkzNkZTRDgzMlRWYjJBejh0TWF1YXh0c1pYR19vZ1F0bE1SVXFmbkJQWUNURHloM2QtTlVqQ3F3akJ1V24zS0IxbDFYSnZSNWpZZmZfckNYUzgta2FVRjNjUHZlNDJKLUl5OUtNYjh4cWZvbUNqMVQ5a29UNE12aXpneVRxdUZYNE5VdTJwaHZRMXBRZG1Xc9IB9wFBVV95cUxOYmZYMnBfZXFJYnNJRmdPSDFJZXFKYUJ3NjJPUlU0MkptYURtdHNlaXREWDQteWF1RlBJWnlRU3VVdWNWSEtidUNqNlZDMTFqb2VjcWdxY2ZqWkFfRlh3V3pZTEFGSlc3R3VxOXJ6d2JMeTVrVWp1ZVJtM3F6OXhrM3BTeF9kdUJqVTBicy1LdnJST19INHJhNHRFNkx3WGozaWp1QzQ2eHk5WFhlMDl5SklxTnBBak1LOFZVUGdjSEtGbHlHUDk1U0RLel9UbVo0WGhCOGpFS3MzZ1hzaEdOVEVvVWRGeXcxLTdMdFpjV3ZUbDRHZGRB?oc=5",
-      "medio": "Cadena SER",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-05T12:28:51",
-      "fuente_feed": "Cadena SER",
-      "visto_por_primera_vez": "2026-07-11T20:23:58.932797"
     }
   ]
 }
