@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T11:30:54.502474Z",
+  "actualizado": "2026-07-31T11:40:43.820930Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -239,6 +239,19 @@
       "fecha": "2026-07-30T13:42:22",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T14:02:36.781354"
+    },
+    {
+      "id": "d45a76bc237b79fb",
+      "titulo": "El Barça, tranquilo pese a la denuncia del Atlético, mantendrá su plan con Julián",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211678/barca-tranquilo-pese-denuncia-atletico-mantendra-plan.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-30T13:42:22",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T11:40:38.644739"
     },
     {
       "id": "d8e4cb051279b3f3",
@@ -5270,19 +5283,6 @@
       "fecha": "2026-07-03T20:57:07",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-07-11T20:31:01.424747"
-    },
-    {
-      "id": "042df1ed365e6455",
-      "titulo": "Fichaje de Javi Castro por el FC Barcelona: Detalles",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWdYcGJ2RkJGV3B2TmdCX3RjTXFYX0M4bkE5U0puck9OaVFmX2drR2wta1pVZmI5N0JBdHVXaENQYU9CdTVrQ3NJTnU1dnlyREwzZGtEWEloa3l4bjk4TmtzdmZQLXAxYlljLXV6R2VTQVZNUGVSVzFYcnZfT2syenNManc5NmVmS1FVS1dCVzNHSGJwTzRFaUU2cjNtQndETmpyZDYyQVYyZFprS21V?oc=5",
-      "medio": "fcbarcelonanoticias.com",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-03T11:46:41",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-11T20:24:03.641333"
     }
   ]
 }
