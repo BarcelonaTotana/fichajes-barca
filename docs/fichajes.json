@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T04:50:30.618748Z",
+  "actualizado": "2026-07-31T05:01:04.092572Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a4ff4476b597e9d5",
+      "titulo": "Fermín, el arma letal de Flick que puede jugar de todo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211796/fermin-arma-letal-flick-jugar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-31T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T05:00:58.364590"
+    },
     {
       "id": "ed331fc4e07b5623",
       "titulo": "El noveno fichaje del Barça B viene de la Masía: la joya de la generación 2008 que impresiona a Belletti",
@@ -5269,19 +5282,6 @@
       "fecha": "2026-07-03T07:00:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.101289"
-    },
-    {
-      "id": "6c872010888cca54",
-      "titulo": "Acuerdo para la rescisión de contrato de Ferran Font",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVdfdGJFU2ZmYVphWnBrTWNPTVFOOUFvbzhyVXVjOC1KWnVLSzhRRzZWbGh2QjE2c1FwUFhFSWcteEZveHp3NnpJd056RHFnaHFiT0NtVTkxRHVVb1h6SklkaGlueno1UTVJQWh2U3BwRjJ0WS10WG9tOFRleXVpOGxvSU1SUVl0ek1QMTRiMzZ0bDdNVzhIUGhncmdhQzF4N2NmbnVRY05XeGs?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-02T16:47:57",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-07-12T09:02:41.772498"
     }
   ]
 }
