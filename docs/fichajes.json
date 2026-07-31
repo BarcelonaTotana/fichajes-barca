@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T09:00:57.581157Z",
+  "actualizado": "2026-07-31T09:10:33.922549Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -83,6 +83,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "8224e9a8ba463a6f",
+      "titulo": "Birmingham, una ciudad con historia para el Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211879/birmingham-ciudad-historia-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-31T08:44:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T09:10:28.912759"
+    },
     {
       "id": "f61ce33d1a0ee4b2",
       "titulo": "El problema del Barça de cada verano",
@@ -5269,19 +5282,6 @@
       "fecha": "2026-07-03T10:45:00",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.038191"
-    },
-    {
-      "id": "61490fc8b401b3a3",
-      "titulo": "Últimas noticias de fichajes del FC Barcelona: William Saliba, Jules Koundé, Ter Stegen, Cuti Romero y más",
-      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZjlZZWdndVpIZVBSOWg3MHBfZTFUQWdmSUtpN3VWZWQ0elY5eXVNYVVhSDVtQW5hTjVqazFnWnQ1NmlxdDh5Q1dOeGZzbGptYlhmTjdOWFZXY1c0NFdoWUVuSk5ZOGpVVllZZl9PYTA3ei0tUENsdFBuVDdFSzR4eGFhMmJDX3lralJpcjRubUVGMEpONjhUcU41M0RyMnlsX21WNGYtMFNVX0Zyd1BjWjV4UmRrYkxmVXQ2YlJVWXJHQ0NTZzUyLUdlclI4LUU?oc=5",
-      "medio": "Sports Illustrated",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-03T07:00:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.100102"
     }
   ]
 }
