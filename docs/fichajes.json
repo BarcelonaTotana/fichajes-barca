@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T21:32:59.621635Z",
+  "actualizado": "2026-07-31T21:40:30.898641Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -87,6 +87,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "233907c90a26a478",
+      "titulo": "Estreno con destellos del '14' Adeyemi",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004212124/estreno-destellos-14-adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-07-31T21:27:34",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-07-31T21:40:25.748098"
+    },
     {
       "id": "c7fd7eecfbae1990",
       "titulo": "Kerolin, pendiente de que el City mande el transfer para volar a Barcelona",
@@ -5273,19 +5286,6 @@
       "fecha": "2026-07-06T19:55:45",
       "fuente_feed": "Diari ARA",
       "visto_por_primera_vez": "2026-07-11T20:23:57.320130"
-    },
-    {
-      "id": "4895d8a2192010d2",
-      "titulo": "Barcelona invertirá 100 millones en cinco años para terminar la renovación de todos los mercados de la ciudad",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTUFnWnZ0UkgwVjZJZ3JrbmNyWDhrWnYzVGxRN2hlakpSQmdLTVd0Tm96WXJDTDJjLVZpOXE4MVo2LXRjZmwtZUZxLUZQUjJYakxkQnJPcDA3M25TcXg4dXpkYmRJc0pucTd0S256OWwtS1U0UWNLVWJ4QVhBWHQ5VmpzV0xvWnBPczgzRUlpamZmUzdQU2ZFTURUWW5zcTZCNnAyUURHUFNqUC0taGVsR1M4NmdObmlaMGlDRWJlWUVWSzlJMDZIR2dQUGTSAdIBQVVfeXFMTTJwVEI1ZktCdUxCN2ZzVFZvOHpLcElpd0RiTGtmd2xyaEJZc0ZILURpNnprVkR4S24tN3RXQ2gwdHFLWkJVeW9UN3FjajI3d2s3QjdQRDRkNWY5dFM3RGhJUHJRZHBQaEhwOVJ0ZzJabnIyZXdTM3JxVlJ2c3lvdks3YjZEU254TVVsa1Rkckx4aExkeTVicUU5T1ZOSjFyVHUzVEFqVlI1M2hKdm9pdjlVa3h4ZWpQdE5VSDRhQ1VVWjdVbGVVenBQdmdhZFNkREN3?oc=5",
-      "medio": "Diari ARA",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-06T11:29:05",
-      "fuente_feed": "Diari ARA",
-      "visto_por_primera_vez": "2026-07-11T20:23:57.318951"
     }
   ]
 }
