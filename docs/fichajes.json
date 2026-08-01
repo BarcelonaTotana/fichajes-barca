@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-01T16:00:55.352245Z",
+  "actualizado": "2026-08-01T16:10:32.929158Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -102,6 +102,19 @@
       "fecha": "2026-08-01T15:16:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-01T15:40:34.757485"
+    },
+    {
+      "id": "39a39a64dbce2ed5",
+      "titulo": "Bisiwu, belga con vocación brasileña, desvela sus referentes",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260801/1004212279/joven-belga-vocacion-brasilena.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-01T15:16:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-01T16:10:27.608940"
     },
     {
       "id": "070daaa04538bb76",
@@ -5276,19 +5289,6 @@
       "fecha": "2026-07-07T21:16:58",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.095733"
-    },
-    {
-      "id": "4a9825affa03580e",
-      "titulo": "El Barça ya conoce el precio por el que podría fichar a Kroupi, la gran alternativa a Julián",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2haeTh1azJvaWVOTHJzcnZIWXZXSndNaUJ6cEE4QnM0dHBNZXp1UUVxaS1nR0t4THhaa1FrVTBxcVEyMzE4TWtzSnlWYkN6cEFzY3V3ZjJLdTlnZ1UwcXg3cEtiWWlHUk9WcVFLZHRYZ0FUQ3UxREptaEpkNTk5RENaOFNQc1RXLWfSAYoBQVVfeXFMT3IyS0QtVXpqTVR1aVBDbjZmRS0wWTYyNHp1TzkyQ2NaQnlNYWVlb0hIMVNRU1gtSHBEZVhSdmlReFNOcGcxZGF5SVBGaUdJSEhqUWw2M1E0bkxmc1U4dFBaVHVmS1BWdWN1bF96TElRbjNkWHBuVnctTUVTUGhucXYxeXNwZEtkU2ZB?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-07T20:50:19",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.036540"
     }
   ]
 }
