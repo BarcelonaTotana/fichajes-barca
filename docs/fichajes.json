@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-01T09:52:56.365541Z",
+  "actualizado": "2026-08-01T10:03:39.515413Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -88,6 +88,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "070daaa04538bb76",
+      "titulo": "El Benfica sólo venderá a Pavlidis \"por una oferta irresistible\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260801/1004212209/benfica-vendera-pavlidis-oferta-irresistible.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-01T09:52:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-01T10:03:34.346951"
+    },
     {
       "id": "d1678f114989da7e",
       "titulo": "El 'caso Cancelo' se desencalla: Al Hilal negocia con el Barça",
@@ -5274,19 +5287,6 @@
       "fecha": "2026-07-07T14:15:13",
       "fuente_feed": "Diari ARA",
       "visto_por_primera_vez": "2026-07-11T20:23:57.318533"
-    },
-    {
-      "id": "e7893d53aa60ee7a",
-      "titulo": "El FC Barcelona ultima un fichaje de 10 M€",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcUFZemRBa3JFVDlPMDU3VnlRY01KU2h4d052SVcwcFNNSTNGeEJScUwyLXA3Q2VpeF9wZWtDOUhSNkxGVnZ4MlZZRWhfQm12SEx0cHIzWXRaTVM0VWtnZnNwXzY2Y2VNVnFhakwxUHFFdXBjYWM4bFprUmZscGgyVUk0N0VDZTQtbWlDdGdOWVFiNm1p?oc=5",
-      "medio": "Fichajes.com",
-      "tier": 5,
-      "tier_etiqueta": "Ruido / clickbait",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-07T08:34:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.098249"
     }
   ]
 }
