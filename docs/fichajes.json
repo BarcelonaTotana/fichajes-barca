@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-01T15:32:29.582225Z",
+  "actualizado": "2026-08-01T15:40:40.065593Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -90,6 +90,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9ca000196ba04652",
+      "titulo": "El joven belga con vocación brasileña",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260801/1004212279/joven-belga-vocacion-brasilena.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-01T15:16:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-01T15:40:34.757485"
+    },
     {
       "id": "070daaa04538bb76",
       "titulo": "El Benfica sólo venderá a Pavlidis \"por una oferta irresistible\"",
@@ -5276,19 +5289,6 @@
       "fecha": "2026-07-07T20:50:19",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.036540"
-    },
-    {
-      "id": "5333c0d1910248ba",
-      "titulo": "Últimas noticias de fichajes del FC Barcelona: Cancelo, Julián Álvarez, Romero, Herington y Virgili",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaXpwMm9BTjdpel9BZkNBa09xdFRvNnhkdEJ6d1E2a3FWSlozcC1BRTFqZi1xcVplZFNBb0tEVElGbFhTeVBmNVVxVFVfazVWY0dLU090Z1VTbUM5VXFKLTFNR2Zzb3ZlN0VyaFZGRjA4VzhzcHFkV1BoT3ZlMVFVM0h6dF9NOXZUamNDUHowNkRReXJQM0xxSU4taWNLaGQ2b3h3X1A4V0JXSk5GbXQ2bUhmbXhCOEJTZTU3c0VreDBYZUlfOHc?oc=5",
-      "medio": "Sports Illustrated",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-07T15:01:01",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.098359"
     }
   ]
 }
