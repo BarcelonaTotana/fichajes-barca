@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-01T08:30:50.645359Z",
+  "actualizado": "2026-08-01T08:42:33.721991Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -75,6 +75,7 @@
     "ca774448b957d12b",
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
+    "d1678f114989da7e",
     "d74b02004bbf149f",
     "d94545d1196ce20a",
     "d99b318f89a79c54",
@@ -87,6 +88,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d1678f114989da7e",
+      "titulo": "El 'caso Cancelo' se desencalla: Al Hilal negocia con el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260801/1004212190/caso-cancelo-desencalla-hilal-acepta-negociar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-01T08:13:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-01T08:42:28.013787"
+    },
     {
       "id": "156915c7a5c50c2b",
       "titulo": "Ter Stegen tendrá en el Ajax a un ilustre ex compañero de Adeyemi",
@@ -5273,19 +5287,6 @@
       "fecha": "2026-07-07T08:34:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.098249"
-    },
-    {
-      "id": "2283efe1df8e6d8d",
-      "titulo": "Juliano Belletti recibe el cuarto fichaje del verano para el Barça B: otro refuerzo procedente del Tenerife",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWkl6U19DNm9KZTNpR0o4UDNTQ3FocnBHYmR6b3hUNUNibFEwVG9BTk9RNEpJakozcWx2S2JLbUNQd1E0QU93YVpUOE1jLVh3V3VBWWs5c3pQekJqUDJBS19nMjllSmxYcmNHUm5GZkczbnlEVGpzM1l3NUNQU3NkeDR6aWl5RXFrbG92dm15M2RROEwtVjEwX0ZtcUhycTM1dUFzY1R4ZnlaLTZrb2h6ay1aN2d2Rl85Q2w0dk5xVkdEVFV0OVBWWVJvLXNSWkhRUjBrd1FoY1p4dWk1QVHSAeMBQVVfeXFMUGQ0LTctaHgyYVVGaThEZENPRl80Wm1LQThZSWpIVV9SMDhGZ0ZzRTVqd0hXUGdXamY5WW1GSmhmdGJpTE5LUmhpcWQtc3luQmRENXlQME1wZllyNDFieUNISDM1MFNtMTZXWUdmV1kyNDZwMzdaWVpuS2JSUzhPNGJWWmxESkI2N3ExX2ctMEJfUTB4blFpRjd6UTczQ3NONnhuZF96ZmliYUhGVWdOa3FZODYtNHB6RFFGTUxTcG9LakFVNnNDcFF1X2pwZzVZLXdaaEVpNnBzZkhTdmdJQks4X1E?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-07T07:00:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-15T19:40:58.425738"
     }
   ]
 }
