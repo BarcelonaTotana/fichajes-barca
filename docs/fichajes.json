@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-01T07:30:43.810317Z",
+  "actualizado": "2026-08-01T07:40:33.371519Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -87,6 +87,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "156915c7a5c50c2b",
+      "titulo": "Ter Stegen tendrá en el Ajax a un ilustre ex compañero de Adeyemi",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260801/1004212176/ter-stegen-tendra-ajax-ilustre-ex-companero-adeyemi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-01T07:06:18",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-01T07:40:28.126972"
+    },
     {
       "id": "233907c90a26a478",
       "titulo": "Estreno con destellos del '14' Adeyemi",
@@ -5273,19 +5286,6 @@
       "fecha": "2026-07-07T07:00:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-15T19:40:58.425738"
-    },
-    {
-      "id": "a6dc80e4ac3f03f8",
-      "titulo": "CCOO, la CGT francesa y la CGIL italiana firman la 'Declaración de Barcelona' contra la extrema derecha",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWdCSW84MGRLS0stZlU0ZW1KNm9Gc1Z0QUcwSUtjSm9kMkNJQ25wYks2QU5pUEJLUUxiclZkYU1GN0pMYkxhd2Z4dVFlckpFVjJqeXdFTS1WSmY1UlpQNGNQYWhWaXFyX1NhUUNacmZnZkh6UEVJMl9vYXVPUENnOEZDVUVsOVZSR2lta3h5bTVtamRBU3p4NlY2RDRjWHJkR05zNTdyVlpUM0pSWmxKOUw3Qlg5TFJIRUR0TTh30gHDAUFVX3lxTFBvOHlnTVY0MTJVRmh4X1BvbnAzREdOX2I1dEkybHhrd0x4YmZTeGxnWWxJM09KdGpaTlhkR1FBWTAtQzdXem5pSlFmbnVOcEV1SFZMOXFPLUdwX0Z1c1hwSlhmbVhsamQwRm9CM1Zidmt6R20yVmd2LXRETm9NUHhOLUM0TjBtVV9pN3VBZDFRdnE0dnd2TjFyRlhSZDRGN1hacjdqTUg0UmlQM3N0SnBPRHVVQ1BJajFtS3pQTVpIYUdCUQ?oc=5",
-      "medio": "Diari ARA",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-06T19:55:45",
-      "fuente_feed": "Diari ARA",
-      "visto_por_primera_vez": "2026-07-11T20:23:57.320130"
     }
   ]
 }
