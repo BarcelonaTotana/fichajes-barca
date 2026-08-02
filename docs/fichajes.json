@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-02T04:29:58.849651Z",
+  "actualizado": "2026-08-02T04:38:22.854828Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -90,6 +90,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9d4d155daf17b373",
+      "titulo": "Pensar en positivo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212392/pensar-positivo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-02T04:15:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-02T04:38:18.092429"
+    },
+    {
+      "id": "f6c77886d2b7e27e",
+      "titulo": "El laportismo sin Laporta",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212365/laportismo-laporta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-02T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-02T04:38:18.092734"
+    },
     {
       "id": "9ca000196ba04652",
       "titulo": "El joven belga con vocación brasileña",
@@ -5263,32 +5289,6 @@
       "fecha": "2026-07-08T04:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.008261"
-    },
-    {
-      "id": "51d26e905641924a",
-      "titulo": "Una zurda de muchos quilates para el Barça Atlètic",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260708/1004203591/zurda-quilates-barca-atletic.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-08T04:20:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.008656"
-    },
-    {
-      "id": "55eef78b05e4894d",
-      "titulo": "El Barça ata a Joao Cancelo: acuerdo cerrado, a falta de la firma, con el Al Hilal por 10 millones",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWU1eE1sTFhzR3NacjRuQ00zT2tUNmVPcGEyLW1WZHdDVmNOZkdTMUx4Q2tMSGswdWJqSzd6cFEyZDRTWEhsMXNyX0lZS1IzQUd4VEtZQlZDZXhIYVBoTnhtemFCX2JacXRrS1JsVkdoLTJybnQ5dkR3VnVPUm4xa3ZqN3VabEU3T0tkRUpWVTh6V1BRVWJ5LTJZNjdnVEtoTjRwQy1zU1lGVEQ2N2RTTUdla29kc29YOHBDX3ViQ3VIMzJRZ0FKRlY0VkZ1d9IB0wFBVV95cUxNNmN3eWFWWThCcWNWbzlQci1Id3pWZ2NXaEQzM240eUFRRzAySUFLYXVmQlYwNDY5eTE3ZE4wSk1qcFU3QkRVSFYzb1FqRHlDYlBwbUNwWVBENnJLSEwxSVg4d1NTWl9HSTEwVFJnaG9XSW9OcVpUN0Q5OUN4cnJrYUxRYTVxdWlYcWt0ZmRjSWQ2dlpjdFpBSGlJOFRpUDVKaEdlWXAzaXh2cm9MUTgxdEx3NkM0ZDdOYUFfTGdZeHk4T0QxX25ZRHNBZ1g1dmEwVnU0?oc=5",
-      "medio": "COPE",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "here_we_go",
-      "fecha": "2026-07-07T21:16:58",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.095733"
     }
   ]
 }
