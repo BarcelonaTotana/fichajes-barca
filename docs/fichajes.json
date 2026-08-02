@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-02T09:30:43.714747Z",
+  "actualizado": "2026-08-02T09:40:36.732817Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -92,6 +92,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "bd248ef617e43158",
+      "titulo": "Ounahi vuelve a sonar para el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212453/ounahi-vuelve-sonar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-02T09:18:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-02T09:40:31.350939"
+    },
     {
       "id": "c9b052bcb9c3d09b",
       "titulo": "Al Barça se le cae la opción Joao Pedro",
@@ -5278,19 +5291,6 @@
       "fecha": "2026-07-08T12:54:12",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-12T10:26:32.359159"
-    },
-    {
-      "id": "6c8f00b103dc3566",
-      "titulo": "El Barça ya tiene un acuerdo verbal con el Al-Hilal por Cancelo",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTEZEVTNjMGFOSWg5aFp6QUJJZmVYZnFTbEsxc0FkWmZsWlFEMkFvTmpabzFUR2xBTUo2dXhGb0pSZldTVUlJSjJveGFXdHFnVGstM1NINFhUR0FDVVJvNDJVdVE4ZjhndDlJQU5jRmhLM0hSTkhmdkhYcDlxRjMtNWxRVjUwRUU5NHJybGdmNHRYZFk3RXF6N3VONzVTaGhDeFV1RXU3TFoyLXpzck9qWEZacHNSVFhH0gHMAUFVX3lxTFBpdkVhOWEyOFhqUFJ3WVFYQjV4NXFiUEJHbHhfTHVzUzZSR1lLbS1LZDJLOWlPREJPZjVGMC14U0hhYTd3eWF1a0NsczJlanJSbWpDR0NSVHIwd253clBVM0EyTmE5emYzT25hNzlBTVRCTWV0aWlTcVlkaXFVYUs1aFh6T0toN3lPcjZrRlRmbENSS1RfVGNTeHJENmZzVF8yeU5NSmhlc29MT1pjeE0xbW9fZ0JxX1pyU09QdkhDM2RtYU9HS0tONm1fdQ?oc=5",
-      "medio": "Cadena SER",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-08T11:23:08",
-      "fuente_feed": "Cadena SER",
-      "visto_por_primera_vez": "2026-07-11T20:23:58.932200"
     }
   ]
 }
