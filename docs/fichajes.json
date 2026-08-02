@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-02T17:30:51.936937Z",
+  "actualizado": "2026-08-02T17:40:39.594422Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -92,6 +92,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ee87d379835cea40",
+      "titulo": "Ferran Torres no está en venta",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212507/ferran-torres-no-venta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-02T17:14:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-02T17:40:33.826713"
+    },
     {
       "id": "bd248ef617e43158",
       "titulo": "Ounahi vuelve a sonar para el Barça",
@@ -5278,19 +5291,6 @@
       "fecha": "2026-07-08T13:52:44",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T10:26:39.752305"
-    },
-    {
-      "id": "1c574a3364ac3494",
-      "titulo": "David Bernabéu revela que Diomande fue ofrecido al Barcelona",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3paYWZFZ0t3Y1JjU1pzcjlZM0VuZjc0MUg3R0pZZjUwSk4ydUV6WWh1SXIxbEQ4WW5CNXNGUTJVMU5KUHlPM0J4V1FTRk9QcUJkdXM1SGNCMWVOajlPVTFhQ3JSNEVsYXVSNFNWaGo1aC1yaUFTeWlDUEl2SzNXVjBTZmdVUmw5S1VjYnFmaDFpZFdxMnhHYmY2UmdqV29oaTB2UdIBpAFBVV95cUxNZnpoQTNtS0J0ZDVGRm1HSHpJQzRaSGV6ZG9rTGhiNExzUnJ6OTFOSVNXbHprQ2dIcVl2OUd2N1hWSE1NaDByWGNzcGNpQVVrYUs3Q2ZjQ1JIY3B6NGdpdkp2Y2hVZExieG5RUHlUREN5LVVqNUlvX09Nc2IzVGFCUElNU3hEYmJFNnRuNzNfdjFWSi1pb1ZBWVNpbnVRVC1hUUZpOQ?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-08T12:54:12",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-12T10:26:32.359159"
     }
   ]
 }
