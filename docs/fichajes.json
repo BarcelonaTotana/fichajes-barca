@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-02T08:00:53.752565Z",
+  "actualizado": "2026-08-02T08:10:34.262670Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -90,6 +90,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a4661c6ddb1f22c2",
+      "titulo": "Jofre Torrents podría acabar en el Ajax con Ter Stegen",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212425/jofre-torrents-acabar-ajax-ter-stegen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-02T07:35:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-02T08:10:28.385215"
+    },
     {
       "id": "9d4d155daf17b373",
       "titulo": "Pensar en positivo",
@@ -5276,19 +5289,6 @@
       "fecha": "2026-07-08T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.007913"
-    },
-    {
-      "id": "12b775df67220152",
-      "titulo": "Tranquilidad con Joao Cancelo en el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260708/1004204074/tranquilidad-joao-cancelo-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-08T04:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.008261"
     }
   ]
 }
