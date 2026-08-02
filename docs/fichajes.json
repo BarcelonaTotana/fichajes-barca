@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-02T20:30:43.514584Z",
+  "actualizado": "2026-08-02T20:40:32.091454Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -92,6 +92,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d895f9d4493103a8",
+      "titulo": "Asllani se acerca mucho al Leipzig",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212596/asllani-acerca-leipzig.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-02T20:05:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-02T20:40:26.353558"
+    },
     {
       "id": "99cf10164bcc8ded",
       "titulo": "\"Buena suerte, Jesse\"",
@@ -5278,19 +5291,6 @@
       "fecha": "2026-07-09T00:08:02",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.006775"
-    },
-    {
-      "id": "7857946182e35b5f",
-      "titulo": "El brasileño Higor, primer fichaje del Barça",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXUyT3RYcE52d3N0cFRnY1JZX2QxYTJMZ1pWcS16ZGpKbldiRWF1SW1vSDNpOXhacHRKZ0tpbXZDZWY0YjA0aDEyd2FBN2VHSUk5dGxxUUctM2ZwWS1ZQlFGaEFfNGRmRURIS01QZHdyM3RHZElYWk93eVdBR21Qam1CMXlyZkoxaUxLbFB0d3pQWGRlSm1OckZGOFlGd9IBngFBVV95cUxPLVRtTUtCSmRhaHoyUl9xZWwyXzRzZDlPeGVDTXpFSmlZV3hOWHJ4QXI4MlY1QzlBeEdpRzctSWtwZmVWdXpLb1BfZ1dXTFczS3RZUG14cjJRS0psLU5nV2RHQldMRDNyMXBtLXR3cEo2VHB6NXh2OXdlUzV6aW1TMXJGNzhISjctZ2pTelFkdDI0WjF6Z096YXFBUU45Zw?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-08T15:32:46",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.038245"
     }
   ]
 }
