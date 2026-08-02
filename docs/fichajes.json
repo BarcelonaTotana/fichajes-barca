@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-02T22:00:54.347398Z",
+  "actualizado": "2026-08-02T22:10:36.588530Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -130,6 +130,19 @@
       "fecha": "2026-08-02T17:14:59",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-02T17:40:33.826713"
+    },
+    {
+      "id": "bd4022ad050501bb",
+      "titulo": "Álvaro Cortés deja claro su objetivo en el Barcelona: \"Mi etapa en el filial ya ha pasado\"",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWlNBdUY1YTBOeFpNVks4R25XeUxqTFRkMU4weHhTZGxPdV9iNnpWRVFYb2NDTXdFR2RGSEN6bkJVeXJBbnlUZGhnYkhYTklrOC0zVG1JZ19lRmxYZDd4V0poaTIwdi1CaXY0MmtUR05rY05XZHZVQk5OdllUMjd6ODRna09SYjluQWh2c1Y5cGRKWjR6N0RnRnJiU3Y2a3JZX3NJa0M1amhUWUNlQWVpOVFrNDZiYm5wTXFwSkQwX0VZT0VjbXfSAcsBQVVfeXFMTl81azVPZlZQUnNReUdkM2o3SExWTldKVjhRVXBaMmVLNXQwZG1hUDh2cHc3aW8yS05EQkVlUWFKRHozb2VwUHVXa0NxSkFId2JiLUtwR0hHR1RNMFBLMVRVYzBsV0hoWmI3azFZSlNTTXp3ckJLSGlQTDdDQXF6UUVaUDJVX283eld1R25sV3Bfb0h0SnJndXE5aDRVZGxhUFF6eWVyYVEyeklJOHhNUGluQTFDSHdRVlpFOTMwQkFBcGw4cDM2MnhiRHc?oc=5",
+      "medio": "Tribuna.com",
+      "tier": 4,
+      "tier_etiqueta": "Poco fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-02T15:34:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-08-02T22:10:35.571366"
     },
     {
       "id": "bd248ef617e43158",
@@ -5278,19 +5291,6 @@
       "fecha": "2026-07-09T04:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.006563"
-    },
-    {
-      "id": "6ed5eac18d56c5d3",
-      "titulo": "¡El Barça se lanza a por Adeyemi!",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204485/barca-lanza-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T00:08:02",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.006775"
     }
   ]
 }
