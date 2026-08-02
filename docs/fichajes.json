@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-02T19:00:57.153339Z",
+  "actualizado": "2026-08-02T19:10:30.616095Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -92,6 +92,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "99cf10164bcc8ded",
+      "titulo": "\"Buena suerte, Jesse\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212580/buena-suerte-jesse.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-02T19:00:45",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-02T19:10:25.555050"
+    },
     {
       "id": "ee87d379835cea40",
       "titulo": "Ferran Torres no está en venta",
@@ -5278,19 +5291,6 @@
       "fecha": "2026-07-08T15:32:46",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.038245"
-    },
-    {
-      "id": "a0953555958047c5",
-      "titulo": "El FC Barcelona acelera por el fichaje de una nueva joya para el ataque",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOelNaOVhWa01ZdHk4Q0dsVGFqcVBtajJkZDFCMlc3R3VjOHRmelBDNlhCY0V4Z0l6aWZKZXUxamZIc1lNbXU1QzVTano1cmdzN2YyYlUtcGUzQ1NjSENxek1BOXM0WkVtMnJ6UHlrd3ZOc3VUY29Fa2dGanl1Q0xweE5KckF4MUlOMU9wX2RhZjEzMkUtR0F0R01iMnhyZzY1QzdzNzNn?oc=5",
-      "medio": "Sports Illustrated",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-08T13:52:44",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T10:26:39.752305"
     }
   ]
 }
