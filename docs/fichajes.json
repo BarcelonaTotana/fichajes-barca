@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-02T08:30:46.731131Z",
+  "actualizado": "2026-08-02T08:40:30.753009Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -73,6 +73,7 @@
     "c383845699e845be",
     "c4e9378d7e1652b2",
     "c7770ea441e9cd96",
+    "c9b052bcb9c3d09b",
     "ca774448b957d12b",
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
@@ -90,6 +91,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c9b052bcb9c3d09b",
+      "titulo": "Al Barça se le cae la opción Joao Pedro",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212433/barca-le-cae-opcion-joao-pedro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-02T08:16:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-02T08:40:25.102421"
+    },
     {
       "id": "a4661c6ddb1f22c2",
       "titulo": "Jofre Torrents podría acabar en el Ajax con Ter Stegen",
@@ -5276,19 +5290,6 @@
       "fecha": "2026-07-08T06:43:00",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T22:10:53.704164"
-    },
-    {
-      "id": "99ea19e92e6e451b",
-      "titulo": "Ofensiva del Barça por Bisiwu (Brujas)",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260708/1004203848/ofensiva-barca-bisiwu-brujas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-08T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.007913"
     }
   ]
 }
