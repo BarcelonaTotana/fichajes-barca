@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T10:01:00.342238Z",
+  "actualizado": "2026-08-03T10:13:15.856419Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -92,6 +92,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "235523e64a0be6a5",
+      "titulo": "Míchel ya da por hecho a Ter Stegen: \"El Ajax será mejor\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212710/michel-da-hecho-ter-stegen-ajax-sera-mejor.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-03T09:32:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T10:12:16.601468"
+    },
     {
       "id": "32f7d64f08bdaac5",
       "titulo": "La amenaza del Arsenal por Julián pierde fuelle",
@@ -5278,19 +5291,6 @@
       "fecha": "2026-07-09T07:17:21",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.005124"
-    },
-    {
-      "id": "98eecd3df6977fd7",
-      "titulo": "Caos en el Barça: cinco fichajes frustrados, sin entrenador ni responsable y apenas jugadores para un quint...",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkNKRnl3SEVuRzJseDhCZFBMazdPUnM1Ui13ZXVQZzFBb0t1cjdQREZzVVlwR1FfSnZQRTdReHpXRm4wWHEwdnV5UXZyLWtETk9Kdm9KTDNQZjhYNGlmLVpZMlZiOEZueXdvTmNPbUdRU2xsNjhLWUc2dXlmbVJldGw2a2gxS1RYcEtRc0dUTmpEeHFha0c4Nm9mRnFHRHEyR2hNb3ZFSjhfTXRfVUNzd2psc2IyUkdVM19HdG01c3R3VXpjMS1QNldyNNIB0AFBVV95cUxPY2xpVzQzWXhVb2NFLVd0eFZaQjRSQ0FiSFB4TFNUVUdPajEyUE5UUmM1U3pXaUdyS3hmbklndUNySFNKV3NRUUQzamhTNnpnWDlxaXJVaWVTVXA2QmlGeHhrY0M0RjhQNXhMZnFhTWx0ZEoxTVJaOW1tMUZ2bThQUGJwSkVhT0FtLXZKWkVmclhPTHhkSEFlV3ZYbTFGS3RILU0wYmFpMHBqMVpJa1UxMGRVVXBLMGtnUnFKVGVObXktRUlvZ09YQlYxMG96MUhQ?oc=5",
-      "medio": "OkDiario",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T07:00:43",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T23:42:04.786599"
     }
   ]
 }
