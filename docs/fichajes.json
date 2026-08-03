@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T16:33:29.342510Z",
+  "actualizado": "2026-08-03T16:40:32.102369Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -95,6 +95,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e4543f842574c62e",
+      "titulo": "Samed Bazdar, ante sus ultimas horas como jugador del Real Zaragoza: salida inminente del delantero",
+      "enlace": "https://www.sport.es/es/noticias/futbol/samed-bazdar-ultimas-horas-jugador-133068882?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T16:34:51",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-03T16:40:29.608116"
+    },
+    {
+      "id": "2423998c9eba4aef",
+      "titulo": "Ya hay fecha y hora para el Valencia-Barça de Liga",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212843/hay-fecha-hora-valencia-barca-liga.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-03T16:26:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T16:40:27.006523"
+    },
     {
       "id": "e3a94229afba7283",
       "titulo": "Pretendiente para Rashford tras su adiós al Barça",
@@ -5268,32 +5294,6 @@
       "fecha": "2026-07-09T10:36:43",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-12T08:20:49.175423"
-    },
-    {
-      "id": "691258f1d096b114",
-      "titulo": "El Barça encarrila el fichaje de Adeyemi y pide 210 millones para afrontar el mercado de fichajes",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQmVfbVRxaUJpSVl2Rkd3cDRrMkpkd3VrUi1KT1BOYmxkTThvS25iR3EzcmFVU1FoNXV2b25BckZjUWF2QXNLa2VGdGtuTnhwVzlnc09aRk1tS19lYWlhcTl4YU55UlhFVDVpLTJ2VTRYdFhWWUtzZnB5UXRlSWk5YTBJMDBoTER2X0o1T19nQ09rcmszaUhSX1JrNDlIeF96QTdJTWJfdDVYV1JsbV9mVF84WGJHVmVNQk9fZWtSOWdZQlhPS3pSdF8yVlRrVW1vQ1E4cFNMdnZyXzNmZHhubkF4aVhKOUphajJBRjZVVTlFRXhNd1JqdHBR0gGOAkFVX3lxTE9ldUdla3I1WkxnaTNDUjlSRDNsQ0N2cjV0OGNKbEswazdyLV9yazRWR25oX01kUVFJX05EazgwTEZVRnJZSjZrTTg2N0h6T0VUaTdheWRINllNRmZVN0VoM3lfZ0tUM2xQZG4xRHRyY3B5NkcyZzJsMklzSUFqX18wWlR3N3FPZHFnTlp2eEVxNm93MmhlRElYSlRlRWJYRnpWcllyUzNObG83aEV1X0FHeU94TVl5WERubHFJUVpPTElkTkJIYzRTZ3RTSnlhcXdZX1A1YXBVaUlNMEtpQWNXNlZjbFM0VlhPV1QyTl96YzFpYi1QSHJwTGczMTZySHBXczhNQ2hKN01MVkxsdw?oc=5",
-      "medio": "Cadena SER",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T10:04:30",
-      "fuente_feed": "Cadena SER",
-      "visto_por_primera_vez": "2026-07-11T20:23:58.931507"
-    },
-    {
-      "id": "0347f79663949a05",
-      "titulo": "La prestigiosa Morningstar DBRS confirma la fortaleza económica del Barça",
-      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa2l1YjdGNlcxVjJHRVJ5NF9WRlpZT1l5dEM3LUxUVVdMdU1EQ0hnbUE3MG1ZT2piQ1p6V09MYnVLQ2xvdlBERGFpU2xSd0JQY0FZYWpJdFRpU2EzTHhLSTdaSHl6NnpwVjFicnRxb2ZPU2ZCVXROT2RVekNIeXhROWFnVTNFME9VOEliYl9TZTFaZnFSd3E5a281MWjSAZwBQVVfeXFMTmtpdWI3RjZXMVYyR0VSeTRfVkZaWU9ZeXRDNy1MVFVXTHVNRENIZ21BNzBtWU9qYkNaeldPTGJ1S0Nsb3ZQRERhaVNsUndCUGNBWWFqSXRUaVNhM0x4S0k3Wkh5ejZ6cFYxYnJ0cW9mT1NmQlV0Tk9kVXpDSHl4UTlhZ1UzRTBPVThJYmJfU2UxWmZxUndxOWtvNTFo?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T08:23:01",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.037859"
     }
   ]
 }
