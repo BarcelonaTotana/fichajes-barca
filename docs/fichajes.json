@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T18:01:04.501464Z",
+  "actualizado": "2026-08-03T18:10:35.292865Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -96,6 +96,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a3bd519d9841990a",
+      "titulo": "Apuntan a una nueva cita del agente de Julián con el Barça esta semana",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212876/agentes-julian-alvarez-planean-venir-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T17:42:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T18:10:28.806398"
+    },
     {
       "id": "8c99e26c03b603c3",
       "titulo": "Ven optimismo en el PSG por fichar a Ferran Torres",
@@ -5282,19 +5295,6 @@
       "fecha": "2026-07-09T12:42:41",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.093991"
-    },
-    {
-      "id": "48df898ce25b7861",
-      "titulo": "Así juega Adeyemi: el Barça fichará a un extremo habilidoso y veloz pero irregular",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1pQeEl3Zms4Uk1mU2hCdXZTNVd4VjJ5enVSeWZYZDdhZXFHOUF5bmRTSmFTMzdJTENjRjdLRUo4dEUyZ0pHbFBtcjhhbFNpTUkta3Rzd1lWSmlCQXQ1eTR3MHVTMDJxYmMySWlSZUd5NTcwS29CSlhJZ1dSckhTOEVFYzJJZ1pIRWRWZHVSanl0cUpKeFd0MjBkX3FlcnFDU0NySm5selhRbTNjdE5fVnpB0gGyAUFVX3lxTE5fWlB4SXdmazhSTWZTaEJ1dlM1V3hWMnl6dVJ5ZlhkN2FlcUc5QXluZFNKYVMzN0lMQ2NGN0tFSjh0RTJnSkdsUG1yOGFsU2lNSS1rdHN3WVZKaUJBdDV5NHcwdVMwMnFiYzJJaVJlR3k1NzBLb0JKWElnV1JySFM4RUVjMklnWkhFZFZkdVJqeXRxSkp4V3QyMGRfcWVycUNTQ3JKbmx6WFFtM2N0Tl9WekE?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T12:41:08",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.037477"
     }
   ]
 }
