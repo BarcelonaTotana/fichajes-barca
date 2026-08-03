@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T17:01:02.583575Z",
+  "actualizado": "2026-08-03T17:10:34.581392Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -29,6 +29,7 @@
     "20234a678e468e32",
     "2424d14d53098add",
     "27f25d89b4825926",
+    "2afd8df59ff42b07",
     "30f0349c496f2926",
     "30f4eae64d270777",
     "352f8451dd4e256b",
@@ -95,6 +96,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "4120702996c568ed",
+      "titulo": "Ter Stegen será presentado este martes como nuevo portero del Ajax",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212857/ter-stegen-sera-presentado-martes-nuevo-portero-ajax.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-03T16:48:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T17:10:28.417053"
+    },
+    {
+      "id": "2afd8df59ff42b07",
+      "titulo": "¡Ferran no se toca! El Barça frena al PSG y prioriza su renovación",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212856/ferran-no-toca-barca-frena-psg-prioriza-renovacion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T16:43:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T17:10:28.417330"
+    },
     {
       "id": "e4543f842574c62e",
       "titulo": "Samed Bazdar, ante sus ultimas horas como jugador del Real Zaragoza: salida inminente del delantero",
@@ -5268,32 +5295,6 @@
       "fecha": "2026-07-09T12:22:06",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.004316"
-    },
-    {
-      "id": "620077c2b51e1fd5",
-      "titulo": "El plan de fichajes del Barça tras Adeyemi: no se renuncia al '9'",
-      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQmdMajlha0dXYjA3dVkybV8zVWk0ZXVGNTU1UGVTR0xJNGl5RE1HZTYxclFqRHFEVjE5QXZYTURQTGFoMkZudkF6T3V1SkdNbGM5ak44V1N6TlZiX0NGNnBiSzRDMmRubk5YbTlWV0JsYnAybE1MZFhJSllsMHJyOTh2bmVKYUkwOEZFMTVB0gGOAUFVX3lxTFBSeVlrd2NjTXJMU2NOQ1BYRWFQNE1ibmExN25uZEh2N3dZU3VzRjJoSkxMOWMzSmNpODMzREh2TXFRdUgzSnFMR2FnbHBTN3hMQUF0T1FOWWxXZVAtNTA4TzFUT3l4Nktmc1YzSklZcG5qY0c3VEk2YTFValJvQUotS3hsSUVVV1h5XzZ0WHc?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T11:24:44",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.036691"
-    },
-    {
-      "id": "12104adbc07a780e",
-      "titulo": "Pere Romeu renueva con el Barça hasta 2028",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcy1teWRSMG84Ry12OTlyT0FhTktSSUN6TVUweWYwaUJ4a1ZuLXdIdGx5X2FOUk5oZFltYm1pSm52RV84cDRuTlM1MHBpZ3RiTkNxdTc2bXpsX1h5Zmw0S0h2M1BBUTl6NGVaSV9DdTZPN01WRFVFVV9NZnNfQW4tN09uMDVGTkhmNk94cVlGVmFmNUVRc0HSAZYBQVVfeXFMT0NMLWQtc2k0c0pRRDhfV1ozSXRSUDBuVnNROFZ4czhVVDRBcXEzYjFEOE5ncGg3S0MzdGFQUTlDeTZJUjd6MmI1UTlDMHhuZnk1SkJDZUNUb3VxeUVJeFBDaUgzUDBNd2JZT0RsN3k2WkFQODlxRi1KQThKMGdKU2dpV1NtMmg3S2NyNV9YUDh4NG9CVmJB?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T10:36:43",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-12T08:20:49.175423"
     }
   ]
 }
