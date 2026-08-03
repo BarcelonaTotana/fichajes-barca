@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T17:31:49.620453Z",
+  "actualizado": "2026-08-03T17:40:35.039807Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -96,6 +96,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "8c99e26c03b603c3",
+      "titulo": "Ven optimismo en el PSG por fichar a Ferran Torres",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212874/ven-optimismo-psg-fichar-ferran-torres.html",
+      "medio": "mundodeportivo.com",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T17:26:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T17:40:29.744806"
+    },
     {
       "id": "4120702996c568ed",
       "titulo": "Ter Stegen será presentado este martes como nuevo portero del Ajax",
@@ -5282,19 +5295,6 @@
       "fecha": "2026-07-09T12:41:08",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.037477"
-    },
-    {
-      "id": "3e2c4f091ab5587f",
-      "titulo": "Flick ya apostó por Adeyemi y ahora lo quiere en el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204634/flick-aposto-adeyemi-quiere-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-09T12:22:06",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.004316"
     }
   ]
 }
