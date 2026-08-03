@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T09:31:30.096044Z",
+  "actualizado": "2026-08-03T09:40:39.473429Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -92,6 +92,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "32f7d64f08bdaac5",
+      "titulo": "La amenaza del Arsenal por Julián pierde fuelle",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212694/amenaza-arsenal-julian-pierde-fuelle.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T09:04:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T09:40:33.904542"
+    },
     {
       "id": "c1bf70abae2ebb3a",
       "titulo": "Ferran, pájaro en mano",
@@ -5278,19 +5291,6 @@
       "fecha": "2026-07-09T07:00:43",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T23:42:04.786599"
-    },
-    {
-      "id": "ab109c4f2d31ccf8",
-      "titulo": "La primera oferta del Barça por Adeyemi: 20 millones, más un porcentaje de futura venta para el Dortmund",
-      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUDZSWWJPb1h5SDZ1NGl4czdrZkNPa3B4Z3g5ZXZnMWZ3TmNvQnduOUhibmltaEdVT25DTWxsQXF0REktUkF6NUJvWkJJdXhwZmpCNUNkLWRxV3VFN0pyNWJMaVdMRy1zeDFnenZwcExXZXNUT09NVkZCQmpPQ3N1emFzcnUxbG5mZ2R3R9IBjAFBVV95cUxPbXA0QnNMektPclN1ZUE5S0duRFUxUGhHT2s4OE5lMlZTRVpOZzg4UEFpdG9senhERXRGM3R6ckNOVTdzUUhkSkFZVnl4QlVub3lfbjBRUG9rVGFyZDljME92TURGeGVZVmtzTWF3dDZwN240a0Y2U2dUa2xTdUZvQnBHUHZkVnhQUklTbQ?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T06:21:02",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.037157"
     }
   ]
 }
