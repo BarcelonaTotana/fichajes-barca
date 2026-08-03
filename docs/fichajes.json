@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T21:00:56.959135Z",
+  "actualizado": "2026-08-03T21:10:42.257485Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -20,6 +20,7 @@
     "0dcc3195962dd4cd",
     "0f6dcf300e0cb34e",
     "10c093e3e5f4eedd",
+    "10ecb8140963287e",
     "12104adbc07a780e",
     "158ac38fd80cae55",
     "158c66cbb29b7567",
@@ -79,6 +80,7 @@
     "c9365068ea68e649",
     "c9b052bcb9c3d09b",
     "ca774448b957d12b",
+    "cc1ede646b0e4ab4",
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
     "d1678f114989da7e",
@@ -96,6 +98,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "10ecb8140963287e",
+      "titulo": "Ferran Torres: \"El Barça tiene que demostrar que me quiere\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212919/ferran-torres-barca-demostrar-me-quiere.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T20:59:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T21:10:36.448556"
+    },
+    {
+      "id": "cc1ede646b0e4ab4",
+      "titulo": "Estanis Pedrola, un culé que ficha por el Oviedo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260803/1004212917/estanis-pedrola-cule-ficha-oviedo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T20:58:46",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-03T21:10:37.784333"
+    },
     {
       "id": "9b814ef208de6ca5",
       "titulo": "La plantilla barcelonista, de regreso en Barcelona",
@@ -5269,32 +5297,6 @@
       "fecha": "2026-07-09T13:18:25",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-07-12T14:15:13.409129"
-    },
-    {
-      "id": "006c52cf8fac6981",
-      "titulo": "El Barça contará con un adelanto de 210 millones para fichajes",
-      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTW5vaDFXQmtQNXotRDRPQWNhbXZyVDRreFUzUWt4SXo0SVZkRlFJQ0JtdE82cXFlcWlBbWlHSUFPYUlETzhPSVpRTGNaUi1aNXZRbW5jUGlkZEFFbll1aWQzR2pMMXl3M2t5c2MxNC01azlXZFlYb0tJc1haM1RkTnRBV3BXV1NxR3YyZzNn0gGOAUFVX3lxTFBuUDA1Vl94NTRSX2N4Z0UwbXRfOUhGSzAzN1hNWEZyWXJpajNpeWJtd3pJOGxKSVF5dDN5aUZwc0c1Rjc5ZTJlVDhTTG5LSjJ3VEthNTZvWERKcEMyUFVhb1FXdTk5bmFpNmMxR0wtN3VZQlFZcTBQNkJhUVNmT2lLX3AxLXdRcTY3SGdlWXc?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T12:45:48",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.036235"
-    },
-    {
-      "id": "fed07bc707b20fb1",
-      "titulo": "El Barça solicita un crédito de 210 millones para fichajes",
-      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZHRyVTFaY2pMZVkxMkQ2SXJhbEhJQ2FfM1hsWFdSdUxfdVFtUnZIMzh3OThRQ3RZc011TnFrRVhIa0IxOGFSSXpGTkI0VkttYkpWb25Gdy1pNG1zV2ZpRFo5ZWsyMWNCVVI2U0Y1YV9aT2ctM2hXZ2lJTU54WFJTck5LSU15ellPVlRoUdIBjAFBVV95cUxQWUFmak1kMU9SalJCNmg4dVlOQVlpbnhCeTlaZE1hTnZIbDI1di1QZHU2bGJxRklvZGcxMkk4Y1VyZkI1VjdSUnRDVXc5YmN3N2MxYzUyQXA2UGN4Q3owbjhVZEdTSzlTZnNESXd1cm5CUDJNV1MxSzM5ei1mdU9QbkNnR2M3Tml5NlkxdA?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T12:45:48",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.036788"
     }
   ]
 }
