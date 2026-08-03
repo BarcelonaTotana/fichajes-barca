@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T16:01:06.175028Z",
+  "actualizado": "2026-08-03T16:10:35.806491Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -84,6 +84,7 @@
     "d74b02004bbf149f",
     "d94545d1196ce20a",
     "d99b318f89a79c54",
+    "e3a94229afba7283",
     "e6801ae14559f1b4",
     "ed20b49c576f59d0",
     "edf6a2c3c27df9b6",
@@ -94,6 +95,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e3a94229afba7283",
+      "titulo": "Pretendiente para Rashford tras su adiós al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212807/pretendiente-rashford-adios-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T15:41:01",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T16:10:30.070963"
+    },
     {
       "id": "74b13bf913ddd51c",
       "titulo": "Flick no prioriza el fichaje de un recambio por la lesión de De Jong",
@@ -5280,19 +5294,6 @@
       "fecha": "2026-07-09T08:23:01",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.037859"
-    },
-    {
-      "id": "2567de1e9527e726",
-      "titulo": "El Barça negocia el fichaje de Adeyemi, delantero del Dortmund",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalhFaTRhbWhHV21WTU51RC1EamRrV1ZfcnRoUk9jXzhVa2RJNnZsQVR5WnFoS09hLTd4YXhqbnZXMlYxZ0JiaTg2eTJzekRPclYyWGt2ZzhPWWo2MHFzMWRaajVGWS1nNTUtZEl5LVJtWmVoM1p3SUtqV0RkNjRMTEloTmFhY3RCaTdNbWxId3JmUDJjaXgwOG1XSEh1X1M5ZDlhTUNuRjl5ZENNWDdmQdIBsAFBVV95cUxQWDZNZHZuSGpqcGJ5YkM0czIyVl9NbF9naE5xeVJXeEUyMTZjc2lRTzJBNHlGQ0hOekplRVFVbHBGblMxbXUtdkM1aVhrbU9FNkIwN0tDLS04dHhNcWVUMG16NlNSZ3gxR3dEeF9mVlRwdzhiZm9HWC0wTFZmRndLeDNoaWRXdWUya1ZsUEZLNFRqUXB0R2xwN3JXWFJ4OUhrWXFYLXoyVWJHbDg5eFhQOQ?oc=5",
-      "medio": "El Periódico",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T08:08:57",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.095880"
     }
   ]
 }
