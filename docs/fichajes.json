@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T13:30:50.829938Z",
+  "actualizado": "2026-08-03T13:40:38.903808Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -94,6 +94,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "74b13bf913ddd51c",
+      "titulo": "Flick no prioriza el fichaje de un recambio por la lesión de De Jong",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212781/flick-no-prioriza-fichaje-recambio-lesion-jong.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T13:21:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T13:40:33.783266"
+    },
     {
       "id": "6f8e5dad1468ccc2",
       "titulo": "Un gigante inglés quiere dejar al Barça sin Jorge Salinas",
@@ -5280,19 +5293,6 @@
       "fecha": "2026-07-09T08:08:57",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.095880"
-    },
-    {
-      "id": "69e2532d04071127",
-      "titulo": "El Barça quiere fichar a Adeyemi: estas son todas las polémicas que arrastra el extremo alemán",
-      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZi1JdktyNGNzMjZnN0E3QmZnMDM3LTJJaW5WcjdCN0tTYXhmQ2JmRXRiNWlnTE55Zk1pSHA5X0NBVXpzNE5vSmdTd1FReXk1X0QwZE9lSVRfYXRIbnZDejdhRVU2M1lVb0Y4Q0hIU3p4TFVFeGxFS0w1Qng4Z3A5aHVvc0xBODlKMGZXVkNQNmdVcDRWdUxEeWZtTVB1UzJYYmQw0gGjAUFVX3lxTE1mLUl2S3I0Y3MyNmc3QTdCZmcwMzctMklpblZyN0I3S1NheGZDYmZFdGI1aWdMTnlmTWlIcDlfQ0FVenM0Tm9KZ1N3UVF5eTVfRDBkT2VJVF9hdEhudkN6N2FFVTYzWVVvRjhDSEhTenhMVUV4bEVLTDVCeDhncDlodW9zTEE4OUowZldWQ1A2Z1VwNFZ1TER5Zm1NUHVTMlhiZDA?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T07:58:49",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.038630"
     }
   ]
 }
