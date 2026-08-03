@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T05:00:54.028345Z",
+  "actualizado": "2026-08-03T05:10:45.012622Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -92,6 +92,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c1bf70abae2ebb3a",
+      "titulo": "Ferran, pájaro en mano",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212611/ferran-pajaro-mano.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T05:10:39.115093"
+    },
+    {
+      "id": "a1268fb3f287b18b",
+      "titulo": "Cuenta atrás para el regreso de Cancelo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212598/cuenta-regreso-cancelo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T05:10:39.115376"
+    },
     {
       "id": "d895f9d4493103a8",
       "titulo": "Asllani se acerca mucho al Leipzig",
@@ -5265,32 +5291,6 @@
       "fecha": "2026-07-09T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.006001"
-    },
-    {
-      "id": "f553bc21c6db35a4",
-      "titulo": "El escaparate del Johan convence a Ybarra",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204336/escaparate-johan-convence-ybarra.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-09T04:25:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.006308"
-    },
-    {
-      "id": "2f9d5483558c79c4",
-      "titulo": "Flick, pendiente de entradas y salidas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204452/flick-pendiente-entradas-salidas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.006563"
     }
   ]
 }
