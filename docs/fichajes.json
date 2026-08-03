@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T18:30:56.857241Z",
+  "actualizado": "2026-08-03T18:40:33.232901Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -96,6 +96,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9b814ef208de6ca5",
+      "titulo": "La plantilla barcelonista, de regreso en Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212888/plantilla-barcelonista-regreso-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T18:25:53",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T18:40:27.649227"
+    },
     {
       "id": "a3bd519d9841990a",
       "titulo": "Apuntan a una nueva cita del agente de Julián con el Barça esta semana",
@@ -5282,19 +5295,6 @@
       "fecha": "2026-07-09T12:45:48",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.036788"
-    },
-    {
-      "id": "e5b15c84fdc09c21",
-      "titulo": "El Barça firma un crédito de 210 millones para fichajes que estabiliza su nivel de rating financiero",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeFo3SHdkdGdjNGRLT005a2x0cHZlTFBDdUJrRzF4dThpNmdHOEVzeElfbmJyaE55cWVzVDQwOUwxRXVVMU1vTVAyZmdZVlhZSUVKanR3VGNtbEx2cl8wZE5EbmlwVk1KM3AteVNkODM4TkJOeko3M0R0MHZCcXY4ZTVWZW56eDc5Qlg5NE9HMGZYd2t3a0lZa01JTGpwOVloQ01LMHNHQVRHMTFia2p3VXlGaGgyNnVYcWs5NHNPM3FNaEJoYlRvelRUNHJmWmtDeVc0RtIB2gFBVV95cUxQdVNaSEEycXdhejJ0emVuNFBNdkhHYVMtMUN4cHhRUVhjbTBPNWV1T2hwUTdiak5DRVNGVzk4OFBrMnZmRzdMSnBzcnZna0lBdjdiaUUtWTdudW1jTlFmeHA2NWFla18wRi1mOGFDMjY2NUJHdG11NjNKQzVuWEptcE05NFBIUWYzSlJZcVJCUWc2WkNZODdVMW9nR20ya0RwbUV2VzNfRkdodVpMTVlEOUdoZEgtQU02NTJpUGlzRGJMNGtiTjM3VF9JSy1ZRmx4cVo3SDdBODBHdw?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T12:42:41",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.093991"
     }
   ]
 }
