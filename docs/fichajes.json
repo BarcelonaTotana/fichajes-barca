@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T11:30:47.686272Z",
+  "actualizado": "2026-08-03T11:40:30.902873Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -54,6 +54,7 @@
     "6c8f00b103dc3566",
     "6e71035cd811a191",
     "6f0a75f24ee3a1d2",
+    "6f8e5dad1468ccc2",
     "7311a4fc282f6a99",
     "7f5de7c97cea0906",
     "831ffdba8f3957f2",
@@ -92,6 +93,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "6f8e5dad1468ccc2",
+      "titulo": "Un gigante inglés quiere dejar al Barça sin Jorge Salinas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212713/gigante-ingles-quiere-dejar-barca-jorge-salinas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-03T11:14:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-03T11:40:25.545233"
+    },
     {
       "id": "235523e64a0be6a5",
       "titulo": "Míchel ya da por hecho a Ter Stegen: \"El Ajax será mejor\"",
@@ -5278,19 +5292,6 @@
       "fecha": "2026-07-09T07:18:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.094658"
-    },
-    {
-      "id": "10d7f095069d3c18",
-      "titulo": "Adeyemi ya dejó claro hace años su deseo de jugar en el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204511/adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T07:17:21",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.005124"
     }
   ]
 }
