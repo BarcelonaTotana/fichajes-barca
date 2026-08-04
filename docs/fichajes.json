@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T07:50:32.372893Z",
+  "actualizado": "2026-08-04T08:00:57.122868Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -227,6 +227,19 @@
       "fecha": "2026-08-03T16:48:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T17:10:28.417053"
+    },
+    {
+      "id": "b5841727a18c8375",
+      "titulo": "Oficial: Ter Stegen se va cedido al Ajax y hoy será presentado",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212857/ter-stegen-sera-presentado-martes-nuevo-portero-ajax.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-03T16:48:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T08:00:52.206908"
     },
     {
       "id": "2afd8df59ff42b07",
@@ -5284,19 +5297,6 @@
       "fecha": "2026-07-09T15:43:27",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.093827"
-    },
-    {
-      "id": "53880bfd239661bc",
-      "titulo": "El Barça pide 210 millones por adelantado a cuenta de los derechos de televisión para acometer fichajes y pagar nóminas",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHpUb1hWeXNHOFdoSXFQM0x5WHhHc2s2Z3gzTzBlZmFoVGVaRmJZTnZxYmYyb29VczdTTktqS1FGTHQwQUJGeHNxQVdzNVVKQ2ZsWDZvQ0FSU0g0Y0xrVWNUd3hUdW9CSzdsU3ZQV1hobEJRckJYNFhnLWxwOG5LRFZlVTNTQXNlSWZ5UGdLeWlNcDhKMzl3OS1CeG12NmpsTkN6YUVaMHk4YUdvVV9mSVp4OXAzQ1dxUTlhU2lyWXIwdGxpZ0M1ZWRHd9IBywFBVV95cUxNNER3RjZaZlpYOVpGTU50alRCS3JxcnYwYW9qa2RMZzlCT0Jyb3FLcy1kQy0wX3psY01zbGttcEtpZjZZQkdPQnlfZndmQjBxWnd6aUFQakhMYVZVRkxrSlp5UTZvbDFqbVlsUGtSTDJhUkxTcmRqY3ZzOEpRNWJhNlV3WFhaUS10SmkzcENxb2hUcWhudTVOSGw0aDlybXJKTFBRY2RQcHJjRjc1dTFyOE9zdTduMlM2ZEhCNVhhSmxNdjI3Q3JMdjhIWQ?oc=5",
-      "medio": "El Periódico",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T15:23:55",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.092598"
     }
   ]
 }
