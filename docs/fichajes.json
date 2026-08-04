@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T06:30:53.400134Z",
+  "actualizado": "2026-08-04T06:43:09.990275Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -98,6 +98,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "74e216f3daf379f8",
+      "titulo": "Ferran insiste: \"El 12 de agosto tengo que volver a entrenar, veremos qué pasa\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212951/ferran-insiste-12-agosto-volver-entrenar-veremos-pasa.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-04T06:13:18",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T06:42:10.500833"
+    },
     {
       "id": "a4cfed63b016093e",
       "titulo": "El Barça mantiene el plan con Julián Álvarez",
@@ -5284,19 +5297,6 @@
       "fecha": "2026-07-09T15:23:55",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.092598"
-    },
-    {
-      "id": "c9eb39142e16fabb",
-      "titulo": "Los detalles de la oferta que el FC Barcelona ha presentado al Borussia Dortmund por Adeyemi",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVW05NG5QSzhsWC1LM2c0clpYd0d5XzM5cFoxTm9kQXVkbUxTa0dlX0NwRFIwM0U5MXBlOF9hcGJhV1BqNkRPaG5JNUZScE9FSzJPaWl0azNDdnBEUkVHT0JRQXBFc21ieVZnNlNKTlpUZlAyVElTb1NMT2dTQ0YwZVZIczljSExfNGk3R2hpOFhXeWhzc0ZNdU81c1JtZmFQekEyRGl6bWVzakRtNEIxcTdwTDQ3VW5kTElBMDNKSW9Zdw?oc=5",
-      "medio": "Sports Illustrated",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T14:34:12",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.098610"
     }
   ]
 }
