@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T10:40:33.680748Z",
+  "actualizado": "2026-08-04T10:50:37.302935Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -99,6 +99,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "8941b56e89a4d510",
+      "titulo": "En Inglaterra apuntan a un posible destino para Rashford",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260804/1004213032/inglaterra-apuntan-posible-destino-rashford.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-04T10:22:13",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-04T10:50:33.699820"
+    },
     {
       "id": "beadcf55619bf472",
       "titulo": "Kerolin ya está en Barcelona para fichar por el Barça",
@@ -5285,19 +5298,6 @@
       "fecha": "2026-07-09T16:10:32",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.096216"
-    },
-    {
-      "id": "b96b1df2f9e1cbd3",
-      "titulo": "El Barça adelanta para este verano el cobro de 210 millones de derechos televisivos para fichar",
-      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQelJlMVU2bW1nQnZjOUhYZ29qaF9INFFrWTNUaFZxNmdYeWkxZzRyUHVPZGVpV2c5WEREQkRpQ2EyNzEyRi1QMWwtcE1iRnk0OU1IS1ZQVnNBSDQ3ZTVxbFVlY0JrNDJJcDJNN3FmV0pRRGtiaVdfcmVLQjJwMDcycWZULVZ1dzFtd0kwbm4wNWc0bXJOWmt4bjBJRWdQdFA4bjJSTGlTQUNOcTJscl9YU2Qyamp3eUxwbzB1T3FBcnRmSnVNWFFVVmJLQzBodHF5SGxoUmVSbENRZ9IB3wFBVV95cUxNd0UwNHBwX0hZM3FsaUhQckw4WXhNUFVBNjdZR1R5WXVOa21vT0xweTRydU4zdFVmNENTdWdpSnpjUV9YbXRCWE1FWm5WNW00V3VDMkk4RVdaUkREQU5fRkkwUXVvVm5ZRDBqVmM4Y3pzelk4Mm42aDBnVnV6STBUeUdrWXAzOWpSUFZxajZnZVAxZDZwRTFiNk5fRWZTYS1wNHRWVEtwa1JLMHNHVjZJeUpDRFVmYTYxXzFSSTZsZUNqQzFWWlhnemtHc1FtdVNEeV9RVG1yY2ZjTEU1UlhZ?oc=5",
-      "medio": "La Vanguardia",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T15:51:01",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.093365"
     }
   ]
 }
