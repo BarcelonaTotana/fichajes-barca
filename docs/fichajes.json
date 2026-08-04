@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T13:30:57.195009Z",
+  "actualizado": "2026-08-04T13:40:40.071407Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -100,6 +100,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "cfe4809de24b8ded",
+      "titulo": "Bisiwu: \"Es un sueño, ya he hablado con Flick y voy a trabajar muy duro\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213091/bisiwu-sueno-he-hablado-flick-trabajar-duro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-04T13:13:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T13:40:35.123710"
+    },
     {
       "id": "725b7caed2f22a15",
       "titulo": "El Barça intentó fichar a Kett y volverá a la carga en enero",
@@ -5286,19 +5299,6 @@
       "fecha": "2026-07-09T17:39:14",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.734975"
-    },
-    {
-      "id": "141dcc1041ef0bd2",
-      "titulo": "El Barça confirma el fichaje del MVP de Francia",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSlgzenh0ZWRqMW1kN1JWRnpyV21KNFY3Y3Zkd3lTNllxZVJ0aXdmbmxqaHZjYXIyYkxCM2lhLWF0UjRkWXdYX2liSmlVOEJnbHBYVFZYTndvUjd1YXNhajQ1dUY2NE03NVhaal8wTVZiY3doaW9OaV93VG40TldBWHk5OV9ERGtVbURGZE9tYW5XQnV0azAwcXk2QXFHT1lHNXllNDFMcWc4OGRw0gG6AUFVX3lxTE53U2NuM2kzeERzV0JXMS1nZEJ1dUZVNHE3bVNrNUhHaDRWb0M3NGxRUTRzLUo2emg0Mnc1S2R1bFFFOVFFZjVBa1BobGhaYWVScjVCcVc0a2w3cGh6OUIxbkVGN2dKYmRlOGYzdFl3SzhGclY3RG9sREdfb3ZOaFlMVDF3dXU5QzEtUHVyRmdDZUg2cjZwN3NraDlqM3lvQVEyazF5OWdGSmhPTkJwckgtMGtfSXdzN0U1Zw?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-09T17:38:03",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.734515"
     }
   ]
 }
