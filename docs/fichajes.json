@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T16:30:51.441472Z",
+  "actualizado": "2026-08-04T16:40:41.319156Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -101,6 +101,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "6751865627aaceab",
+      "titulo": "El mensaje de De Jong a su amigo Ter Stegen: \"Estoy deseando verte jugar en el Ajax\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213136/mensaje-jong-amigo-ter-stegen-deseando-verte-jugar-ajax.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-04T16:28:26",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T16:40:36.207611"
+    },
     {
       "id": "1a0e7fbbccda361c",
       "titulo": "Vinculan al Aston Villa tras los pasos de Marc Bernal",
@@ -5287,19 +5300,6 @@
       "fecha": "2026-07-09T18:23:06",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.734228"
-    },
-    {
-      "id": "10c093e3e5f4eedd",
-      "titulo": "El Barça Atlètic blinda su apuesta por Patricio Pacífico: amplía su cesión hasta 2027",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTjFpd0dUYmlVR0FlZnZXMzVBSU1Sb0sySEI1VUIxaTFVclVxbEpreDgyQTBZa18tZnZLNVAtMmhwUk1PcXl0YnVPMmllOVlKVU84MTJwSEh5V0tQLUp6cVFoWGhrTnpLaHlkVlVvYWVlUlZwR1h2RUlSUDdHdkNoN0hJQkkydGFIVzJfNG9PNVhkOGhBNEVrRFFZZEVSM0nSAZ8BQVVfeXFMTk4xaXdHVGJpVUdBZWZ2VzM1QUlNUm9LMkhCNVVCMWkxVXJVcWxKa3g4MkEwWWtfLWZ2SzVQLTJocFJNT3F5dGJ1TzJpZTlZSlVPODEycEhIeVdLUC1KenFRaFhoa056S2h5ZFZVb2FlZVJWcEdYdkVJUlA3R3ZDaDdISUJJMnRhSFcyXzRvTzVYZDhoQTRFa0RRWWRFUjNJ?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-09T17:48:56",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.036995"
     }
   ]
 }
