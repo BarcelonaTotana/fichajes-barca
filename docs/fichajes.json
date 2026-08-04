@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T12:30:46.618308Z",
+  "actualizado": "2026-08-04T12:40:42.398909Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -99,6 +99,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c55d5a6a63da9be9",
+      "titulo": "Ter Stegen: \"Quiero devolver al Ajax al lugar que se merece\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213075/ter-stegen-quiero-devolver-ajax-lugar-merece.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-04T12:21:11",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T12:40:37.326256"
+    },
     {
       "id": "502f635b60915087",
       "titulo": "Joan Laporta reaparece tras su arritmia para presentar a Bisiwu",
@@ -280,6 +293,19 @@
       "fecha": "2026-08-03T16:48:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T08:00:52.206908"
+    },
+    {
+      "id": "ee0ae67404d9d53c",
+      "titulo": "Oficial: Ter Stegen se va cedido al Ajax de Míchel",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212857/ter-stegen-sera-presentado-martes-nuevo-portero-ajax.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-03T16:48:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T12:40:37.334088"
     },
     {
       "id": "2afd8df59ff42b07",
@@ -5272,32 +5298,6 @@
       "fecha": "2026-07-09T17:33:04",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.734615"
-    },
-    {
-      "id": "26b0a969a599ebe7",
-      "titulo": "El Dortmund rechaza la primera oferta por Adeyemi pero sigue con voluntad de negociar",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204746/dortmund-rechaza-primera-oferta-adeyemi-sigue-voluntad-negociar.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-09T17:09:03",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.003942"
-    },
-    {
-      "id": "0069a55d2c0e761e",
-      "titulo": "Oficial: El Barça ficha a Mouhoudine y da por cerrada la plantilla 2026/2027",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDR6dUg4b2w2SUgyTXJVTG5ycmJQM291ZjlSem5lUjFMOHZ1T295VGFTVUVPaS10alRfNzZyelRVSzRyMDRSSHJhVGxZcjFfMFNGTXhXc1pneGhPcHVjWi1BalBLcHdSVkNpalllR2tIRzdQaE9vSWVlOUhETkIxckRXNDRJdmpaejN4RWJFSVpjeVY5Sl9zQ1VB0gGaAUFVX3lxTFA0NHp1SDhvbDZJSDJNclVMbnJyYlAzb3VmOVJ6bmVSMUw4dnVPb3lUYVNVRU9pLXRqVF83NnJ6VFVLNHIwNFJIcmFUbFlyMV8wU0ZNeFdzWmd4aE9wdWNaLUFqUEtwd1JWQ2lqWWVHa0hHN1BoT29JZWU5SEROQjFyRFc0NEl2alp6M3hFYkVJWmN5VjlKX3NDVUE?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-09T16:25:44",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.037407"
     }
   ]
 }
