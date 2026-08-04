@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T18:50:40.829021Z",
+  "actualizado": "2026-08-04T19:01:17.209792Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -101,6 +101,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "1467f13d7a4c2289",
+      "titulo": "Representación del FC Barcelona en el funeral de Baresi",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213182/representacion-fc-barcelona-funeral-baresi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-04T18:42:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T19:01:11.300837"
+    },
     {
       "id": "d028259c7c897f71",
       "titulo": "El Barça no varía su postura pese al desafío de Ferran",
@@ -5287,19 +5300,6 @@
       "fecha": "2026-07-09T19:59:44",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.003483"
-    },
-    {
-      "id": "3b3868743b3b44cd",
-      "titulo": "¡Acuerdo total Barça-Adeyemi!",
-      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXJGVnRNZ0lPWVdKMkdOUjd0TWI0eXdBZlFkZ2lncTVtbldsZklRd29XYjdEaHlfdnJic19DQ0p3UjM2NE9yaFdvVS1DZVRyX0ctcEZmNjV4RDIzcXVzYjlJMXJhdzVIWXd2cHNsdzNKTWJxdEZ5bzdISjd0dFRRQVBn0gGCAUFVX3lxTE9EVEdZTUxVa2JVWEJiNzM4Zm9QVzQtRU9LYUZ5cjZUZmhjR3NYdzFPenNPbE5CcDRmUkd1TnN2U1RMa2VRQnYtM1BoNEhfY1pXN09QN2t1ZG05RWpzNVJxMWd3RDZPQ2hIa3M0RW50V0hkb2Zpa1pGeEpDZzBEOEQxdXc?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "here_we_go",
-      "fecha": "2026-07-09T19:45:00",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.036389"
     }
   ]
 }
