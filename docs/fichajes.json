@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T19:50:38.718379Z",
+  "actualizado": "2026-08-04T20:02:59.780345Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -101,6 +101,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ec5d910a4f1a4b4c",
+      "titulo": "Deco, en Madrid con Julián Álvarez como objetivo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213201/deco-madrid-julian-alvarez-objetivo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-04T20:00:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T20:02:54.436058"
+    },
     {
       "id": "1467f13d7a4c2289",
       "titulo": "Representación del FC Barcelona en el funeral de Baresi",
@@ -5287,19 +5300,6 @@
       "fecha": "2026-07-09T20:43:36",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.735306"
-    },
-    {
-      "id": "2999e7e11505586d",
-      "titulo": "Se acerca el 'pellizco' por Sergi Domínguez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204812/acerca-pellizco-sergi-dominguez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T19:59:44",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.003483"
     }
   ]
 }
