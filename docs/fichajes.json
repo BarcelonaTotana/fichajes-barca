@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T13:01:00.885612Z",
+  "actualizado": "2026-08-04T13:10:42.116671Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -57,6 +57,7 @@
     "6e71035cd811a191",
     "6f0a75f24ee3a1d2",
     "6f8e5dad1468ccc2",
+    "725b7caed2f22a15",
     "7311a4fc282f6a99",
     "7f5de7c97cea0906",
     "831ffdba8f3957f2",
@@ -99,6 +100,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "725b7caed2f22a15",
+      "titulo": "El Barça intentó fichar a Kett y volverá a la carga en enero",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213077/barca-intento-fichar-kett-volvera-carga-enero.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-04T12:41:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T13:10:36.804129"
+    },
     {
       "id": "c55d5a6a63da9be9",
       "titulo": "Ter Stegen: \"Quiero devolver al Ajax al lugar que se merece\"",
@@ -5285,19 +5299,6 @@
       "fecha": "2026-07-09T17:38:03",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.734515"
-    },
-    {
-      "id": "20234a678e468e32",
-      "titulo": "El Barça amplía su tesorería para fichar con una emisión de bonos por 210 millones",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWY2Ynl2RmhIOGRYbjliZXUyQ0JEc2hnUjBUMUQxT1BVbEFqR2lzU0E5Y19fM0ZNd0VDRDV1SVRYTmd5azN0Z2FwcmxTRVpJNTFWX3E4MGJhU3JscUFyZkw2ZElIeXFJaGlCbk91WHdzNGNiZnl0OEVRWU1MTXJfcXNISF8tTHljN3k2SGUzdFdBTE9ielZDZy1NMGh3a0Z1OTl3QVZzQzRiY0t0cEZpdHBFbUI2dDNJZDFMOWl2X3lTNUx10gHSAUFVX3lxTE01TjZ4dmlVSDNLRkpHOVpsNVR5MUs5Sktwb0tGNUVPSVJsdmdLRUk4TEpaWUVUdF9hN241dmM3LXZvSnRTMVBkTGdzUGdlT2lvR2dQenYwRktsMVhxSXRCZkZ0NkI4b2lQa0pIbXYwSHdac3JzeVZyZWdNWUdUN0pVbmZnaDdHYkNrV0hNdmFTNlhUb0daYlRoN1BiRXZrVUJ3cVJGLXhacjl3amNndXNXeEpTYUVocjlpeFZNcWJtSWJYV0pnOUJ6VGRRcFEzR1NEUQ?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T17:33:04",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.734615"
     }
   ]
 }
