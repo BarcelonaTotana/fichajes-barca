@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T18:01:06.642204Z",
+  "actualizado": "2026-08-04T18:10:35.629156Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -139,6 +139,19 @@
       "fecha": "2026-08-04T16:27:00",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-08-04T16:50:30.778515"
+    },
+    {
+      "id": "fe34ad8fd47d7b75",
+      "titulo": "Fin del culebrón Salah: su fichaje, al caer",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260804/1004213143/culebron-salah-fichaje-trabzonspor-caer.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-04T16:27:00",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-04T18:10:31.966534"
     },
     {
       "id": "1a0e7fbbccda361c",
@@ -5287,19 +5300,6 @@
       "fecha": "2026-07-09T19:45:00",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.036389"
-    },
-    {
-      "id": "48cde4ebd70ca8ee",
-      "titulo": "El Barça pide dinero para los fichajes",
-      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOalI3NDYwNzVLemJMa0c4bERlWUhYZ0VFc2Fsd3lhQXVGVVFKMk9kNHk4YmZ3MUhFLXVpUGV6cWRsTVlEZWh5bUU0V05sY1ZkNkhfS21RNm5RWnJuaW8xdklKaDZjTlBUZ1RwU3h6cUlCSV9QRkc4b2lBeU5GOXVsUEpzWDJuQdIBmgFBVV95cUxOTkw5QXdreWx0aEFvd185Tkt1ME14WWFMVHZWM3dacmFvNEhtOTRqRFcxVHlSaDhXQ1JxZEdJakJzcFhWckdRMHdKbkVHOG5QS3htc0NRUnYzQUNjRGx5WGJOUXhCU0tCVS1IUXJmaWY1UUl3WmpQUS0yWHVad0RmbUltWnE2MVc2aTEtYUV3X21ZREhiNG02UXNB?oc=5",
-      "medio": "Diario AS",
-      "tier": 5,
-      "tier_etiqueta": "Ruido / clickbait",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T18:56:34",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.091709"
     }
   ]
 }
