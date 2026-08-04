@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T05:30:45.715060Z",
+  "actualizado": "2026-08-04T05:40:33.983884Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -98,6 +98,45 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a4cfed63b016093e",
+      "titulo": "El Barça mantiene el plan con Julián Álvarez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212929/barca-mantiene-plan-julian-alvarez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-04T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T05:40:28.333613"
+    },
+    {
+      "id": "1c51b61a85806331",
+      "titulo": "Bisiwu firma hoy con Laporta de anfitrión",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212928/bisiwu-firma-hoy-laporta-anfitrion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-04T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T05:40:28.333744"
+    },
+    {
+      "id": "7480a3d2d5cd5d82",
+      "titulo": "El precio y el ‘timing’",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212927/precio-timing.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-04T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T05:40:28.333956"
+    },
     {
       "id": "10ecb8140963287e",
       "titulo": "Ferran Torres: \"El Barça tiene que demostrar que me quiere\"",
@@ -5258,45 +5297,6 @@
       "fecha": "2026-07-09T14:34:12",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.098610"
-    },
-    {
-      "id": "8b4dc1648da51d1b",
-      "titulo": "El Barça ficha a Souheil Mouhoudine",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMGlQMHVtYjluSnEtQ2VVZy1UVWkxbV9UWWN6d25yQmMxMjRrNkUwSHRXRjdVN0c2RUlsdVV5cWZnYm0yaEF6M0tXSlpkSkI5ZEotWmZQY0E1Nm5RM2twZ0VJeDB3QUpOdkR6dGlRMndhUFRSdDU5ODN5Ym5TT0I2S0t4NjhPWjgyVlM5Q3FYc05OYU1r?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T14:29:33",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-07-11T20:24:00.458146"
-    },
-    {
-      "id": "4a2da4aaa77e13e2",
-      "titulo": "El FC Barcelona cierra un fichaje estrella impensado: ¿qué pasa con Julián Álvarez?",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1AxYTNjUUkya3FHcnhkcTE3elY2R3VrU25LaWlCbmpfWTRvTjhmdFNCazJVOGhMc3hjVUltLUVIdkZDQ1VELUFqaVBhVHNHNEtPUWxybG9KQVI4UUZEOGlPUTktVUpPU3dGaFZBWHRtTXRUN2w2V0JzUElMZHRYbXh4Uy1oN3I2N0FxQWNwU1p6VGdKSlJpMFZFbDRCRXl1VUJURWR3S21ZRmM4TWhSd2ItaGloQdIBuwFBVV95cUxNUlRWUGd2VnpVc2dwQXA5bW9qSFVXN3FYWXViSFpHNzZtcHBXSE9MX2xxOE50SWtqckdqWkpaWDVLeDNlWkNpWWJXV2FKZTdwR0hUM0ducDhTZnk1a2wtNmVhWVNtS05hV1A3TnQ4NXpLa3d2czk1WXktbUFlRFRsb2xfamZFbjBqemhNbkF5RmtYdUlpa25fYjFlU1pEXzFZTnpWZmZGak5taDlEVkdLWEdndFk5Ym1TUWYw?oc=5",
-      "medio": "Urgente24",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T13:44:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.099084"
-    },
-    {
-      "id": "60320534fddd628f",
-      "titulo": "El Newcastle ficha al nuevo De Jong por 27 millones de euros",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260709/1004204657/newcastle-ficha-joya-ajax-27-millones-euros.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T13:18:25",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-07-12T14:15:13.409129"
     }
   ]
 }
