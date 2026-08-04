@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T16:01:03.007777Z",
+  "actualizado": "2026-08-04T16:10:37.089692Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -48,6 +48,7 @@
     "4eb73016b6efb218",
     "50d1a01ff4dc6c9f",
     "56fdc33f742463d4",
+    "592788f78b2f9daf",
     "5b462f2a0265786c",
     "62e748acf1dcaf9c",
     "6603845fea51b1fa",
@@ -100,6 +101,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "1a0e7fbbccda361c",
+      "titulo": "Vinculan al Aston Villa tras los pasos de Marc Bernal",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213129/vinculan-aston-villa-pasos-marc-bernal.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-04T15:48:53",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T16:10:31.262933"
+    },
     {
       "id": "cfe4809de24b8ded",
       "titulo": "Bisiwu: \"Es un sueño, ya he hablado con Flick y voy a trabajar muy duro\"",
@@ -177,6 +191,19 @@
       "fecha": "2026-08-04T08:33:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T09:10:30.603781"
+    },
+    {
+      "id": "592788f78b2f9daf",
+      "titulo": "Oficial: Kerolin firma por el Barça hasta 2030",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212959/kerolin-barcelona-fichar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-04T08:33:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T16:10:31.269466"
     },
     {
       "id": "74e216f3daf379f8",
@@ -5273,32 +5300,6 @@
       "fecha": "2026-07-09T17:48:56",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.036995"
-    },
-    {
-      "id": "1edc3d247051e513",
-      "titulo": "El último movimiento del FC Barcelona para asomarse al mercado de fichajes y buscar a Julián Álvarez",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaHNGQnh6ZDlEZ0ZWWHlnWVVmMG5CYW0zLUxXbjRsSTVLNFNLaVJ6bG0xSFhpWVdPa1dxa0loTHN0aElaMlFRX0QwdEU1NFpuLWZSWWJjcEdQSUczSk8xcmx6Y1IyZDlmMnIyb0Iza3FhNzVETVo2TzJNb1REeXF0ZEhZUmFHMXdwaWtTU0ZRSkhXZFJXb2k3RkZvS1VxQ3Zjekk0ZkNNZkUzU2FHR2RNbXBPT1RyYWRBWWZ1UmdQNFZoR0duQ3BPWkx5aXQ4UmNQMDlLa05PUHkxSS1GaXQwZGFBVDJ6N0nSAYICQVVfeXFMTnJtZGdPYVk5b1Z4RVB0UE5BZ2J4TWtGU2ZXUXhnUnBKZkM1Nmh6UDBfeUg1aUNtOHZRZGdITy1rSkRzOGRFNWZ0MERvb0wxbU11VTVjak9LRlVYb2I4bXFBcEJyVTFrSFFJN0RrWEVBOHUyeTBvOXB2d0lhSUtEcVBTLXYyRXF2Q0ljMk1BX1l0dW14M0VXTmpJZ2thbzVMdFRkU0V5WXltbnhlU2pDa2NpMTIzdUowbjYxcUtvSV81VXlMTVd3dUIzWnJpOTBJdnpsLUF0Q1JTSHF6bHl6eDU2RVBuV1plYWRUYTM2bnJxWDlNUks2ZlF5bXlUWV96QnVR?oc=5",
-      "medio": "Infobae",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T17:47:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.097628"
-    },
-    {
-      "id": "ed20b49c576f59d0",
-      "titulo": "La primera oferta del Barça por Adeyemi, al descubierto",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNczM2OHQ0TzFDR3BYcWRqTmxpOG1PVzBsZFk2WHVRdFY2NFdwLU9kV0lmajVfMHRfamdDemZHT1RKWFFaNHphV1BhMWdNVUx6dEdrLXRuYmxxYUFXRjNGTEN2QmJSVVBheDZNY0pTNThpcHk5UTJsb2l6Y25ldENIVDlIcmN3WTZKemdYUnBVT1RxZzJYNkd6QTlDd0l2LTlNUV93NzhEbks4OTJQQnZqaWkwSjJuMlnSAcQBQVVfeXFMUHpxUzc4dEI0U19aVzlWQnpNdHU2Q19rSVJ3Sk5RZmJRMlhyNVBDTnN3Ulo4YmxaNFRyWExxbVkxQjNIM29tdVQxakdCb04yZ0FFd0lrUTljcXJmOV80UlRJdHZvSGVJU2xiQXZhZ2hCR2Q5VGpiSW5YSUQyczIzd0c4ZG52UjFZbGlfTmhlc1ZDRG80eUZteUNkQmctdDRqMG9vcHd3TWlUTWNkbUJEcWdnT0hlRnoyTlRBRDdGVjNvSUQyVw?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T17:39:14",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.734975"
     }
   ]
 }
