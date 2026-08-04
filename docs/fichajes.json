@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T09:01:03.327687Z",
+  "actualizado": "2026-08-04T09:10:36.821542Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -73,6 +73,7 @@
     "b631447530d14036",
     "b6be42fd132bae88",
     "ba812cf40b662f4a",
+    "beadcf55619bf472",
     "c170708f840cd195",
     "c383845699e845be",
     "c4e9378d7e1652b2",
@@ -98,6 +99,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "beadcf55619bf472",
+      "titulo": "Kerolin ya está en Barcelona para fichar por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212959/kerolin-barcelona-fichar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-04T08:33:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T09:10:30.603781"
+    },
     {
       "id": "74e216f3daf379f8",
       "titulo": "Ferran insiste: \"El 12 de agosto tengo que volver a entrenar, veremos qué pasa\"",
@@ -5284,19 +5298,6 @@
       "fecha": "2026-07-09T15:51:01",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.093365"
-    },
-    {
-      "id": "8901bd837c20deef",
-      "titulo": "El Barça pide un adelanto para los fichajes de Julián, Adeyemi y Cancelo",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXy12eXhzU29zNXhqYkRRbVFCNlYyS25Vd0pWTEx3UkxmeHFENkZfZ25HS2NXbUoyU0Vob2c5R2VwX1lCZ2pGdlhMZWliNzNOdGd6RXZDWkZDek12WW8xRHdWd19GWVR6VjcwSFpWSnJ1blRNY20yNEQ0NWpwS0UzR28zNDVHcGw3Y1E1RnZVaFNpVXVoYmM5WDhzSkFidmNBSlptSjVPUzjSAagBQVVfeXFMTXdGTXE4a0lCMFhyUm5TbE1WOGR5VDhhdUx4ZTk3LVI5T1BlRlhQdkZXN3RjNVJtcjVQMWhGRGNUVDZIWUZxZ1FNU2FoQ1hzWVJvLV9aWjJUdDZRSFNSc3ByRUVMZ19tampKRDJlU0J0QkdFeUg3TWUySklJZjdaV3M5QXoxRkZGN0plR2FqbjdhWGJjYmNRX196R3F2NVpmOTZsam04dlRG?oc=5",
-      "medio": "MARCA",
-      "tier": 4,
-      "tier_etiqueta": "Poco fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T15:43:27",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.093827"
     }
   ]
 }
