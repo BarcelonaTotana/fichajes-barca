@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T16:40:41.319156Z",
+  "actualizado": "2026-08-04T16:50:34.929172Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -113,6 +113,19 @@
       "fecha": "2026-08-04T16:28:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T16:40:36.207611"
+    },
+    {
+      "id": "e9b08cd4d8551d9d",
+      "titulo": "Fin del culebrón Salah: su fichaje por el Trabzonspor al caer",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260804/1004213143/culebron-salah-fichaje-trabzonspor-caer.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-04T16:27:00",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-04T16:50:30.778515"
     },
     {
       "id": "1a0e7fbbccda361c",
@@ -5287,19 +5300,6 @@
       "fecha": "2026-07-09T18:45:08",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.003671"
-    },
-    {
-      "id": "c383845699e845be",
-      "titulo": "Oficial: Pacífico vuelve cedido al Barça Atlètic",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnNnRGxqTGJqM2JLR1o5eHFfRVh1U0QxT1pzcHVMQi0teEUyVXpyRGo2Tm11MHYwR3YyeklrZVg4aFVhUFYxcjdqd3YwbGRwb1hjelZ0WWNjNVZIa2lpSHBwS0JZMk4zSnl6djdFbmR5blAtUC1RQndSWmhndHMwcWUwcDBpUFNfZUNjbDVoTEJBUHNLV0MyNlVZUF85ZWV4T2M2X0hfY2xQTXJFU3JGbzdTdlRXVVFNVGFqM9IBygFBVV95cUxOazFGQU14MXRLVTV3OTVfaEJNWmJ3RndLQV9wRkxCU19CQXl2QkVnM3I3RDF3S2JwOHhUQUd6OTFRUS1fSWJ6TkcwTkdmbG54ZXkwVTIzWWEyTnhvTFRmbmNQX1Z1d2RPZ0Y3ME94V0FqXzRpYkV1ZVFSZGxOdmtwaEM4Zi1Tc3Q1R29lLXlVdVVwSFFWZnptZ1h3akhrWkswOWI3UlBoUkRvWmRlTENIdExkOWJoejkwTHNvWkVvZXJTOV9nendZb2FB?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-07-09T18:23:06",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.734228"
     }
   ]
 }
