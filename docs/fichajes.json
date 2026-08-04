@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T11:30:46.894836Z",
+  "actualizado": "2026-08-04T11:40:42.325802Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -99,6 +99,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "502f635b60915087",
+      "titulo": "Joan Laporta reaparece tras su arritmia para presentar a Bisiwu",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213060/joan-laporta-reaparece-arritmia-presentar-bisiwu.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-04T11:26:06",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T11:40:36.819421"
+    },
     {
       "id": "8941b56e89a4d510",
       "titulo": "En Inglaterra apuntan a un posible destino para Rashford",
@@ -5285,19 +5298,6 @@
       "fecha": "2026-07-09T16:25:44",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.037407"
-    },
-    {
-      "id": "9c6b332ab82ce129",
-      "titulo": "El Borussia rechaza la primera oferta del Barça por Adeyemi",
-      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFk5dEZXeXB2cG9jMlZxWVZoeWlHUGdfdkVUSEtiUGw5ZUNDVWphZEt2TDVhQ2FXaDZDZGZrY2RKNjdJOVljdEJVMW1zM2VkVDVsLXVJT1B1c0ppa1JwZnVJRkItWEtnTGZEeUJoUGpDUUlWcjBwb2hkbzNNMllqV18tdEtMOWdIbTI2VzJwc2VLT3NaWlYxeUhNNXRnaVFLNWfSAaIBQVVfeXFMUHFpZTZzQ3lFQlA0Um42Z21iLUU2NjZycTJaZFZxZW5Ob1lyei1pOFo4SlE0S0RrQl9zV3FpY25SZlNJLWhIQlVzZkc1eE9VcnRXOWpNS01kYmFDRU1pc1RhYkZfblFNYlJiN3M1VEpLaTg3bzBCLVVpX05CVGhFVk9RV0YwT1hFa0JmdXZvVG55WWlYQTlTbWExMENTWndoUjBn?oc=5",
-      "medio": "MARCA",
-      "tier": 4,
-      "tier_etiqueta": "Poco fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T16:10:32",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.096216"
     }
   ]
 }
