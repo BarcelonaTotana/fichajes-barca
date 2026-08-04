@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-04T20:30:52.619898Z",
+  "actualizado": "2026-08-04T20:43:43.856606Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -101,6 +101,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c78a008a8829f2bf",
+      "titulo": "Alexis Olmedo se despide del Barça con emoción y se va al Celta",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213203/alexis-olmedo-despide-barca-emocion-celta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-04T20:19:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-04T20:43:37.876215"
+    },
     {
       "id": "ec5d910a4f1a4b4c",
       "titulo": "Deco, en Madrid con Julián Álvarez como objetivo",
@@ -5287,19 +5300,6 @@
       "fecha": "2026-07-09T21:13:12",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.096351"
-    },
-    {
-      "id": "2424d14d53098add",
-      "titulo": "Sitúan a Rolands Smits en la órbita del Barça",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPREQ1N1V4TDBxWlQ2VFZ3N2UwQmVWRmN5NmY3aE1ablJJMDdVdXZUaV8wMThzVnBub3pKZktGMVU4Tlp4QmFkNFJ6WTIyWXBpeWVhX3l5bnM3djZIMGFXeVRqR1FIZVVCUFZLSHhmQ1pjdDFGdlo0WEZIUU5OYkFaeGJRM2ZJdFQ1ZUdXMmVzYXBhUTBaZ3k3VWExcnV2STE0TGNYSlctY2h3OHdLV2fSAbsBQVVfeXFMT2NDSzJDa3pSOXVDNE53Yzg3WnVPeVlUZXVGZGlFNldYdUNUeFBBcTdtVTBzY0lmNVBBR1dyTmtFM2FISzYxUlRfSDFQRHpGUVV6OGlEQmVnLW54NnBtamJrMkkzODV1WWVmVHdreThKRGVGbm4xdWVBMXNrcVk3bVlDMWNzQy1TQmZIb1pTZERJWl9YODVjUWtXOFpZcEsyNTk2eDU2dHBHNjRCLU5FbjVRME1OQlpkblkwbw?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T20:43:36",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.735306"
     }
   ]
 }
