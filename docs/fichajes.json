@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T10:30:48.177238Z",
+  "actualizado": "2026-08-05T10:40:42.097851Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -50,6 +50,7 @@
     "56fdc33f742463d4",
     "592788f78b2f9daf",
     "5b462f2a0265786c",
+    "609c90f80c89b22c",
     "62e748acf1dcaf9c",
     "6603845fea51b1fa",
     "69e2532d04071127",
@@ -101,6 +102,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "609c90f80c89b22c",
+      "titulo": "El Barça anuncia el traspaso de Alexis Olmedo al Celta",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213331/barca-anuncia-traspaso-alexis-olmedo-celta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-05T10:14:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-05T10:40:36.078649"
+    },
     {
       "id": "2a475687bcc25bcc",
       "titulo": "Ferran Torres, protagonista en el Yankee Stadium",
@@ -5287,19 +5301,6 @@
       "fecha": "2026-07-10T06:56:07",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.002641"
-    },
-    {
-      "id": "f153787e0d3b471a",
-      "titulo": "La oferta del Barcelona por Adeyemi y el España-Bélgica, protagonistas de las portadas deportivas de hoy",
-      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSWNVZ3VkczdQRWw1REltcXBkbkowamZiSEctQkNXNUM4YW9uN3AxZ0JRZGZrdGprRXljMjgwTDhleEd6RlZGUXQ1Q0xZLW5WZWYyVzNQS0hwSUQyY2NnR1hKRnU0Y3czUmVVMlVtNkJXR1pvZzN0RThnSHBYTXFDcGdTN2dvOEdaN19sYnB5TVo0ZTBNT0tSZnQ3cEpHWTdFSDNkbUNUdWF2ZTJ1b2k4elVHRkZDZEVmc19Ba1ZLRG1pUjNPZk9XZ09rWktua2tXQjlvTVF1Z282T1BOWldqbk9R0gHvAUFVX3lxTE8tampJbW0xYl8yNFFibUVxclRsclVWaUhDYXlNWmlwcFRjdjBuYU8xdGxFQTFVeXd6MkNubjEtbzZxYU9LdVdRSGQzZVh0YXEwTVh1VzdiblZobVlpcFJwQkpnMWl0RVRCYnpJRG0yU1N4am8tS2F1aVQxbmtIS3lZTWdWelJQendnQ2pTNUQ3YVM1Ums3ajRQWFU4cFRweHpwaVdFcEdwYi0zLS1MTlA1QV9TVTVHb0UxdVdLajhoZXpaT1c3STRpb2dSTmhyeFo1dUY3N0l6dUJrWFNKWE41bnpxMGprUUc2eW9rektR?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T05:06:28",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.734315"
     }
   ]
 }
