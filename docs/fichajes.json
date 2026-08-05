@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T21:01:01.332841Z",
+  "actualizado": "2026-08-05T21:10:35.194336Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -103,6 +103,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a7d9004a48c2c575",
+      "titulo": "Julián, por la vía del diálogo con Simeone y el Atlético",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213505/julian-dialogo-simeone.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-05T20:42:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-05T21:10:29.457472"
+    },
     {
       "id": "f7bd0b5b8e22028e",
       "titulo": "Cinco años de la bomba del siglo: el adiós de Messi al Barça",
@@ -5289,19 +5302,6 @@
       "fecha": "2026-07-10T12:23:01",
       "fuente_feed": "Cadena SER",
       "visto_por_primera_vez": "2026-07-11T20:23:58.931632"
-    },
-    {
-      "id": "77eb11eaf864b40c",
-      "titulo": "El Dortmund frena el fichaje de Adeyemi por el Barça y pide una oferta mayor",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTB6QVFnZDVicU1yVGRjS3BkUHFFUFMzcHBJT1ZIMG9Ja2F2M1VIdGpNWEtseldmclJZVHl4bXNaMXZYVDZQTzNzWUhIdmVGNDk5a2RZVDN1TF9YOTF3eUt4dkFRd1VoNGJMS1FMRkU4TzlDMlZoSm5Qa2RHbkc1a2dYTmVOZEtlUkRaNFA4aEpnZXlydDQySms4VEpBZ3JlelZtTXp4bkloMk9WejNkQ0RCb3I?oc=5",
-      "medio": "El Nacional.cat",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T12:14:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T08:02:27.232859"
     }
   ]
 }
