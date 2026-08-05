@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T16:30:54.588651Z",
+  "actualizado": "2026-08-05T16:40:41.643673Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -102,6 +102,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "22e06e9fde5744f4",
+      "titulo": "El agente de Bisiwu revela el motivo de su fichaje",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213454/agente-bisiwu-revela-motivo-fichaje.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-05T16:30:03",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-05T16:40:36.093259"
+    },
     {
       "id": "e8528163ff0accfe",
       "titulo": "Jofre Torrents saldrá cedido al Ajax",
@@ -5288,19 +5301,6 @@
       "fecha": "2026-07-10T11:03:13",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.097125"
-    },
-    {
-      "id": "cdd58d239669ec52",
-      "titulo": "Joel Parra renueva con el Barça hasta 2030",
-      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXAyNlRpSWZDc2RsaUNBVVFlaHBhUjExd0FqVGVoZGhTT1JXRVVYM1ByYi13cmNzX0c1aTJNcnlLQk9LbkhER0JRLVBaQ0szWktNSVpjb21KcTRpS0V1aTc1T1VydEcxQ1FrTTUwWWtMM29TWFZTcElseVZYdzVfQzhERDVWYW9ST3VpQ3ItU2NBWEHSAZMBQVVfeXFMUERyRFIzNEtmUmJlSzdUZ3ZsQ3RaT2Frem1OU2o3dEpFRVN4M2c0cEdOVkhmSy0yTnJYTF94MTBuTjB5TVM4RDR4MkFkSENWSkY3dEQxZFlHVy11bm4zSk5XOWFILXpLY3hFNTlzTjNCN05oVzdvZXM5SnZnaUFVQ2ZxYnVDaDZvVW1WdDVKOEh5Umo4?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T09:11:17",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.036073"
     }
   ]
 }
