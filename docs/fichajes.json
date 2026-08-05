@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T08:30:54.814344Z",
+  "actualizado": "2026-08-05T08:40:41.138679Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -101,6 +101,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "2a475687bcc25bcc",
+      "titulo": "Ferran Torres, protagonista en el Yankee Stadium",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213280/ferran-torres-protagonista-yankee-stadium.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-05T08:08:34",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-05T08:40:35.550232"
+    },
     {
       "id": "eb99941cebc71f09",
       "titulo": "Lara Ferreiro, psicóloga: \"Rodri simboliza el autocontrol, la constancia y una disciplina que trasciende el fútbol\"",
@@ -5287,19 +5300,6 @@
       "fecha": "2026-07-10T05:06:28",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.734315"
-    },
-    {
-      "id": "b2cd0b6b0302ce36",
-      "titulo": "Si llegan Gordon y Adeyemi ¿qué no nos han contado?",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004204817/llegan-gordon-adeyemi-no-han-contado.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-10T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.002864"
     }
   ]
 }
