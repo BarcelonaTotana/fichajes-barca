@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T18:32:05.039458Z",
+  "actualizado": "2026-08-05T18:40:32.870662Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -127,6 +127,19 @@
       "fecha": "2026-08-05T14:23:36",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-05T14:40:35.029778"
+    },
+    {
+      "id": "58601728abe26d6e",
+      "titulo": "Jofre Torrents será traspasado al Ajax",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213418/jofre-torrents-saldra-cedido-ajax.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-05T14:23:36",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-05T18:40:28.016756"
     },
     {
       "id": "609c90f80c89b22c",
@@ -5288,19 +5301,6 @@
       "fecha": "2026-07-10T11:57:59",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.097841"
-    },
-    {
-      "id": "e5ab41c5dfe173d6",
-      "titulo": "El Barça se plantea la venta de Ferrán Torres tras descubrir el interés de equipos top",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1NoZnhfbjF5MHZrRGlpQVVSZVZ6WWRYNUM1MnpjRjFfTTFwUXNTeDRRT1JqWnlOelhxT25BZXlIelM5cDJNT2RUcE5WVFhTNlVSZkstWjluTkVFdExXcEpQYUI1eU1XdlpycHI0eVRTRHJBNFhSUHdpd2lKTzJnVUVRd2pvLUVaU0Z1U2ZIZGhhRC1ValFLUE5yR3V0RWQ5U3N0cFpDSEwtVEs4VDFCSTNvOVlWS1hZdUlN?oc=5",
-      "medio": "El Desmarque",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T11:03:13",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.097125"
     }
   ]
 }
