@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T19:01:04.898621Z",
+  "actualizado": "2026-08-05T19:10:34.307711Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -99,9 +99,23 @@
     "f20ed5cc2751badd",
     "f6077b9dc4673321",
     "f75c3f69b1a7e1a2",
+    "f7bd0b5b8e22028e",
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "f7bd0b5b8e22028e",
+      "titulo": "Cinco años de la bomba del siglo: el adiós de Messi al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213492/cinco-anos-bomba-siglo-adios-messi-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-05T18:46:34",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-05T19:10:28.653199"
+    },
     {
       "id": "22e06e9fde5744f4",
       "titulo": "El agente de Bisiwu revela el motivo de su fichaje",
@@ -5288,19 +5302,6 @@
       "fecha": "2026-07-10T12:14:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T08:02:27.232859"
-    },
-    {
-      "id": "78158ba6c45929cf",
-      "titulo": "Lamine Yamal respalda el fichaje de Julián Álvarez y aumenta la expectativa en el FC Barcelona",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXZ0TlItUzA4Zy1jeGI0OW5heTVVNzlxbDJ6QnZlUFNVOXBoWGxIQnVMRUNRYlozSWRSUTgta1VRakpRVUlyNzZ2VnBsVU9oejFYYmhhS29ydHRBMUR5ekczNml0VzFET0N6UnZvYzNOS2RSNWwyYTJhTXE4bXlnWUI3WUE1QVZaYUlDenRjZ1B2d1FiY3BWcTUxdlVrVktkVUkyUXNFOU1GZWs1RElDSHd1b1c4ZGM5cUhlbV83bndCWVVo?oc=5",
-      "medio": "Sports Illustrated",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T11:57:59",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.097841"
     }
   ]
 }
