@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T04:00:57.469636Z",
+  "actualizado": "2026-08-05T04:14:03.260765Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -101,6 +101,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "87bbe7b0e9c64817",
+      "titulo": "Partida de ajedrez por Julián",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213227/partida-ajedrez-julian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-05T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-05T04:13:57.913422"
+    },
     {
       "id": "c78a008a8829f2bf",
       "titulo": "Alexis Olmedo se despide del Barça con emoción y se va al Celta",
@@ -5287,19 +5300,6 @@
       "fecha": "2026-07-09T21:19:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.003319"
-    },
-    {
-      "id": "26fdac9f5d9333a6",
-      "titulo": "¡210 millones de euros para fichajes! El FC Barcelona recurre a una medida inusual para incorporar nuevas estrellas",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd3c0LS03VldNZVBjR1B2QWNYNlE1cks5a1B3ZmFFWWJJZ1BDMmxXWnVrT0phQU1fUGtSeUg0QkFaNkdjcGRJTkFReE13V3hjbWhDdHV5eWpnWjA2TTlsNXpTM2NtX1JNZ0ozM1h0X0dDTDRwWEZIQ0tjNDY5RFJpNjloWW9MYVFBaGdMeUJxQURxOEFMQ1ozUmhHOC1DeXdONXdwcWFybjV2QUV0T1lSQUJoVUo4WlkwNFV0d0pQNTJMc1NJNWdWcHdVSEVYampMWXktUTBjWktjMHVyeHlsSVZHcTJ2WDk5OFFGa005ODdORV9fbGRiSnl3?oc=5",
-      "medio": "Goal.com",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T21:13:12",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.096351"
     }
   ]
 }
