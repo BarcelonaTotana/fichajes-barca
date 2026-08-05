@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T14:30:48.151783Z",
+  "actualizado": "2026-08-05T14:40:40.707389Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -102,6 +102,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e8528163ff0accfe",
+      "titulo": "Jofre Torrents saldrá cedido al Ajax",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213418/jofre-torrents-saldra-cedido-ajax.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-05T14:23:36",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-05T14:40:35.029778"
+    },
     {
       "id": "609c90f80c89b22c",
       "titulo": "El Barça anuncia el traspaso de Alexis Olmedo al Celta",
@@ -5288,19 +5301,6 @@
       "fecha": "2026-07-10T09:11:17",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.036073"
-    },
-    {
-      "id": "73c6b10260a6cef5",
-      "titulo": "El Dortmund ya negocia con el sustituto de Adeyemi",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004204897/dortmund-negocia-sustituto-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-10T06:56:07",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.002641"
     }
   ]
 }
