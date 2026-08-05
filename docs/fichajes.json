@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T05:00:56.431864Z",
+  "actualizado": "2026-08-05T05:10:33.891583Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -101,6 +101,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "8be0fe3580871c50",
+      "titulo": "El Barça sigue luchando por Julián como fichaje prioritario",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213229/barca-tope-fichaje-julian-alvarez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-05T04:50:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-05T05:10:28.282808"
+    },
     {
       "id": "87bbe7b0e9c64817",
       "titulo": "Partida de ajedrez por Julián",
@@ -5287,19 +5300,6 @@
       "fecha": "2026-07-10T04:55:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.003057"
-    },
-    {
-      "id": "4efae5593365bd44",
-      "titulo": "Dos Primeras y un Segunda, a por Yaako",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260709/1004204837/dos-primeras-segunda-yaako.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-09T21:19:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.003319"
     }
   ]
 }
