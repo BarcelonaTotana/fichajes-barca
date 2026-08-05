@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T07:50:41.310126Z",
+  "actualizado": "2026-08-05T08:00:58.870674Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -101,6 +101,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "eb99941cebc71f09",
+      "titulo": "Lara Ferreiro, psicóloga: \"Rodri simboliza el autocontrol, la constancia y una disciplina que trasciende el fútbol\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/lara-ferreiro-psicologa-rodri-simboliza-autocontrol-constancia-disciplina-futbol-valores-capitan-seleccion-espanola-133106583?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-05T07:45:22",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-05T08:00:56.439665"
+    },
     {
       "id": "8be0fe3580871c50",
       "titulo": "El Barça sigue luchando por Julián como fichaje prioritario",
@@ -5287,19 +5300,6 @@
       "fecha": "2026-07-10T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.002864"
-    },
-    {
-      "id": "c7028ef0a6dcece0",
-      "titulo": "Lamine Yamal y Pedri sí apuestan por Julián Álvarez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004204826/lamine-yamal-pedri-apuestan-julian-alvarez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T04:55:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.003057"
     }
   ]
 }
