@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T21:30:50.070980Z",
+  "actualizado": "2026-08-05T21:40:30.384897Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -62,6 +62,7 @@
     "725b7caed2f22a15",
     "7311a4fc282f6a99",
     "7f5de7c97cea0906",
+    "8223abe13077336f",
     "831ffdba8f3957f2",
     "836ef578c7088a31",
     "895a78b03cb87710",
@@ -103,6 +104,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "f3b31c4c14991034",
+      "titulo": "El Racing avisa al Barça sobre el precio de Jorge Salinas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213533/racing-avisa-barca-sobre-precio-jorge-salinas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-05T21:28:54",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-05T21:40:24.922995"
+    },
+    {
+      "id": "8223abe13077336f",
+      "titulo": "El Barça espera la oferta por Ferran",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213535/barca-espera-oferta-ferran.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-05T21:25:30",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-05T21:40:24.923199"
+    },
     {
       "id": "a7d9004a48c2c575",
       "titulo": "Julián, por la vía del diálogo con Simeone y el Atlético",
@@ -5276,32 +5303,6 @@
       "fecha": "2026-07-10T14:20:04",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.002257"
-    },
-    {
-      "id": "3e1e9d7b56e10b9a",
-      "titulo": "Surrealista: cierra su fichaje por el Barça, pero paga su cláusula para irse antes de ser anunciado",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbEthLW5FTVBMQ2Ffalo1WUxWV3lIYjlPeXJZUGVOcVdhWGNtS0VtR3EzLTV5N1g0Q244ekE2QlhhWDJ4UnFpNTFwQk94T0IyVF9Yd1dzUWtBYkZmb3FHbXVhblNfMmhmSWhFMUFYWnEwWElUVGJsVkRXZzhhRDR1M1BGVjNUdU1qNFJfT3VPX0hGVE5feUVFU25LdnB3YkpIeHg4TkVDX0h6enNQV3E0alNIWXZlT1NSUlNJOW9TVU1jUVd5X25qU2dremtEejJxY3JF0gHgAUFVX3lxTE9Oekl3MC15TU83aVBickJncTdlUlVvVTZFX3ZwYUhKSTItYUR6Sm1Sdms4X0ZYcE44LWwtYzZhZjlBNE44aUpQT2EwWjhsaGp3NS05ZXhvOE1ldG5uMktDX1VBLUdaREFoRno0c1c4bml6WU9DY2RsSDdwb2dicjdxMWdpM05OQllUbTA3bXdiMkY5dGN5cnpILVhDUG1qOHQ3aVRmQVVDZ1VQRThMY3g0YURMNFVOZGMyMHphRnpXUWtud1ZMMVZIUFpXOUxueldSaThYWUZlUWY1eVZhWS1D?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T13:02:07",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.733778"
-    },
-    {
-      "id": "30f4eae64d270777",
-      "titulo": "Joel Parra renueva con el Barça hasta el 2030",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNW8zWkdJdHJteXhFLVg1bzhjVi1FWmhJbUd0b3oyaFBOcmE0el9SLS1xTnRST2tkcnk3NmJNMzFuNjRtbldndzRXN1FJVGpTNHBYbzhUcGZPQ09UcS1mZVVmTzhVY1pWMlJCbW5JVFpBOFhXSi1FWW1oVmN1ZkMwZndfbW92aFUtWkZPUVNQUjVPLXVYWG5mRjh6dF9sVkxsSkc2NWpjcmVna25tdDBjUF83dlPSAbQBQVVfeXFMTzVvM1pHSXRybXl4RS1YNW84Y1YtRVpoSW1HdG96MmhQTnJhNHpfUi0tcU50Uk9rZHJ5NzZiTTMxbjY0bW5XZ3c0VzdRSVRqUzRwWG84VHBmT0NPVHEtZmVVZk84VWNaVjJSQm1uSVRaQThYV0otRVltaFZjdWZDMGZ3X21vdmhVLVpGT1FTUFI1Ty11WFhuZkY4enRfbFZMbEpHNjVqY3JlZ2tubXQwY1BfN3ZT?oc=5",
-      "medio": "Cadena SER",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T12:23:01",
-      "fuente_feed": "Cadena SER",
-      "visto_por_primera_vez": "2026-07-11T20:23:58.931632"
     }
   ]
 }
