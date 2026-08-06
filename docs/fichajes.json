@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-06T09:30:47.168735Z",
+  "actualizado": "2026-08-06T09:40:34.377358Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -105,6 +105,19 @@
   ],
   "noticias": [
     {
+      "id": "947a8028ba91ec25",
+      "titulo": "El Barça, a la expectativa con Rodri: si él lanza una señal se estudiará",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213643/barca-expectativa-rodri-lanza-senal-estudiara.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-06T09:18:17",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T09:40:29.225259"
+    },
+    {
       "id": "a8527962fd410c0c",
       "titulo": "El Barça explora el fichaje de Rodri",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213638/the-athletic-barca-explora-fichaje-rodri.html",
@@ -116,6 +129,19 @@
       "fecha": "2026-08-06T08:52:59",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T09:10:32.031883"
+    },
+    {
+      "id": "e74c977c77fd01f7",
+      "titulo": "The Athletic: El Barça explora el fichaje de Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213638/the-athletic-barca-explora-fichaje-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-06T08:52:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T09:40:29.225395"
     },
     {
       "id": "e13ec7010fb8322b",
@@ -5277,32 +5303,6 @@
       "fecha": "2026-07-10T16:19:58",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.035599"
-    },
-    {
-      "id": "eec180cc5a611a37",
-      "titulo": "Surrealismo culé: el fichaje estrella del Barça le da la espalda al club y paga su cláusula para salir",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlRQTmZFSXpoM1BYQTZZQ0ktNXVMcG50R0FaY3VBbl9JSG1ZYjJoR3FYcEk2bk1jTVJVcVd4MlVRMFQzQkxBdDRMSXd0bktPM3pLVTJScEE3WXF5OWc2NUpveG5kWFRhV2cwQ19OM0Z6Y293N1pmNkh4OG9IU0F1VUg5bjZSMEh1ZDJyWUNETTEydmNmeHNFS2N3c2FWWHBrN1VNVE5YQlhDVWJ1WENxOEpZVlYyTnZPR1HSAb8BQVVfeXFMT19COENWX0o4U0ZSaUdRR3lmeDNMWWF3X291UThRczdZRk5kV1Z6VFlUNnJJZHJIeEVoNFNhVFRvQXF5NER6RUV5eV9BZ2tpdG14dGRrdDlFbXp2WHRUckpXc2xid25kUmJ0TlJJdUZfSkt4bU5IUGFoSGZ5clpFbHdIdWd0aGJSN2p6VlNBT2d2aUdhVUhxY3YtNF93U3ZPM1FQUjhmdzJIUWRsSTdHa21LOGoyMlpwQ0hsWlpka2M?oc=5",
-      "medio": "OkDiario",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T15:54:02",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.096959"
-    },
-    {
-      "id": "a7c248cfa9643a6e",
-      "titulo": "Joel Parra amplía su contrato con el Barça hasta junio de 2030",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0R3NmFGUWJKYlI0OUFkek53b2NmdmhoTU1MZVc3Z2p6ZGdpMzFWbFJsczFzSldBN0lqUHBWX2QxNDdQZHBvdTRLN2RGa3ZJdGlKS2ZOWHJxdVlVckpvNnA4b01CbGRLZFdMS0lNa1FSbXJSYy1hY3hoZEVwUnRaZ25DWUtmXzRDLXc2RjVYZTNzeGFwc0hZWjJXelo4aFhxTmdobENmVmlqLXZtMmNZ0gG8AUFVX3lxTE5jd2wyRGhuamhjRG5tdGNoOGYxUmNqdTV0REFtRVNVVy1oRWpLeFNmclhBUmxhOWpxTUV5VklzV1J5aVhFd3h6ellWOXFFYzZkNGRqZ3FRZTluNy1JX0NmMHprQWcwM3J1QzhTZVRxWVU3aUJyOUIxa1VjTXF1cV9XcWNlS1NoUWM0OC1jWnVYamNoVFloWV8zcDRIemE1c2RkSmpuRFkyVkRSYjlFOGhIaDV6MlZmX3JsVWRh?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T15:44:22",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.734010"
     }
   ]
 }
