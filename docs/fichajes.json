@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-06T10:30:53.261639Z",
+  "actualizado": "2026-08-06T10:40:40.615361Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -105,6 +105,19 @@
   ],
   "noticias": [
     {
+      "id": "547f893158126b8b",
+      "titulo": "La ilusión de Martina por volver al \"mejor club del mundo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213667/ilusion-martina-volver-mejor-club-mundo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-06T10:22:46",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T10:40:35.447704"
+    },
+    {
       "id": "947a8028ba91ec25",
       "titulo": "El Barça, a la expectativa con Rodri: si él lanza una señal se estudiará",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213643/barca-expectativa-rodri-lanza-senal-estudiara.html",
@@ -116,6 +129,19 @@
       "fecha": "2026-08-06T09:18:17",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T09:40:29.225259"
+    },
+    {
+      "id": "7eb98dc430ed190a",
+      "titulo": "El Barça, a la expectativa con Rodri: si él lanza una señal irá a por él",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213643/barca-expectativa-rodri-lanza-senal-estudiara.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-06T09:18:17",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T10:40:35.448078"
     },
     {
       "id": "a8527962fd410c0c",
@@ -5277,32 +5303,6 @@
       "fecha": "2026-07-10T16:31:32",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.097994"
-    },
-    {
-      "id": "bcc97a9443f80f65",
-      "titulo": "Acuerdo cerrado para la llegada de Adeyemi a la delantera del Barcelona",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMzlHeFM1SUd3X1d6VmlPN0FFd0prNWNaeTI1MTl5WEdKeWRNV2RyaTM4VV9JR056MzBzekpZWUE1YzFFMXFDWmFkU29CdFp5WkY0cWMwR1dkcTlYU21UUFlrSnFWRndUd3NqTUR0ck1kSFlCWk54ZWRmZXowdWQzRTRTM1A5NVdwVkVuT0VQTnVySnY3Q0NNUTV5UmZvRGZ3aDMtUkZoSVpyeWhyNS14Rzc5SW5iaFk1OEpxZ1ZON1BrVHpkYkk0OTNyYVpUU3g4OGIwdg?oc=5",
-      "medio": "Eurosport",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "here_we_go",
-      "fecha": "2026-07-10T16:29:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.092154"
-    },
-    {
-      "id": "d99b318f89a79c54",
-      "titulo": "Acuerdo por el fichaje de Adeyemi: las cifras del traspaso entre Barça y Borussia Dortmund",
-      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHRiVzJDYlhwWVExaklBaHduamFZWGQzTENYTEhfN1FpZTY4QkxFRklNXzNrNWxjTmpYeEQ2ZXVabjRJeXM1dVdmR211dUE4cEhUUTlOSmhXTmgtUXdxbWhVWEEyN1ZsR0Y2QmZDZG5TMjN5NHlzc0QzaXgzYlFmaWZMMElGZmJ1bzF5ckh0cTlBd9IBkgFBVV95cUxQYkZMcTZDTHhPUWZpOVhUQldQY2xZSDhiVDBlTEFKcV9SRThLV0t1OGxtLW5UNmRmUENWSkY1YXJCUXFiamJxbVM5azVuc18xd0hPU0ZsSk80NWZ3OVNaU0tobUV2VlFJcEM3dXR0QzViSllqX1ZUdGFDY3MzWnVtTVMzRWtSbEFGZWJ6NTJvRWhpdw?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-10T16:19:58",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.035599"
     }
   ]
 }
