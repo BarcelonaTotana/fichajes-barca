@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-06T13:30:51.237888Z",
+  "actualizado": "2026-08-06T13:40:47.579114Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "fd5e0d8d28e20c6d",
+      "titulo": "Jan Virgili: una operación que aún puede dar réditos al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213731/ajax-aprieta-jan-virgili-barca-frota-manos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-06T13:12:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T13:40:42.426616"
+    },
     {
       "id": "781b8d3ca4f2b408",
       "titulo": "Jorge Salinas espera un movimiento del Barça",
@@ -5290,19 +5303,6 @@
       "fecha": "2026-07-10T16:49:27",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.001887"
-    },
-    {
-      "id": "d0f0a160514d299f",
-      "titulo": "El segundo fichaje de Deco para el Barça 2026-27 ya es oficial: petición expresa de Hansi Flick tras Anthony Gordon",
-      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ21aZGVreTI0U2hOVHZKYWpmNmVycGRsMWpQZFBXWHZqcFNMZW03YzVDV1NDd2g1NzhPZTlvUnZYRzhHa0dDOVRkYmVaZktMT1NlV29nS21Cb05oaElBQi1uRndkUUQyclptVUxTTDVadGZNc3N1czZKbVI4b24zYm5uS3dEcUFoZmRxQ1UxLWgzU251ZUxCVHluMlVjb1UtZDRDNjJYN0lJZWZsM0Rha2V1SWduNU13c05Zbll2S3p5QW9XaU5VNHhiZV9jRTlTYUHSAdcBQVVfeXFMTmFwNVJfa0E4U3Ixc05BWnJLaXNieWdHU3BzYXFtekJIaUViLV9zTlpUVjNWN1czWHBBbFRaaDRZWXBGOVRvV0tiWFJpU3ViQzJKaUVwSVdEWThQOF95UWdPb3MtQUdNR3YyUTNORXl2ZW43dUVCcTBmYWRhSk54ZVR2UmM3dWZfWks3SW1oZmQteUFzVklYbW9ueWl5UGtPUlZCU1NFQkYydGxzREFMODJRZW9rMmRieUtOQUZOZnZHR0NRbkVvNHFtc1ljZXhhNnBGYm5PX3c?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-10T16:49:15",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.096094"
     }
   ]
 }
