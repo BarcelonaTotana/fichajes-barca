@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-06T08:30:48.144193Z",
+  "actualizado": "2026-08-06T08:40:39.398734Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e13ec7010fb8322b",
+      "titulo": "La opción Asllani se desvanece",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213612/opcion-asllani-desvanece.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-06T08:11:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T08:40:33.429714"
+    },
     {
       "id": "ed98572021fe1439",
       "titulo": "Como si lo pidiese el Cholito",
@@ -5290,19 +5303,6 @@
       "fecha": "2026-07-10T14:53:36",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.097734"
-    },
-    {
-      "id": "0be4c081703b726f",
-      "titulo": "Los siete fichajes que revolucionan la Masía: Juliano Belletti recibe refuerzos para lograr el ascenso del Barça B",
-      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQU1Fc19RcWV4Wm1YQnhfX0ljWEs1dGh2TGlTbEVlY3psMFp6SHZqWXc5Rzd1X3RyZjJzY09iOWVMWUhaS1dVM19jVUp1bkNlX0JuVmhvTnM1NGdhZmM0M1VCQjFwU0RCWm10UEFqbXdrc1kxNk5DbE0tUTM1SHpJWkdIMFRJVVZURlp0NkloY0syeUowOTBza2V3YmttZjc4cEdHU253aElxYm1aNDFyek1iR0Eyak4tOXdyMzVlZk81MjkxQ0I2eGQ0bXp3OXRhVWlvMjBISWx6dktJaVBXdXVIT0zSAeQBQVVfeXFMT0FNRXNfUXFleFptWEJ4X19JY1hLNXRodkxpU2xFZWN6bDBaekh2all3OUc3dV90cmYyc2NPYjllTFlIWktXVTNfY1VKdW5DZV9CblZob05zNTRnYWZjNDNVQkIxcFNEQlptdFBBam13a3NZMTZOQ2xNLVEzNUh6SVpHSDBUSVVWVEZadDZJaGNLMnlKMDkwc2tld2JrbWY3OHBHR1Nud2hJcWJtWjQxcnpNYkdBMmpOLTl3cjM1ZWZPNTI5MUNCNnhkNG16dzl0YVVpbzIwSElsenZLSWlQV3V1SE9M?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-10T14:22:56",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-11T20:24:03.640671"
     }
   ]
 }
