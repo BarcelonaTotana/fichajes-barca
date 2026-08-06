@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-06T14:30:50.946806Z",
+  "actualizado": "2026-08-06T14:40:35.852571Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ab723a20023eac20",
+      "titulo": "Rodri, más cerca del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213752/rodri-cerca-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-06T14:20:09",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T14:40:30.195512"
+    },
     {
       "id": "fd5e0d8d28e20c6d",
       "titulo": "Jan Virgili: una operación que aún puede dar réditos al Barça",
@@ -5290,19 +5303,6 @@
       "fecha": "2026-07-10T16:49:43",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.095195"
-    },
-    {
-      "id": "1d224b86345eb4b7",
-      "titulo": "El Barça muestra su apoyo a las víctimas de los incendios en Almería y Catalunya",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004205163/barca-muestra-apoyo-victimas-incendios-almeria-cataluna.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T16:49:27",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.001887"
     }
   ]
 }
