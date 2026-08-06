@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-06T09:01:01.308424Z",
+  "actualizado": "2026-08-06T09:10:37.308044Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a8527962fd410c0c",
+      "titulo": "El Barça explora el fichaje de Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213638/the-athletic-barca-explora-fichaje-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-06T08:52:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T09:10:32.031883"
+    },
     {
       "id": "e13ec7010fb8322b",
       "titulo": "La opción Asllani se desvanece",
@@ -5290,19 +5303,6 @@
       "fecha": "2026-07-10T15:44:22",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.734010"
-    },
-    {
-      "id": "42144126fd0ae7cf",
-      "titulo": "Últimas noticias de fichajes del FC Barcelona: Adeyemi, Álvarez, Cancelo y Ferran Torres",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2NTOXUxbWRBT01mejBUcmFIUXlYd0gtZGFSc21pRlE0ckhkLVV4blBPM2FRTHNSZE1SM0RQNkI1WXdTRmdDR3daVkpzeVlqaXRWLWc2bUlSUzNreDdWQnpRWjJQYkNkWlF1UjFQdk5VYk9laDYyd25fUEVvTVJ1dUhuYkNVWGpfUkV0c1JGMG1CYTZzeFk4RkxfeGR5N3hKMjFtUnNWT0REdldWaXFMZlV2LVhuQmNW?oc=5",
-      "medio": "Sports Illustrated",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T14:53:36",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.097734"
     }
   ]
 }
