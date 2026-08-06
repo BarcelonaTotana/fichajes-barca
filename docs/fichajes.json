@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-06T12:00:57.180246Z",
+  "actualizado": "2026-08-06T12:10:35.736313Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "781b8d3ca4f2b408",
+      "titulo": "Jorge Salinas espera un movimiento del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213700/das.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-06T11:41:34",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T12:10:30.035955"
+    },
     {
       "id": "825c23ac7a9b7fbb",
       "titulo": "\"Es 99% seguro que Rodri nos jodió por el Barça\"",
@@ -5290,19 +5303,6 @@
       "fecha": "2026-07-10T16:49:15",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.096094"
-    },
-    {
-      "id": "eef9c8c05593a54b",
-      "titulo": "El Barça alcanza un acuerdo para fichar a Adeyemi",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWFPMkZqem9oWHdBWGF3TEE4WkRKVDJXTFczdGhCY014ck13OXB4Z0s4V2Jya1RVUXo3OWlEQVJOeHVScFFJZEZQeHVxdEVjbm9BdDk2cW9aSmxqTjlMdF9KYjhjZTh6M1VCd3N4cEQ0UkdFSXI2Q3FLa1ZrcDJEZENXaUZrODlwczc0WEtNSzRLWVhMZDFkM1BqLTExVGlFRXpvR0ZUbFVBYmdxbURkdlQ5RmRBNVdwVkltTk5zU1RJZ2Rsd2fSAcsBQVVfeXFMTkJlVW0xMTg3RGhER0Y2Z2Q1ODlLcEg2MFRJUHA2ZDRSclRHNDQyUW1xNDJJVUVBZWZIZ1EzRHpUY0NyY1hwTDBpRy00WWN1a1MzYUh5YUVRVjN0UTNWTUtnd0RWanA5ZVVtWHZQV2pRTUloaUpPLUo5Z2lQLXBSdEktdHVMenJjN1M0QkJpWk1BZ1BSRHppVGZfLV9SQXNqb1VpbXBNeTdJN3d2RTNBNTg2dEtzTEhTM2gyMFpZWGhEWUNnR192S0RqVTg?oc=5",
-      "medio": "La Vanguardia",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-10T16:48:38",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.092418"
     }
   ]
 }
