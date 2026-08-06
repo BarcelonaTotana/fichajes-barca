@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-06T11:30:56.554358Z",
+  "actualizado": "2026-08-06T11:40:35.274765Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "825c23ac7a9b7fbb",
+      "titulo": "\"Es 99% seguro que Rodri nos jodió por el Barça\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213682/99-seguro-rodri-jodio-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-06T11:27:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T11:40:29.567961"
+    },
     {
       "id": "547f893158126b8b",
       "titulo": "La ilusión de Martina por volver al \"mejor club del mundo\"",
@@ -5290,19 +5303,6 @@
       "fecha": "2026-07-10T16:48:38",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.092418"
-    },
-    {
-      "id": "1c8acc058fe61fdd",
-      "titulo": "¡HER WE GO! Karim Adeyemi será nuevo jugador del FC Barcelona, acuerdo total",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblBxQUpLNWdxbXVCdmhmemI1UFp4NEY5S0Y1TUxfaVlEamNnZTlscnlxVDl2T1YxcU9GcS1Nc29oMkt0Z0tsUXdWOXVyV3BkbmNhMGQ2R19ZZmJDWUdBMkpxalFQUzdvcWltMGJrdGJQNmNXUVlZR0RlWHNKSFZFQnBDdWVXUlBzRllES2JZQTAzTDQ1REgzVVBndTVhcEhZZW1oNVp1WTBVbHlZVDBkWW9vSmxReDBsRWc?oc=5",
-      "medio": "OneFootball",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "here_we_go",
-      "fecha": "2026-07-10T16:31:32",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.097994"
     }
   ]
 }
