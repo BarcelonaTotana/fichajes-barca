@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-06T15:32:51.034193Z",
+  "actualizado": "2026-08-06T23:03:33.406823Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,71 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "2a90a844cd0adf46",
+      "titulo": "El Barça ya ultima la propuesta al City por Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213880/barca-ultima-propuesta-city-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-06T21:41:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T23:03:28.221309"
+    },
+    {
+      "id": "ca9e28ead7742267",
+      "titulo": "Rodri mira al Barça y el City agita toda su media",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213842/rodri-mira-barca-city-agita-toda-media.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-06T20:05:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T23:03:28.221529"
+    },
+    {
+      "id": "fa08b9ce9d06139c",
+      "titulo": "Rodri Hernández (30 años), capitán de la selección española, claro y conciso con los estudios: \"Con pasión y dedicación puedes sacarte la universidad, aunque no en cuatro años\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/rodri-hernandez-30-anos-capitan-133156040?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-06T18:48:06",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-06T23:03:30.883743"
+    },
+    {
+      "id": "4e35a95301a46685",
+      "titulo": "Esto decía Deco sobre Rodri en 2024",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213794/deco-dijo-2024-acerca-busquets-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-06T16:44:51",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T23:03:28.221987"
+    },
+    {
+      "id": "6f7a3d8a01c75a3c",
+      "titulo": "Otra vez viral: La mofa de Rodri a Vinicius justo después de ganarle el Balón de Oro en 2024",
+      "enlace": "https://www.sport.es/es/noticias/futbol/vez-viral-mofa-rodri-vinicius-133150630?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-06T15:45:27",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-06T23:03:30.884258"
+    },
     {
       "id": "ab723a20023eac20",
       "titulo": "Rodri, más cerca del Barça",
@@ -5238,71 +5303,6 @@
       "fecha": "2026-07-10T17:14:41",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.097274"
-    },
-    {
-      "id": "7f5de7c97cea0906",
-      "titulo": "Adeyemi da el sí al Barça: el jugador ya tiene un acuerdo con el club",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSm1hME1UUmh1MjRLS2dDQ2VjYzhnWV8xTlFtZnNDUmg5NmxXNERiQk1YQVFnSTBJY3JkVjQyVUJPeE5LNE5fVV8tVEEtd2d5b0x1XzdLVDdqUTlDcUltNUNwV1BjM1dqNm5WLVRubXNjelFwM2dkQWdvcjM3TjJJYXhpR1VELW1PaHRDSm5Wemw1VUh4RFVEVElJY0NiaWZwT1N5YjBkM0lpTi1vYkllQktZa9IBwAFBVV95cUxONEgxakExaHd3Wkc2V3RYYlhUZUdXeTJvWGpMdlFRQkFNV01ISGJucmRYeW4tQkNHX0luWHdzQ0RxZkpPT1dVWFFQLU9zMVR1Uk9JMUkyUms4QWlBbjlmT0dhNmFCX1ROWk04X2FPTW5MM3F6Z0E4VUwxVkxYSEZDeXYyTF9lUW5tZTN2UTI3emg2clRIYXJ3eGM3ZlVzaXNxd0ZxMGwxNVptb1ByeEV5cDh6cmI0Qlk4MzhBS21QVEg?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-10T17:11:11",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.735113"
-    },
-    {
-      "id": "1dc7d536110f1bd6",
-      "titulo": "Barça y Dortmund, a punto del acuerdo final por Adeyemi",
-      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTZubGRWTmhUb3B3ODNKTktSbFNjQ2t2ZkpyNTFrSjQxNWk2RVU5eDF2anlNZ2pXMG5TTHh0bnVUeVF1UzFQYjd6RE52Q2N2RC1SM3JReGJTSjhBcmdWc0tWZVhjS0EyN1gwN2VNZHZvclc2bDdrWWVhenNQY1Q0LVFIdUN4UlFvb21DUmp2ZC11MWtjTzJMTGlJWdIBrwFBVV95cUxPcXliTWVRVG1ldnZaNFhlaEFILURKUU5XY1FsUmtOWGJZLUFvSWNlcGt1T2djdlVRNXFCTnI5cmd1V21kdUlXaHRlZjN5ZnUwVkludG1lUlJYWElRbWZIZm5sOG9UZzVFRGl2YjQ4cW5jcXNlME1pTlh6bkF4cTFhX19jYlRocVpIMHQwRU5lM2hyODlrNFI2ZWVnMkhMTTdtcjluZmNkWUhNSUtONTZJ?oc=5",
-      "medio": "Diario AS",
-      "tier": 5,
-      "tier_etiqueta": "Ruido / clickbait",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-10T17:10:30",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.093705"
-    },
-    {
-      "id": "352f8451dd4e256b",
-      "titulo": "Oficial: Juan Ybarra ficha por el Barça",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1U3Qk9SalF5NGVrbVFJV0tEeDMwcVVaeVlsdi04R3pOcUpQSlk1RWlSalpoVmh1NHRpYnozT0V3TjA3YTAzUExEd1N5UWxRZVRqanBEZ28zZExBRUNEYVhVRkpyaVNwNkFwMWdTT1VtWHZsQllqWW9KMjdjM01iY2o4NEF6ZG12T3hXU0FGaDNpMW53ZzI1bV85S1VBUQ?oc=5",
-      "medio": "MSN",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-10T17:07:02",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-11T20:24:03.641001"
-    },
-    {
-      "id": "27938cbd2597c286",
-      "titulo": "El FC Barcelona llega a un acuerdo para fichar a Karim Adeyemi",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSmxKQlRNLS1Qa3YwM2drRU5RdGR6ZDRrS1J3V0ZQUnhIVDIyRjJtMjRyOGd1ODFVLWcxSHJkMW1OU1hiQ3VHblQ0eG1KaExrVnYwQVpWVUdwamdlTUk5eW1iV3owR2puQ3hKZmJjblkzVnVUWHlHWlhFXzAyYmZGNXZremhwbzVTT2FVZ2I4VjUzX1pwZWsxcFZqVF9LX25BbVJxekxycUdKbjQ?oc=5",
-      "medio": "OneFootball",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-10T17:01:32",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.098115"
-    },
-    {
-      "id": "b71f1682c2f1e581",
-      "titulo": "Las cifras finales del fichaje de Karim Adeyemi, cerrado por el Barça",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0xBeGxQcHhBalJXelVnQWlnUXNqbHdEbG8tc3pTRUtoR2RxbzNTRTFQbmlWTFR2X2JLQWp2T2pfRldyLWVuZkp4Wm5vQjVaUDlaSVhHZGdxS3ViMEE2SG00LS1NNGVveFNtTjRrMXAzNTRuOU9lVnJnbWlOUHUwU3c4Qmp4dEFGZ3E5UFhpdzByVllPZFJ0ekJZM0pHVjc5b3F4RF9rRExHSW9BWHZsTGhUMFVnbU11ZnVxNXhjeW1IcUlFbHRn?oc=5",
-      "medio": "El Desmarque",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T16:49:43",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.095195"
     }
   ]
 }
