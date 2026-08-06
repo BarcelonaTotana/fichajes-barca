@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-06T04:30:53.578407Z",
+  "actualizado": "2026-08-06T04:40:32.102374Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ed98572021fe1439",
+      "titulo": "Como si lo pidiese el Cholito",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213551/pidiese-cholito.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-06T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-06T04:40:27.032616"
+    },
     {
       "id": "f3b31c4c14991034",
       "titulo": "El Racing avisa al Barça sobre el precio de Jorge Salinas",
@@ -5290,19 +5303,6 @@
       "fecha": "2026-07-10T14:22:56",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-11T20:24:03.640671"
-    },
-    {
-      "id": "29df672f8a3884f7",
-      "titulo": "Así juega Adeyemi: un talento en busca de la redención",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004204846/asi-juega-adeyemi-talento-busca-redencion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T14:20:04",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.002257"
     }
   ]
 }
