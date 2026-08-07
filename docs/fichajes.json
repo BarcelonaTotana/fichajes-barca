@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T15:40:34.034935Z",
+  "actualizado": "2026-08-07T15:50:38.585058Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -105,6 +105,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e4aa8092e48339ef",
+      "titulo": "La reflexión de Rodri (30 años) sobre sus estudios: \"Mis compañeros entrenaban y luego volvían a un piso solos. Me formé, luego fui a clase y volví a la residencia de estudiantes\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/rodri-hernandez-30-anos-capitan-133156040?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-07T15:42:00",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-07T15:50:36.152219"
+    },
     {
       "id": "6b36dc75b6b0623c",
       "titulo": "Primera oferta del Barça por Rodri",
@@ -5291,19 +5304,6 @@
       "fecha": "2026-07-11T05:00:00",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.732828"
-    },
-    {
-      "id": "549971d0831fe4e1",
-      "titulo": "La asamblea extraordinaria que debe validar el crédito del Espai Barça y el préstamo para fichajes: a principios de temporada y en día de partido",
-      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLTg2NENHUnBENXl0dVhubkU4TUhVYV9yZzhQUmVKel9XWHd4dnpOVkdycFE1NzgxWHlHQmVJS1pGZTdoUGFZRHJaWkYxVTdlMzlwVjJGQ09QbVZjcnFxTEJ1SE9QUzY1ZWhsX1pfZ19Vb2xXTm1oMU1fRU95UG5DMkI1T2ZhcFl2eTBOYlNHRzRQdzlsTmVreFF0ZVRpMkVhN1IyUHc4UGpDQm1wU0xWTXN1S2cwOHcwbkVEeEtmMm5Xeml2aG5ENDNnRlA2eDVFeFJMS3l1M2hBeUduQmJqU9IB5gFBVV95cUxPbjlYbU50SXZ4ZEF5WFp5UDdRRUFLa1VKcW9JYXdaaHh2aVdJNjFISHhQc21wYk1FWnhNNXpzRUJabjZhS0hCRVFMUDFzcmVkTTRzcjB6Zk9QVFBBTDVNcG1haEdlU3lCQzVibVJiMXZoeFVGbGRxZnZ2dFkyc2h0bDRqVkN1UUtKbS1zMzI1ZmhpRnB4aGpWSXBQWlg3M21EZ3Fmc2N5dkpaOUd1RXhOTENDaUlHaUdNbnhxaWF6NktpbEgza3NKaHJ1bzhIZjBUd09aZW1MTW9DSUxEdGVNNFlDVmdGZw?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T22:59:59",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.094254"
     }
   ]
 }
