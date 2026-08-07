@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T07:00:59.253473Z",
+  "actualizado": "2026-08-07T07:10:31.228012Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -105,6 +105,19 @@
   ],
   "noticias": [
     {
+      "id": "408436a233d3ca57",
+      "titulo": "Reacción en Manchester: 'no' a vender a Rodrí pero ponen precio",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213924/reaccion-manchester-no-vender-rodri-ponen-precio.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-07T06:49:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T07:10:26.187405"
+    },
+    {
       "id": "d8a70f14e607f373",
       "titulo": "El Barça ya sondeó el fichaje de Rodri en el año 2017",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213911/rodri.html",
@@ -194,6 +207,19 @@
       "fecha": "2026-08-06T16:44:51",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T23:03:28.221987"
+    },
+    {
+      "id": "05b7b0ac240c551c",
+      "titulo": "Deco ya lo dijo en 2024: \"El que más se acerca a Busquets es Rodri\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213794/deco-dijo-2024-acerca-busquets-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-06T16:44:51",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T07:10:26.189071"
     },
     {
       "id": "6f7a3d8a01c75a3c",
@@ -5277,32 +5303,6 @@
       "fecha": "2026-07-10T18:02:32",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.001487"
-    },
-    {
-      "id": "4ef1ea1c8d089474",
-      "titulo": "El Barça ultima el fichaje de Karim Adeyemi",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1VZWm5TZFZyMzY0ODVHNkNHcC1hLU9LX3A0dDZMclpHZFlRUk1PQnVnTi1meFlOSi1ySTRRd3BaQ2ZmQ0x5NHE2b0tteGw3N29TOHZmclp3TjdscXNjV1RGV2NMQ3Bkd19RWXZNNXhyZndPTzYxa0hGSEg0TGJHR2hJVEVnZ2QyZHQtZ1I4aWl2MzBySmfSAZsBQVVfeXFMTm0xUC00VEhCOG5yLWQ3T0tGVXR1bGhwQ3lrZ0EwVHc1ck54dkxtNExYZjd6QVVaVWJjU1dRSHlwSGhmUU9OT2NOSDZSeE1tclVIRG9abzBxWFo3VXNwMi1rUXh2RlRRNFg5UjF2cVZrQ3hvcGFHOEhhOUE0TDFiQWlqOVJYckRmMU9XVUYtR09QT0hpRndSVnFpdkE?oc=5",
-      "medio": "Diari ARA",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T17:34:34",
-      "fuente_feed": "Diari ARA",
-      "visto_por_primera_vez": "2026-07-11T20:23:57.316583"
-    },
-    {
-      "id": "74a59ed64428d58a",
-      "titulo": "El Barça pacta con el Dortmund el fichaje de Adeyemi por 22+7 millones de euros",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWRqUUNoZ3lDbkM3NU1mVDhzWTk4aGlUSUQ4WWdWN3gtTFNOT2Y5MzNreHFpc09FMVg3YXN2RWkxNF9feWVrd1F2R2MxbGhWX1AtTHBRSTE4RFloMjRVRjF3dWE1U2JKejRPT1lqang3SS1NbFVhRTNZaTZuYkNxejdnclVsLXVaV19ablFWVjNwcjNzQnMyTThUMVY1YWFi0gGgAUFVX3lxTFBISjZNLUVGN3B1OEl6STQ3QzJmci0wTDFlWEpPNlQxdFpNeHNKc0hqUk4yZktoODc2VTZ0RTJnNnBsSzJrQ0g2dkczcURrSkF0OGFZLXdOX096NmEwTE50VVUyelJDUVRXLU5FWjdnMC00RjVNaGJOVEtZZFVteXVZV3NqUzU1UEdCMVJ1VVFINmxQWlpZSHlwUm50dkNCeDU?oc=5",
-      "medio": "El Periódico",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T17:20:46",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.095042"
     }
   ]
 }
