@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T08:30:51.802798Z",
+  "actualizado": "2026-08-07T08:40:36.265092Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -129,6 +129,19 @@
       "fecha": "2026-08-07T05:43:44",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-07T06:10:28.519630"
+    },
+    {
+      "id": "72bad0006c895784",
+      "titulo": "La historia de la primera vez que el Barça sondeó a Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213911/rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-07T05:43:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T08:40:30.502223"
     },
     {
       "id": "82f3fd0f376a3741",
@@ -5290,19 +5303,6 @@
       "fecha": "2026-07-10T18:11:16",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.733159"
-    },
-    {
-      "id": "a9232bbbb345d5ad",
-      "titulo": "Las cifras del fichaje de Adeyemi",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004205193/cifras-fichaje-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-10T18:02:32",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.001487"
     }
   ]
 }
