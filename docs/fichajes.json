@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T18:30:54.716868Z",
+  "actualizado": "2026-08-07T18:40:38.836705Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -105,6 +105,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "2b07895a52179645",
+      "titulo": "Joao Cancelo se reincorpora al Al-Hilal a la espera de cerrar su regreso al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004214143/joao-cancelo-reincorpora-hilal-espera-cerrar-regreso-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "here_we_go",
+      "fecha": "2026-08-07T18:25:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T18:40:33.677875"
+    },
     {
       "id": "5c2c6af2cec29fe0",
       "titulo": "El City se interesa por Tommy Marqués, al que también quieren Braga y Dortmund",
@@ -5291,19 +5304,6 @@
       "fecha": "2026-07-11T06:45:44",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.035203"
-    },
-    {
-      "id": "cfd7f813590163d7",
-      "titulo": "Enigma Raphinha: el Al Hilal, obsesionado con su fichaje y el Barça espera",
-      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekFLZkVsM05GdzdiWmVVS2NyVkZjenZsVVUtSDZBREtZdG5rZzZYcDJPdElQS0tyVDdXdXdUWTctQms3dVlDaUkzcmppOVpMTE9LQjlYNlZaQWx2MU1nOXNjSGxaQkVmWFhfU1ZJS2txWGx4cHQzdnRGZXV6aVBVcWdHNEN1Z3lVdEhIc2VpSTl6Zm_SAZMBQVVfeXFMT1loNU5TMTRXYlJCWHBnTjA1N2FPRlcxQnRkMkNRdXpBMkRFcXd6N1IydG9ZdkxUU3V1d1F5Umhsck8yd2Y3WG1EZkFLUkZoT014NUtCeXpvT0gxUTA5SkZQZ2tTY0VNTDZLUVhPcmd5dWw4QVpmcmh1dVhwZlBYUEMxeVF5RS12RHdnQkZQTGhpR3JR?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T05:51:59",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.035337"
     }
   ]
 }
