@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T13:30:49.461185Z",
+  "actualizado": "2026-08-07T13:40:31.909315Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -54,6 +54,7 @@
     "62e748acf1dcaf9c",
     "6603845fea51b1fa",
     "69e2532d04071127",
+    "6b36dc75b6b0623c",
     "6c872010888cca54",
     "6c8f00b103dc3566",
     "6e71035cd811a191",
@@ -104,6 +105,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "6b36dc75b6b0623c",
+      "titulo": "Primera oferta del Barça por Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004214049/primera-oferta-barca-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-07T13:21:29",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T13:40:26.304152"
+    },
     {
       "id": "bce5b4d3048becb7",
       "titulo": "Flick dio en abril la gran clave que explica la 'ofensiva Rodri'",
@@ -5290,19 +5304,6 @@
       "fecha": "2026-07-10T21:57:26",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.733573"
-    },
-    {
-      "id": "5b462f2a0265786c",
-      "titulo": "Karim Adeyemi, muy cerca del Barça: acuerdo verbal de 22 millones más siete en variables",
-      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3hDVVVhNFRTb011LXJfSF85MTd4V3UteHRqMDFsa05aVjA1UVNaY3dHa2VmUXBNSTVyZTFfYU1udFZZampWWURTRVBFYm1weDZhNmVTb0xmQ1hPZkl2cTZNcnBqcHQ5bGxodDVZUk5XUU0ydHNVa05ZR3FGOGVXWVdybHB4NVdsVW9TcHFCeDlyWTl2WTZlZXFaY2FRQlBfY3g1M0FCR3FoalJTZmcyUHhFNlJEWlFvZWFJY0hmM3UzZ0hIR2JfUnE5TVNDVDZrZ0FsSTAyMWJVV0tCcXFnaE9nakZXNEt3MmcwUlh2VXHSAfABQVVfeXFMTU94Q1VVYTRUU29NdS1yX0hfOTE3eFd1LXh0ajAxbGtOWlYwNVFTWmN3R2tlZlFwTUk1cmUxX2FNbnRWWWpqVllEU0VQRWJtcHg2YTZlU29MZkNYT2ZJdnE2TXJwanB0OWxsaHQ1WVJOV1FNMnRzVWtOWUdxRjhlV1lXcmxweDVXbFVvU3BxQng5clk5dlk2ZWVxWmNhUUJQX2N4NTNBQkdxaGpSU2ZnMlB4RTZSRFpRb2VhSWNIZjN1M2dISEdiX1JxOU1TQ1Q2a2dBbEkwMjFiVVdLQnFxZ2hPZ2pGVzRLdzJnMFJYdlVx?oc=5",
-      "medio": "Cadena SER",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-10T19:53:00",
-      "fuente_feed": "Cadena SER",
-      "visto_por_primera_vez": "2026-07-11T20:23:58.931764"
     }
   ]
 }
