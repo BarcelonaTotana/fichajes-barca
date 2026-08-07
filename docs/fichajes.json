@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T10:01:00.777552Z",
+  "actualizado": "2026-08-07T10:10:35.039910Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "b604f416cedb0f54",
+      "titulo": "El Manchester City se marca un ambicioso objetivo para sustituir a Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/top/20260807/1004213984/manchester-city-marca-objetivo-prioritario-sustituir-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-07T09:42:21",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-07T10:10:30.839217"
+    },
     {
       "id": "86e34abdf5f95791",
       "titulo": "Negociaciones lanzadas Barça-City por Rodri",
@@ -5290,19 +5303,6 @@
       "fecha": "2026-07-10T19:12:50",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.094500"
-    },
-    {
-      "id": "52321916447e9dea",
-      "titulo": "Barça negocia últimos detalles para fichar a Adyemi por 22 millones",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQemdXUFYxRUZaR2FhTGNXUVpBVDlWYmZYWVFOZ19HT1llaGUzWm1BaF9PaFhNc1VPRlBwZWVQWHV1Mmo4S2FFaS02ZlJoaHdqLTI5OW8xblIzWnVOSGRweldfQ2xXMG9DR0xnZ291cmQ2eFd3SDdNWVh0MHRVWjN3NTQ3TTJhYXpsNEJJT0hYMnFuQ3puY3Jna0lvdGZIOHFZN3lZa0k4eVloSV9lbHVlOE5zZ1c0T0Fv0gHAAUFVX3lxTE9lcDFjNG9BZGNDaHFpZ3JGcHlMX29JNGFqXzhHX2dhc2U5RjZENUtYWURINzZNTWZFV251LWw2c0VIb1R3bC1LSDRaUnR1TkZ4aU93WTNGdWlnNm12SmxLcXBFd2VSNE9WRnBReDFpYThYNjVyVk53Y0FVVmdpdjR6amhITkFTa282NHQ2eHhQZUtoU0k5RjhORDlOUm00Vzg5OGF6by03SjZoN3dUMDlDU1AzcjJQc3h1U2diaFpqSg?oc=5",
-      "medio": "Noticias SIN",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T18:57:39",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.099987"
     }
   ]
 }
