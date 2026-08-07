@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T11:50:34.267345Z",
+  "actualizado": "2026-08-07T12:01:01.636111Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "bce5b4d3048becb7",
+      "titulo": "Flick dio en abril la gran clave que explica la 'ofensiva Rodri'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004214029/flick-dio-abril-gran-clave-explica-ofensiva-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-07T11:35:18",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T12:00:56.132461"
+    },
     {
       "id": "b604f416cedb0f54",
       "titulo": "El Manchester City se marca un ambicioso objetivo para sustituir a Rodri",
@@ -5290,19 +5303,6 @@
       "fecha": "2026-07-10T19:53:00",
       "fuente_feed": "Cadena SER",
       "visto_por_primera_vez": "2026-07-11T20:23:58.931764"
-    },
-    {
-      "id": "82cce8ab7a10a291",
-      "titulo": "El Barça aumenta su puja por Julián Álvarez: estas son las cifras de la oferta",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLTVJcUNnODAyU0REY3dTSTE0RnpDaHJBMjNvLUQzY25mZmxncnhaaFdSc0RZRVZWOXduNWs1OGZ2aTYxSElvMmZINVZDN0E5dGJGeld6LWp2NUduWUkzRzVpZkFjZ2RIZmpVN05sREFJb19KWHc4Q3V6WkhMaEZaM3ItRWJCbVRkYU5BRjlybDc3Wl90TWw0Qld30gGfAUFVX3lxTE83NUg4TDgzWDJ3VHByR3JFUUcwVWxXR0ZwM29rRjRhLWFodEhTSGNnQldlVGl3OXl5dzIyWHdlOEJSY2Z2X3ZycVZyUl9PeUxXZFJvbEg2Q2NORTNYSmVwaVI5N0x1bHNobVNCUXQwZHFucEhSOE0zTGkycGZvcnhDMUVYcFYxMkJORzQ4ZEduX2IwcnZ4VGpmRVJqQ2FpNA?oc=5",
-      "medio": "Superdeporte",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T19:12:50",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.094500"
     }
   ]
 }
