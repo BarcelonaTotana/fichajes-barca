@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T19:10:33.057373Z",
+  "actualizado": "2026-08-07T19:20:40.656284Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -105,6 +105,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "1cd6d783fb737142",
+      "titulo": "Kessie podría renovar ahora en Arabia aunque Pape Gueye interesa",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260807/1004214151/kessie.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-07T18:55:53",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-07T19:20:36.543086"
+    },
     {
       "id": "9295f5ac5981b5a4",
       "titulo": "El Balón de Oro ya se pregunta si Rodri se unirá a la lista de ganadores del Barça",
@@ -5291,19 +5304,6 @@
       "fecha": "2026-07-11T08:12:16",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.091586"
-    },
-    {
-      "id": "b54da08687b4ee93",
-      "titulo": "Negociación en marcha y muy buena sintonía entre Ferran Torres y el PSG",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205288/negociacion-marcha-buena-sintonia-ferran-psg.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T07:48:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.001054"
     }
   ]
 }
