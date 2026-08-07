@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T16:01:03.546376Z",
+  "actualizado": "2026-08-07T16:10:35.468302Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -105,6 +105,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "5c2c6af2cec29fe0",
+      "titulo": "El City se interesa por Tommy Marqués, al que también quieren Braga y Dortmund",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004214103/manchester-city-interesa-tommy-marques-quieren-sporting-braga-borussia-dortmund.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-07T15:54:22",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T16:10:30.375544"
+    },
     {
       "id": "e4aa8092e48339ef",
       "titulo": "La reflexión de Rodri (30 años) sobre sus estudios: \"Mis compañeros entrenaban y luego volvían a un piso solos. Me formé, luego fui a clase y volví a la residencia de estudiantes\"",
@@ -5291,19 +5304,6 @@
       "fecha": "2026-07-11T05:51:59",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.035337"
-    },
-    {
-      "id": "06413a36e0f96a53",
-      "titulo": "El Barça descartó al Fulham en el Gamper tras el fichaje de Arbeloa",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTZ2aVdxT3VBZGtpUEtxR1RBeElYOXF6dHRRaDl1Ty10QXlGRkY1RUl5M2k2SjFaQWt0alEzWXNJNzJGTE5JNE1IZlh3cmZkLTRHcWFQZktJTVlxVXZ0YnlrSW1BTWFFVlk0eVdpTlRMc1o3UV9aNkV1WlJsdk5laWZpUndqblVVQnFmUjZoSVBfUHREY29kaUp1TzZaZ1BIbzdyUDNGV1ZRbVcwd1N1UGZnRDZiOUtwNENaNNIBygFBVV95cUxPVXVrR3pZbDF6Nmx0UkRDV1cxREJ5d09oUW1UWHVSR2dIdkdYRTZxbG04cjBOZ3VoLTBHY0JORkZIRUZEYnlxMUJrM3Q4T3JialQ2bHNGZ1BDY0ZCOXk1WVhaQ1M0RlVWNFdxek9Md2lwWUNaWWdTM0w3NEZ2RzNKeFB1d21TTmF4cGpfbHd4YWhoRm1RbG90b0NCVV9wSkg0aFRHVHFjWlBOY293VHhRYUZETUZvaGVEaU1ZdEg3N0xLZmJzQnplZlln?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T05:00:00",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.732828"
     }
   ]
 }
