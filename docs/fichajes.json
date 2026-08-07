@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T15:30:56.362199Z",
+  "actualizado": "2026-08-07T15:40:34.034935Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -169,6 +169,19 @@
       "fecha": "2026-08-07T06:49:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-07T07:10:26.187405"
+    },
+    {
+      "id": "197583949fa78033",
+      "titulo": "Reacción en Manchester: ponen precio a Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213924/reaccion-manchester-no-vender-rodri-ponen-precio.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-07T06:49:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T15:40:28.778788"
     },
     {
       "id": "d8a70f14e607f373",
@@ -5291,19 +5304,6 @@
       "fecha": "2026-07-10T22:59:59",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.094254"
-    },
-    {
-      "id": "4350d89f43a19914",
-      "titulo": "Fin al culebrón Moses Wright: ya tiene nuevo destino tras romper su acuerdo con el Barça",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMlBRRGowcmVXODVseHItTXl6R2hBa3haMTlhemhXWXFPN19GZDAtNVJrSkRoRi04Y05UTmEwd21iMnBtb2xILVp3ekRuSV95ejZOSzNmdXdzSnItNWlTMTRUTTRMQ3htQnRxVFBPb04yX0wyUTdwTEZVRkNHWFU2Q3pjMG5aUDFVMDlBNWZqUTBod1poTFZpaVhoUkRTVW5pSU5fejQwSWxJYjBtSF8wclF5T2R3dGp4SHNHekQycDMtZ3dfaVBnMnlQMVHSAdoBQVVfeXFMTTFNU3UzVWtVNU9qNV8zVWJRWjByRkNGdWpvcHo1TXNfRkxhWkZrYk0tT05XRVRjS3pzWGd1eHVSM3lKZVdqQWUyZkVTOS0weUZGQ2VCTmY5YVF2Qy1lb2puc3lXZnNzV2otQ2hXdmd0c2ZVb0hBUzcwQkNRb0owVFM2eWU0Y0lySnBxX1pKNHFhcUdwY05tYU1BWWJoWkZzVVJBdVlnZUktMkxSM2g5d2VLMkJqc0dYeXZSWjdIT1pmZTZwMTFFdDVRZU5PWDNaaTduOUtWT2Q2cHc?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-10T21:57:26",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.733573"
     }
   ]
 }
