@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T22:00:58.091179Z",
+  "actualizado": "2026-08-07T22:08:40.123748Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -106,6 +106,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "63588142dbc4cdb6",
+      "titulo": "Ronald Araujo, cedido al Liverpool",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004214179/ronald-araujo-cedido-liverpool.html",
+      "medio": "mundodeportivo.com",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-07T21:34:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T22:08:34.884917"
+    },
     {
       "id": "6efc28f91572845d",
       "titulo": "Asllani, que había sido vinculado al Barça, no supera la revisión médica del Leipzig",
@@ -5292,19 +5305,6 @@
       "fecha": "2026-07-11T09:19:30",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.000796"
-    },
-    {
-      "id": "f6077b9dc4673321",
-      "titulo": "El Barça se pondrá duro por Ferran con el PSG: venta por 50 millones",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ1lEZEk3cnhKbGh1NWo5TW4xeVc1SVAySTRFY09yY2pDemhaS2hZQmYtcklqSUFLTnZHNFpsTW1yWnFlNkxsZVp0S21fc1VBajRWcmJUbkxjN0R1V1ZLZWdWdEUtZk5rNzU1dnd1X0luWnljaG5QRENPV3YwQW1hRnktONIBgwFBVV95cUxPcjRBTnZjQXdsS213c0lrWDlpYTZWVjE2TklKanZ3X1lxTkFzSTAzYmxKOXZaREVEMXZOdW5WZGgyeV96SmRYcDcwd0dmY2ZNQUZ3bnVtb3dQNEhwRnhBT3kzRGxKaG9jZlJaZi1JbWtNX2gzRGlLUlBpYUkxZ2REYlR1UQ?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T08:40:44",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.034973"
     }
   ]
 }
