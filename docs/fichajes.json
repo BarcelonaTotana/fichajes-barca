@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T05:30:48.051506Z",
+  "actualizado": "2026-08-07T05:40:35.910790Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "82f3fd0f376a3741",
+      "titulo": "Diferencias Barça-Al Hilal por Casadó",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213869/diferencias-barca-hilal-casado.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-07T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T05:40:30.421363"
+    },
+    {
+      "id": "216be28e1213ff35",
+      "titulo": "Hachazo de Rodri y Deco",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213866/hachazo-rodri-deco.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-07T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T05:40:30.421651"
+    },
     {
       "id": "2a90a844cd0adf46",
       "titulo": "El Barça ya ultima la propuesta al City por Rodri",
@@ -5277,32 +5303,6 @@
       "fecha": "2026-07-10T17:20:31",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.095466"
-    },
-    {
-      "id": "d3e5f13356af651c",
-      "titulo": "Al-Ahly, rival del Barça en el Gamper",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004205178/ahly-rival-barca-gamper.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-10T17:20:29",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.001587"
-    },
-    {
-      "id": "d6f54fcbef38986d",
-      "titulo": "Adeyemi ya tiene destino: El FC Barcelona cierra un fichaje de 29 millones",
-      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb3BJcklqMWhHRHF0YWUtd1NZbEw2NVdzX0lXT1liSy1XWE9pS3JLRDBEWjZueEVjSDRaTDRBNGVnUFh6MU9lVFBCUElQZEZwYy1YM256cThxa0l1LUNNeEJiMENnUjdtNC1BQ2FEbE5RX2g4TV9ERElKOUxfVXAwM1JVNVNYcVNmZlJFTmFpZEI3T1NDSXVRZGhxLWrSAaIBQVVfeXFMTjBoQ0dtZEgzejUtTlhDMUZFUDZJNVkyTTNpV2lYX0NmUlF6aWM4S29DSEhFRl8ybC1nbTQxNlI2S2laUWlIT2hNTlQ3REJaM045MUpSdDM3Sno2ZnJ4MHhvbWM3X1d2WkhyN0Y4cFNEMm1IRmtGdThqeVpBblZ2WHJWMWNCWE9qWk11MjdmUzlVNE5DTTB0UldyU2JLRjRxOUp3?oc=5",
-      "medio": "Superdeporte",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T17:14:41",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.097274"
     }
   ]
 }
