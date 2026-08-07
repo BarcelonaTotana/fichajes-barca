@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T06:01:02.547060Z",
+  "actualizado": "2026-08-07T06:10:33.995299Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d8a70f14e607f373",
+      "titulo": "El Barça ya sondeó el fichaje de Rodri en el año 2017",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213911/rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-07T05:43:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T06:10:28.519630"
+    },
     {
       "id": "82f3fd0f376a3741",
       "titulo": "Diferencias Barça-Al Hilal por Casadó",
@@ -5290,19 +5303,6 @@
       "fecha": "2026-07-10T17:20:46",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.095042"
-    },
-    {
-      "id": "0450c0f028b16ad8",
-      "titulo": "Adeyemi ya tiene destino: el Barça cierra un fichaje de 29 millones",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFdFd05NOTVmdmhEMjg3NEJ5Z0tBb2RVOGRZQ2VmNC1sRDBybU5CbkdoZk0yZDJNUllzLW93SlQ2dThFUkUyVS10VFFYNU9mU3UxemxxODRiZmJpc0ZGbERQT0ZsWGZ6ZURMcnFOTW1zaXFTSjY5WHdleGlkQmQyQVEwSUhISGxiR19qQjdabzBqVHZIRS1OMlV5MzVjZ2hKLVduMDVMUXZmazR3OFRCOWdSYXpDQ0phRGfSAb8BQVVfeXFMT1ZNX1A1RUcycWF6bHFHTmRvcC0wWkhkZDJ1bkNzM2IzbXJCYkMzQlhtYkszZTdLSUN3VGt4dVQ1SURaQV9CT1hsVTFnOW9QVF82ekV2OS1CZ3MyVWRNTmQ1T3NlRmE1RXFNcEtXMk1yRGdIZllUbm05WTBFMlhyMV9SNzBLTVY1dmpqY3RMN3ZQcTFmZ0V4WlQyeVlQblRtTENLY3Z5ZE5lRjJsY2xvemdOT05rQjNoYUZFUkdyU0k?oc=5",
-      "medio": "Superdeporte",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-10T17:20:31",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.095466"
     }
   ]
 }
