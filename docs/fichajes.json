@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T19:01:01.479901Z",
+  "actualizado": "2026-08-07T19:10:33.057373Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -105,6 +105,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9295f5ac5981b5a4",
+      "titulo": "El Balón de Oro ya se pregunta si Rodri se unirá a la lista de ganadores del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004214147/balon-oro-pregunta-rodri-unira-lista-ganadores-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-07T18:42:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T19:10:27.803050"
+    },
     {
       "id": "2b07895a52179645",
       "titulo": "Joao Cancelo se reincorpora al Al-Hilal a la espera de cerrar su regreso al Barça",
@@ -5291,19 +5304,6 @@
       "fecha": "2026-07-11T07:48:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.001054"
-    },
-    {
-      "id": "9edce93ae27b024e",
-      "titulo": "¡El Barça vuelve a la carga para fichar a Bisiwu!: oferta de 10 millones",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnhvcHlSbWNIU0VGVWNXam5mZFNVYzhOeFh5aGhwNVNtR1lGRUhrLXZPaWZhQ2VneVVzbks2M3hTSzFwY3p1MThrZkZNU21SNENfSWZ3TU9HakRDM0F0ZjctVC12Ukk0aFpTazdYcnJIOVhIVjIwZThQWG5xVlJFRnhYWWV3Q2Zm0gGIAUFVX3lxTFAyRVFucnB4Z1ZONHBGTUVkdmNNZTFNTDdHZS1vdVJyUG1nSHpmOU5SX0NNY2JZSExkOExpb1V0WXdoekFDQUlVMjYwdUNYZmZBOElyLWxVcnZOcEpaZDliYVB6NzNud0xTMGtjZFZGOEI1SmJpaEZxMFotb3ZTMFlXNE1ablJXYmU?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T06:45:44",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.035203"
     }
   ]
 }
