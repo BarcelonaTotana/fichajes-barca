@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T09:30:48.650395Z",
+  "actualizado": "2026-08-07T09:40:07.296398Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -104,6 +104,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "86e34abdf5f95791",
+      "titulo": "Negociaciones lanzadas Barça-City por Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213979/negociaciones-lanzadas-barca-city-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-07T09:16:11",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-07T09:40:02.229792"
+    },
     {
       "id": "408436a233d3ca57",
       "titulo": "Reacción en Manchester: 'no' a vender a Rodrí pero ponen precio",
@@ -5290,19 +5303,6 @@
       "fecha": "2026-07-10T18:57:39",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.099987"
-    },
-    {
-      "id": "3fdddeb97e3bd4a4",
-      "titulo": "Acuerdo verbal Barça-Dortmund por el fichaje de Adeyemi",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGhwREl2SktXMXB0dl83Rk0wOWsyVk1SMFM3U1ctdjlqWUNtZ0dnOWxud2U3ME82U0diTE5zSWc3azFaTndjbS05Nmp6RXR3ZG1qUFJNMHRzLWQyYThDR29nOWNqR2EwYWY0bnVkZ1pKak9kMVhLMTZKVkNURDQ2T2R6VnoxWEd1Q0lZT0dtNGVNU0k2MWNKeUF6NFB4eHB6VUxaSEViN1owc3cxSFJWdTV1TlhvdWIxc2Zlb2pn0gHLAUFVX3lxTE01MDIwWE9nUEZsQ0YtMFhMSGF2elVJSEpfUERZbUlreVJuTUd4QlZLSHEwaTNoLTAyc25sUVRKaVNtblExRWpwdWdNdTNsbUctbUVJS3E4MzQxaXpDNXNqbXZTNmJNWmpBLUpIZ0Q3X3ZYdnY0TVlTVW9ydEJxNi1vZHB5eFFLdGlYYlRPTGVfNEJPb3djZ1Vvd1BhenNydXlQZU91bjNjdEpFSXlyNlBaLWVkZFZFbk9rUlAtNmRsWUl6ei03aUhZdDRZ?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-10T18:11:16",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.733159"
     }
   ]
 }
