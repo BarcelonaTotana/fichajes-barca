@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-08T12:30:45.157813Z",
+  "actualizado": "2026-08-08T12:40:36.808135Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -106,6 +106,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "7107a72c34e33cf8",
+      "titulo": "En Argentina informan de la muerte de Jorge Messi",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214281/argentina-informan-muerte-jorge-messi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-08T12:28:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-08T12:40:31.656352"
+    },
     {
       "id": "d720a297de79e230",
       "titulo": "Araujo se va de la Ciutat Esportiva dando las \"gracias\" a los culés",
@@ -5292,19 +5305,6 @@
       "fecha": "2026-07-11T12:27:13",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.000035"
-    },
-    {
-      "id": "9fc838d50de0fe9d",
-      "titulo": "El Barça va a tener representación en una final de Mundial por quinta vez consecutiva",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORWVUU1NOZHE3LWZvLTBhSW85aGpoNWxWY0p3VDJPazJaMlVkbEpfZ3NobU9tYWRyQUFkWGJyYXBELTIxdTBJMWFPdGFRaFNfcjB4UERtR1RmQ1BtRHNEZjZNazg0Ml93M21xM3l4MW93TUZHbEtOeTR3WEdSY2JxUklETWhITXh5aEpyUGdDQ0k3MWFFdlpZZWZYY3BwUVVPbUFxOW9McGh2VFMyUkpBWmNZcUw4V3A5dWNJNC1FMkdvSUtzOWZ0YWRsMnplQdIB2wFBVV95cUxNZVZLU2NNamk2U1JjMTRUSEtzdUNjTnZCTVVDN19RWV81QkwzMDFwQTc4eE05cmRtOWhzSkdjaWwxM1d0S0xYME9wS3pRbm5YSWlaRmdhYUctTGJVcGpQNWN5cWR2VGlvMkJDME0xdFFHYnpMa0xPeXRLbXBYT1ZINnhMZGZoZjN4ZlFaYTA2cGc0elVKbGphb1JXa05XQWVjOEtWWjVBTi12aDdmbEV4Y3I4dC1fMzlpVHNMdVdjd2oxUFMwNXBXV2JDaEVBRGtWaW5MRzNzR2tWVFU?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-11T11:22:50",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:23:55.732749"
     }
   ]
 }
