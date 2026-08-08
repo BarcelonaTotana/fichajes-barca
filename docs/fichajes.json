@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-08T22:30:43.979147Z",
+  "actualizado": "2026-08-08T22:40:30.656376Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -107,6 +107,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e4ba714ccbce7eea",
+      "titulo": "Álvaro Cortés presenta candidatura",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214458/alvaro-cortes-presenta-candidatura.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-08T22:10:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-08T22:40:25.682960"
+    },
     {
       "id": "3fdb04f46647ac40",
       "titulo": "El PSG ya ha contactado con el Barça por Ferran Torres, que quiere irse a París",
@@ -5293,19 +5306,6 @@
       "fecha": "2026-07-11T13:54:47",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:11.999885"
-    },
-    {
-      "id": "e51a7d6e1cc44247",
-      "titulo": "Denuncian al Barça y al ministro de Deportes por el acuerdo de patrocinio con la RD del Congo",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaDlSNEEyeV9DRUNjejlJODN1eEFSQnVNUThDSGxTTGd3cTZuRFo0ZktiUmtxdmtKM2VNMW1lVmtTSGVUQTd0TmhpazhQZURZeXZIOERjanZlRV9KbHdwekliN0ZEMDg3NVNHdUluTnZCQUVSRUFNZG9JZm9aUHh4TGs4N0xEREh6YlNfN1FEX0tod3JJdEpOODB1dngyT3MydkM0VTlhemxFbjBLaEVubE9vd2dUXzJuOHZjbDlBQVR5VHBPRGgxOG13?oc=5",
-      "medio": "El Confidencial",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-11T12:39:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.091454"
     }
   ]
 }
