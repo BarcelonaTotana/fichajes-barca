@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-08T10:30:51.919399Z",
+  "actualizado": "2026-08-08T10:40:37.886857Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -106,6 +106,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "58478c9994e4fe0f",
+      "titulo": "El Brujas oficializa el fichaje de Virgili con rango de estrella",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214242/brujas-oficializa-fichaje-virgili-rango-estrella.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-08T10:29:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-08T10:40:32.560798"
+    },
     {
       "id": "1ec47bd54c6714e0",
       "titulo": "La opción de compra del Liverpool por Araujo es de 55 millones",
@@ -5292,19 +5305,6 @@
       "fecha": "2026-07-11T10:18:12",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T20:23:54.035110"
-    },
-    {
-      "id": "0ae2a9f27f11d820",
-      "titulo": "El Al-Hilal sigue obsesionado con Raphinha",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205339/hilal-sigue-obsesionado-raphinha.html",
-      "medio": "mundodeportivo.com",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T10:16:54",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.000655"
     }
   ]
 }
