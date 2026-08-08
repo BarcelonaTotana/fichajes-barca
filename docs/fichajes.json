@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-08T12:50:34.861529Z",
+  "actualizado": "2026-08-08T13:01:04.162204Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -39,6 +39,7 @@
     "3e1e9d7b56e10b9a",
     "3e2c4f091ab5587f",
     "3fc8e8a0d3a9d421",
+    "3fdb04f46647ac40",
     "3fdddeb97e3bd4a4",
     "40c7579b1923fccf",
     "4350d89f43a19914",
@@ -106,6 +107,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "3fdb04f46647ac40",
+      "titulo": "El PSG ya ha contactado con el Barça por Ferran Torres, que quiere irse a París",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214287/psg-contactado-barca-ferran-torres-quiere-irse-paris.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-08T12:53:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-08T13:00:56.304880"
+    },
     {
       "id": "7107a72c34e33cf8",
       "titulo": "En Argentina informan de la muerte de Jorge Messi",
@@ -5292,19 +5306,6 @@
       "fecha": "2026-07-11T12:33:45",
       "fuente_feed": "Mundo Deportivo",
       "visto_por_primera_vez": "2026-07-11T20:23:55.733466"
-    },
-    {
-      "id": "c16c3c2d0ccfea22",
-      "titulo": "El Bayern, muy atento a Koundé",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205376/bayern-atento-kounde.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T12:27:13",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.000035"
     }
   ]
 }
