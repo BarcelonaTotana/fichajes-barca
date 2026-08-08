@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-08T09:00:53.863685Z",
+  "actualizado": "2026-08-08T09:13:09.013762Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -106,6 +106,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "6873fe82db40d19b",
+      "titulo": "Casadó no viaja a Udine con el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214219/casado-no-viaja-udine-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-08T08:37:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-08T09:12:08.763456"
+    },
     {
       "id": "63588142dbc4cdb6",
       "titulo": "Ronald Araujo, cedido al Liverpool",
@@ -5292,19 +5305,6 @@
       "fecha": "2026-07-11T10:03:44",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T23:10:59.883847"
-    },
-    {
-      "id": "0a2d3fa780f69c69",
-      "titulo": "En Bélgica dan por cerrado el fichaje de Bisiwu",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205313/brujas-empieza-asumir-marcha-bisiwu.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T09:19:30",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:12.000796"
     }
   ]
 }
