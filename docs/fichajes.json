@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-08T09:20:29.608435Z",
+  "actualizado": "2026-08-08T09:30:46.936916Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -106,6 +106,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "1ec47bd54c6714e0",
+      "titulo": "La opción de compra del Liverpool por Araujo es de 55 millones",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214228/opcion-compra-liverpool-araujo-55-millones.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-08T09:13:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-08T09:30:41.369415"
+    },
     {
       "id": "6873fe82db40d19b",
       "titulo": "Casadó no viaja a Udine con el Barça",
@@ -5292,19 +5305,6 @@
       "fecha": "2026-07-11T10:16:54",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:12.000655"
-    },
-    {
-      "id": "770ff1830e8a010b",
-      "titulo": "Ferran Torres negocia con uno de los grandes rivales del Barça: principio de acuerdo y 50 millones",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZzIzVVNlNWI5a0duTlBjblZtSXNnNndZN2xyWjFpQ2F3Wm1udU14aVdlODVYRjkxRnUwcU54Wm1fZ184ZGJHSjVTUUN6MzZNS21lNkhmVjZER3IxM2tYVW9OclpTM2xTNVplbVROLUdlemRlTGE3ckQ4bGlCZGJIWXdQSFoyRFlkZWpFbHk4eXU5Z1ZsRjZEZE1XUFVIRlFINTVEX0hmSk1MY0tmVFhZNG12MGZJQVU0?oc=5",
-      "medio": "El Nacional.cat",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-11T10:03:44",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T23:10:59.883847"
     }
   ]
 }
