@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-09T19:00:57.773939Z",
+  "actualizado": "2026-08-09T19:10:35.488215Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -107,6 +107,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "8008efeea91b0f32",
+      "titulo": "Recta final por Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214665/recta-final-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-09T18:36:18",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-09T19:10:29.910250"
+    },
     {
       "id": "ab63d21a91b4a1ee",
       "titulo": "El PSG sigue sin enviar la oferta por Ferran Torres",
@@ -5293,19 +5306,6 @@
       "fecha": "2026-07-12T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:11.998548"
-    },
-    {
-      "id": "5dd0956ad597b7f7",
-      "titulo": "El Ajax se impacienta con la 'operación Ter Stegen'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260712/1004205492/ajax-impacienta-operacion-ter-stegen.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-12T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:11.998813"
     }
   ]
 }
