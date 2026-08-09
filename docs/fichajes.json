@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-09T09:00:55.975842Z",
+  "actualizado": "2026-08-09T09:10:36.373776Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -107,6 +107,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "4d9c3c2ace839c7d",
+      "titulo": "Pedri, con un 'look' que firmaría Kroos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214520/pedri-look-firmaria-kroos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-09T08:49:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-09T09:10:30.810702"
+    },
     {
       "id": "38d148b39162b4de",
       "titulo": "Un fichaje de Champions",
@@ -5293,19 +5306,6 @@
       "fecha": "2026-07-11T14:31:32",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:11.999708"
-    },
-    {
-      "id": "50d1a01ff4dc6c9f",
-      "titulo": "¡Acuerdo total para el fichaje de Bisiwu por el Barça!",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNlMtdkJFR1hNWEIwdFV4STMtN1N0ZDduaXpFcFVlZ19INWRuOXp4alB6MmZYZFYwNzREN2JSU29EQTdmVVFCUzhEcXFfSE5zQWRBeDh1cDdUM2hwdDdfZVRIeU9LUW1nVkhPS2dmTGJseDU2dk5nYVI0SXdFV0hVWGEyQ2lrU0g0VDVj0gGLAUFVX3lxTE1fNjRicFc4SGZmem1QUDlVbmthUmpwemJUdHBMdjlYSFh2WkJhLVBFeTBVblVhWXRxVkNRbU5mSmdwY2xYVkZhU3h3cDZybURFTldKci04bHJEOFpwU2JnWDNhQUttcEhvUnpzSUN6dVh4WTVTNTJvOUpLZXBmaXYtNGF2ejczUkNPdzA?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "here_we_go",
-      "fecha": "2026-07-11T14:22:38",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T20:23:54.034741"
     }
   ]
 }
