@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-09T12:30:46.055058Z",
+  "actualizado": "2026-08-09T12:40:34.464577Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -107,6 +107,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9ebbf83e0cd37be4",
+      "titulo": "Darwin Núñez, puerta de entrada a Liverpool para Araujo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214568/darwin-nunez-puerta-entrada-liverpool-araujo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-09T12:05:27",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-09T12:40:29.175515"
+    },
+    {
+      "id": "afb32fd44d2b0745",
+      "titulo": "Última hora sobre la situación de Rashford",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260809/1004214566/ultima-hora-sobre-situacion-rashford.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-09T12:01:09",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-09T12:40:30.558421"
+    },
     {
       "id": "9149474cc52329e8",
       "titulo": "Álvaro Cortés, futuro abierto: prioridad Barça pero con ofertas concretas",
@@ -5280,32 +5306,6 @@
       "fecha": "2026-07-11T18:24:41",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-11T20:24:03.639228"
-    },
-    {
-      "id": "6f039a976cc9fddf",
-      "titulo": "Alexanko cierra el fichaje más caro de la historia del Barça B: 10 millones por una joya que encandila a Flick y Belletti",
-      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQejBLZTY3MGZ5bS12cHFsNlNxUUowVGVUcU5VeXlqTV9tRVhNbDVQUTFOUW1kSHZGV0tZc25mYTdoX2RDMk1za0hCLWoxc19UUF9qRS0wRVI1Z2UzaXo5Z1VWWnBZYld1NW1pdVZRYlNPNy1tazFyRGNIN1BJSTE0RDhpRm9UVzhhaEVCT0JFbHBIaWF3bHo0ekJhYXVPMksxRk8wbTY0blN6TXo1YWZTYXVyM1otZkFPbHUyUE9vZmxuVGlMalVYNDFiTlktaXg4RmJJVGRXSnpVX0pEdkdUX9IB4AFBVV95cUxQejBLZTY3MGZ5bS12cHFsNlNxUUowVGVUcU5VeXlqTV9tRVhNbDVQUTFOUW1kSHZGV0tZc25mYTdoX2RDMk1za0hCLWoxc19UUF9qRS0wRVI1Z2UzaXo5Z1VWWnBZYld1NW1pdVZRYlNPNy1tazFyRGNIN1BJSTE0RDhpRm9UVzhhaEVCT0JFbHBIaWF3bHo0ekJhYXVPMksxRk8wbTY0blN6TXo1YWZTYXVyM1otZkFPbHUyUE9vZmxuVGlMalVYNDFiTlktaXg4RmJJVGRXSnpVX0pEdkdUXw?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-11T16:41:27",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-11T20:24:03.640079"
-    },
-    {
-      "id": "724274d119e6df88",
-      "titulo": "El PSG pone a Ferran Torres y al Barça en un dilema: renovación o venta este verano",
-      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeTFwb0lYYmFjQjAxemlBUHNwVDllM1dOQjV5OHZ2cEIxeG15bmZSZnNwWTFLQnFTR3B4aTRKT1l5cVZ3Skh1RVpoR1d3bGFHdnRSNG45Nmx2ZThYQUFWRlJKaVlnSl9ldjk5bzNUalFQVVlvVm1MZ3c3bENBOF9URzRta1pIYWxTNmVWUjVRRzbSAZABQVVfeXFMUF83M0NYeWpMdWRuQ1ZvTGZrOWcxTGNtUUtkOWZZUDBYOUhIcEhxbUxBWFF0djRGX2E2NG1WREY4Yy1ZQmNUMUF4d3BOYnNLbEJ3OVJaWjB0dTVtejZmMGY5bXRLR0RKU3NhdndGcnp6ZWdaanJkb1lwamdvSHNzV1F4c1I4RVdPUGppRGZPZFRQ?oc=5",
-      "medio": "El Periódico",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T15:12:56",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-11T20:24:02.091078"
     }
   ]
 }
