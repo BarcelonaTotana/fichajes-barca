@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-09T11:30:43.462672Z",
+  "actualizado": "2026-08-09T11:40:33.898417Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -107,6 +107,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9149474cc52329e8",
+      "titulo": "Álvaro Cortés, futuro abierto: prioridad Barça pero con ofertas concretas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214557/alvaro-cortes-futuro-abierto-prioridad-barca-ofertas-concretas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-09T11:13:27",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-09T11:40:28.181119"
+    },
     {
       "id": "4d9c3c2ace839c7d",
       "titulo": "Pedri, con un 'look' que firmaría Kroos",
@@ -5293,19 +5306,6 @@
       "fecha": "2026-07-11T15:12:56",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-11T20:24:02.091078"
-    },
-    {
-      "id": "db805e8a0dd79381",
-      "titulo": "En el vestuario del Ajax ya esperan a Ter Stegen con los brazos abiertos",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205414/vestuario-ajax-esperan-ter-stegen-brazos-abiertos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-11T14:31:32",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:11.999708"
     }
   ]
 }
