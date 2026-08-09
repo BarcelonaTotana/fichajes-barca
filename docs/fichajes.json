@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-09T13:30:45.548273Z",
+  "actualizado": "2026-08-09T13:40:34.830703Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -107,6 +107,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "4661faade3095b4f",
+      "titulo": "La respuesta de Asllani es \"no me puedes detener\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214580/respuesta-asllani-no-me-puedes-detener.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-09T13:08:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-09T13:40:29.689973"
+    },
+    {
+      "id": "e8fa755002d9e715",
+      "titulo": "Ter Stegen debuta como titular en el Ajax",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214583/ter-stegen-debuta-titular-ajax.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-09T13:00:46",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-09T13:40:29.690249"
+    },
     {
       "id": "9ebbf83e0cd37be4",
       "titulo": "Darwin Núñez, puerta de entrada a Liverpool para Araujo",
@@ -5280,32 +5306,6 @@
       "fecha": "2026-07-11T20:52:35",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-11T21:10:51.204136"
-    },
-    {
-      "id": "a74c2fcc87d73710",
-      "titulo": "Asllani mira al Barça tras el interés del PSG por Ferran",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTWdfN2Jmb09JNExjQ2lMcS1JR2tURzI0djhaSXpvd1UybmdobTR0UXljNnNxQkdScW5vbjEzbThVVE5HTzRSc3NuVXpvV2d6ZDZjOHVpSU5hd3ZiTHdfTTRIc3doRV9fWWdMaGV6WElWVFRPdEkxeDJJSjVZOFpwbnl2QWROS1UzMGlEUkFhS1hMazhOMllFMUNUdWgwZVdFT1p4SklDVTVLTmY0MzlLRko1UdIBwAFBVV95cUxNMS1TcW1zMExzajRkZnR2VXp4NFc4UGwzZWhZaGpJNzMyZUkwMmtrNk9KVGNROTI4TGVmLVYzRWJGc05rcWkwV3ZnXzhnZi1zU1hhNURvMTFJT1paRGxZeFRpX2ZlbnBpaVlqaThydWN3Y19zSTZMaVI1QmtwcHJXOFp6MVFlNkZhMndnT1VuOUhEN1QzOGJxRkZtcnJDVk1wVFlOcURrUXhvQWh0NUdkcEJOWHluVnE3YlpONGJ6SEc?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T20:22:23",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-11T20:30:56.806180"
-    },
-    {
-      "id": "4274e669792e6fc9",
-      "titulo": "El Barcelona cierra el fichaje de Jesse Bisiwu para el filial",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjVPY2JYc3Z4eE45S3VhajdlQTdqRkJ5cVNoWk9ZaDlxSzdHb1V4Tkx5TjVnbTZkNE1nMGxTTlNRa0lTQ08yb0tTQTM4NmFxVThFV0RickYzMEdyeEl4TUVvQWYzekVrYVFmaFZNX3lETmZxYzJoWm9OakloeUtJMW9PVTU3QnVwbmd0OEhtLS16VGRDV0ZoNFRCdnd4OHAzMVNnNFFDNVpPV0RDaU8tbjQxWFPSAboBQVVfeXFMTklnR0FpNEY1WTFVQ2l3ODlNNm55ZVdqeGhsdHE0cV9aSWhEVTVJNnpzYWpDbk5XRi1GVGEzczBFX1IwbGJId0U5d04taS1HVEdwQWlNa2dvUzZfREpzdmphb1JLX1lrYzFCU1ZCZUUybFJwTUhaeHM3ekN3U2JhRUZPakdGcVlJYUVPNXBUeHNhTnhSQ1p3eEpIZk94Y0pqaTBmUTZlZEphWVlFMVh3N3RiQnZYWUk0aUNR?oc=5",
-      "medio": "FútbolFantasy",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-11T18:24:41",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-11T20:24:03.639228"
     }
   ]
 }
