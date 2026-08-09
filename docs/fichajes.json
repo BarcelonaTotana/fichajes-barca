@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-09T17:30:45.288923Z",
+  "actualizado": "2026-08-09T17:40:32.511680Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -107,6 +107,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "76e9ea1a4d4bf1ee",
+      "titulo": "Luis Enrique ficha a un viejo conocido para el PSG",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260809/1004214648/luis-enrique-ficha-viejo-conocido.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-09T17:13:40",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-09T17:40:28.368604"
+    },
     {
       "id": "4661faade3095b4f",
       "titulo": "La respuesta de Asllani es \"no me puedes detener\"",
@@ -5293,19 +5306,6 @@
       "fecha": "2026-07-11T21:32:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:11.998980"
-    },
-    {
-      "id": "0efa9b0714bbdd08",
-      "titulo": "La agenda del Barça con el fichaje de Adeyemi",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3VicmRqeXp3dTNiY2hOZUhQOXFjU1R0Q1d3OXN6QjAwcEVTNWxZWkdITTAyS0xCdllDOHhjY2oyZVF5T1ZITUlSaWpXSUxvRnpacF95MWRqYjE4SXZqMDhfc2pRWUdzaGphWmJLRmhVekMteTBuOFQ0NzRjYUp1alJETdIBgwFBVV95cUxPVkFaTnBpLUwtMFJ3YjYzcXNNZ3lIN2pVTkJqc3Q2cHlydFh3YnZObWhCdUdPMXNQZlkyZ3RvS1I5SW9INXJuX1U4amVJWWlZa2tVcFIwa0tMMUg0bWpIUzBfdjhEbURJdF9MSkNmLW1IVk9nRk5nZkE2blEtXzhBQVJQMA?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T20:52:35",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-11T21:10:51.204136"
     }
   ]
 }
