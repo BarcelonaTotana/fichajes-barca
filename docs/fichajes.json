@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-09T18:00:53.858523Z",
+  "actualizado": "2026-08-09T18:10:31.055972Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -107,6 +107,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ab63d21a91b4a1ee",
+      "titulo": "El PSG sigue sin enviar la oferta por Ferran Torres",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214656/psg-sigue-enviar-oferta-ferran-torres.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-09T17:49:53",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-09T18:10:25.837744"
+    },
     {
       "id": "76e9ea1a4d4bf1ee",
       "titulo": "Luis Enrique ficha a un viejo conocido para el PSG",
@@ -5293,19 +5306,6 @@
       "fecha": "2026-07-12T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:11.998813"
-    },
-    {
-      "id": "8ca1728ed2244464",
-      "titulo": "Colocan al Barça en la batalla por Kaua 'Pavuna' Lucas, a quien comparan con Ronaldinho",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260711/1004205527/colocan-barca-batalla-kaua-pavuna-lucas-comparan-ronaldinho.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-11T21:32:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:11.998980"
     }
   ]
 }
