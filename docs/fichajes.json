@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-10T16:00:59.002900Z",
+  "actualizado": "2026-08-10T16:10:36.121320Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -108,6 +108,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "7a6251af818723fe",
+      "titulo": "Lautaro Martínez, alternativa del Barça a Julián Álvarez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214890/desmarque-lautaro-martinez-plan-b-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-10T15:42:27",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-10T16:10:30.963871"
+    },
     {
       "id": "b81a8a239b9fc848",
       "titulo": "El Barça rechaza una primera oferta del PSG de 40 millones fijos por Ferran",
@@ -5294,19 +5307,6 @@
       "fecha": "2026-07-12T09:35:06",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-12T09:42:02.713149"
-    },
-    {
-      "id": "6d6aba67c3f53407",
-      "titulo": "La salida de Brian Fariñas al Girona, inminente",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260712/1004205625/salida-brian-farinas-girona-inminente.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-12T09:34:24",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:11.998220"
     }
   ]
 }
