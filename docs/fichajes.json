@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-10T15:30:50.189783Z",
+  "actualizado": "2026-08-10T15:40:41.116005Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -146,6 +146,19 @@
       "fecha": "2026-08-10T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T05:40:25.557314"
+    },
+    {
+      "id": "b662ebf1a6424789",
+      "titulo": "Primer día de Araujo en Liverpool",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214701/primer-dia-araujo-liverpool-revision-primeros-contenidos-hoy-hara-oficial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-10T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-10T15:40:35.202068"
     },
     {
       "id": "efe3b86cdd0b7bf9",
@@ -5294,19 +5307,6 @@
       "fecha": "2026-07-12T09:34:24",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:11.998220"
-    },
-    {
-      "id": "8f35aa9144d84d17",
-      "titulo": "El plan del Barça por Casadó: venta sin rebajas de 20 millones mínimo",
-      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMXg5eTBLUVVDOVRfNkhfaW5rSHlHQndBOHBwdGdFRkZsOE9jUGQ4RmpnTndBcTBibWxvTFFhakNYYk53UHdJYWJ2ZlQzMmZMS1NsLXZGTHRKUlh1WEdzb3FCOFhGTWsxTFo2YURWbzJScHV6bzF4RlRCclZRNEtzWTJYZWZWa3fSAYcBQVVfeXFMTkw2RklGTGszSnRpQ3hfay15cGhUM3l3WmhaTktIWWRfWmFwb251em9RZHZGYkFBb0UtR3ZPV1pGa3hnNjZIU1RLYXRuV1FlSWFWcXpseDVkbmM3SnctUnZRUmQxejZySVV4djQ3elltNzhxUXNQNlZ0Ymw0OTBCNWdnVFY2QVNn?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-12T09:21:38",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-12T09:32:09.819630"
     }
   ]
 }
