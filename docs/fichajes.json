@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-10T05:30:46.354521Z",
+  "actualizado": "2026-08-10T05:40:30.389120Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -107,6 +107,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "45444e77c4f6774b",
+      "titulo": "La salida de Jofre, también inminente",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214703/salida-jofre-inminente.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-10T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-10T05:40:25.557051"
+    },
+    {
+      "id": "ef501a89bab1fc29",
+      "titulo": "Primer día de Araujo en Liverpool: Revisión y hoy se hará oficial",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214701/primer-dia-araujo-liverpool-revision-primeros-contenidos-hoy-hara-oficial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-10T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-10T05:40:25.557314"
+    },
     {
       "id": "efe3b86cdd0b7bf9",
       "titulo": "Abiertas dos vacantes en la capitanía del Barça",
@@ -5280,32 +5306,6 @@
       "fecha": "2026-07-12T09:02:58",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T11:32:51.023869"
-    },
-    {
-      "id": "a43a9a8f0e93e0ae",
-      "titulo": "Incógnita Bardhji en el Barça: más de diez ofertas, charla con Flick y decisión final",
-      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTERpRVhlakYyUGRwYUlhdHJYS0VNVVNENXgyaG9scTM4LUFxUWxHWllsclB3S0V1NHV5SkJQaFdGbFNzUy02b0UzdEZjOHRLNG85a3g5MzBLZU1mZThSaTlmdlc5T2tMdEV2THAtSWRGSWZVMEEyUjFsQmZuaVJMQzNCVTl3TlJRbzdDN0130gGOAUFVX3lxTFBHMEY3eWwwNUdzanlxVFFEc2JKd0dRblBHN0xTVDZRdzJVWmttckJSZUxoRGV4OWYxZTBjSUQxTnlmWElXM0NrNTE4ckI0OFlod0tNR211VXFNWloxX3pFVlh0VE5QYzVLdDVUVnNqNmFsSmYzN084OFVJcV9xbjZROExNVWVMU3hiUmlYdFE?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-12T08:50:39",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-12T09:02:35.527468"
-    },
-    {
-      "id": "4c75e0898cc2a2aa",
-      "titulo": "Incógnita Bardghji en el Barça: más de diez ofertas, charla con Flick y decisión final",
-      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTERpRVhlakYyUGRwYUlhdHJYS0VNVVNENXgyaG9scTM4LUFxUWxHWllsclB3S0V1NHV5SkJQaFdGbFNzUy02b0UzdEZjOHRLNG85a3g5MzBLZU1mZThSaTlmdlc5T2tMdEV2THAtSWRGSWZVMEEyUjFsQmZuaVJMQzNCVTl3TlJRbzdDN0130gGOAUFVX3lxTFBHMEY3eWwwNUdzanlxVFFEc2JKd0dRblBHN0xTVDZRdzJVWmttckJSZUxoRGV4OWYxZTBjSUQxTnlmWElXM0NrNTE4ckI0OFlod0tNR211VXFNWloxX3pFVlh0VE5QYzVLdDVUVnNqNmFsSmYzN084OFVJcV9xbjZROExNVWVMU3hiUmlYdFE?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-12T08:50:39",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-12T12:20:48.929488"
     }
   ]
 }
