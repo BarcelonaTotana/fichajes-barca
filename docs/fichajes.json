@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-10T18:00:59.184954Z",
+  "actualizado": "2026-08-10T18:10:32.217826Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -108,6 +108,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "7794de62439b3d5c",
+      "titulo": "Oficial: Ronald Araujo, cedido al Liverpool",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214923/oficial-ronald-araujo-cedido-liverpool.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-10T17:32:45",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-10T18:10:26.984060"
+    },
     {
       "id": "2cf5f6ff537e4a7f",
       "titulo": "Patricio Pacífico acelera su recuperación con el objetivo de volver al Barça Atlètic",
@@ -5294,19 +5307,6 @@
       "fecha": "2026-07-12T09:54:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T13:32:14.376163"
-    },
-    {
-      "id": "6a794eef4ff717e2",
-      "titulo": "El Barça abre el mercado con Olivier Nkamhoua, su primer fichaje de la temporada",
-      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU3NaaU51b2F6cXE0VjV2R3pmVFZxZFBuTU5LNHNJWWpVV2hXOWtyT09COTFPQWJjOENjbkpjakNFM1FJend3dllIX184aGoteTI3aVpSQnJ0Vk9kTlMya1pGX21uZ3dnR0o2eF80VEdfbjQ4cWk4RzAxS0hJYmpTelNDS01FQlc3REF1V2o0YVZTNUhJVlVNZnpkMGZZazROUmhGLWhVZkNwblBKQzNuQnF3SU5kbHBDSFBRMHZIZGhKbDE1NktUR1FMUmd5SEE5OUHSAd8BQVVfeXFMUGJESnEyN0pYRTdhcnhCdXdwYklZVkhSc29wem44bTItekZ2VlZHbXBfQ1JNeHF2WHVWYzh5ZW1aOGJBZF9DX0l4eWN6d3ZpX0FGUTYtOWQ4eHY0eTNiT0NaNzBTSUFZMXd1VnFpNzVfemRTQUI5cm41ZjhsenQwNW10YUN6bHFaQWJhZm00dDZFREZqNnJSSkJ2SDlqSkNzV3d3M1RvMXdiNG5sOVBLWjJwM1V2eHE2QjJYMXVza3hNOFBSNnBZODVXdE45c0xKelpMUEdmb1FIVktPTlh4MA?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-12T09:52:07",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-12T10:03:21.725316"
     }
   ]
 }
