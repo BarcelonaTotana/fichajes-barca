@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-10T19:30:52.750815Z",
+  "actualizado": "2026-08-10T19:34:37.461213Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -109,6 +109,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e71aefe0fe62ce97",
+      "titulo": "Julián explota y avisa al Atlético de que se plantará",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214946/julian-explota-avisa-atletico-plantara.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-10T19:19:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-10T19:34:32.307830"
+    },
     {
       "id": "0003ad0cf536db0c",
       "titulo": "Natan (Betis), de nuevo en la órbita del Barça",
@@ -5295,19 +5308,6 @@
       "fecha": "2026-07-12T10:20:42",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T10:32:34.409080"
-    },
-    {
-      "id": "39ae6282708f6765",
-      "titulo": "El Barça comienza su tortuosa reconstrucción: oficializa el fichaje del finlandés Nkamhoua",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2J2S1MtVGJOZG5KUU5BZ0VJYTBjRmNoR0hwam1FU2FKbzBrel92Yl9BRC13UF82S0xKUVZGNHNLVlVDQzJsVzdCOWFkSzBNMkxFWXIzR2hHblJPQS1yd2ZvNVJrRElTVWZ4eURSaGoyeTRRRndyZG5SODBRVmF2ZGlDcDRZbkZyd1BOcjJSdkZJQmdsMUtHUV9GQ0R4aWpoczhJaEQxWVc0cHdN?oc=5",
-      "medio": "El Periódico",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-12T10:13:21",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T10:26:39.744147"
     }
   ]
 }
