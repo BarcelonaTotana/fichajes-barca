@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-10T13:30:52.012825Z",
+  "actualizado": "2026-08-10T13:40:37.824713Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -79,6 +79,7 @@
     "af0089361f15efe2",
     "b631447530d14036",
     "b6be42fd132bae88",
+    "b81a8a239b9fc848",
     "ba812cf40b662f4a",
     "beadcf55619bf472",
     "c170708f840cd195",
@@ -107,6 +108,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "b81a8a239b9fc848",
+      "titulo": "El Barça rechaza una primera oferta del PSG de 40 millones fijos por Ferran",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214840/barca-rechaza-primera-oferta-psg-40-millones-fijos-ferran.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-10T13:22:22",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-10T13:40:32.287295"
+    },
     {
       "id": "45444e77c4f6774b",
       "titulo": "La salida de Jofre, también inminente",
@@ -5293,19 +5307,6 @@
       "fecha": "2026-07-12T09:21:38",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-12T09:32:09.819630"
-    },
-    {
-      "id": "8ae64b83fcbf9800",
-      "titulo": "El futuro de Raphinha se enreda en el Barça: ¿oferta del Al-Hilal o presión para un aumento salarial?",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTF9wWXNTY182Q0VNN1FOTkwteHlGSVhIZlNpY1RoMW94eS1ycjZWZHI1djR5UnJ0UkdIZVJNVmhCR09SaDdmY3VkOGFnQVoya1F3RWtfZ2E0R0lOczlVcElsSmNlQVAwVWhKbHNCajJ3MUF1dG1ZMGpsOUprWEZuZjd2aDdIdFJZWU94VThXWTRGNEFHbm5WSDVxMmNnSmFBQjFXa0ttemdZZjJZeVBZZWl5WlRpNjYzazdGNUplSXpQT1NtbkU2RG5xVDNQMUdlcjA3N3hhdTZhLTd3TGfSAeMBQVVfeXFMTzhnbFktbDlMYVVES1dhTXluaXZOV3pONGZOQkJjWWFBY1lURXh4a3pCMTZaaWt5anpuWEZQbmhnTi1Xa3VDUWZIc0hISVp1aThZclM2dGRhX011NUFXSjdMeVZBRmNkajB6bGQtbS16YTljT2NlX242M2I1Z0tvMGRIX1RZcURpcXZVY28zNnFqTEk4Mi1Ic2hXVTBIZnMxM241NDB1aGhJWXpFRWFIOEhBSVFFb2t4S0VCeGJDbDVWNWVaVHpxcVBRQ2dkS0lmZ0dtTHlJUmxDUUstaWNTd2RfLXc?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-12T09:02:58",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T11:32:51.023869"
     }
   ]
 }
