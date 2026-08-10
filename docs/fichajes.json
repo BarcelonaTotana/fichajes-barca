@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-10T01:30:42.520126Z",
+  "actualizado": "2026-08-10T01:40:33.619133Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -107,6 +107,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ce16f95b52b60129",
+      "titulo": "Hoy, el turno de Julián en Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214704/hoy-turno-julian-madrid.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-10T01:15:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-10T01:40:28.437907"
+    },
     {
       "id": "8008efeea91b0f32",
       "titulo": "Recta final por Rodri",
@@ -5293,19 +5306,6 @@
       "fecha": "2026-07-12T06:05:00",
       "fuente_feed": "General primer equipo",
       "visto_por_primera_vez": "2026-07-12T09:51:46.238037"
-    },
-    {
-      "id": "18f140ea9d1bd6b2",
-      "titulo": "Girona-Brian Fariñas avanzan pero falta para el acuerdo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260712/1004205519/girona-brian-farinas-avanzan-no-hay-acuerdo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "avanzado",
-      "fecha": "2026-07-12T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-12T14:15:11.998548"
     }
   ]
 }
