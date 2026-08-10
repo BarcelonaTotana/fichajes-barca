@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-10T18:30:45.566857Z",
+  "actualizado": "2026-08-10T18:40:33.631974Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -108,6 +108,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "9129d3b2b554347c",
+      "titulo": "Araujo, ya 'red', revela el mensaje que recibió de Luis Suárez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214930/araujo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-10T18:05:04",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-10T18:40:27.875640"
+    },
     {
       "id": "7794de62439b3d5c",
       "titulo": "Oficial: Ronald Araujo, cedido al Liverpool",
@@ -5294,19 +5307,6 @@
       "fecha": "2026-07-12T10:07:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T14:15:11.998043"
-    },
-    {
-      "id": "74e5901669c129e9",
-      "titulo": "Olivier Nkamhoua, primer fichaje del Barça",
-      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzdCZGFJd0pLd0g2LU9jc24td21nR1RwZUFMVlVmcmdwbmFsY3FXN0pudkVReWxWanVPaDZHSjhqMUZlZGdVZFIzV01HRDVBcGstUzhheW5QWXpaVUZJWC1jRUYzLWIzdzg2b3ZmbFdBNTNEbEpTVUlJREdGckkyUDlMYnnSAZgBQVVfeXFMTnVzSVlwQWt1ajNMZmtxWlNYREw2dkdEVC1nRU0yRU5Ea1FGNUpyeXJYNVFNMzFoUWxGWXZmemxXNmRvNDFCdVI3TWdyVW9RNmFvb2FNZlcxNUV2S3JnQkxsdjJicEwtanV1V29tdG01SWhBeXNjbnBaeng4QzRXbi0wVXZ4TVZuY3hhcWk5QWRkS05ycGl4dDQ?oc=5",
-      "medio": "Diario AS",
-      "tier": 5,
-      "tier_etiqueta": "Ruido / clickbait",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-12T09:54:00",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T13:32:14.376163"
     }
   ]
 }
