@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-11T10:30:49.413112Z",
+  "actualizado": "2026-08-11T10:40:32.321446Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -110,6 +110,19 @@
   ],
   "noticias": [
     {
+      "id": "41c637592285a9df",
+      "titulo": "Josué Caicedo llega a Barcelona con ambición y elogios a Balde",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215091/josue-caicedo-llega-barcelona-ambicion-elogios-balde.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-11T10:26:26",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-11T10:40:26.945928"
+    },
+    {
       "id": "872f991adcd3ed56",
       "titulo": "Ferran y Rodri apuran para no volver ya con el Barça y el Manchester City",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215005/ferran-rodri-apuran-no-volver-barca-manchester-city.html",
@@ -147,6 +160,19 @@
       "fecha": "2026-08-10T19:19:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T19:34:32.307830"
+    },
+    {
+      "id": "3c0ba2b183ab0718",
+      "titulo": "Julián Álvarez explota y avisa al Atlético de que se plantará",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214946/julian-explota-avisa-atletico-plantara.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-10T19:19:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-11T10:40:26.947137"
     },
     {
       "id": "0003ad0cf536db0c",
@@ -5282,32 +5308,6 @@
       "fecha": "2026-07-12T16:40:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-12T17:10:52.701139"
-    },
-    {
-      "id": "72aad63f16772ea7",
-      "titulo": "El Borussia Dortmund libera a Adeyemi para cerrar su fichaje por el Barça",
-      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWWFDYzZJZ0tMeE1Xb251eC1oYk1IYjZBb21xZnAxXzFwcG1Zejl1SVJncHpxRTB4eTRhVWxIbFFrNUFMUzZ0dXJScWFoRklvNUN1ODNHbWY2VmRJbGJFUS1aSzdTYVczcVRQaXlySU91OVZSWndidU01M3NiSVQ5cTZySmNBc1cyMFBaQUJlOEVyd9IBkgFBVV95cUxQZzZEWnVoTVF1LXBFY2VXMU0zYmpjSHk5VFNMN3BkcFJHQ1oyWm9ZZ2dsMWVVS0FpM3lEc19CMjd2OUw5VFMwRHFPLW9QeXQtZFlWUWpMWi1fM3d6el9feGtRa3dqRUtzZlFpMERhNnprekpLdlFVOUVHY3BXN3k5YWI2SU5IYW1tSEtCaHFHRzRuZw?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-12T12:00:27",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-12T12:03:09.650685"
-    },
-    {
-      "id": "e91fdf69904d04a6",
-      "titulo": "Josean Querejeta: el brutal negociador con el que se enfrenta el Barça",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmpqdWljVTB4VTNTVGs2RG1IcWV6NWdOWDNDUEdzMlJCOFlHVHMyRHV6SHBvbGhnRURIN0lvT3lMQzB3SklfM1k5Mm9PTHdiZldkeDRZUEpaVFRMckpmNEplVTlxek5VMjVSQUNnZGxGUzVWSmVzX1hPb18tQnRoV3F6YTZwczFWN2FuYXdjQ0lFbm5rZk5lS1pKcWxYaFpGTGtCMzN5OEJ4amhLSXU4Rk9tS0tZM0XSAbcBQVVfeXFMTUNnWWQ3WlpNT3hvOUQ1ZXVCS3E5eDJKU3U5eVJDMlEzLU5TUnN1cXpsMDJwOUQ4S1J6NzF5M2ZxXzNTUGo0ejdQa0ZIQmp2VDBNczRVdjF6Mk1weEkzY1dOaTljMlR1MXVaLTRsOXpSNGp4aTR6LVZwMUczNjlEV3IxMHZXYU5Db2NNMTNDRkVFQlBXYjVLQkFHTFBGSnlYTU5KYUJ0b3ZNV3VrenZYc0JQUk5HTHU4?oc=5",
-      "medio": "SPORT",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-12T10:57:36",
-      "fuente_feed": "SPORT",
-      "visto_por_primera_vez": "2026-07-12T11:06:46.227358"
     }
   ]
 }
