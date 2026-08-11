@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-11T15:20:44.760057Z",
+  "actualizado": "2026-08-11T15:30:48.064831Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -188,6 +188,19 @@
       "fecha": "2026-08-11T10:49:24",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T11:10:29.195794"
+    },
+    {
+      "id": "f28ffb6373ddae4f",
+      "titulo": "Josué Caicedo ya está en Barcelona para cerrar su fichaje por el Barça",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUFFfb3dReHVCaWRzMkMxQ3hfV0dndlpKV0lYMlVyNmE0RGUteWJBSTMxMF9OaG1EUzBESTJDWjFrRDlVMFYtRnJUZ1pWZmlvTEZ5cVdCbUVPUTBya2RuSG5xVEJ2WTNTajFpU2h2LUdCTlRPeUoyRkYyck1xTmYzNm1GN0hVUXBfblZKb1Z3SERfX25IRGpaRE5SY2k2UQ?oc=5",
+      "medio": "Ecuador 221",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-11T10:41:09",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-08-11T15:30:47.046977"
     },
     {
       "id": "41c637592285a9df",
@@ -5297,19 +5310,6 @@
       "fecha": "2026-07-13T10:00:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-13T10:40:53.015389"
-    },
-    {
-      "id": "4912b0566284362d",
-      "titulo": "Laporta, sobre el interés del PSG en Ferran Torres: \"No tenemos constancia\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004205870/laporta-sobre-interes-psg-ferran-torres-no-constancia.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-13T06:21:34",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-13T06:40:51.866276"
     }
   ]
 }
