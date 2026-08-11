@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-11T17:00:58.905503Z",
+  "actualizado": "2026-08-11T17:10:34.146539Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -111,6 +111,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "45c432a54b37b8a7",
+      "titulo": "El Barça encarrila el fichaje de Dany Freire, joya del fútbol portugués",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215177/barca-encarrila-fichaje-dany-freire.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-11T16:31:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-11T17:10:28.569651"
+    },
     {
       "id": "2f192360d24a6743",
       "titulo": "Se confirma la grave lesión de Roony Bardghji y su paso por el quirófano",
@@ -5297,19 +5310,6 @@
       "fecha": "2026-07-13T10:00:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-13T10:10:56.636161"
-    },
-    {
-      "id": "3088ac7763f0c2d4",
-      "titulo": "La cláusula que encarecería la renovación de Ferran Torres",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004205931/clausula-encarece-renovacion-ferran-torres.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-13T10:00:48",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-13T10:40:53.015389"
     }
   ]
 }
