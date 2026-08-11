@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-11T19:30:51.821365Z",
+  "actualizado": "2026-08-11T19:40:32.059884Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -94,6 +94,7 @@
     "cc1ede646b0e4ab4",
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
+    "cfc7974d49bc48e0",
     "d1678f114989da7e",
     "d74b02004bbf149f",
     "d94545d1196ce20a",
@@ -111,6 +112,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "cfc7974d49bc48e0",
+      "titulo": "Sin acuerdo con el PSG, el Barça espera a Ferran este miércoles",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215225/acuerdo-ferran-barca-le-espera-manana.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-11T19:22:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-11T19:40:26.345711"
+    },
     {
       "id": "45c432a54b37b8a7",
       "titulo": "El Barça encarrila el fichaje de Dany Freire, joya del fútbol portugués",
@@ -5297,19 +5311,6 @@
       "fecha": "2026-07-13T11:20:02",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-13T11:40:57.410566"
-    },
-    {
-      "id": "d418f4a8d9cf4d63",
-      "titulo": "La cláusula que encarece la renovación de Ferran Torres",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004205931/clausula-encarece-renovacion-ferran-torres.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-13T10:00:48",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-13T10:10:56.636161"
     }
   ]
 }
