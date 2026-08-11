@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-11T05:50:33.071155Z",
+  "actualizado": "2026-08-11T06:03:36.242738Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -109,6 +109,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "872f991adcd3ed56",
+      "titulo": "Ferran y Rodri apuran para no volver ya con el Barça y el Manchester City",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215005/ferran-rodri-apuran-no-volver-barca-manchester-city.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-11T05:59:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-11T06:02:40.852848"
+    },
+    {
+      "id": "718a20768c355687",
+      "titulo": "El Barça está haciendo los deberes en el límite salarial",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215003/barca-haciendo-deberes-limite-salarial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-11T05:46:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-11T06:02:40.853065"
+    },
     {
       "id": "e71aefe0fe62ce97",
       "titulo": "Julián explota y avisa al Atlético de que se plantará",
@@ -5282,32 +5308,6 @@
       "fecha": "2026-07-12T10:57:36",
       "fuente_feed": "SPORT",
       "visto_por_primera_vez": "2026-07-12T11:06:46.227358"
-    },
-    {
-      "id": "3918a48cc024f92f",
-      "titulo": "Nkamhoua, primer refuerzo del Barça: \"Estoy muy contento de estar aquí\"",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2NKRlJybTdlbGs1bkpHQVIzNjZTcVpqV1JyZjBTSHJtc2lfTm0xQXZfWTl4dUFzOVVzNk1OQjZHUE5TcjNMbjRCMFBycHNHVEpuLWMwVEVrR1hTME1seUJaelNGOGc2OVdhdEtyRU00ekVhMXZXbkZFN0ZOSmd1TEZCeEFsWk5TV3Z2MDNEZ0JSZjJGOFZ6Ml9ON0lFdlpOdVhoc1RWZDZFdjVnaFl4djZZTEpVNHI2SnFrR2tzMVZ1Z9IBzwFBVV95cUxOdklQQ2x4VHRLUHlkT041aTItUTdPbHdWN3YzTzZWQTNvVVFYUEozY2FHcktTZncxalNrcmZ4VGpLWTRkejJSeTZVM09RNmgzTlpFUzdqYmJEN3lBVnBYbWo2TmJuamxmZXZ0d0lmWDBQa253WHhRTGI1VWlnbkFCVGYxbkZmSXZJQmVOVEpkbVBZcjNsRG5lZ3Ixb2t3R252TzVQSUVvZWNhaDFzeXViaXE5aXpzYUxDNnRZM2dyREJCVG9GUGVrc1J4eHhTQjg?oc=5",
-      "medio": "Mundo Deportivo",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-12T10:21:34",
-      "fuente_feed": "Mundo Deportivo",
-      "visto_por_primera_vez": "2026-07-12T10:26:33.851333"
-    },
-    {
-      "id": "4030ce6beb3de09f",
-      "titulo": "El ala-pívot finlandés Olivier Nkamhoua, primer fichaje del Barça, firma hasta 2028",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSnFtSGkwS3hhSUNEaWtmTjRRUTFhXzY0V1MxUVBuWjZtbVJ5aEJLTXFwZFBuWktrWDhRZUZ6Um1ETWdLUWphUFdUQVZFU3RLaGRiZHRFRlRkY2FSaXFCSG54MGxralFlZXN6bTNPZWxKMU50VnNTY1ZBd2h2MnNWVW9QV0tTMXJTcmhNZXNtLXM3YXhBa2FyTTFwZkxLVHpfb1RnUGpB?oc=5",
-      "medio": "HolaNews",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-12T10:20:42",
-      "fuente_feed": "General primer equipo",
-      "visto_por_primera_vez": "2026-07-12T10:32:34.409080"
     }
   ]
 }
