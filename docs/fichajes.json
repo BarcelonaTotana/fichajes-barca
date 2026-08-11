@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-11T14:10:43.012736Z",
+  "actualizado": "2026-08-11T14:20:35.228893Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -111,6 +111,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ecd47c8f6ad50b61",
+      "titulo": "Adrián Liso jugará en el Mallorca: cesión con compra obligatoria y alrededor de 3 millones para el Real Zaragoza a final de temporada",
+      "enlace": "https://www.sport.es/es/noticias/futbol/adrian-liso-jugara-mallorca-cesion-133268369?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-11T14:07:24",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-11T14:20:32.741295"
+    },
     {
       "id": "dab57ae6070c3e69",
       "titulo": "Mensaje al Barça: \"Ya me han ofrecido 14 millones por Jorge Salinas y hemos dicho que no\"",
@@ -5297,19 +5310,6 @@
       "fecha": "2026-07-13T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-13T05:10:50.656120"
-    },
-    {
-      "id": "788c701cd46f3b43",
-      "titulo": "Estos son los cracks de futuro que trabajarán con Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004205816/son-cracks-futuro-trabajaran-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-13T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-13T05:10:50.656304"
     }
   ]
 }
