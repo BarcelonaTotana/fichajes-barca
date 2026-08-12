@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-12T07:00:59.431094Z",
+  "actualizado": "2026-08-12T07:13:11.105804Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -112,6 +112,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "1d16f821d5dc77fb",
+      "titulo": "Ferran, único ausente en la vuelta de los campeones del mundo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260812/1004215312/ferran-unico-ausente-vuelta-campeones-mundo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-12T06:47:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-12T07:12:13.179511"
+    },
     {
       "id": "924f119a2e2d2563",
       "titulo": "Sigue el tira y afloja entre el City y el Barça por Rodri",
@@ -5298,19 +5311,6 @@
       "fecha": "2026-07-13T14:28:58",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-13T14:40:53.754589"
-    },
-    {
-      "id": "c1ea4288e4fe7688",
-      "titulo": "Oscar estuvo a punto de llegar al Barça: “Intentaron ficharme para que jugara gratis”",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004206060/oscar-revela-estuvo-punto-llegar-barca-intentaron-ficharme-jugara-gratis.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-13T14:28:58",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-13T17:40:55.998226"
     }
   ]
 }
