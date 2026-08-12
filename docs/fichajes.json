@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-12T17:01:40.974514Z",
-  "total": 397,
+  "actualizado": "2026-08-12T17:10:34.773348Z",
+  "total": 398,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -113,6 +113,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "89a3ff396092858d",
+      "titulo": "Se cae la opción Vlahovic: ya tiene equipo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260812/1004215476/cae-opcion-vlahovic-equipo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-12T16:45:58",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-12T17:10:30.970430"
+    },
     {
       "id": "5b3ef3334219d5ed",
       "titulo": "El agente de Koundé, en la Ciutat Esportiva",
