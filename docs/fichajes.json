@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-12T12:23:06.914677Z",
+  "actualizado": "2026-08-12T12:30:53.350299Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -241,6 +241,19 @@
       "fecha": "2026-08-11T14:07:24",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-11T14:20:32.741295"
+    },
+    {
+      "id": "dd2dce6a56fc2cf9",
+      "titulo": "Adrián Liso jugará en el Mallorca: cesión con compra obligatoria en caso de ascenso de alrededor de 3 millones para el Real Zaragoza",
+      "enlace": "https://www.sport.es/es/noticias/futbol/adrian-liso-jugara-mallorca-cesion-133268369?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-11T14:07:24",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-12T12:30:50.943049"
     },
     {
       "id": "dab57ae6070c3e69",
@@ -5298,19 +5311,6 @@
       "fecha": "2026-07-13T16:08:02",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-13T16:11:04.434017"
-    },
-    {
-      "id": "2b39f705d5552328",
-      "titulo": "Nuevo refuerzo para el FC Barcelona",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnhSVXE4WmFwZFhoTWJtVm5jZkZMNk5yRmlMSDgyMURydkVUcGoyMDVYUmU3YW5HNFhodkZIVjBBM1VkTEVqdms1T3hJSjBfYVlhajMwUFhGektFeWR6QjdLM1MwOTZndXgzVXFyMk5iYXJQNzFBTHZMMWpVWFNjWkRmQXBKbm0z?oc=5",
-      "medio": "Fichajes.com",
-      "tier": 5,
-      "tier_etiqueta": "Ruido / clickbait",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-13T15:57:40",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-13T16:01:20.279838"
     }
   ]
 }
