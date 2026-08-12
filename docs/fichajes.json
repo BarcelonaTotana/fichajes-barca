@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-12T22:40:34.822765Z",
-  "total": 394,
+  "actualizado": "2026-08-12T22:53:02.114652Z",
+  "total": 393,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5221,19 +5221,6 @@
       "fecha": "2026-07-13T23:00:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-16T20:40:34.071013"
-    },
-    {
-      "id": "a43d74d0bc403ab0",
-      "titulo": "Josué Caicedo ficha por el FC Barcelona Atlètic: así fue el acuerdo con Liga de Quito",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjJHaXFfWE1qRWMwMHFBMGdJVjlIUm9ySW5kU3k1V204aGRaNEY3VWZpSWJRNXNqeEoxTmhpamhlY01lZWxETGFIOUN1T0tzbmZFNnpUZXVfVlREOTVMZVoxbENvdjVlaVFiaGgxVjJVYVhBWFRKRGwzVDlNanJUQmYtZDMtV0Y1NnFlSW10WVRZUTRXZFdaWE9MNmlDY3Fka3RhdDR2OVRBUzI5bHJ5RlMxZw?oc=5",
-      "medio": "extra.ec",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-13T22:49:45",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-13T23:01:07.990472"
     }
   ]
 }
