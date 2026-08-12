@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-12T22:30:49.976127Z",
-  "total": 393,
+  "actualizado": "2026-08-12T22:39:27.643351Z",
+  "total": 394,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -113,6 +113,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "08e3774053b35b3c",
+      "titulo": "Vlahovic acaba con su espera y aterriza en Estambul como un ídolo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215561/vlahovic-acaba-espera-aterriza-estambul-idolo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-12T22:11:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-12T22:39:22.412254"
+    },
     {
       "id": "8360cf5dca2e5394",
       "titulo": "Ni Balde ni Jofre Torrents ni Xavi Espart: el nuevo lateral del Barça con ficha del filial que amenaza a Cancelo",
