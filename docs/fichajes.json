@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-12T18:30:45.701396Z",
-  "total": 399,
+  "actualizado": "2026-08-12T18:40:36.791483Z",
+  "total": 398,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5286,19 +5286,6 @@
       "fecha": "2026-07-13T18:45:25",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-13T19:01:16.578836"
-    },
-    {
-      "id": "d35950099b405611",
-      "titulo": "Los Kluivert confirman que hay brecha generacional en los fans",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004206168/kluivert-confirman-hay-brecha-generacional-fans.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-13T18:38:28",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-13T19:10:54.698025"
     }
   ]
 }
