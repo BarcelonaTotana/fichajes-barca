@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-12T18:50:31.247583Z",
-  "total": 398,
+  "actualizado": "2026-08-12T19:00:58.157101Z",
+  "total": 396,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5260,32 +5260,6 @@
       "fecha": "2026-07-13T19:06:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-13T20:10:59.787914"
-    },
-    {
-      "id": "7294d7e02237fbb2",
-      "titulo": "Barça ficha a Josué Caicedo: Barça Atlètic 2026/27",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFdrOWIxWHZLZUhkek9yQ09MTGxDNWNJYmg3aDZLU0JDd2JRcnA3YkNBUHprVFVFOVp4NHU4WDBaWHlUUUJfa2hycTFEbVFzSHVGb2dybk4zX1V0NTVaN2NqZ1hLYVVXTTlDQmdLZzdhSzQ0QWE0MUQ2eEl0NThYX1ZLem5ZSmZibFFja1VtOHRkRGptcExsRU5UR0I3c3JXSzJWQw?oc=5",
-      "medio": "redamazonica.org",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-13T18:56:40",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-13T19:01:16.578630"
-    },
-    {
-      "id": "a6e000524bc304cb",
-      "titulo": "El Barça cierra el fichaje de Josué Caicedo: llega a Barça Atlètic en 2026/27",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFdrOWIxWHZLZUhkek9yQ09MTGxDNWNJYmg3aDZLU0JDd2JRcnA3YkNBUHprVFVFOVp4NHU4WDBaWHlUUUJfa2hycTFEbVFzSHVGb2dybk4zX1V0NTVaN2NqZ1hLYVVXTTlDQmdLZzdhSzQ0QWE0MUQ2eEl0NThYX1ZLem5ZSmZibFFja1VtOHRkRGptcExsRU5UR0I3c3JXSzJWQw?oc=5",
-      "medio": "redamazonica.org",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-13T18:56:40",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-13T21:31:03.276493"
     }
   ]
 }
