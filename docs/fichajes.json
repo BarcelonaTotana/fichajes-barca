@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-12T15:30:48.645155Z",
+  "actualizado": "2026-08-12T15:40:32.925905Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -113,6 +113,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "5b3ef3334219d5ed",
+      "titulo": "El agente de Koundé, en la Ciutat Esportiva",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260812/1004215449/agente-kounde-ciutat-esportiva.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-12T15:21:22",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-12T15:40:27.919344"
+    },
     {
       "id": "a0f6cc383777f3a3",
       "titulo": "Rodri, caliente: la última oferta del Barça al City",
@@ -5299,19 +5312,6 @@
       "fecha": "2026-07-13T16:20:07",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-13T16:31:02.755032"
-    },
-    {
-      "id": "4497b7be3a362a08",
-      "titulo": "Oficial: el Barça ficha a la nueva joya ecuatoriana",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUhWZVI0dy15MHVZclF1SXNDS1FWc2d0ZFRzczNkYXlYZDV5MUd6ZmRlUlNoTEZ5XzNuSWFrZDhGX1QtRzRRQUNRV3lBTHBzaDBhUy1ncGF0b2wzYXFjSFZkWmk4OTJST2ZWZXNSTXVld3JSZnBnV3Q3djBqZU9QV1NhTlN6bXhWOE9MUEc5dFpGS3ky?oc=5",
-      "medio": "Fichajes.net",
-      "tier": 5,
-      "tier_etiqueta": "Ruido / clickbait",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-13T16:15:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-13T16:20:59.791151"
     }
   ]
 }
