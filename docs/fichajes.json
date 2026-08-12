@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-12T20:30:44.554167Z",
-  "total": 394,
+  "actualizado": "2026-08-12T20:40:42.322431Z",
+  "total": 393,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5221,19 +5221,6 @@
       "fecha": "2026-07-13T22:49:45",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-13T23:01:07.990472"
-    },
-    {
-      "id": "5ef9c0d06519c0d2",
-      "titulo": "Barcelona anuncia el fichaje del ecuatoriano Josué Caicedo para el filial",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaW4tMjZkTDgwMHRQRXRlcTE2ZTdnUHpSZTFzOUEzTnVBLWRUS0hwMzE0aUx3N21MSG1aclVyZXlOcm0yYW54MndIcmxUV3hDbURQSUhFSXA4NnFLeXZ6VEtrRXI1Z0VVcm1ZRzhFeHp6UDl6VUE0MlVmaXBDVU1DV1VwbXR4elJXOU40LTFhTDJwZjNMU0RXRjRkWWQ0d1hM?oc=5",
-      "medio": "elgoldigital",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-13T20:32:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-13T20:41:46.389871"
     }
   ]
 }
