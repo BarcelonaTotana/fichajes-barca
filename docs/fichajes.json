@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-12T11:01:01.525760Z",
+  "actualizado": "2026-08-12T11:10:33.606549Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -124,6 +124,19 @@
       "fecha": "2026-08-12T08:43:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-12T09:10:28.176582"
+    },
+    {
+      "id": "84a7f5ba59a70286",
+      "titulo": "Cumbre por el futuro de Marc Bernal",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260812/1004215346/cumbre-vista-marc-bernal.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-12T08:43:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-12T11:10:27.732137"
     },
     {
       "id": "1d16f821d5dc77fb",
@@ -5298,19 +5311,6 @@
       "fecha": "2026-07-13T15:15:36",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-13T15:40:56.442907"
-    },
-    {
-      "id": "c4e9378d7e1652b2",
-      "titulo": "Oficial: Josué Caicedo, cedido al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260713/1004206085/oficial-barca-ficha-josue-caicedo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-07-13T15:15:36",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-13T17:03:59.645904"
     }
   ]
 }
