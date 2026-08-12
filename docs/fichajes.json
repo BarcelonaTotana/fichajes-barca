@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-12T12:30:53.350299Z",
+  "actualizado": "2026-08-12T12:40:34.832937Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -75,6 +75,7 @@
     "8f35aa9144d84d17",
     "942698cb9b788434",
     "9edce93ae27b024e",
+    "a0f6cc383777f3a3",
     "a6a4505cce06ed66",
     "a8834e2935efb5a4",
     "ab109c4f2d31ccf8",
@@ -112,6 +113,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a0f6cc383777f3a3",
+      "titulo": "Rodri, caliente: la última oferta del Barça al City",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260812/1004215413/rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-12T12:25:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-12T12:40:29.055674"
+    },
+    {
+      "id": "9ed998625ef510d5",
+      "titulo": "Xavi, candidato a la selección de Países Bajos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260812/1004215416/xavi-candidato-seleccion-paises-bajos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-12T12:12:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-12T12:40:29.055996"
+    },
     {
       "id": "91acd95bf1de47a1",
       "titulo": "Yaakobishvili se marchará al Almería traspasado",
@@ -5285,32 +5312,6 @@
       "fecha": "2026-07-13T16:15:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-13T16:20:59.791151"
-    },
-    {
-      "id": "e84844e0fff80a93",
-      "titulo": "Oficial: Barcelona ficha al talento ecuatoriano Josué Caicedo para el Barça Atlètic",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTZxX3dKVEZjR1VBSERYNlpzY0ZDWXBXXy1tdDhYLVdPSnl2ZWJ3UTJrNXFyNTYya2k0UDZQVFBpWGswZzBIcER0SU1qNXFpcjJUN3lxS3VIaXBNVlNmdW9ybTdsbnN1blV5LXZmQjRhSjFsY0tvcEU1X0NWdzVPamhTS3h3em1pSUpDQjB5cWJ5TGxNVU5UdUdZX3pZN1psOGszN2lPZXN5ZUZHTVJVc1dNLWpYV0xhaFVJLTNtQdIBxAFBVV95cUxOeXN6cllXb0JPMldqdzllUW13a2pwU1dyOXVzcHpzdHdteExuMFctam1YTFZjTm9Sd3EzU29sak81b1B4eXJCUkFhSDFZdjN2U0V0WVg1T0xhT0NvSmVEbWhwLVJCWFFsd3lnWV8taS1pVkNFZjVXdl9NVmFNVWs4OHYtWXhBUW96RDlCUXM1Z1FZX01GekN2VFdIVDY4MFY1MFU0NnRYdDBCQnBzcFNYZ2o1TC1KTU9rbWEwREhxWUFqVDBG?oc=5",
-      "medio": "Tribuna.com",
-      "tier": 4,
-      "tier_etiqueta": "Poco fiable",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-07-13T16:12:01",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-13T18:01:21.136200"
-    },
-    {
-      "id": "9612895aba4f655b",
-      "titulo": "El lateral ecuatoriano Josué Caicedo, cedido con opción de compra al filial del Barcelona",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWjF5Q1lfOUVPX3hMWVhkMFNRVXBCWG40TDRVWDFDUWIxM2NtOGxtMEJUdU1yc21CQkdqMXV6LVdKZlFjaXVUakVKQjZkUkZqUkljTnVROFNvZ05sUVB4ZE5BeDktdnlxQnFKRFRlMTkzQ3BqSElIV2FEaHh0czVsR3ZyS242TFlWMXE0aEZBQURzUy1vVDZoVVh0NlBwNXpSaEFVUzZlOHpieDBELWxoRlhvTjBWemN3bjFqck5EcllZb3ZwOU5hY0ZqSEFCUHNsYnFIUHV4Z9IB8gFBVV95cUxPR0pBRTRyTnMxV0JGa1lmajNqeUZTVXFCOWEzYXBETTJYb3NmRmswTlBvd2RmUUF4SG5ZUFFlOFRTbldEX0hWOHFtaEZGQkJzb3JuUUNPc2NuM2s2Ry00Vjl0NDkyS2Jxcmg1R2tmajVoOThQTEV4SEktQ2dHUGtCWFFkLUVLVUlIR1o1YVhoelE0XzljdHdxaV9LY3BBQ1ZOV1dfVFZWY0xQOHNJS0pBZVcwTHFma1B4aTBrQUJsQnluY3JvQzV2c1JKb1JXSEJLRFNWX2pTTGhsX0tYalI0dzZwLVNra1ZRZ0xOeEo5X09lZw?oc=5",
-      "medio": "Infobae",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-13T16:08:02",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-13T16:11:04.434017"
     }
   ]
 }
