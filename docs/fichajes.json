@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-12T18:40:36.791483Z",
+  "actualizado": "2026-08-12T18:50:31.247583Z",
   "total": 398,
   "cerradas": [
     "alex campos",
@@ -113,6 +113,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "8360cf5dca2e5394",
+      "titulo": "Ni Balde ni Jofre Torrents ni Xavi Espart: el nuevo lateral del Barça con ficha del filial que amenaza a Cancelo",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa1p1cl8zWUhqZ0dsY1g1bzg5WktvWS1EX3hPd1JwcXRtMmVmTjhmdS1xNFlNU0ZjZWdsWlE3MXRJZjBIeUJUY1o3NXlDaXNPUnp1MXRHRC13ejNpRFZ6ZWJ6aFJRUm95TURGVTdtNmVkaFlKUnJQUU9WOFY1NWtFY1VIcnd2WlFNV0xhWTZveU1pWHV5UlhodkEzZlhFSnR2Wkd2OEtJNFBWdEFwajFPdHNTdVZuTTVhNWxqNnF1cm5jZXdocTdSYmRtRG15cTFsSFHSAdIBQVVfeXFMTmtadXJfM1lIamdHbGNYNW84OVpLb1ktRF94T3dScHF0bTJlZk44ZnUtcTRZTVNGY2VnbFpRNzF0SWYwSHlCVGNaNzV5Q2lzT1J6dTF0R0Qtd3ozaURWemViemhSUVJveU1ERlU3bTZlZGhZSlJyUFFPVjhWNTVrRWNVSHJ3dlpRTVdMYVk2b3lNaVh1eVJYaHZBM2ZYRUp0dlpHdjhLSTRQVnRBcGoxT3RzU3VWbk01YTVsajZxdXJuY2V3aHE3UmJkbURteXExbEhR?oc=5",
+      "medio": "cronicaglobal.elespanol.com",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-12T17:49:42",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-08-12T18:50:30.228117"
+    },
     {
       "id": "31de94f58128739b",
       "titulo": "Roony Bardghji pasa por el quirófano",
@@ -5273,19 +5286,6 @@
       "fecha": "2026-07-13T18:56:40",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-13T21:31:03.276493"
-    },
-    {
-      "id": "7971057224ab4dfc",
-      "titulo": "El Barcelona confirma el fichaje de la joven promesa Josué Caicedo",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWTB0OWk0MWRPYmZ0aDc1S1pYV1BFSkFfZFJGcXhZeGZSU2RlalRLNHVUcktsRmlmOVJOdURSRnFDZTVjVUNuSHFwM3V5S3NZcm5LczFOZ2VvSGxVR05HM0RfU1lYRkszM1VnMkhnVG52NkJVNWo5OHIyTldZd1IxWEs1V3RRNk9IRzgzTmhQQ2lodThFLWVjVDNXN0h5VE1XM1o2X21MQVNldHdPa1poRlVPMXZsc1djMHVPX2JuRQ?oc=5",
-      "medio": "Goal.com",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-13T18:45:25",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-13T19:01:16.578836"
     }
   ]
 }
