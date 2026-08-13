@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-13T17:30:49.010966Z",
-  "total": 394,
+  "actualizado": "2026-08-13T17:40:37.313814Z",
+  "total": 396,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -71,6 +71,7 @@
     "8223abe13077336f",
     "831ffdba8f3957f2",
     "836ef578c7088a31",
+    "8546c636ca829652",
     "895a78b03cb87710",
     "8b4dc1648da51d1b",
     "8f35aa9144d84d17",
@@ -115,6 +116,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "4fdd868a2332548b",
+      "titulo": "Cifran en 5 millones de libras la diferencia Barça-City por Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215771/cifran-5-millones-libras-diferencia-barca-city-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-13T17:05:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T17:40:31.761879"
+    },
     {
       "id": "e819651ee7e71c42",
       "titulo": "La renovación de Pedro Villar, encarrilada",
@@ -244,6 +258,19 @@
       "fecha": "2026-08-13T09:06:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T09:40:34.239346"
+    },
+    {
+      "id": "8546c636ca829652",
+      "titulo": "El City rechaza la segunda oferta del Barça por Rodri y tensa la cuerda",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215636/manchester-city-rechaza-segunda-oferta-barca-rodri-tensa-cuerda.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-13T09:06:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T17:40:31.763824"
     },
     {
       "id": "91fdd27e64869fe8",
