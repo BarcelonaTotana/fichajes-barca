@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-13T21:00:57.451252Z",
+  "actualizado": "2026-08-13T21:10:31.870730Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -116,6 +116,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e7b5fc515c7f2b3f",
+      "titulo": "Mercato caliente: El traspaso de Ferran al PSG, Rodri y Julián",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215815/mercato-caliente-traspaso-ferran-psg-rodri-julian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-13T20:52:01",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T21:10:26.591847"
+    },
     {
       "id": "12007ea71c7a71f6",
       "titulo": "LaLiga EA Sports reactiva su mercado: Ferran Torres, Unal, Hidalgo, Mojica...",
@@ -5302,19 +5315,6 @@
       "fecha": "2026-07-15T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-15T05:40:49.146525"
-    },
-    {
-      "id": "4379b66e1791997c",
-      "titulo": "Oficial: Greenwood se le escapa definitivamente al Atlético",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260715/1004206566/oficial-greenwood-le-escapa-definitivamente-atletico.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-14T22:36:03",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-07-14T23:30:56.553579"
     }
   ]
 }
