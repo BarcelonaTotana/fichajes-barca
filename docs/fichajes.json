@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-13T10:30:47.953035Z",
-  "total": 393,
+  "actualizado": "2026-08-13T10:40:36.746142Z",
+  "total": 395,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -104,6 +104,7 @@
     "dab57ae6070c3e69",
     "e3a94229afba7283",
     "e6801ae14559f1b4",
+    "ea808076b691ebf8",
     "ed20b49c576f59d0",
     "edf6a2c3c27df9b6",
     "eea11ae24a1b3e53",
@@ -114,6 +115,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "31cc3e03b02a1e91",
+      "titulo": "Casemiro se deshace en elogios ante Messi: \"Es tan grande, el mejor de la historia. Hay que quitarse el sombrero y decirle 'gracias'\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/casemiro-deshace-elogios-messi-mejor-de-la-historia-inter-miami-futbol-133325342?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-13T10:37:05",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-13T10:40:33.719834"
+    },
+    {
+      "id": "ea808076b691ebf8",
+      "titulo": "Belletti presenta al nuevo 'staff' técnico del Barça Atlètic",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215662/belletti-presenta-nuevo-staff-tecnico-barca-atletic.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-08-13T10:28:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T10:40:30.640733"
+    },
     {
       "id": "391dba3d365a3b26",
       "titulo": "Pep Chavarría, la apuesta más fructífera de Lalo Arantegui",
