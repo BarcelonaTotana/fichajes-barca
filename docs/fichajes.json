@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-13T12:01:01.599158Z",
-  "total": 397,
+  "actualizado": "2026-08-13T12:02:10.355712Z",
+  "total": 399,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -115,6 +115,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e96ab618b58f106e",
+      "titulo": "Ferran: recta final hacia el PSG",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215685/ferran-recta-final-psg.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-13T11:56:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T12:02:05.136972"
+    },
+    {
+      "id": "cdc6c48f3c6200c0",
+      "titulo": "Posible destino para Tommy Marqués",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215686/posible-nuevo-destino-tommy-marques.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-13T11:38:16",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T12:02:05.137123"
+    },
     {
       "id": "23e0e7a054e5c571",
       "titulo": "La Barça Academy tendrá representación en Túnez",
