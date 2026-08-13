@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-13T16:30:49.379425Z",
+  "actualizado": "2026-08-13T16:38:40.277589Z",
   "total": 394,
   "cerradas": [
     "alex campos",
@@ -115,6 +115,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e819651ee7e71c42",
+      "titulo": "La renovación de Pedro Villar, encarrilada",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215756/renovacion-pedro-villar-encarrilada.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-13T16:15:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T16:38:34.288153"
+    },
     {
       "id": "e96ab618b58f106e",
       "titulo": "Ferran: recta final hacia el PSG",
@@ -5223,19 +5236,6 @@
       "fecha": "2026-07-14T18:09:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-14T18:40:55.267260"
-    },
-    {
-      "id": "e41d61869a967225",
-      "titulo": "Si Casadó sale, Tommy Marqués ocuparía su lugar",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260714/1004206464/casado-sale-tommy-marques-ocuparia-lugar.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-14T16:31:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-14T17:10:58.065041"
     }
   ]
 }
