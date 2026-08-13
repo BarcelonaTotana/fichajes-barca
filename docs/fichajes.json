@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-13T11:30:46.222838Z",
-  "total": 395,
+  "actualizado": "2026-08-13T11:40:34.608121Z",
+  "total": 397,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -115,6 +115,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "23e0e7a054e5c571",
+      "titulo": "La Barça Academy tendrá representación en Túnez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215680/barca-academy-tendra-representacion-tunez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-13T11:16:46",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T11:40:29.657960"
+    },
+    {
+      "id": "550211e0bb2d9410",
+      "titulo": "La Supercopa de España se jugará en Turquía",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215677/supercopa-espana-jugara-turquia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-13T11:14:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T11:40:29.658256"
+    },
     {
       "id": "31cc3e03b02a1e91",
       "titulo": "Casemiro se deshace en elogios ante Messi: \"Es tan grande, el mejor de la historia. Hay que quitarse el sombrero y decirle 'gracias'\"",
