@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-13T22:20:32.021246Z",
+  "actualizado": "2026-08-13T22:30:50.692463Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -375,6 +375,19 @@
       "fecha": "2026-08-13T08:33:22",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T09:10:37.415395"
+    },
+    {
+      "id": "6f9cdb6da5260249",
+      "titulo": "Cara y cruz con las dos grandes joyas del Barça B: ascenso al primer equipo y salida inminente",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObWNRSkFLelZZdkJwTm9JZHFCRVJYYldFU29jWTNDbUNBOHpKRkpGQk9lUDMxWU5HMFVINWg3RjVCMFRiUm9ZRUl5ZTJudHFyY3ZmclFXQjI2dG9tVTVPbWF2b3NHWnJBcFl6NlN1YVF5NTZBQVphV1l0ZWpZZ0txa0pYcThkRWIybVRxZDZFY0FMbG9sNENJNFdFNkVXVWc3ZEVIeVQzYXFqNzhoTk9YVlE3V0ZqcF9lTXNBbmJPaWxyZDhEVlJabE1yZmVXM0Q1dDNIdTZvTkpoN2s30gHcAUFVX3lxTE5tY1FKQUt6Vll2QnBOb0lkcUJFUlhiV0VTb2NZM0NtQ0E4ekpGSkZCT2VQMzFZTkcwVUg1aDdGNUIwVGJSb1lFSXllMm50cXJjdmZyUVdCMjZ0b21VNU9tYXZvc0dackFwWXo2U3VhUXk1NkFBWmFXWXRlallnS3FrSlhxOGRFYjJtVHFkNkVjQUxsb2w0Q0k0V0U2RVdVZzdkRUh5VDNhcWo3OGhOT1hWUTdXRmpwX2VNc0FuYk9pbHJkOERWUlpsTXJmZVczRDV0M0h1Nm9OSmg3azc?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-13T08:29:52",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-08-13T22:30:49.672815"
     },
     {
       "id": "08e3774053b35b3c",
@@ -5302,19 +5315,6 @@
       "fecha": "2026-07-15T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-15T05:40:49.146354"
-    },
-    {
-      "id": "91ab20f0c70ca2fc",
-      "titulo": "El United quiso incluir a Bernal en 'la operación Rashford'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206458/united-incluyo-bernal-operacion-rashford.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-15T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-15T05:40:49.146525"
     }
   ]
 }
