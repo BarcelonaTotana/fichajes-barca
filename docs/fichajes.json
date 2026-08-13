@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-13T19:30:48.818187Z",
+  "actualizado": "2026-08-13T19:40:34.753593Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -128,6 +128,19 @@
       "fecha": "2026-08-13T19:15:35",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-13T19:30:46.383407"
+    },
+    {
+      "id": "fe5091614c88c1fc",
+      "titulo": "El PSG le ha pagado al Barça 333 millones en fichajes en el último decenio",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215803/psg-le-pagado-barca-333-millones-fichajes-ultimo-decenio.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-13T19:14:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T19:40:29.111502"
     },
     {
       "id": "331ca5d6e08fb123",
@@ -5302,19 +5315,6 @@
       "fecha": "2026-07-14T22:36:03",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-07-14T23:30:56.553579"
-    },
-    {
-      "id": "dd3b69f62f8a7494",
-      "titulo": "Casadó: \"Me quiero quedar; si alguien no quiere, que me lo diga\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206562/casado-me-quiero-quedar-alguien-no-quiere-me-diga.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-14T22:15:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-14T22:40:51.286794"
     }
   ]
 }
