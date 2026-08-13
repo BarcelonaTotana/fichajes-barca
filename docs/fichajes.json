@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-13T09:30:44.929176Z",
-  "total": 390,
+  "actualizado": "2026-08-13T09:40:40.718146Z",
+  "total": 392,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -45,6 +45,7 @@
     "3fdddeb97e3bd4a4",
     "40c7579b1923fccf",
     "4350d89f43a19914",
+    "44f3d9ace54808e4",
     "468a8f69c2850cce",
     "48df898ce25b7861",
     "4a9825affa03580e",
@@ -113,6 +114,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "bd33906cfb25c8a9",
+      "titulo": "Héctor Fort lo tiene claro: traspaso y objetivo Premier League",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215643/hector-fort-claro-traspaso-objetivo-premier-league.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-13T09:18:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T09:40:34.239066"
+    },
+    {
+      "id": "44f3d9ace54808e4",
+      "titulo": "El Manchester City rechaza la segunda oferta del Barça por Rodri y tensa la cuerda",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215636/manchester-city-rechaza-segunda-oferta-barca-rodri-tensa-cuerda.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-13T09:06:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T09:40:34.239346"
+    },
     {
       "id": "91fdd27e64869fe8",
       "titulo": "Ferran no se entrena con el Barça por segundo día consecutivo",
