@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-13T22:30:50.692463Z",
+  "actualizado": "2026-08-13T22:40:33.372419Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -116,6 +116,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "152df101a252286c",
+      "titulo": "Rodri, 'cazado' de regreso a Manchester",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004215863/rodri-cazado-regreso-manchester.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-13T22:16:29",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T22:40:27.576105"
+    },
     {
       "id": "e7b5fc515c7f2b3f",
       "titulo": "Mercato caliente: El traspaso de Ferran al PSG, Rodri y Julián",
@@ -5302,19 +5315,6 @@
       "fecha": "2026-07-15T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-15T05:40:49.146146"
-    },
-    {
-      "id": "ab46a2d8b5084655",
-      "titulo": "Ferran, el único del 'plan renove' de Deco que se resiste",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206481/ferran-unico-plan-renove-deco-resiste.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-15T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-15T05:40:49.146354"
     }
   ]
 }
