@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-13T09:00:55.967698Z",
-  "total": 389,
+  "actualizado": "2026-08-13T09:10:42.894467Z",
+  "total": 390,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -113,6 +113,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "91fdd27e64869fe8",
+      "titulo": "Ferran no se entrena con el Barça por segundo día consecutivo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215630/ferran-no-entrena-barca-segundo-dia-consecutivo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-13T08:33:22",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T09:10:37.415395"
+    },
     {
       "id": "08e3774053b35b3c",
       "titulo": "Vlahovic acaba con su espera y aterriza en Estambul como un ídolo",
