@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-13T10:20:33.850943Z",
-  "total": 392,
+  "actualizado": "2026-08-13T10:30:47.953035Z",
+  "total": 393,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -114,6 +114,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "391dba3d365a3b26",
+      "titulo": "Pep Chavarría, la apuesta más fructífera de Lalo Arantegui",
+      "enlace": "https://www.sport.es/es/noticias/futbol/pep-chavarria-apuesta-fructifera-lalo-133325669?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-13T10:21:48",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-13T10:30:45.566871"
+    },
     {
       "id": "bd33906cfb25c8a9",
       "titulo": "Héctor Fort lo tiene claro: traspaso y objetivo Premier League",
