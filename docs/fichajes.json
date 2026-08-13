@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-13T16:01:01.362668Z",
-  "total": 396,
+  "actualizado": "2026-08-13T16:10:34.340794Z",
+  "total": 395,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5249,19 +5249,6 @@
       "fecha": "2026-07-14T16:28:10",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-07-14T23:01:00.682773"
-    },
-    {
-      "id": "d2c7e221f71bf970",
-      "titulo": "La progresión de Gerard Martín varía el plan de fichajes de Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260714/1004206459/progresion-gerard-martin-varia-plan-fichajes-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-14T16:09:21",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-14T16:40:51.474933"
     }
   ]
 }
