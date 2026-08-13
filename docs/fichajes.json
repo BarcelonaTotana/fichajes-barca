@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-13T18:20:34.250308Z",
-  "total": 396,
+  "actualizado": "2026-08-13T18:33:22.158352Z",
+  "total": 397,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -116,6 +116,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "2f622b6ad66fe25a",
+      "titulo": "Julián lo lucha",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215796/julian-lucha.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-13T18:18:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-13T18:32:24.744632"
+    },
     {
       "id": "4615fcec122448e0",
       "titulo": "Ferran Torres, venta cerrada por casi 50 millones",
