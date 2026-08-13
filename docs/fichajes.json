@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-13T19:20:34.144916Z",
-  "total": 399,
+  "actualizado": "2026-08-13T19:30:48.818187Z",
+  "total": 400,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -116,6 +116,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "12007ea71c7a71f6",
+      "titulo": "LaLiga EA Sports reactiva su mercado: Ferran Torres, Unal, Hidalgo, Mojica...",
+      "enlace": "https://www.sport.es/es/noticias/futbol/laliga-ea-sports-reactiva-mercado-133342560?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-13T19:15:35",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-13T19:30:46.383407"
+    },
     {
       "id": "331ca5d6e08fb123",
       "titulo": "Las consecuencias económicas del traspaso de Ferran",
