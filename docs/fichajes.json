@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T13:50:34.129902Z",
-  "total": 396,
+  "actualizado": "2026-08-14T14:00:58.191134Z",
+  "total": 395,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5252,19 +5252,6 @@
       "fecha": "2026-07-15T14:47:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-15T15:10:54.203504"
-    },
-    {
-      "id": "3916dd3ee8186767",
-      "titulo": "En el Barça gusta 'Cuti' Romero pero ser diestro no le ayuda",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206782/barca-gusta-cuti-romero-diestro-no-le-ayuda.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-15T14:00:58",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-15T14:10:54.610714"
     }
   ]
 }
