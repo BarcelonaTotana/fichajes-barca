@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T22:30:28.296095Z",
-  "total": 394,
+  "actualizado": "2026-08-14T22:40:38.200482Z",
+  "total": 395,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -118,6 +118,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d163ee6e481794c6",
+      "titulo": "El Barça no tiene dudas con Julián ni con Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216156/barca-no-dudas-julian-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-14T22:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-14T22:40:32.988733"
+    },
     {
       "id": "c34f08b7749fe1c4",
       "titulo": "Abde, alternativa a Martinelli para el Galatasaray",
