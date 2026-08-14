@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-14T18:30:51.093307Z",
+  "actualizado": "2026-08-14T18:40:33.181742Z",
   "total": 393,
   "cerradas": [
     "alex campos",
@@ -118,6 +118,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "3f60d856000b9334",
+      "titulo": "Ferran estrena mural en Foios mientras espera estrenar ya nuevo club",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004216118/ferran-estrena-mural-foios-espera-estrenar-nuevo-club.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-14T18:06:29",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-14T18:40:27.675758"
+    },
     {
       "id": "548f9f28d73746a4",
       "titulo": "Van Bronckhorst: \"Es un placer ver a Xavi con nuestra selección\"",
@@ -5213,19 +5226,6 @@
       "fecha": "2026-07-16T04:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T18:10:27.579716"
-    },
-    {
-      "id": "c7b6afa950d9b7b3",
-      "titulo": "Sorpresa: Cardoso Varela, que estuvo en la lista culé, vuelve al Porto",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206876/cardoso-varela-intereso-barca-vuelve-porto.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-15T18:40:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-15T19:10:56.163116"
     }
   ]
 }
