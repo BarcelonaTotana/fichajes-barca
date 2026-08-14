@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T08:33:16.557982Z",
-  "total": 400,
+  "actualizado": "2026-08-14T08:40:36.037204Z",
+  "total": 399,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5303,19 +5303,6 @@
       "fecha": "2026-07-15T10:23:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-15T10:40:51.878145"
-    },
-    {
-      "id": "de905b69d4de977d",
-      "titulo": "Adeyemi llega hoy y mañana, revisión médica",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206635/adeyemi-llega-hoy-manana-revision-medica.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-15T08:35:25",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-15T09:10:56.291137"
     }
   ]
 }
