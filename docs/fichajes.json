@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T14:50:34.195980Z",
-  "total": 395,
+  "actualizado": "2026-08-14T15:01:03.999880Z",
+  "total": 394,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5239,19 +5239,6 @@
       "fecha": "2026-07-15T16:03:51",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-15T16:40:53.168684"
-    },
-    {
-      "id": "4f8299454254f7e5",
-      "titulo": "Adeyemi llega a Barcelona cargado de ilusión",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206792/adeyemi-llega-barcelona-cargado-ilusion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-15T14:57:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-15T15:10:54.203151"
     }
   ]
 }
