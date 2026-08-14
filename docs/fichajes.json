@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T14:00:58.191134Z",
-  "total": 395,
+  "actualizado": "2026-08-14T14:10:34.821896Z",
+  "total": 396,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -118,6 +118,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "aaea5411576afbf2",
+      "titulo": "Plan específico para Pedri en su vuelta al trabajo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004216041/plan-especifico-pedri-vuelta-trabajo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-14T13:44:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-14T14:10:29.331615"
+    },
     {
       "id": "1567e55836f60ac1",
       "titulo": "Òscar Mingueza explica cómo fue su fichaje con el Barça: \"Mi padre me dijo: 'el Barça quiere que vayas a hacer las pruebas', y yo le dije no, yo me quedo aquí con mis amigos\"",
