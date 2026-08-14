@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T14:40:35.043437Z",
-  "total": 396,
+  "actualizado": "2026-08-14T14:50:34.195980Z",
+  "total": 395,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5252,19 +5252,6 @@
       "fecha": "2026-07-15T14:57:31",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-15T15:10:54.203151"
-    },
-    {
-      "id": "942698cb9b788434",
-      "titulo": "Laporte, ofrecido al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206799/laporte-ofrecido-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-15T14:47:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-15T15:10:54.203504"
     }
   ]
 }
