@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-14T11:30:48.677615Z",
+  "actualizado": "2026-08-14T11:43:12.696163Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -143,6 +143,19 @@
       "fecha": "2026-08-14T09:35:10",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-14T10:10:27.705223"
+    },
+    {
+      "id": "1e508526ca7eabd5",
+      "titulo": "Vinculan a Luis Suárez (Sporting CP) con el Barça y el club lo niega",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004215957/luis-suarez-sporting-cp-alternativa-nueve-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-14T09:35:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-14T11:42:13.257721"
     },
     {
       "id": "453094db5a144892",
@@ -5304,19 +5317,6 @@
       "fecha": "2026-07-15T12:23:03",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-07-15T13:40:56.475032"
-    },
-    {
-      "id": "47e489b21975375c",
-      "titulo": "Aubameyang, muy cerca de regresar a un equipo de LaLiga",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260715/1004206733/aubameyang-cerca-regresar-equipo-laliga.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-15T12:19:15",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-07-15T12:50:53.774446"
     }
   ]
 }
