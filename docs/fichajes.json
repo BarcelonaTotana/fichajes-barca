@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T17:40:41.382577Z",
-  "total": 394,
+  "actualizado": "2026-08-14T17:50:34.019372Z",
+  "total": 393,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5226,19 +5226,6 @@
       "fecha": "2026-07-15T18:40:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-15T19:10:56.163116"
-    },
-    {
-      "id": "853b04b7085e103f",
-      "titulo": "El Barça completa la segunda sesión a la espera de sumar a Adeyemi",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206865/barca-completa-segunda-sesion-espera-sumar-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-15T17:50:06",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-15T18:10:51.328782"
     }
   ]
 }
