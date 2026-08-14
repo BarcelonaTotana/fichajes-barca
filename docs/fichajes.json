@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T18:40:33.181742Z",
-  "total": 393,
+  "actualizado": "2026-08-14T18:50:35.508649Z",
+  "total": 394,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -118,6 +118,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c34f08b7749fe1c4",
+      "titulo": "Abde, alternativa a Martinelli para el Galatasaray",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260814/1004216122/abde-alternativa-martinelli-galatasaray.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-14T18:16:02",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-14T18:50:31.802724"
+    },
     {
       "id": "3f60d856000b9334",
       "titulo": "Ferran estrena mural en Foios mientras espera estrenar ya nuevo club",
