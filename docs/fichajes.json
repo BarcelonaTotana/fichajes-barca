@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-14T04:30:47.418983Z",
+  "actualizado": "2026-08-14T04:40:33.852859Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -46,6 +46,7 @@
     "40c7579b1923fccf",
     "4350d89f43a19914",
     "44f3d9ace54808e4",
+    "453094db5a144892",
     "468a8f69c2850cce",
     "48df898ce25b7861",
     "4a9825affa03580e",
@@ -116,6 +117,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "453094db5a144892",
+      "titulo": "Julián no se rinde en su sueño de fichar por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004215870/julian-no-rinde-sueno-fichar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-14T04:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-14T04:40:27.687112"
+    },
     {
       "id": "d1ecdf720d6222bc",
       "titulo": "El traspaso de Ferran puede acercar a Rodri",
@@ -5302,19 +5316,6 @@
       "fecha": "2026-07-15T08:35:25",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-15T12:40:57.593649"
-    },
-    {
-      "id": "fb0849ae6e851d8e",
-      "titulo": "Así es el restaurante de Ander Herrera en pleno centro de Zaragoza: cocina tradicional, diseño moderno y alma zaragocista",
-      "enlace": "https://www.sport.es/es/noticias/futbol/restaurante-ander-herrera-pleno-centro-132463391?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-15T05:00:40",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-07-15T05:10:54.989812"
     }
   ]
 }
