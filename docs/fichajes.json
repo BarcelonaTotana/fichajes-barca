@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T17:01:02.152131Z",
-  "total": 393,
+  "actualizado": "2026-08-14T17:10:33.057773Z",
+  "total": 394,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -118,6 +118,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "548f9f28d73746a4",
+      "titulo": "Van Bronckhorst: \"Es un placer ver a Xavi con nuestra selección\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004216083/bronckhorst-placer-ver-xavi-nuestra-seleccion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-14T16:42:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-14T17:10:27.958864"
+    },
     {
       "id": "aaea5411576afbf2",
       "titulo": "Plan específico para Pedri en su vuelta al trabajo",
