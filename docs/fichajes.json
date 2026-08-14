@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T10:20:37.452129Z",
-  "total": 400,
+  "actualizado": "2026-08-14T10:30:49.238405Z",
+  "total": 399,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5303,19 +5303,6 @@
       "fecha": "2026-07-15T12:19:15",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-07-15T12:50:53.774446"
-    },
-    {
-      "id": "836ef578c7088a31",
-      "titulo": "El Barça sólo pone a la venta entradas VIP en Liga hasta Navidad",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260715/1004206673/barca-pone-venta-entradas-vip-liga-navidad.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-15T10:23:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-15T10:40:51.878145"
     }
   ]
 }
