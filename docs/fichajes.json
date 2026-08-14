@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T10:00:56.493026Z",
-  "total": 399,
+  "actualizado": "2026-08-14T10:10:32.960779Z",
+  "total": 400,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -117,6 +117,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a721bfbba6c662bc",
+      "titulo": "Luis Suárez (Sporting CP), otra alternativa para el 'nueve' del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004215957/luis-suarez-sporting-cp-alternativa-nueve-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-14T09:35:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-14T10:10:27.705223"
+    },
     {
       "id": "453094db5a144892",
       "titulo": "Julián no se rinde en su sueño de fichar por el Barça",
