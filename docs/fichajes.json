@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-14T11:00:55.822841Z",
-  "total": 399,
+  "actualizado": "2026-08-14T11:10:31.644850Z",
+  "total": 400,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -24,6 +24,7 @@
     "10c093e3e5f4eedd",
     "10ecb8140963287e",
     "12104adbc07a780e",
+    "1567e55836f60ac1",
     "158ac38fd80cae55",
     "158c66cbb29b7567",
     "15e1138a42f69040",
@@ -117,6 +118,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "1567e55836f60ac1",
+      "titulo": "Òscar Mingueza explica cómo fue su fichaje con el Barça: \"Mi padre me dijo: 'el Barça quiere que vayas a hacer las pruebas', y yo le dije no, yo me quedo aquí con mis amigos\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/oscar-mingueza-explica-fichaje-barca-infancia-133356442?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-14T11:00:06",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-14T11:10:28.850236"
+    },
     {
       "id": "a721bfbba6c662bc",
       "titulo": "Luis Suárez (Sporting CP), otra alternativa para el 'nueve' del Barça",
