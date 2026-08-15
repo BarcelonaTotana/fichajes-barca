@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T18:00:56.915477Z",
-  "total": 388,
+  "actualizado": "2026-08-15T18:10:36.996672Z",
+  "total": 387,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5150,19 +5150,6 @@
       "fecha": "2026-07-16T19:07:23",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T19:40:27.585856"
-    },
-    {
-      "id": "ffe178a335ad0405",
-      "titulo": "Pedro Porro impresiona en Can Barça pero acaba de renovar",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207211/pedro-porro-impresiona-can-barca-acaba-renovar.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-16T18:01:07",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T18:10:27.577265"
     }
   ]
 }
