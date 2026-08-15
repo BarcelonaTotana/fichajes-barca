@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T16:10:30.545724Z",
-  "total": 388,
+  "actualizado": "2026-08-15T16:20:32.255851Z",
+  "total": 389,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -120,6 +120,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "8645d777ddd40d16",
+      "titulo": "Carlos Baleba, cerca de cambiar de equipo por un dineral",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260815/1004216348/carlos-baleba-sono-barca-cerca-cambiar-equipo-dineral.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-15T15:54:23",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-15T16:20:28.600318"
+    },
     {
       "id": "842e75b96df120b5",
       "titulo": "Con Ferran ya son cuatro los jugadores del Barça que Luis Enrique se ha llevado al PSG",
