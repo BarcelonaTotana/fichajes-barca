@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T13:30:47.391587Z",
-  "total": 386,
+  "actualizado": "2026-08-15T13:43:07.011344Z",
+  "total": 387,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -120,6 +120,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c7484134e00451b6",
+      "titulo": "El Dortmund aprieta por Héctor Fort",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216312/dortmund-aprieta-hector-fort.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-15T13:22:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-15T13:42:09.186224"
+    },
     {
       "id": "a2dcdb9c31a1be3c",
       "titulo": "Las alternativas a la falta de '9'",
