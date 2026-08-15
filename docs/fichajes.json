@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T10:30:46.544868Z",
-  "total": 391,
+  "actualizado": "2026-08-15T10:37:11.005726Z",
+  "total": 389,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5176,32 +5176,6 @@
       "fecha": "2026-07-16T10:46:32",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T20:10:26.679712"
-    },
-    {
-      "id": "dfd02dcbe2cad611",
-      "titulo": "Clubs de 5 ligas, interesados en fichar a Roony",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207039/clubs-5-ligas-interesados-fichar-roony.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-16T10:33:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T11:10:52.586080"
-    },
-    {
-      "id": "f13738c4145ad4f3",
-      "titulo": "Clubs de seis ligas, interesados en fichar a Roony",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207039/clubs-5-ligas-interesados-fichar-roony.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-16T10:33:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T17:10:27.136534"
     }
   ]
 }
