@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T21:21:02.019449Z",
-  "total": 386,
+  "actualizado": "2026-08-15T21:30:43.858659Z",
+  "total": 387,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -120,6 +120,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "487314b12e490544",
+      "titulo": "Oficial: Barça Atlètic, firma Josué Caicedo",
+      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWlCUkw0UnVsOFc4eHpGOUgzM2ZWcVNBaURNSW52dWpUQkFaUkFYQkU4MFplVXhqbkEtQzJ6d00td1pHTHJIZjgwbXRMd2lzMmhQb0JQQzdwdm50VjZXektrOWZiNmlHTDJORjRXMk9VRzhuVVBoNXhqTkUwT1VsbVhleDVEWTh3U3c?oc=5",
+      "medio": "nuevofutbol.com",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-08-15T21:18:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-08-15T21:30:42.842947"
+    },
     {
       "id": "8645d777ddd40d16",
       "titulo": "Carlos Baleba, cerca de cambiar de equipo por un dineral",
