@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T03:50:35.188543Z",
-  "total": 395,
+  "actualizado": "2026-08-15T04:00:58.228814Z",
+  "total": 390,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5187,71 +5187,6 @@
       "fecha": "2026-07-16T04:45:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T05:10:55.419198"
-    },
-    {
-      "id": "471158e04cbcbd08",
-      "titulo": "Hoy, día Karim Adeyemi",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206939/hoy-dia-karim-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-16T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T04:40:55.202721"
-    },
-    {
-      "id": "59c728190ce017cb",
-      "titulo": "Karim Adeyemi ya pasa la revisión médica con el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206939/hoy-dia-karim-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-16T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T08:10:50.362066"
-    },
-    {
-      "id": "a7757456f4001759",
-      "titulo": "Adeyemi completa la revisión médica y está a la espera de firmar",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206939/hoy-dia-karim-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-16T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T10:40:51.981083"
-    },
-    {
-      "id": "9e3a7848f5ac70f4",
-      "titulo": "Adeyemi, con el OK médico y los contratos revisados, firmará esta tarde",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206939/hoy-dia-karim-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-16T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T13:40:51.116851"
-    },
-    {
-      "id": "c4ee90bac33a708c",
-      "titulo": "La oficialidad del fichaje de Adeyemi se traslada a este viernes",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206939/hoy-dia-karim-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-16T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T18:10:27.579716"
     }
   ]
 }
