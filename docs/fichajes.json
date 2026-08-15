@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T10:10:33.476085Z",
-  "total": 392,
+  "actualizado": "2026-08-15T10:20:29.435629Z",
+  "total": 391,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5202,19 +5202,6 @@
       "fecha": "2026-07-16T10:33:23",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T17:10:27.136534"
-    },
-    {
-      "id": "0dcc3195962dd4cd",
-      "titulo": "El Barça oficializa la renovación de Àlex Campos",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207030/barca-oficializa-renovacion-alex-campos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-16T10:17:10",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T10:40:51.980061"
     }
   ]
 }
