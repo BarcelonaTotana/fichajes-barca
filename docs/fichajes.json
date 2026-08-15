@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T13:00:58.993601Z",
-  "total": 388,
+  "actualizado": "2026-08-15T13:10:33.671452Z",
+  "total": 386,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5137,32 +5137,6 @@
       "fecha": "2026-07-16T17:51:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T18:10:27.577615"
-    },
-    {
-      "id": "529c6db7279ba708",
-      "titulo": "La intrahistoria del fichaje culé de Adeyemi: la presión del jugador, clave",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207087/intrahistoria-fichaje-cule-adeyemi-presion-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-16T13:08:45",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T13:40:51.115178"
-    },
-    {
-      "id": "a61f06b12d583f46",
-      "titulo": "La intrahistoria del fichaje culé: la presión del jugador, clave",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207087/intrahistoria-fichaje-cule-adeyemi-presion-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-16T13:08:45",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T14:40:59.181005"
     }
   ]
 }
