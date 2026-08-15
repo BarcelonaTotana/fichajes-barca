@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T12:00:54.706630Z",
-  "total": 387,
+  "actualizado": "2026-08-15T12:10:32.790816Z",
+  "total": 388,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -120,6 +120,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a2dcdb9c31a1be3c",
+      "titulo": "Las alternativas a la falta de '9'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216260/alternativa-falta-9.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-15T11:57:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-15T12:10:27.600022"
+    },
     {
       "id": "c7af98a5293e1671",
       "titulo": "El Barça hace una tercera oferta por Rodri",
