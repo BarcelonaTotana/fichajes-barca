@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T17:50:35.435443Z",
-  "total": 389,
+  "actualizado": "2026-08-15T17:54:01.843629Z",
+  "total": 388,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5163,19 +5163,6 @@
       "fecha": "2026-07-16T18:01:07",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T18:10:27.577265"
-    },
-    {
-      "id": "56fdc33f742463d4",
-      "titulo": "Firma Karim Mendikanov, primer kazajo en la historia del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207206/firma-karim-mendikanov-primer-kazajo-historia-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-16T17:51:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T18:10:27.577615"
     }
   ]
 }
