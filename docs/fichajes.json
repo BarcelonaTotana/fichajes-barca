@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T19:00:59.025549Z",
-  "total": 387,
+  "actualizado": "2026-08-15T19:10:37.297547Z",
+  "total": 386,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5137,19 +5137,6 @@
       "fecha": "2026-07-17T06:53:56",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-17T07:10:27.462668"
-    },
-    {
-      "id": "0d1c8402b0a3ea51",
-      "titulo": "Andrés Cuenca, en Como para firmar contrato",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207225/andres-cuenca-firmar-contrato.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-16T19:07:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T19:40:27.585856"
     }
   ]
 }
