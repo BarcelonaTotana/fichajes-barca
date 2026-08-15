@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T14:00:56.695635Z",
-  "total": 387,
+  "actualizado": "2026-08-15T14:10:33.168873Z",
+  "total": 388,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -120,6 +120,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "842e75b96df120b5",
+      "titulo": "Con Ferran ya son cuatro los jugadores del Barça que Luis Enrique se ha llevado al PSG",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216314/ferran-torres-son-cuatro-jugadores-barca-han-puesto-rumbo-psg-luis-enrique.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-15T13:52:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-15T14:10:28.115436"
+    },
     {
       "id": "c7484134e00451b6",
       "titulo": "El Dortmund aprieta por Héctor Fort",
