@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T05:00:57.043113Z",
-  "total": 389,
+  "actualizado": "2026-08-15T05:10:27.562063Z",
+  "total": 390,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -118,6 +118,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "bca33ff1b5fb27e4",
+      "titulo": "Ferran, en París a cerrar una etapa y abrir otra",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216178/ferran-paris-cerrar-etapa-abrir.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-15T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-15T05:10:22.821189"
+    },
     {
       "id": "d163ee6e481794c6",
       "titulo": "El Barça no tiene dudas con Julián ni con Rodri",
