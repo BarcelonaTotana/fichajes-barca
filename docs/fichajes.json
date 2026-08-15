@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T04:43:58.215656Z",
-  "total": 390,
+  "actualizado": "2026-08-15T04:50:32.454049Z",
+  "total": 389,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5174,19 +5174,6 @@
       "fecha": "2026-07-16T06:26:24",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-07-16T06:40:51.334147"
-    },
-    {
-      "id": "f7289fa4108bde44",
-      "titulo": "El Barça ingresará un botín millonario por el Mundial",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004206942/barca-ingresara-botin-millonario-mundial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-16T04:45:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T05:10:55.419198"
     }
   ]
 }
