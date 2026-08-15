@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T10:40:34.106372Z",
-  "total": 389,
+  "actualizado": "2026-08-15T10:53:16.569291Z",
+  "total": 387,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5150,32 +5150,6 @@
       "fecha": "2026-07-16T13:08:45",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T14:40:59.181005"
-    },
-    {
-      "id": "a9bc6faace7f6829",
-      "titulo": "El Barcelona empezará a cobrar de la FIFA por Frenkie de Jong desde el 28 de julio",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207036/barcelona-empezara-cobrar-fifa-frenkie-jong-28-julio.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-16T10:46:32",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T11:10:52.585891"
-    },
-    {
-      "id": "498b6dcecacd8032",
-      "titulo": "El Barcelona cobrará de la FIFA por De Jong a partir de los 28 días de la lesión",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260716/1004207036/barcelona-empezara-cobrar-fifa-frenkie-jong-28-julio.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-16T10:46:32",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-16T20:10:26.679712"
     }
   ]
 }
