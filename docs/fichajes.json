@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T06:20:33.903866Z",
-  "total": 390,
+  "actualizado": "2026-08-15T06:30:47.079147Z",
+  "total": 389,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5174,19 +5174,6 @@
       "fecha": "2026-07-16T10:17:10",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-16T10:40:51.980061"
-    },
-    {
-      "id": "8d3694e48d1ef2a4",
-      "titulo": "El Córdoba CF hace oficial la continuidad de Theo Zidane: el centrocampista francés seguirá vistiendo la blanquiverde la próxima temporada",
-      "enlace": "https://www.sport.es/es/noticias/futbol/cordoba-cf-oficial-continuidad-theo-132500356?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-16T06:26:24",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-07-16T06:40:51.334147"
     }
   ]
 }
