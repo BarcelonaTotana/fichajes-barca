@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-15T09:30:47.757438Z",
-  "total": 389,
+  "actualizado": "2026-08-15T09:40:38.361064Z",
+  "total": 392,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -39,6 +39,7 @@
     "352f8451dd4e256b",
     "3916dd3ee8186767",
     "3b3868743b3b44cd",
+    "3c47891347dd1256",
     "3e1e9d7b56e10b9a",
     "3e2c4f091ab5587f",
     "3fc8e8a0d3a9d421",
@@ -93,6 +94,7 @@
     "c383845699e845be",
     "c4e9378d7e1652b2",
     "c7770ea441e9cd96",
+    "c7af98a5293e1671",
     "c9365068ea68e649",
     "c9b052bcb9c3d09b",
     "ca774448b957d12b",
@@ -118,6 +120,45 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "c7af98a5293e1671",
+      "titulo": "El Barça hace una tercera oferta por Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216246/barca-tercera-oferta-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-15T09:28:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-15T09:40:31.535665"
+    },
+    {
+      "id": "3c47891347dd1256",
+      "titulo": "Traspaso histórico de Ferran: así queda el top-10 de ventas del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004215920/traspaso-historico-ferran-asi-queda-top-10-ventas-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-15T09:28:54",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-15T09:40:31.535885"
+    },
+    {
+      "id": "3c40d5b332389dcf",
+      "titulo": "Oficial: Ferran Torres ficha por el PSG",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216236/oficial-ferran-torres-ficha-psg.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-15T09:12:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-15T09:40:31.536084"
+    },
     {
       "id": "bca33ff1b5fb27e4",
       "titulo": "Ferran, en París a cerrar una etapa y abrir otra",
