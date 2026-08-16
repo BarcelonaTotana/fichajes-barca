@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T08:30:41.840931Z",
-  "total": 389,
+  "actualizado": "2026-08-16T08:40:32.600224Z",
+  "total": 388,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5163,19 +5163,6 @@
       "fecha": "2026-07-17T08:46:42",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-17T14:40:28.007170"
-    },
-    {
-      "id": "2f08c795906992bb",
-      "titulo": "Se cumplen 30 años del fichaje de Ronaldo por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207364/cumplen-30-anos-fichaje-ronaldo-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-17T08:36:18",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-17T09:10:28.585848"
     }
   ]
 }
