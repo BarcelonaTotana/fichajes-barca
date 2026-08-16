@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T11:50:30.200673Z",
-  "total": 384,
+  "actualizado": "2026-08-16T11:57:18.605066Z",
+  "total": 383,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5098,19 +5098,6 @@
       "fecha": "2026-07-17T13:50:17",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-17T14:10:28.800846"
-    },
-    {
-      "id": "5579a77ac4aa6460",
-      "titulo": "La final del Mundial esconde historias de mercado culé",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207433/historias-mercado-cule-final-mundial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-17T11:52:47",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-17T12:10:30.390395"
     }
   ]
 }
