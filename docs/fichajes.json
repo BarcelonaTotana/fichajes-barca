@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T08:00:54.594319Z",
-  "total": 388,
+  "actualizado": "2026-08-16T08:10:30.940423Z",
+  "total": 389,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -120,6 +120,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "d6ddf205fb3282d8",
+      "titulo": "El City sigue queriendo fichar medios con Rodri a la espera",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216490/city-sigue-queriendo-fichar-medios-rodri-espera.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-16T07:41:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-16T08:10:25.944481"
+    },
     {
       "id": "e79cd484598bc9ea",
       "titulo": "Que se prepare Rodri",
