@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T08:40:32.600224Z",
-  "total": 388,
+  "actualizado": "2026-08-16T08:49:46.856541Z",
+  "total": 383,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5098,71 +5098,6 @@
       "fecha": "2026-07-17T11:52:47",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-17T12:10:30.390395"
-    },
-    {
-      "id": "fcbc27b80cd5e5f3",
-      "titulo": "Ter Stegen vuelve a entrenarse con el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207367/ter-stegen-vuelve-entrenarse-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-17T08:48:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-17T09:10:28.585257"
-    },
-    {
-      "id": "c06511940cf027c7",
-      "titulo": "El Barça completa una emisión de bonos por 105 millones",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207370/barca-completa-emision-bonos-105-millones.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-17T08:46:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-17T09:10:28.585607"
-    },
-    {
-      "id": "6e2e752a1ecd85d9",
-      "titulo": "Respaldo de los inversores al Barça: completada la emisión de bonos por 105 millones",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207370/barca-completa-emision-bonos-105-millones.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-17T08:46:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-17T11:40:25.811067"
-    },
-    {
-      "id": "dd310e728079d5bd",
-      "titulo": "Respaldo de los inversores: completada la emisión de bonos por 105 millones",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207370/barca-completa-emision-bonos-105-millones.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-17T08:46:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-17T12:10:30.391150"
-    },
-    {
-      "id": "13ec56b898fcad62",
-      "titulo": "Respaldo de los inversores: emisión de bonos por 105 millones",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207370/barca-completa-emision-bonos-105-millones.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-17T08:46:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-17T14:40:28.007170"
     }
   ]
 }
