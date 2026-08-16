@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T20:33:27.258843Z",
-  "total": 378,
+  "actualizado": "2026-08-16T20:40:34.017337Z",
+  "total": 379,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -121,6 +121,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "15a9de41c6f488c3",
+      "titulo": "Andrés Cuenca, décima incorporación del Sporting, llega a Asturias: “Muy contento por volver”",
+      "enlace": "https://www.sport.es/es/noticias/futbol/andres-cuenca-decima-incorporacion-sporting-133414181?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-16T20:27:13",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-16T20:40:31.478778"
+    },
     {
       "id": "4770239cdf8a4405",
       "titulo": "Principio de acuerdo Barça-City por Rodri",
