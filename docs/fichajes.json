@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T04:00:56.942479Z",
-  "total": 388,
+  "actualizado": "2026-08-16T04:10:36.980175Z",
+  "total": 389,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -120,6 +120,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e79cd484598bc9ea",
+      "titulo": "Que se prepare Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216463/prepare-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-16T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-16T04:10:31.393168"
+    },
     {
       "id": "72173a28bfd1c980",
       "titulo": "Rodri, el antihéroe",
