@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T09:00:52.429646Z",
-  "total": 383,
+  "actualizado": "2026-08-16T09:10:35.438947Z",
+  "total": 384,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -120,6 +120,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "0ad857835bd37c12",
+      "titulo": "Todos los ojos del barcelonismo puestos en Gordon",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216501/todos-ojos-barcelonismo-puestos-gordon.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-16T09:00:29",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-16T09:10:30.289671"
+    },
     {
       "id": "d6ddf205fb3282d8",
       "titulo": "El City sigue queriendo fichar medios con Rodri a la espera",
