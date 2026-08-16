@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T17:32:50.483760Z",
-  "total": 378,
+  "actualizado": "2026-08-16T17:40:32.517092Z",
+  "total": 379,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -120,6 +120,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "8b2c60a4a2a261a3",
+      "titulo": "Cancelo se desvincula del Al Hilal y llegará al Barça como agente libre",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216655/cancelo-desvincula-hillal-llegara-barca-agente-libre.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-16T17:07:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-16T17:40:27.447789"
+    },
     {
       "id": "0ad857835bd37c12",
       "titulo": "Todos los ojos del barcelonismo puestos en Gordon",
