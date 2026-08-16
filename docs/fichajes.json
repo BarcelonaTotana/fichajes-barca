@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T14:40:33.588920Z",
-  "total": 382,
+  "actualizado": "2026-08-16T14:48:12.843217Z",
+  "total": 381,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5072,19 +5072,6 @@
       "fecha": "2026-07-17T15:17:16",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-17T16:38:20.931325"
-    },
-    {
-      "id": "26d9b8810bcaecad",
-      "titulo": "El Barça observa la negociación del Oviedo por Estanis Pedrola",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207507/barca-observa-negociacion-oviedo-estanis-pedrola.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-17T14:44:51",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-17T15:10:30.578885"
     }
   ]
 }
