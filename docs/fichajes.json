@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T15:10:31.421366Z",
-  "total": 381,
+  "actualizado": "2026-08-16T15:20:33.081480Z",
+  "total": 380,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5059,19 +5059,6 @@
       "fecha": "2026-07-17T15:38:44",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-17T16:10:29.489467"
-    },
-    {
-      "id": "97c69b45b8a34dfd",
-      "titulo": "El TCE desestima el recurso de Marc Ciria para ser reconocido candidato",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207520/tribunal-catala-l-esport-da-razon-marc-ciria.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-17T15:17:16",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-17T16:38:20.931325"
     }
   ]
 }
