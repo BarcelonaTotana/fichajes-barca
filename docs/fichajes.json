@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T15:32:49.592326Z",
-  "total": 380,
+  "actualizado": "2026-08-16T15:40:31.536574Z",
+  "total": 379,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5046,19 +5046,6 @@
       "fecha": "2026-07-17T17:21:51",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-17T20:14:52.426621"
-    },
-    {
-      "id": "eab152d23822b0d3",
-      "titulo": "Andrés Cuenca, presentado por el Como",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207527/andres-cuenca-presentado.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-17T15:38:44",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-17T16:10:29.489467"
     }
   ]
 }
