@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-16T19:00:57.375447Z",
+  "actualizado": "2026-08-16T19:10:32.857643Z",
   "total": 379,
   "cerradas": [
     "alex campos",
@@ -50,6 +50,7 @@
     "44f3d9ace54808e4",
     "453094db5a144892",
     "468a8f69c2850cce",
+    "4770239cdf8a4405",
     "48df898ce25b7861",
     "4a9825affa03580e",
     "4eb73016b6efb218",
@@ -120,6 +121,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "4770239cdf8a4405",
+      "titulo": "Principio de acuerdo Barça-City por Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216688/principio-acuerdo-barca-city-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-16T18:58:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-16T19:10:27.052059"
+    },
     {
       "id": "8b2c60a4a2a261a3",
       "titulo": "Cancelo se desvincula del Al Hilal y llegará al Barça como agente libre",
@@ -5033,19 +5047,6 @@
       "fecha": "2026-07-17T20:06:58",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-17T21:10:30.131873"
-    },
-    {
-      "id": "00b19fa0e9b93099",
-      "titulo": "Adeyemi saluda a Flick y el anuncio del fichaje puede demorarse",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260717/1004207605/adeyemi-saluda-flick-anuncio-fichaje-demorarse.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-17T19:08:49",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-17T19:40:36.853465"
     }
   ]
 }
