@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T03:30:48.331972Z",
-  "total": 387,
+  "actualizado": "2026-08-16T03:40:34.249343Z",
+  "total": 388,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -120,6 +120,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "72173a28bfd1c980",
+      "titulo": "Rodri, el antihéroe",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216414/rodri-antiheroe.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-16T03:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-16T03:40:28.754510"
+    },
     {
       "id": "487314b12e490544",
       "titulo": "Oficial: Barça Atlètic, firma Josué Caicedo",
