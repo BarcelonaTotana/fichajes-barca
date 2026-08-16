@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-16T21:55:19.127045Z",
-  "total": 379,
+  "actualizado": "2026-08-16T22:00:54.152528Z",
+  "total": 378,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5034,19 +5034,6 @@
       "fecha": "2026-07-18T02:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-18T02:10:25.545107"
-    },
-    {
-      "id": "08517f5d2c99358c",
-      "titulo": "Ter Stegen no llega a tiempo para empezar la Conference League con el Ajax",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004207636/ter-stegen-no-llega-empezar-conference-ajax.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-17T22:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-17T22:40:28.844302"
     }
   ]
 }
