@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T08:20:35.100333Z",
-  "total": 376,
+  "actualizado": "2026-08-17T08:30:47.367438Z",
+  "total": 377,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -121,6 +121,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "54c17808fcbd508c",
+      "titulo": "Rodri y Cancelo llegan hoy a Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216815/rodri-cancelo-llegan-hoy-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-17T08:09:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T08:30:42.164960"
+    },
     {
       "id": "2b221225cd5c7016",
       "titulo": "Cancelo ya viaja hacia Barcelona",
