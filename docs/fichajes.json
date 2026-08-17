@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T14:30:52.439324Z",
-  "total": 383,
+  "actualizado": "2026-08-17T14:40:32.868565Z",
+  "total": 384,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -123,6 +123,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a6c0a976ea16d4fd",
+      "titulo": "Cambio de dorsales en el Barça: Fermín será el nuevo ‘7’ y deja el ‘16’ libre para Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216935/cambio-dorsales-barca-fermin-sera-nuevo-7-deja-16-libre-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-17T14:09:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T14:40:27.873981"
+    },
     {
       "id": "a77801eeee30c3ab",
       "titulo": "Jesús de Miguel, objetivo del Real Zaragoza, quiere apurar sus opciones de seguir en Segunda División",
