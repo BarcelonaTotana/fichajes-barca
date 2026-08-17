@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T13:53:08.756151Z",
-  "total": 380,
+  "actualizado": "2026-08-17T14:01:00.878397Z",
+  "total": 381,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -123,6 +123,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "cc06d7afa06b6ec6",
+      "titulo": "El FC Barcelona ficha a una vieja leyenda del club",
+      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMnRtbFllbUdtT2t3SHdkazJkelFCTlNkbHN0NnRyZGNNeWt0amtjWFdNN0N1ZWhhYnUzeGJwWGZFRGJEOVVKQmF2WVpDb3Y3UHp4ZE5RbUYyb3dUZXlRRmVpUnhfMWNtN2JSMThQRzZDMkw2eFZUejdMVThEMkE0QVpRY2tqblNDZzZUV25n?oc=5",
+      "medio": "Fichajes.net",
+      "tier": 5,
+      "tier_etiqueta": "Ruido / clickbait",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-17T13:30:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-08-17T14:00:59.862374"
+    },
     {
       "id": "345b79d8299bd2ab",
       "titulo": "BUSQUETS FICHA POR EL BARÇA AT.",
