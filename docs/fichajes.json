@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T11:10:33.260659Z",
-  "total": 377,
+  "actualizado": "2026-08-17T11:20:33.686146Z",
+  "total": 378,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -121,6 +121,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "1ddc083bfc1fac7e",
+      "titulo": "El City cierra un acuerdo: pagará 100 millones por uno de los recambios de Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/top/20260817/1004216858/city-pagara-100-millones-recambios-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-17T10:51:56",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-17T11:20:29.579947"
+    },
     {
       "id": "54c17808fcbd508c",
       "titulo": "Rodri y Cancelo llegan hoy a Barcelona",
