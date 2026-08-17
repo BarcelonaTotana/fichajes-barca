@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T19:01:44.179457Z",
-  "total": 391,
+  "actualizado": "2026-08-17T19:10:32.946203Z",
+  "total": 392,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -369,6 +369,19 @@
       "fecha": "2026-08-17T06:13:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-17T17:47:38.301056"
+    },
+    {
+      "id": "29a59b92b87a7f50",
+      "titulo": "Rodri, un capitán para la Champions",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004217011/rodri-capitan-champions.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-17T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T19:10:27.918548"
     },
     {
       "id": "15a9de41c6f488c3",
