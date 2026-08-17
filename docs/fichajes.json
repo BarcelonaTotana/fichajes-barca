@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T14:01:00.878397Z",
-  "total": 381,
+  "actualizado": "2026-08-17T14:10:32.730514Z",
+  "total": 383,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -123,6 +123,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "a77801eeee30c3ab",
+      "titulo": "Jesús de Miguel, objetivo del Real Zaragoza, quiere apurar sus opciones de seguir en Segunda División",
+      "enlace": "https://www.sport.es/es/noticias/futbol/jesus-miguel-objetivo-real-zaragoza-133432354?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-17T14:00:13",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-17T14:10:30.248027"
+    },
+    {
+      "id": "02face2992ccf3af",
+      "titulo": "Los planes del Barça con Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216919/planes-barca-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-17T13:43:09",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T14:10:27.655328"
+    },
     {
       "id": "cc06d7afa06b6ec6",
       "titulo": "El FC Barcelona ficha a una vieja leyenda del club",
