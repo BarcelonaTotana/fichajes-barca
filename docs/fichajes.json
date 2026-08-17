@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T17:30:50.230105Z",
-  "total": 387,
+  "actualizado": "2026-08-17T17:47:43.148437Z",
+  "total": 388,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -317,6 +317,19 @@
       "fecha": "2026-08-17T06:13:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-17T07:25:33.884890"
+    },
+    {
+      "id": "c6ba530020fb9c06",
+      "titulo": "Rodri reparte millones a Atlético de Madrid y Villarreal con su llegada al Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216783/rodri-reparte-millones-atletico-madrid-villarreal-llegada-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-17T06:13:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T17:47:38.301056"
     },
     {
       "id": "15a9de41c6f488c3",
