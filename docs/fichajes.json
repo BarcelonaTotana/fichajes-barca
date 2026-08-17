@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T12:30:50.989359Z",
-  "total": 380,
+  "actualizado": "2026-08-17T12:40:34.929306Z",
+  "total": 381,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -148,6 +148,19 @@
       "fecha": "2026-08-17T11:57:56",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-17T12:10:25.921019"
+    },
+    {
+      "id": "7a1948bfcf134157",
+      "titulo": "Cancelo llega y firmará hasta 2029: \"Estoy donde quiero estar\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216878/cancelo-barcelona-cumplir-sueno-firmara-barca-tres-anos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-17T11:57:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T12:40:29.842458"
     },
     {
       "id": "1ddc083bfc1fac7e",
