@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T06:30:50.944538Z",
-  "total": 375,
+  "actualizado": "2026-08-17T07:25:39.817921Z",
+  "total": 376,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -121,6 +121,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "2b221225cd5c7016",
+      "titulo": "Cancelo ya viaja hacia Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216789/cancelo-viaja-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-17T06:34:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T07:25:33.884685"
+    },
+    {
+      "id": "582940e8a003703c",
+      "titulo": "Rodri reparte millones a Atlético y Villarreal con su llegada al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216783/rodri-reparte-millones-atletico-madrid-villarreal-llegada-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-17T06:13:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T07:25:33.884890"
+    },
     {
       "id": "15a9de41c6f488c3",
       "titulo": "Andrés Cuenca, décima incorporación del Sporting, llega a Asturias: “Muy contento por volver”",
@@ -4982,19 +5008,6 @@
       "fecha": "2026-07-18T12:43:12",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-18T13:10:26.724439"
-    },
-    {
-      "id": "b66fc0fa48ba56c5",
-      "titulo": "Laporta pone fecha a la vigencia de la oferta por Julián Álvarez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004207683/laporta-pone-fecha-vigencia-oferta-julian-alvarez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-18T07:08:41",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-18T07:40:30.126149"
     }
   ]
 }
