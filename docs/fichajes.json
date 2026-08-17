@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T18:30:48.113763Z",
-  "total": 388,
+  "actualizado": "2026-08-17T18:43:03.392822Z",
+  "total": 391,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -124,6 +124,32 @@
   ],
   "noticias": [
     {
+      "id": "3bc2fb803049691f",
+      "titulo": "¡Rodri ya está en Barcelona y llega con máxima ambición!: \"Es un sueño y vamos a por todo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004217002/rodri-esta-barcelona-llega-maxima-ambicion-sueno.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-17T18:21:25",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T18:42:09.539766"
+    },
+    {
+      "id": "4f49fd02b3de5d02",
+      "titulo": "El Borussia Dortmund estrecha el cerco sobre Hèctor Fort",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216995/borussia-dortmund-estrecha-cerco-sobre-hector-fort.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-17T18:02:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T18:42:09.540049"
+    },
+    {
       "id": "adcb45e88b14e339",
       "titulo": "El modus operandi de Ferran Torres: así se repite el patrón que ya marcó su salida del Valencia",
       "enlace": "https://www.sport.es/es/noticias/futbol/modus-operandi-ferran-torres-repite-salida-valencia-barca-psg-133436912?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
@@ -174,6 +200,19 @@
       "fecha": "2026-08-17T15:57:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-17T16:10:26.825215"
+    },
+    {
+      "id": "cbcd9ce87f244622",
+      "titulo": "Oficial: Jofre Torrents firma por el Ajax hasta 2030",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216936/jofre-torrents-paso-ajax-pasar-revision-medica.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-17T14:21:45",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T18:42:09.540746"
     },
     {
       "id": "a6c0a976ea16d4fd",
