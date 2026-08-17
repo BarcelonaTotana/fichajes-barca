@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T16:40:32.768343Z",
-  "total": 387,
+  "actualizado": "2026-08-17T16:51:49.586556Z",
+  "total": 388,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -123,6 +123,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "adcb45e88b14e339",
+      "titulo": "El modus operandi de Ferran Torres: así se repite el patrón que ya marcó su salida del Valencia",
+      "enlace": "https://www.sport.es/es/noticias/futbol/modus-operandi-ferran-torres-repite-salida-valencia-barca-psg-133436912?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-17T16:47:45",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-17T16:50:52.601507"
+    },
     {
       "id": "6f2b96f9dfb949cd",
       "titulo": "Valdano: \"Rodri es un fichaje estratégico del Barça\"",
