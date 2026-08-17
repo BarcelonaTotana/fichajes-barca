@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T17:13:20.598847Z",
-  "total": 388,
+  "actualizado": "2026-08-17T17:30:50.230105Z",
+  "total": 387,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5153,19 +5153,6 @@
       "fecha": "2026-07-19T01:36:25",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-19T02:40:28.386930"
-    },
-    {
-      "id": "f17c9eec6a62bfae",
-      "titulo": "Nuevo destino para el exazulgrana Trincao",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004207873/nuevo-destino-exazulgrana-trincao.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-18T17:20:40",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-18T17:40:31.757253"
     }
   ]
 }
