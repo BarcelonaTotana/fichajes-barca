@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T16:30:49.209130Z",
-  "total": 385,
+  "actualizado": "2026-08-17T16:40:32.768343Z",
+  "total": 387,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -123,6 +123,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "6f2b96f9dfb949cd",
+      "titulo": "Valdano: \"Rodri es un fichaje estratégico del Barça\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216973/valdano-rodri-fichaje-estrategico-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-17T16:26:38",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T16:40:27.670556"
+    },
+    {
+      "id": "6d577aef4a9dc9eb",
+      "titulo": "Los planes del Manchester City respecto a Enzo Fernández",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260817/1004216968/planes-manchester-city-sobre-enzo-fernandez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-17T16:04:43",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-17T16:40:29.039053"
+    },
     {
       "id": "580866777a1db24d",
       "titulo": "Alan Godoy se desvincula del Barça Atlètic",
