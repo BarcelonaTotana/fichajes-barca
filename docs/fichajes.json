@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T02:57:45.669316Z",
-  "total": 377,
+  "actualizado": "2026-08-17T03:01:01.204441Z",
+  "total": 376,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5008,19 +5008,6 @@
       "fecha": "2026-07-18T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-18T05:41:04.235011"
-    },
-    {
-      "id": "2c726bbc1ce5231c",
-      "titulo": "Récord millonario de las tiendas del Barça, que abrirá una en Estambul",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004202085/record-historico-negocio-tiendas-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-18T03:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-18T03:10:24.920974"
     }
   ]
 }
