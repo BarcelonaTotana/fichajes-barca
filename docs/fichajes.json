@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T12:01:07.310313Z",
-  "total": 378,
+  "actualizado": "2026-08-17T12:10:31.880833Z",
+  "total": 380,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -32,10 +32,12 @@
     "1f5fed6548852821",
     "20234a678e468e32",
     "2424d14d53098add",
+    "279bf11271d3cee8",
     "27f25d89b4825926",
     "2afd8df59ff42b07",
     "30f0349c496f2926",
     "30f4eae64d270777",
+    "345b79d8299bd2ab",
     "352f8451dd4e256b",
     "3916dd3ee8186767",
     "3b3868743b3b44cd",
@@ -121,6 +123,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "345b79d8299bd2ab",
+      "titulo": "BUSQUETS FICHA POR EL BARÇA AT.",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216889/busquets-ficha-barca-at.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-17T11:58:46",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T12:10:25.920685"
+    },
+    {
+      "id": "279bf11271d3cee8",
+      "titulo": "Cancelo ya está en Barcelona para cumplir su sueño: firmará con el Barça por tres años",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216878/cancelo-barcelona-cumplir-sueno-firmara-barca-tres-anos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-17T11:57:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-17T12:10:25.921019"
+    },
     {
       "id": "1ddc083bfc1fac7e",
       "titulo": "El City cierra un acuerdo: pagará 100 millones por uno de los recambios de Rodri",
