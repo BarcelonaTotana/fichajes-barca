@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-17T12:40:34.929306Z",
-  "total": 381,
+  "actualizado": "2026-08-17T12:50:37.526095Z",
+  "total": 380,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5062,19 +5062,6 @@
       "fecha": "2026-07-18T17:20:40",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-18T17:40:31.757253"
-    },
-    {
-      "id": "1c6c3d4bc7cc5051",
-      "titulo": "La oficilidad del fichaje de Adeyemi, aplazada hasta el retorno de Laporta y Deco",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260718/1004207766/oficilidad-fichaje-adeyemi-aplazada-retorno-laporta-deco.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-18T12:43:12",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-18T13:10:26.724439"
     }
   ]
 }
