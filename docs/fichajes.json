@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T13:01:05.335010Z",
-  "total": 389,
+  "actualizado": "2026-08-18T13:10:36.039754Z",
+  "total": 391,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -124,6 +124,19 @@
   ],
   "noticias": [
     {
+      "id": "3c66c61938104738",
+      "titulo": "Fermín se ofrece a Flick: \"Me puedo adaptar a jugar de falso nueve\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217227/fermin-ofrece-flick-me-adaptar-jugar-falso-nueve.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-18T12:34:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T13:10:30.306553"
+    },
+    {
       "id": "579831a1c51a00ad",
       "titulo": "Gordon y Adeyemi ya viven el Gamper, que vuelve al Camp Nou",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217243/gordon-adeyemi-viven-gamper-vuelve-camp-nou.html",
@@ -213,6 +226,19 @@
       "fecha": "2026-08-18T06:46:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-18T12:10:35.111840"
+    },
+    {
+      "id": "0e597a2ce31182bd",
+      "titulo": "Rodri ya ha firmado con el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217130/rodri-ciutat-esportiva-pasar-revision-medica.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-18T06:46:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T13:10:30.308302"
     },
     {
       "id": "19f8bbe4da269c7a",
