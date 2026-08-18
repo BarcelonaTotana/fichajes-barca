@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T18:01:02.947403Z",
-  "total": 390,
+  "actualizado": "2026-08-18T18:10:32.892407Z",
+  "total": 391,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -124,6 +124,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "cc98aa7ef96727f8",
+      "titulo": "Presentación de Rodri hoy, en directo | Última hora del Barça en vivo y online",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217097/presentacion-rodri-hernandez-directo-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-18T17:35:30",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T18:10:28.036771"
+    },
     {
       "id": "0406f0e9c8c96ef8",
       "titulo": "Oficial: Rodri ya es nuevo jugador del FC Barcelona",
