@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T07:30:47.508608Z",
-  "total": 385,
+  "actualizado": "2026-08-18T07:40:31.464760Z",
+  "total": 386,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -123,6 +123,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "382cb7145badf3b7",
+      "titulo": "El dinero que se ahorra el Barcelona por Rodrigo Hernández",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217135/dinero-ahorra-barcelona-rodrigo-hernandez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-18T07:13:29",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T07:40:26.502512"
+    },
     {
       "id": "ba3303de03b1ce7d",
       "titulo": "Rodri ya está en la Ciutat Esportiva para pasar la revisión médica",
