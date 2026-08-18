@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T12:40:33.097203Z",
-  "total": 390,
+  "actualizado": "2026-08-18T12:50:46.335303Z",
+  "total": 389,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5179,19 +5179,6 @@
       "fecha": "2026-07-19T13:53:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-19T14:11:35.267248"
-    },
-    {
-      "id": "69aae814f3fe646c",
-      "titulo": "El Dortmund desea éxitos a Adeyemi, pendiente aún de firmar con el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004208085/dortmund-desea-exitos-adeyemi-pendiente-aun-firmar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-19T12:49:10",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-19T13:10:26.861141"
     }
   ]
 }
