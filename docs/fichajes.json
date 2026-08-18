@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T12:01:02.638867Z",
-  "total": 388,
+  "actualizado": "2026-08-18T12:10:40.323019Z",
+  "total": 389,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -187,6 +187,19 @@
       "fecha": "2026-08-18T06:46:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-18T10:40:34.067229"
+    },
+    {
+      "id": "84de9363427b3b6b",
+      "titulo": "Rodri ya está en las oficinas del Barça para firmar su contrato tras pasar la revisión médica",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217130/rodri-ciutat-esportiva-pasar-revision-medica.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-18T06:46:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T12:10:35.111840"
     },
     {
       "id": "19f8bbe4da269c7a",
