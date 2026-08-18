@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T01:30:45.082345Z",
-  "total": 392,
+  "actualizado": "2026-08-18T01:40:33.387526Z",
+  "total": 390,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5192,32 +5192,6 @@
       "fecha": "2026-07-19T02:05:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-19T02:40:28.386672"
-    },
-    {
-      "id": "beb497cad2da4fc3",
-      "titulo": "Tebas confirma que el Barça está en la regla 1-1",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207971/tebas-confirma-barca-regla-1-1.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-19T01:36:25",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-19T02:10:24.937648"
-    },
-    {
-      "id": "784e9ccf05ecd77c",
-      "titulo": "Tebas también confirma que el Barça está en la regla 1-1",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207971/tebas-confirma-barca-regla-1-1.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-19T01:36:25",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-19T02:40:28.386930"
     }
   ]
 }
