@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T20:00:56.983441Z",
-  "total": 393,
+  "actualizado": "2026-08-18T20:10:36.666301Z",
+  "total": 394,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -124,6 +124,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "8311f8cc58dbaac6",
+      "titulo": "Flick, lo tiene claro con Rodri: \"Es quizá el mejor '6' del mundo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217378/flick-claro-rodri-quiza-mejor-6-mundo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-18T19:50:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T20:10:31.676783"
+    },
     {
       "id": "5e6d95c020e305f4",
       "titulo": "El adamuceño Andrés Cuenca seguirá en Segunda... y volverá a cruzarse con el Córdoba CF",
