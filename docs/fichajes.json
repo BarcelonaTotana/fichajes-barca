@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T21:30:49.873858Z",
-  "total": 396,
+  "actualizado": "2026-08-18T21:40:32.733837Z",
+  "total": 397,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -125,6 +125,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "171fff0ecf63142d",
+      "titulo": "Rodri ya lidera con clase y madurez: así ha sido su primer día culé",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217400/rodri-lidera-clase-madurez-asi-sido-primer-dia-cule.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-18T21:24:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T21:40:27.404999"
+    },
     {
       "id": "98d0679f06dc8a35",
       "titulo": "A Julián le 'gusta' el fichaje de Rodri por el Barça",
