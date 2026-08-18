@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T04:50:33.964309Z",
-  "total": 384,
+  "actualizado": "2026-08-18T05:00:57.659716Z",
+  "total": 383,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5101,19 +5101,6 @@
       "fecha": "2026-07-19T09:09:39",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-19T09:42:10.575014"
-    },
-    {
-      "id": "c89eb04d5abc5f74",
-      "titulo": "Pocos alemanes en el paraíso de los tulipanes",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004207576/pocos-alemanes-paraiso-tulipanes.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-19T04:55:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-19T05:10:24.997728"
     }
   ]
 }
