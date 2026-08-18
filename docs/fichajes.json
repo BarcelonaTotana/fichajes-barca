@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T12:30:53.097361Z",
-  "total": 389,
+  "actualizado": "2026-08-18T12:40:33.097203Z",
+  "total": 390,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -123,6 +123,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "579831a1c51a00ad",
+      "titulo": "Gordon y Adeyemi ya viven el Gamper, que vuelve al Camp Nou",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217243/gordon-adeyemi-viven-gamper-vuelve-camp-nou.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-18T12:19:30",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T12:40:27.433088"
+    },
     {
       "id": "cad0b2fad039ce1a",
       "titulo": "El Barça echará el resto por Julián pero ya se marca un plazo límite",
