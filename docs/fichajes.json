@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T21:00:58.512018Z",
-  "total": 395,
+  "actualizado": "2026-08-18T21:10:37.544646Z",
+  "total": 396,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -83,6 +83,7 @@
     "8b4dc1648da51d1b",
     "8f35aa9144d84d17",
     "942698cb9b788434",
+    "98d0679f06dc8a35",
     "9edce93ae27b024e",
     "a0f6cc383777f3a3",
     "a6a4505cce06ed66",
@@ -124,6 +125,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "98d0679f06dc8a35",
+      "titulo": "A Julián le 'gusta' el fichaje de Rodri por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217391/julian-le-gusta-fichaje-rodri-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-18T20:51:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T21:10:31.117110"
+    },
     {
       "id": "8311f8cc58dbaac6",
       "titulo": "Flick, lo tiene claro con Rodri: \"Es quizá el mejor '6' del mundo\"",
