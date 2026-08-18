@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T11:01:02.177079Z",
-  "total": 387,
+  "actualizado": "2026-08-18T11:10:34.861075Z",
+  "total": 388,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -123,6 +123,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "cad0b2fad039ce1a",
+      "titulo": "El Barça echará el resto por Julián pero ya se marca un plazo límite",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217191/barca-echara-resto-julian-marca-plazo-limite.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-18T10:36:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T11:10:29.834589"
+    },
     {
       "id": "2dec6c1e3b7b1839",
       "titulo": "Así es el claro liderato de Cubarsí para el Golden Boy",
