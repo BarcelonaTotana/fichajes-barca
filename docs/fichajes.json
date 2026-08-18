@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T05:00:57.659716Z",
-  "total": 383,
+  "actualizado": "2026-08-18T05:10:36.359223Z",
+  "total": 384,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -123,6 +123,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "19f8bbe4da269c7a",
+      "titulo": "El Barça cerrará con Rodri la base de la selección que ganó el Mundial",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004216985/barca-cerrara-rodri-base-seleccion-gano-mundial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-18T04:40:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T05:10:31.077108"
+    },
     {
       "id": "3bc2fb803049691f",
       "titulo": "¡Rodri ya está en Barcelona y llega con máxima ambición!: \"Es un sueño y vamos a por todo\"",
