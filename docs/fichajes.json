@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T13:50:36.565307Z",
-  "total": 391,
+  "actualizado": "2026-08-18T13:59:44.938407Z",
+  "total": 390,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5192,19 +5192,6 @@
       "fecha": "2026-07-19T15:29:53",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-19T15:40:27.721067"
-    },
-    {
-      "id": "7fcc874e968e1911",
-      "titulo": "La Lazio puede dejar al Barça sin el esperado 'pellizco' por Sergi Domínguez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260719/1004208102/lazio-dejar-barca-esperado-pellizco-sergi-dominguez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-19T13:53:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-19T14:11:35.267248"
     }
   ]
 }
