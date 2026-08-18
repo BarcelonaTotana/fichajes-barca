@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T20:50:34.724452Z",
-  "total": 394,
+  "actualizado": "2026-08-18T20:57:20.657550Z",
+  "total": 395,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -1670,6 +1670,19 @@
       "fecha": "2026-08-10T13:22:22",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T13:40:32.287295"
+    },
+    {
+      "id": "3055d766e4841d67",
+      "titulo": "¿Nueva superioridad sobre el Madrid? El Barcelona se lanza a por un nuevo fichaje español",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUXJJU0tZSW1nbmE3WDI5OE94YTdLZ1FVOVZ1ekhDV0RZQzhvaGIyRmJQQ28tbEJNYzM3amNWRDkzNlFxS3hSSktGLWtaQVFGaEl4ZFpfVjVlN2NUd2R0bFFfSm5mNWFmVkc3S0dSb1Ntc3dIVGZDVnNON3ZSeVdOelE1TDczaDZtcFQ5ZUJTUTBZeFFYa2xldzJGaHB4bDVjZ3RxTER6THpvMU1pOGZ0Zm1UY01acHhHOHdZOGxobkZwUFRPV3dIQUZJeWwyT0MzVW1jTC1qcw?oc=5",
+      "medio": "goal.com",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-10T07:00:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-08-18T20:57:19.639904"
     },
     {
       "id": "45444e77c4f6774b",
