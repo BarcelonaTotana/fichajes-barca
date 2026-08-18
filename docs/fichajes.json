@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T07:01:00.098266Z",
-  "total": 384,
+  "actualizado": "2026-08-18T07:09:30.893241Z",
+  "total": 385,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -123,6 +123,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "ba3303de03b1ce7d",
+      "titulo": "Rodri ya está en la Ciutat Esportiva para pasar la revisión médica",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217130/rodri-ciutat-esportiva-pasar-revision-medica.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-18T06:46:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T07:09:23.253514"
+    },
     {
       "id": "19f8bbe4da269c7a",
       "titulo": "El Barça cerrará con Rodri la base de la selección que ganó el Mundial",
