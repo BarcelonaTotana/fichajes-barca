@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T17:01:00.368980Z",
-  "total": 389,
+  "actualizado": "2026-08-18T17:10:34.463419Z",
+  "total": 390,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -16,6 +16,7 @@
   "alertadas": [
     "0003ad0cf536db0c",
     "0069a55d2c0e761e",
+    "0406f0e9c8c96ef8",
     "05fed9472c50534b",
     "09144d5ce9eed317",
     "09e90e74922a2b9b",
@@ -123,6 +124,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "0406f0e9c8c96ef8",
+      "titulo": "Oficial: Rodri ya es nuevo jugador del FC Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217239/oficial-rodri-nuevo-jugador-fc-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-18T16:46:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T17:10:28.301703"
+    },
     {
       "id": "3c66c61938104738",
       "titulo": "Fermín se ofrece a Flick: \"Me puedo adaptar a jugar de falso nueve\"",
