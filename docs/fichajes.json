@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-18T10:30:49.895444Z",
-  "total": 385,
+  "actualizado": "2026-08-18T10:40:39.831817Z",
+  "total": 387,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -124,6 +124,19 @@
   ],
   "noticias": [
     {
+      "id": "2dec6c1e3b7b1839",
+      "titulo": "Así es el claro liderato de Cubarsí para el Golden Boy",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217180/claro-liderato-cubarsi-golden-boy.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-18T10:27:34",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T10:40:34.066695"
+    },
+    {
       "id": "382cb7145badf3b7",
       "titulo": "El dinero que se ahorra el Barcelona por Rodrigo Hernández",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217135/dinero-ahorra-barcelona-rodrigo-hernandez.html",
@@ -148,6 +161,19 @@
       "fecha": "2026-08-18T06:46:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-18T07:09:23.253514"
+    },
+    {
+      "id": "b668d4aa0d91fb39",
+      "titulo": "Rodri ya ha pasado la revisión médica y ultima su fichaje por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217130/rodri-ciutat-esportiva-pasar-revision-medica.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-18T06:46:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-18T10:40:34.067229"
     },
     {
       "id": "19f8bbe4da269c7a",
