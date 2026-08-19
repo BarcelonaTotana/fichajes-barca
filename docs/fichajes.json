@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T22:00:58.922520Z",
+  "actualizado": "2026-08-19T22:03:20.318979Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -129,6 +129,19 @@
   ],
   "noticias": [
     {
+      "id": "b9f2e37718200dd7",
+      "titulo": "El Barça cuenta con todos los refuerzos inscritos para Elche",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217798/barca-cuenta-todos-refuerzos-inscritos-elche.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T21:31:27",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T22:03:15.069456"
+    },
+    {
       "id": "cd32f6a0c7f19d76",
       "titulo": "Balde: \"Rodri tiene mucha experiencia y ayudará mucho al equipo\"",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217787/balde-rodri-experiencia-ayudara-equipo.html",
@@ -231,6 +244,19 @@
       "fecha": "2026-08-19T18:43:40",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T19:10:35.405710"
+    },
+    {
+      "id": "823f7300fff5b683",
+      "titulo": "Cancelo se quedó sin saltar al césped cuando ya iba vestido con el dorsal 2",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217745/cancelo-quedo-saltar-cesped-iba-azulgrana-dorsal-2.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-19T18:43:40",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T22:03:15.071625"
     },
     {
       "id": "c3cf6b9a5c607006",
@@ -5301,32 +5327,6 @@
       "fecha": "2026-07-22T17:42:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-22T18:10:26.846513"
-    },
-    {
-      "id": "0e669fe0c5e16537",
-      "titulo": "Al Hilal cambia el ofertón a Raphinha por Summerville",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209190/hilal-cambia-oferton-raphinha-summerville.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-22T16:42:56",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-22T17:10:31.472359"
-    },
-    {
-      "id": "9df9b7157a05088a",
-      "titulo": "Bisiwu puede llegar al Barça en pleno trabajo en Inglaterra",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209126/bisiwu-llegar-barca-pleno-trabajo-inglaterra.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-22T13:20:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-22T13:40:31.266004"
     }
   ]
 }
