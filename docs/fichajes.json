@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-19T07:01:00.362648Z",
-  "total": 398,
+  "actualizado": "2026-08-19T07:10:34.539331Z",
+  "total": 399,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -125,6 +125,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "873763aa09ef0345",
+      "titulo": "\"Con ganas ya de estar con mis compañeros y de que sea una temporada increíble\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217493/ganas-mis-companeros-sea-temporada-increible.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-19T06:45:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T07:10:29.454729"
+    },
     {
       "id": "62856e8c563407a8",
       "titulo": "Lo que inflan en Madrid",
