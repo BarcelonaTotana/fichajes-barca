@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T21:01:47.438874Z",
+  "actualizado": "2026-08-19T21:10:31.634689Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -129,6 +129,32 @@
   ],
   "noticias": [
     {
+      "id": "cd32f6a0c7f19d76",
+      "titulo": "Balde: \"Rodri tiene mucha experiencia y ayudará mucho al equipo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217787/balde-rodri-experiencia-ayudara-equipo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T20:50:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T21:10:26.119582"
+    },
+    {
+      "id": "4bbfa1b851306e19",
+      "titulo": "Flick tiene donde elegir",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217783/flick-elegir.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-19T20:31:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T21:10:26.119983"
+    },
+    {
       "id": "495218ebdda2d8f0",
       "titulo": "Deco avanza \"algún movimiento\" para fichar en ataque",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217780/deco-avanza-movimiento-fichar-ataque.html",
@@ -140,6 +166,19 @@
       "fecha": "2026-08-19T20:28:35",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T20:40:29.027624"
+    },
+    {
+      "id": "0e270432b329e11f",
+      "titulo": "Deco augura \"algún movimiento\" para fichar en ataque",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217780/deco-avanza-movimiento-fichar-ataque.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T20:28:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T21:10:26.120211"
     },
     {
       "id": "83ae64c1851294cb",
@@ -166,6 +205,19 @@
       "fecha": "2026-08-19T18:50:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T19:10:35.405511"
+    },
+    {
+      "id": "72482481e4b4d5e1",
+      "titulo": "El Pichichi Hamza no perdona ni a sus ex",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217748/pichichi-hamza-no-perdona-ex-equipo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T18:50:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T21:10:26.120955"
     },
     {
       "id": "ab5b746f527370bb",
@@ -5275,58 +5327,6 @@
       "fecha": "2026-07-22T13:20:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-22T13:40:31.266004"
-    },
-    {
-      "id": "09e90e74922a2b9b",
-      "titulo": "El acuerdo del Barça por Cancelo, para después del ‘stage’",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209107/acuerdo-barca-cancelo-stage.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-22T12:32:01",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-22T13:10:29.984759"
-    },
-    {
-      "id": "dc2414a308274a5a",
-      "titulo": "El Barça sigue negociando con el Manchester City por Kerolin",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209005/barca-sigue-negociando-manchester-city-kerolin.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-22T08:31:27",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-22T09:10:35.486006"
-    },
-    {
-      "id": "895a78b03cb87710",
-      "titulo": "Oficial: Van Asten, primer fichaje del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004208996/oficial-asten-primer-fichaje-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-22T08:05:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-22T08:40:27.918280"
-    },
-    {
-      "id": "768612504d339b06",
-      "titulo": "En Argentina comparan la 'salvada' de Cubarsí con la parada de Dibu a Kolo Muani en 2022",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004208964/argentina-comparan-salvada-cubarsi-parada-dibu-kolo-muani-2022.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-21T22:23:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-21T22:40:24.438801"
     }
   ]
 }
