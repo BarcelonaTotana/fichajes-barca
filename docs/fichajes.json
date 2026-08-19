@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T14:01:04.545625Z",
+  "actualizado": "2026-08-19T14:10:34.637705Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -127,6 +127,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "fd64dcc3cabb82c0",
+      "titulo": "Joao Pedro, a punto de renovar por el Chelsea",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217636/joao-pedro-punto-renovar-chelsea.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T13:43:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T14:10:29.276908"
+    },
     {
       "id": "075a54a89507f220",
       "titulo": "Livakovic, ofrecido al Barça",
@@ -5313,19 +5326,6 @@
       "fecha": "2026-07-21T09:17:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-21T09:40:25.571757"
-    },
-    {
-      "id": "158ac38fd80cae55",
-      "titulo": "Acuerdo Barça-Brujas por Bisiwu, que irá al stage",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260721/1004208703/fichaje-talentoso-bisiwu-barca-cerca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-21T09:17:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-21T11:10:29.336982"
     }
   ]
 }
