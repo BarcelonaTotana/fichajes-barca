@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T17:01:04.309486Z",
+  "actualizado": "2026-08-19T17:10:36.510937Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -127,6 +127,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "fcd2b68ead22adea",
+      "titulo": "Pedri muestra a Rodri los avances del Spotify Camp Nou antes de su presentación oficial",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217715/pedri-muestra-rodri-avances-spotify-camp-nou-presentacion-oficial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-19T16:55:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T17:10:30.518170"
+    },
+    {
+      "id": "04229d5ccc9bc4b2",
+      "titulo": "El once del Barça en el Gamper, con Espart y Hamza",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217707/once-barca-gamper-espart-hamza.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T16:30:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T17:10:30.518409"
+    },
     {
       "id": "fd64dcc3cabb82c0",
       "titulo": "Joao Pedro, a punto de renovar por el Chelsea",
@@ -5300,32 +5326,6 @@
       "fecha": "2026-07-21T09:58:49",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-21T10:10:31.819472"
-    },
-    {
-      "id": "abd11d710b22396e",
-      "titulo": "Refuerzo para Flick en otra dura sesión",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260721/1004208717/refuerzo-flick-dura-sesion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-21T09:56:41",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-21T10:10:31.819610"
-    },
-    {
-      "id": "c5bfa2a8791f6176",
-      "titulo": "El fichaje del talentoso Bisiwu por el Barça, muy cerca",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260721/1004208703/fichaje-talentoso-bisiwu-barca-cerca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-21T09:17:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-21T09:40:25.571757"
     }
   ]
 }
