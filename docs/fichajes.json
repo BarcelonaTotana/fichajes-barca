@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T19:00:59.079142Z",
+  "actualizado": "2026-08-19T19:10:41.354579Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -99,6 +99,7 @@
     "beadcf55619bf472",
     "c170708f840cd195",
     "c383845699e845be",
+    "c3cf6b9a5c607006",
     "c4e9378d7e1652b2",
     "c7770ea441e9cd96",
     "c7af98a5293e1671",
@@ -127,6 +128,45 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "5ae9603baecab264",
+      "titulo": "El Pichichi Hamza no perdona ni a su ex equipo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217748/pichichi-hamza-no-perdona-ex-equipo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T18:50:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T19:10:35.405511"
+    },
+    {
+      "id": "ab5b746f527370bb",
+      "titulo": "Cancelo se quedó sin saltar al césped cuando ya iba de azulgrana con el dorsal 2",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217745/cancelo-quedo-saltar-cesped-iba-azulgrana-dorsal-2.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-19T18:43:40",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T19:10:35.405710"
+    },
+    {
+      "id": "c3cf6b9a5c607006",
+      "titulo": "Las mejores imágenes de la presentación oficial del Barça 2026-27 en el Gamper",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217725/mejores-imagenes-presentacion-oficial-barca-2026-27-gamper.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-19T18:31:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T19:10:35.405837"
+    },
     {
       "id": "fcd2b68ead22adea",
       "titulo": "Pedri muestra a Rodri los avances del Spotify Camp Nou antes de su presentación oficial",
@@ -5287,45 +5327,6 @@
       "fecha": "2026-07-21T12:05:35",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-07-21T12:10:28.001146"
-    },
-    {
-      "id": "69d90826a8392b72",
-      "titulo": "Vlahovic y Asllani empiezan a asumir que no tienen cabida en el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260721/1004208716/vlahovic-asllani-asumen-no-cabida-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-21T11:45:56",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-21T12:10:29.236982"
-    },
-    {
-      "id": "b8628784f18d674c",
-      "titulo": "La paciencia del Ajax no es ilimitada en el 'caso Ter Stegen'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260721/1004208769/paciencia-ajax-no-ilimitada-caso-ter-stegen.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-21T11:36:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-21T12:10:29.237122"
-    },
-    {
-      "id": "477cd6d7fcbe54b8",
-      "titulo": "Laporta confirma que Adeyemi será presentado mañana",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260721/1004208730/laporta-confirma-adeyemi-sera-presentado-manana.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-21T09:58:49",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-21T10:10:31.819472"
     }
   ]
 }
