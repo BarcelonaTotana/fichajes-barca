@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-19T08:30:50.278515Z",
-  "total": 399,
+  "actualizado": "2026-08-19T08:40:33.690884Z",
+  "total": 400,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -125,6 +125,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "64cf3801fcb08598",
+      "titulo": "Ronaldinho, Eto'o, Neymar, Suárez, Rodri: puente aéreo hacia la Champions",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217517/ronaldinho-eto-suarez-neymar-rodri-puente-aereo-champions.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T08:16:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T08:40:28.689658"
+    },
     {
       "id": "873763aa09ef0345",
       "titulo": "\"Con ganas ya de estar con mis compañeros y de que sea una temporada increíble\"",
