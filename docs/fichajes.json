@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T11:30:45.907871Z",
+  "actualizado": "2026-08-19T11:37:41.268389Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -125,6 +125,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "e34a2abe46a05456",
+      "titulo": "El Ipswich Town, ejemplo del surrealista potencial económico de la Premier",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260819/1004217591/ipswich-town-recien-ascendido-ingles-equipos-gasta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T11:14:14",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-19T11:37:37.479510"
+    },
     {
       "id": "228e41f08fbef422",
       "titulo": "En Inglaterra afirman que Gavi rechazó al Manchester United",
@@ -5311,19 +5324,6 @@
       "fecha": "2026-07-20T16:59:32",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-20T17:12:13.498799"
-    },
-    {
-      "id": "42de21f3b31072a2",
-      "titulo": "Cubarsí, el único mundialista del Barça intocable con pleno de minutos",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260720/1004208508/cubarsi-unico-mundialista-barca-intocable-pleno-minutos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-20T14:17:21",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-20T14:40:30.289436"
     }
   ]
 }
