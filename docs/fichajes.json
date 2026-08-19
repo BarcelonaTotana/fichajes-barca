@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T09:32:14.696066Z",
+  "actualizado": "2026-08-19T09:40:35.051092Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -125,6 +125,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "228e41f08fbef422",
+      "titulo": "En Inglaterra afirman que Gavi rechazó al Manchester United",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217548/inglaterra-afirman-gavi-rechazo-manchester-united.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-19T09:21:01",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T09:40:30.182247"
+    },
     {
       "id": "dac8fbe96c185c04",
       "titulo": "Rooney, convencido con Rashford tras el trampolín del Barça",
@@ -410,6 +423,19 @@
       "fecha": "2026-08-18T04:40:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-18T05:10:31.077108"
+    },
+    {
+      "id": "c7d16684602bc4fc",
+      "titulo": "El Barça cierra con Rodri la base de la selección que ganó el Mundial",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004216985/barca-cerrara-rodri-base-seleccion-gano-mundial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-18T04:40:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T09:40:30.185716"
     },
     {
       "id": "3bc2fb803049691f",
@@ -5298,32 +5324,6 @@
       "fecha": "2026-07-20T14:17:21",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-20T14:40:30.289436"
-    },
-    {
-      "id": "9bc567ac00d4f3ab",
-      "titulo": "El Barcelona cierra el fichaje de Jesse Bisiwu para reforzar el filial",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZV9sN0ZUUXhIbWNoa2tQSTVMMHJ6eVlTb01rcTk2eVF1U1pQN0ZVellNOTFNZXc1dksxSklmaDEwMDdoYy04QlFaWENwbFZka3dzSDQ3WldGQnRIQnVPTndtc0NtRzBDaGt1dzVHclhIcHVXbEVMdm51bmpucHJPZEE4S3pEWXBzc3doRERHSXRDcUZneFFjVjVxRkg0X0tpTy01YzItd0VKX1pzRFJmU2dFcGlZMW4wX2tMWnpmM3rSAcYBQVVfeXFMTU94cjFzMFlSU19rc3JRUFFpVTN3SFBOam85MEt6SjVfMHZ2SEYyVFp4MFdVRFNoUU5JaUt1WHhaTTBERHpJaVBDMDB2NERjQ0k3UUUtLTlqR0JMV3NjTnBQY0pDWG1tTEtkcS00a1ZNYjFmN0poblR6Nm5Qc01VaV8xanhhUlgxeFB4ZUVjQ3JGN01reUlfMDd1QzJqWVlaYmRYLVZsbHRlRTUtbGRlWkVVU3hIbURGaXhPQ01qVDVwWjdaNVh3?oc=5",
-      "medio": "FútbolFantasy",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-20T11:45:40",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-20T14:20:35.220789"
-    },
-    {
-      "id": "895224098a48f3dd",
-      "titulo": "Cumbre del Barça con Ferran Torres la próxima semana",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260720/1004208388/cumbre-barca-ferran-torres-proxima-semana.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-20T09:49:26",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-20T10:10:26.627773"
     }
   ]
 }
