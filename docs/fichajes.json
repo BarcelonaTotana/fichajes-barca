@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T12:00:59.819067Z",
+  "actualizado": "2026-08-19T12:10:38.693065Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -48,6 +48,7 @@
     "3fc8e8a0d3a9d421",
     "3fdb04f46647ac40",
     "3fdddeb97e3bd4a4",
+    "40bde5baeee14aa2",
     "40c7579b1923fccf",
     "4350d89f43a19914",
     "44f3d9ace54808e4",
@@ -126,6 +127,32 @@
   ],
   "noticias": [
     {
+      "id": "3999ba7b1e02f0f6",
+      "titulo": "Puyol se entusiasma con el fichaje de Rodri: \"Me gusta muchísimo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217609/puyol-entusiasma-fichaje-rodri-me-gusta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T11:55:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T12:10:32.237820"
+    },
+    {
+      "id": "40bde5baeee14aa2",
+      "titulo": "Casadó prioriza el fútbol europeo y el Barça quiere dos cifras por Hèctor Fort",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217598/casado-prioriza-futbol-europeo-barca-quiere-dos-cifras-hector-fort.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T11:39:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T12:10:32.238118"
+    },
+    {
       "id": "e34a2abe46a05456",
       "titulo": "El Ipswich Town, ejemplo del surrealista potencial económico de la Premier",
       "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260819/1004217591/ipswich-town-recien-ascendido-ingles-equipos-gasta.html",
@@ -176,6 +203,19 @@
       "fecha": "2026-08-19T08:16:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T08:40:28.689658"
+    },
+    {
+      "id": "53a2f5b3e493935a",
+      "titulo": "Ronaldinho, Eto'o, Villa, Neymar, Suárez, Rodri: puente aéreo hacia la Champions",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217517/ronaldinho-eto-suarez-neymar-rodri-puente-aereo-champions.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T08:16:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T12:10:32.238976"
     },
     {
       "id": "873763aa09ef0345",
@@ -5285,45 +5325,6 @@
       "fecha": "2026-07-20T21:57:51",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-20T22:10:26.030970"
-    },
-    {
-      "id": "0a04bf49eb74bc3d",
-      "titulo": "Preventa Entradas FC BARCELONA - RAYO VALLECANO - LALIGA EA Sports - fútbol masculino",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmdyZE0zMENZU1N3S2JRTXVmWV9ObW1GdXdOMlJFQ2pndTI4MXNVM01zM3RrMWkteHNuemxhazNJSmtQY1hmd2tmMVpEMUVjTkQ4MXlmYTYwbE5VSmlQRHVIdGxIQUVnelkzNVV3bVNmVnNuN0IzckVVZ01idGpkYi12cjc4NXYwMGxfTmtUSTBRbVVHclhNUEJNS0ZSV2FLRGNOa3kyU3p0c0hydFE?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-20T21:52:48",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-07-20T22:10:24.707994"
-    },
-    {
-      "id": "e49e7f759c100926",
-      "titulo": "Laporta da el paso definitivo: fichaje sorpresa para el Barça, Hansi Flick ha dado su aprobación",
-      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZS1KbVBubjNKZ0F4b0U0eEJVUDY4clgxUzFFOFgzQ1l5ZDUteUFjS3QyQXpkWlFZcW55ZGJubXE3Z2ZlVDdyYjNYVllJQjU0eHBYV3pMc3BlV1VOS09qVFU4SVlVdVhXMVVHT2NNdkYxbTI3TzAzN19DMGJsLVVtQVlmQ1pON2hvZnJmZFk2TS05Q3lLeUt1NzB6VjBRaXB1TW9jeVZxazNpRTFxenpEeDBKQW5KcFFJNGpYazIwOGpJX1Z2ZHBXUFBJdkxRb05sMUJNZEFLMzg0djBrNzZwazhhdWhqZ2xSbGxycHVPM1dhLWJ5dklVenpvZy1QNVF3UlNR0gGDAkFVX3lxTFBlLUptUG5uM0pnQXhvRTR4QlVQNjhyWDFTMUU4WDNDWXlkNS15QWNLdDJBemRaUVlxbnlkYm5tcTdnZmVUN3JiM1hWWUlCNTR4cFhXekxzcGVXVU5LT2pUVThJWVV1WFcxVUdPY012RjFtMjdPMDM3X0MwYmwtVW1BWWZDWk43aG9mcmZkWTZNLTlDeUt5S3U3MHpWMFFpcHVNb2N5VnFrM2lFMXF6ekR4MEpBbkpwUUk0alhrMjA4aklfVnZkcFdQUEl2TFFvTmwxQk1kQUszODR2MGs3NnBrOGF1aGpnbFJsbHJwdU8zV2EtYnl2SVV6em9nLVA1UXdSU1E?oc=5",
-      "medio": "madrid-barcelona.com",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-20T17:00:10",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-20T18:30:46.750294"
-    },
-    {
-      "id": "d74b02004bbf149f",
-      "titulo": "El Barça pone a la venta entradas para los primeros cuatro partidos con descuento",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260720/1004208570/barca-pone-venta-entradas-primeros-cuatro-partidos-descuento.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-20T16:59:32",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-20T17:12:13.498799"
     }
   ]
 }
