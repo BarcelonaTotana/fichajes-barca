@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-19T05:00:58.737940Z",
-  "total": 397,
+  "actualizado": "2026-08-19T05:10:32.288145Z",
+  "total": 399,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -125,6 +125,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "62856e8c563407a8",
+      "titulo": "Lo que inflan en Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217395/inflan-madrid.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T05:10:27.122261"
+    },
+    {
+      "id": "cd233cbf2a407f19",
+      "titulo": "Ferran y la tercera persona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217353/ferran-tercera-persona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T05:10:27.122820"
+    },
     {
       "id": "171fff0ecf63142d",
       "titulo": "Rodri ya lidera con clase y madurez: así ha sido su primer día culé",
