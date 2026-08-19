@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T13:01:02.204990Z",
+  "actualizado": "2026-08-19T13:10:33.282350Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -18,6 +18,7 @@
     "0069a55d2c0e761e",
     "0406f0e9c8c96ef8",
     "05fed9472c50534b",
+    "075a54a89507f220",
     "09144d5ce9eed317",
     "09e90e74922a2b9b",
     "0dcc3195962dd4cd",
@@ -126,6 +127,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "075a54a89507f220",
+      "titulo": "Livakovic, ofrecido al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217626/livakovic-ofrecido-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-19T12:57:17",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T13:10:27.909382"
+    },
     {
       "id": "3999ba7b1e02f0f6",
       "titulo": "Puyol se entusiasma con el fichaje de Rodri: \"Me gusta muchísimo\"",
@@ -5312,19 +5326,6 @@
       "fecha": "2026-07-21T09:17:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-21T11:10:29.336982"
-    },
-    {
-      "id": "26f4c43eaa2ce687",
-      "titulo": "Oficial: Se 'escapa' Cardoso Varela, que ficha por el Oporto",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260720/1004208641/oficial-escapa-cardoso-varela-ficha-oporto.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-20T21:57:51",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-20T22:10:26.030970"
     }
   ]
 }
