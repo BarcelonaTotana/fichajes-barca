@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T20:30:49.437702Z",
+  "actualizado": "2026-08-19T20:40:34.148424Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -128,6 +128,32 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "495218ebdda2d8f0",
+      "titulo": "Deco avanza \"algún movimiento\" para fichar en ataque",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217780/deco-avanza-movimiento-fichar-ataque.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-19T20:28:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T20:40:29.027624"
+    },
+    {
+      "id": "83ae64c1851294cb",
+      "titulo": "Laporta, eufórico en el palco por Rodri junto a la familia Gamper",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217773/laporta-euforico-palco-rodri-familia-gamper.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-19T20:02:46",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-19T20:40:29.028304"
+    },
     {
       "id": "5ae9603baecab264",
       "titulo": "El Pichichi Hamza no perdona ni a su ex equipo",
@@ -5301,32 +5327,6 @@
       "fecha": "2026-07-21T22:23:35",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-21T22:40:24.438801"
-    },
-    {
-      "id": "1768c74688c084cb",
-      "titulo": "\"Adeyemi tiene una velocidad increíble\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260721/1004208932/adeyemi-velocidad-increible.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-21T20:01:21",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-21T20:39:21.544509"
-    },
-    {
-      "id": "23b1ee7c30dbe3fc",
-      "titulo": "Preventa Entradas FC BARCELONA - REAL RACING CLUB - LALIGA EA Sports - fútbol masculino",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWm03dkZQNXBhVGQtb3FFcjRwc0FGSkdRbndDdFAyamVpSi1RS3pvS0treVJpS1lDOWZlVmxtSm12Y1JDOXU1aTMzTlFZbFRNR0xBR2JocjRPNWFKWi1namNqcDkyMzRPMDNERncyV285QnNQa2kzOHJqTjFUbGk2NGVuU1Q1Y3U3ZGdwQm15VS1kdHU4dHBBN0hvU21VM3FEaElQNmlhUjdGS0hlRnc?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-21T12:13:37",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-07-21T12:20:32.359776"
     }
   ]
 }
