@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-19T06:30:48.527185Z",
-  "total": 399,
+  "actualizado": "2026-08-19T06:39:58.838793Z",
+  "total": 398,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5298,19 +5298,6 @@
       "fecha": "2026-07-20T09:39:08",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-07-22T08:40:26.641272"
-    },
-    {
-      "id": "10d4b516c65cfaee",
-      "titulo": "Eric Garcia y su recompensa a la constancia",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260720/1004208341/eric-garcia-recompensa-constancia.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-20T06:32:08",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-20T07:10:27.280463"
     }
   ]
 }
