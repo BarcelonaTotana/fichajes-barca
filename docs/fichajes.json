@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T13:01:15.321012Z",
+  "actualizado": "2026-08-20T13:10:35.121657Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -206,6 +206,19 @@
       "fecha": "2026-08-20T08:38:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-20T09:10:28.012398"
+    },
+    {
+      "id": "074ea1e4a1f84e0e",
+      "titulo": "Joao Cancelo ya es del Barça hasta 2029",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217640/oficial-joao-cancelo-barca-2029.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-20T08:38:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-20T13:10:29.896410"
     },
     {
       "id": "72d79b090e7bcd31",
@@ -5315,19 +5328,6 @@
       "fecha": "2026-07-23T11:14:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T13:40:27.592521"
-    },
-    {
-      "id": "aa3d63e7c4219930",
-      "titulo": "La presentación de Adeyemi como nuevo jugador del Barça, en directo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209278/adeyemi-presentacion-directo-ultima-hora-fc-barcelona.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-23T11:14:13",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-23T11:40:37.425847"
     }
   ]
 }
