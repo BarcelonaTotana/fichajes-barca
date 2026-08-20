@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T19:01:03.950803Z",
+  "actualizado": "2026-08-20T19:10:32.833712Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -132,6 +132,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "99c16b0bc3f66bd0",
+      "titulo": "Cumbre de Deco y Mendes con varias carpetas abiertas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004218091/cumbre-deco-mendes-carpetas-abiertas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-20T18:44:26",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-20T19:10:27.619311"
+    },
     {
       "id": "51bc62f9e66af4b4",
       "titulo": "Tommy Marqués, en Braga para firmar por 11 millones de euros",
@@ -5318,19 +5331,6 @@
       "fecha": "2026-07-23T16:44:39",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T17:40:28.649629"
-    },
-    {
-      "id": "b6287e62662bc28c",
-      "titulo": "De Jong da su versión sobre la lesión y no cierra la puerta a una operación",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209528/frenkie-jong-da-version-sobre-lesion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-23T16:44:39",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-24T14:12:13.907824"
     }
   ]
 }
