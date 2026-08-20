@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T14:01:01.758541Z",
+  "actualizado": "2026-08-20T14:10:33.341441Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -41,6 +41,7 @@
     "30f4eae64d270777",
     "345b79d8299bd2ab",
     "352f8451dd4e256b",
+    "3903d499d73904bd",
     "3916dd3ee8186767",
     "3b3868743b3b44cd",
     "3c47891347dd1256",
@@ -129,6 +130,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "3903d499d73904bd",
+      "titulo": "Cancelo: \"Mi único objetivo era el Barça y ganar todos los títulos aquí\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217975/cancelo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-20T13:30:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-20T14:10:27.765707"
+    },
     {
       "id": "03d52f81206619b7",
       "titulo": "Joaquín Delgado, nuevo delantero del Real Zaragoza. \"Me conformo con hacer la cifra de goles suficiente para subir\"",
@@ -5315,19 +5329,6 @@
       "fecha": "2026-07-23T12:30:22",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T13:10:30.518307"
-    },
-    {
-      "id": "bb64ea37152eeb12",
-      "titulo": "Presentación de Adeyemi como nuevo jugador del Barça, en directo | Última hora y reacciones del FC Barcelona",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209278/adeyemi-presentacion-directo-ultima-hora-fc-barcelona.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-23T11:14:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-23T13:40:27.592521"
     }
   ]
 }
