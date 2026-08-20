@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T12:30:53.379233Z",
+  "actualizado": "2026-08-20T12:40:37.325942Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -141,6 +141,19 @@
       "fecha": "2026-08-20T12:14:41",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-20T12:20:34.098390"
+    },
+    {
+      "id": "06fab11f1699bf06",
+      "titulo": "La presentación de Joao Cancelo, en streaming",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217965/presentacion-joao-cancelo-streaming.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-20T12:02:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-20T12:40:31.955417"
     },
     {
       "id": "f32dfcfc335581ed",
@@ -5315,19 +5328,6 @@
       "fecha": "2026-07-23T10:33:49",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T11:10:31.148324"
-    },
-    {
-      "id": "6f8674072e92807b",
-      "titulo": "Anthony Gordon ya se deja ver por Barcelona antes de incorporarse al equipo de Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209321/anthony-gordon-deja-ver-barcelona-incorporarse-equipo-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-23T07:54:54",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-23T08:10:28.025596"
     }
   ]
 }
