@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T12:50:35.817190Z",
+  "actualizado": "2026-08-20T12:59:40.841127Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -167,6 +167,19 @@
       "fecha": "2026-08-20T11:56:34",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-20T12:00:57.822951"
+    },
+    {
+      "id": "aac526688ba1ecfe",
+      "titulo": "El Barça cede a Yaakobishvili, portero del filial, al Almería",
+      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkVEQUI5SzlPWHlXN3FscjU2Q3YwMzAwWGc4M3dHOHRQMnVRRy0xT3FkNVZTVTVqOHB0QlJjcUhMa2VTamQtS3NuLWcwR3RlZ2xNejFVbVJvMzhhV0k3TFBfN1NlQjRHRjVPUzhRZEtFQkJ1bW9EMVVicV8wRkszZ3F1ZkFJaFE5dEMwdzV4d9IBjwFBVV95cUxOUkVEQUI5SzlPWHlXN3FscjU2Q3YwMzAwWGc4M3dHOHRQMnVRRy0xT3FkNVZTVTVqOHB0QlJjcUhMa2VTamQtS3NuLWcwR3RlZ2xNejFVbVJvMzhhV0k3TFBfN1NlQjRHRjVPUzhRZEtFQkJ1bW9EMVVicV8wRkszZ3F1ZkFJaFE5dEMwdzV4dw?oc=5",
+      "medio": "BeSoccer ES",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-20T11:40:25",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-08-20T12:59:39.821134"
     },
     {
       "id": "831cd732fd9e7c94",
@@ -5315,19 +5328,6 @@
       "fecha": "2026-07-23T11:14:13",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T11:40:37.425847"
-    },
-    {
-      "id": "ca774448b957d12b",
-      "titulo": "Oficial: Adeyemi ya es jugador del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004207134/oficial-adeyemi-jugador-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-23T10:33:49",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-23T11:10:31.148324"
     }
   ]
 }
