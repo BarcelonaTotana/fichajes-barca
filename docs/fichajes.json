@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T18:00:59.022079Z",
+  "actualizado": "2026-08-20T18:10:36.299095Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -37,6 +37,7 @@
     "279bf11271d3cee8",
     "27f25d89b4825926",
     "2afd8df59ff42b07",
+    "3074515ab935956d",
     "30f0349c496f2926",
     "30f4eae64d270777",
     "345b79d8299bd2ab",
@@ -131,6 +132,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "51bc62f9e66af4b4",
+      "titulo": "Tommy Marqués, en Braga para firmar por 11 millones de euros",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004218068/tommy-marques-braga-firmar-11-millones-euros.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-20T17:45:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-20T18:10:30.815786"
+    },
+    {
+      "id": "3074515ab935956d",
+      "titulo": "Livakovic, opción firme para la portería del Barça 2027-28",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004218070/livakovic-opcion-firme-porteria-barca-2027-28.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-20T17:37:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-20T18:10:30.816100"
+    },
     {
       "id": "4dbbf6426f989809",
       "titulo": "Flick bendice el regreso de Cancelo",
@@ -5304,32 +5331,6 @@
       "fecha": "2026-07-23T16:44:39",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-24T14:12:13.907824"
-    },
-    {
-      "id": "27ca23acc6f51574",
-      "titulo": "El Barça confirma los malos presagios con De Jong",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209527/comunicado-medico-jong-rotura-ligamento.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-23T16:37:22",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-23T17:05:35.435149"
-    },
-    {
-      "id": "cbe4783f7f586477",
-      "titulo": "Adeyemi, ambicioso: \"La Champions no es el único objetivo\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209441/adeyemi-ambicioso-champions-no-unico-objetivo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-23T13:17:48",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-23T13:40:27.591919"
     }
   ]
 }
