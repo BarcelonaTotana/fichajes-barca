@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T09:01:07.090794Z",
+  "actualizado": "2026-08-20T09:10:34.041709Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -125,9 +125,23 @@
     "f6077b9dc4673321",
     "f75c3f69b1a7e1a2",
     "f7bd0b5b8e22028e",
-    "fa8e9a7abfd2ddc7"
+    "fa8e9a7abfd2ddc7",
+    "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "faad9cff51be995d",
+      "titulo": "Joao Cancelo firma hoy por el Barça hasta 2029",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217640/oficial-joao-cancelo-barca-2029.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-20T08:38:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-20T09:10:28.012398"
+    },
     {
       "id": "72d79b090e7bcd31",
       "titulo": "Xavi Espart demuestra que el halago no siempre debilita",
@@ -5314,19 +5328,6 @@
       "fecha": "2026-07-23T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T05:10:26.861723"
-    },
-    {
-      "id": "a18d79de4ba08525",
-      "titulo": "Adeyemi & Gordon: presión y vértigo para el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004207247/adeyemi-gordon-presion-vertigo-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-22T22:22:47",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-22T22:40:29.536559"
     }
   ]
 }
