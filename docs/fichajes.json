@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T12:10:31.933766Z",
+  "actualizado": "2026-08-20T12:20:36.533362Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -129,6 +129,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "03d52f81206619b7",
+      "titulo": "Joaquín Delgado, nuevo delantero del Real Zaragoza. \"Me conformo con hacer la cifra de goles suficiente para subir\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/joaquin-delgado-nuevo-delantero-real-133515455?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-08-20T12:14:41",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-20T12:20:34.098390"
+    },
     {
       "id": "f32dfcfc335581ed",
       "titulo": "El Barça cede al portero del filial Aron Yaakobishvili al Almería",
@@ -5315,19 +5328,6 @@
       "fecha": "2026-07-23T07:54:54",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T08:10:28.025596"
-    },
-    {
-      "id": "fe2546c255d4d29f",
-      "titulo": "Anthony Gordon se deja ver por Barcelona antes de incorporarse",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209321/anthony-gordon-deja-ver-barcelona-incorporarse-equipo-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-23T07:54:54",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-23T13:40:27.593213"
     }
   ]
 }
