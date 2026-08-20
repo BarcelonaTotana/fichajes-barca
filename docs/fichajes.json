@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T11:01:01.250427Z",
+  "actualizado": "2026-08-20T11:10:35.357136Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -129,6 +129,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "831cd732fd9e7c94",
+      "titulo": "Oficial: Yaakobishvili, cedido al Almería",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217937/oficial-yaakobishvili-cedido-almeria.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-20T10:39:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-20T11:10:30.321041"
+    },
     {
       "id": "faad9cff51be995d",
       "titulo": "Joao Cancelo firma hoy por el Barça hasta 2029",
@@ -5315,19 +5328,6 @@
       "fecha": "2026-07-23T06:36:59",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T07:10:27.786258"
-    },
-    {
-      "id": "3da68c99075bd8c2",
-      "titulo": "Avances para desencallar el 'caso Ter Stegen'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209251/avances-desencallar-caso-ter-stegen.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-23T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-23T05:10:26.861723"
     }
   ]
 }
