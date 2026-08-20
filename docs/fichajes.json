@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T20:30:51.511093Z",
+  "actualizado": "2026-08-20T20:40:36.617198Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -132,6 +132,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "8ca448c43d9bb035",
+      "titulo": "El Atlético acepta traspasar a Julián al Arsenal, pero el jugador dice 'no'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004218109/atletico-acepta-traspasar-julian-arsenal-jugador-dice-no.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-20T20:21:30",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-20T20:40:31.502048"
+    },
     {
       "id": "99c16b0bc3f66bd0",
       "titulo": "Cumbre de Deco y Mendes con varias carpetas abiertas",
@@ -5318,19 +5331,6 @@
       "fecha": "2026-07-23T16:49:29",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-07-23T17:10:28.807801"
-    },
-    {
-      "id": "6450d2c30c390685",
-      "titulo": "Frenkie da su versión sobre la lesión y no cierra la puerta a una operación",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209528/frenkie-jong-da-version-sobre-lesion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-23T16:44:39",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-23T17:40:28.649629"
     }
   ]
 }
