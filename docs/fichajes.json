@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T21:01:03.573940Z",
+  "actualizado": "2026-08-20T21:10:35.606533Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -157,6 +157,19 @@
       "fecha": "2026-08-20T18:44:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-20T19:10:27.619311"
+    },
+    {
+      "id": "405882304bd42374",
+      "titulo": "Cumbre Deco-Mendes con varias carpetas abiertas: ojo con Balde",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004218091/cumbre-deco-mendes-carpetas-abiertas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-20T18:44:26",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-20T21:10:30.337343"
     },
     {
       "id": "51bc62f9e66af4b4",
@@ -5318,19 +5331,6 @@
       "fecha": "2026-07-23T17:05:39",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T17:40:28.649427"
-    },
-    {
-      "id": "e04f1dcae5b959dd",
-      "titulo": "Oficial: Modric sigue en el Milan",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260723/1004209530/oficial-modric-sigue-milan.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-23T16:49:29",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-07-23T17:10:28.807801"
     }
   ]
 }
