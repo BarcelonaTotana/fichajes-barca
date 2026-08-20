@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T11:58:05.480305Z",
+  "actualizado": "2026-08-20T12:00:58.839905Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -129,6 +129,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "f32dfcfc335581ed",
+      "titulo": "El Barça cede al portero del filial Aron Yaakobishvili al Almería",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTBUUjF1V0c5UDk3Y0NRZk1XalA3YXA1NkxRMktwcERLWnVPQl9yMmdZeElLTDZWVW1rOUdpWVJWSXlZV01YS2ZRaGFhMFJ0WHNKWWQ4eTRYa1pWck9sQ29jSkNDM1YyU1BVRms3QXoyNENQR2piTFcwZ2lYWG5UNFNjU21JQWpFT3A4S3AzQms1clZIRUF5VkRGVnl2QnBsWGJnNzUxMnBvd2hFUURqUUxPSGR4MDFo0gHTAUFVX3lxTFB3WG1hWkV2NVdHdG5HcFNrX0o2M2h1QTF1NjlaMjBjdXA1XzFCOUh6VDFtaFlRTVNxSXM0cXJwMmRmQXJQMU13RHJTcXR1U0JMWmJpWExGMFd1U3dWTVE3Q1k4a09BRFJ3ak9pQ0Jzc2xEWTlVUnpWM2psZGlLalpVUUM1UDBoV1VfNlpGdWtUdjdUUnY5SEpJeVlJZzJfWVg0akg2ZmlIYmplVW9pal9qWjA4bTNjbzl4cGtwMkwyZzM0TzFFTUJpbUYwRHNvV2d0RFE?oc=5",
+      "medio": "Infobae",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-20T11:56:34",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-08-20T12:00:57.822951"
+    },
     {
       "id": "831cd732fd9e7c94",
       "titulo": "Oficial: Yaakobishvili, cedido al Almería",
@@ -5315,19 +5328,6 @@
       "fecha": "2026-07-23T07:54:54",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-23T13:40:27.593213"
-    },
-    {
-      "id": "f1b0c746c7bf883b",
-      "titulo": "Lewandowski inicia su aventura americana sin olvidar al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209298/lewandowski-inicia-aventura-americana-olvidar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-23T06:36:59",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-23T07:10:27.786258"
     }
   ]
 }
