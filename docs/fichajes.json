@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T05:30:44.966261Z",
+  "actualizado": "2026-08-20T05:40:31.284618Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -128,6 +128,19 @@
     "fa8e9a7abfd2ddc7"
   ],
   "noticias": [
+    {
+      "id": "72d79b090e7bcd31",
+      "titulo": "Xavi Espart demuestra que el halago no siempre debilita",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217667/xavi-espart-demuestra-halago-no-siempre-debilita.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-20T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-20T05:40:25.999630"
+    },
     {
       "id": "31d511eaf856a91b",
       "titulo": "Yuste evita más polémicas con el Atlético por Julián Álvarez",
@@ -5314,19 +5327,6 @@
       "fecha": "2026-07-22T22:22:47",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-22T22:40:29.536559"
-    },
-    {
-      "id": "68caf40174751b15",
-      "titulo": "El Mundial revaloriza a Gordon por encima de lo que pagó el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260722/1004209264/mundial-revaloriza-gordon-encima-pago-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-22T21:11:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-22T21:40:28.825081"
     }
   ]
 }
