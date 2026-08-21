@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T02:01:01.127592Z",
+  "actualizado": "2026-08-21T02:10:31.598884Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -132,6 +132,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "884939d91704941b",
+      "titulo": "A la plantilla de Flick le falta la guinda del 'nueve'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218100/plantilla-flick-le-falta-guinda-nueve.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-21T01:35:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-21T02:10:26.518946"
+    },
     {
       "id": "4b85fa83d4ec7d21",
       "titulo": "La prioridad de Flick era el '9' y han fichado a tres extremos",
@@ -5318,19 +5331,6 @@
       "fecha": "2026-07-24T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-24T05:10:24.684124"
-    },
-    {
-      "id": "0642b7c0dc8aff84",
-      "titulo": "El Deportivo abre mercados en un verano de ‘Ley Bosman’",
-      "enlace": "https://www.sport.es/es/noticias/futbol/deportivo-abre-mercados-verano-ley-132752228?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-23T19:39:49",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-07-23T19:50:28.134838"
     }
   ]
 }
