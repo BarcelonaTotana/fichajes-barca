@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T18:14:46.016499Z",
+  "actualizado": "2026-08-21T18:20:31.869098Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -132,6 +132,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "def95fa40f7f2fc1",
+      "titulo": "Ni Gordon ni Bisiwu: el Barça inscribe dos nuevos fichajes y espera registrar dos más antes del inicio de la Liga",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTFQTGdJM3dGQkVZaVVjellyRk9jWTQ1a3Y1eDAyZFdReUFmelExOWRzMUVZdTg3MDkwN3phbjdtWnk2b2EyMVNzTVZxaTNLbXZKMjR6bFVQU3NFc1dMaEViVjlpUnJ2aGdJYmxVSm9lT2ZRZ3BnR0tIUHpQR0lKNWFRRmhTQTV3clozOWVBQW9Dd3ZNMzRoYkJwYXhYNWUzU25jVDJEcmJ3SDlsQUpQQzA0VV9GSUJqRW1BX3QySEFpOFB6ZFRmeEVJWV90SklnQmtPVHNhSEFrZ9IB3wFBVV95cUxNZkpvVkV6RTVpTFpVdkRuanBZZlh6MHFqcWl3bGp3WmFNY2RVVWRYT0kxOEtWVW9BRldNa0NTeEJ0Q3NlU2ZTRkwwbjJBSXRKdTRiYlJKMnpUbVQxYjZFU0VOaXdIbkwxLVpkQ1lzVzJMWmtFNFNrczdSUXIzOFVKWXRFVEg4MFVCVzZlVzR6SDVFNXF3em14Z2JnZkM1ZXc4S2I5QmcwWGpGQ0lUcXhoUGRTdlhLenRKV1VQQlR5djV6eEZxQjJxN0xhTkZzdzNJLXlqVkJKTnlKcmE5NkdV?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-21T16:19:03",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-08-21T18:20:30.847357"
+    },
     {
       "id": "ea3b994d7212b2de",
       "titulo": "Rodri y Adeyemi, primeros fichajes del Barça inscritos en LaLiga",
@@ -5318,19 +5331,6 @@
       "fecha": "2026-07-25T20:19:53",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-25T20:40:29.794670"
-    },
-    {
-      "id": "2d1670dce2bc982e",
-      "titulo": "El United quiere incluir a Rashford para fichar a un semifinalista del Mundial",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260725/1004210109/rashford.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-25T16:20:17",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-07-25T16:31:38.884370"
     }
   ]
 }
