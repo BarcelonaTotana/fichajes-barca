@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T05:04:46.550372Z",
+  "actualizado": "2026-08-21T05:10:35.992180Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -132,6 +132,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "28c0e33a4bb199b0",
+      "titulo": "Sólo futbolistas que quieran estar",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218063/solo-futbolistas-quieran.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-21T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-21T05:10:30.744593"
+    },
     {
       "id": "884939d91704941b",
       "titulo": "A la plantilla de Flick le falta la guinda del 'nueve'",
@@ -5318,19 +5331,6 @@
       "fecha": "2026-07-24T06:35:55",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-24T07:10:29.421761"
-    },
-    {
-      "id": "840b6a7ed3737b0c",
-      "titulo": "Más calidad en ataque",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260724/1004209561/mas-calidad-ataque.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-24T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-24T05:10:24.684124"
     }
   ]
 }
