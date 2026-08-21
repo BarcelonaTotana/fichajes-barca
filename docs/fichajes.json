@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T20:30:45.833491Z",
+  "actualizado": "2026-08-21T20:40:33.380523Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -170,6 +170,19 @@
       "fecha": "2026-08-21T15:17:31",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-21T18:10:28.708019"
+    },
+    {
+      "id": "ae519ae60514a7f6",
+      "titulo": "Rodri, Adeyemi y Gordon, ya con dorsal, primeros fichajes del Barça inscritos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218327/rodri-adeyemi-primeros-fichajes-barca-inscritos-laliga.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-21T15:17:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-21T20:40:28.390696"
     },
     {
       "id": "d3311e45067cf240",
@@ -5318,19 +5331,6 @@
       "fecha": "2026-07-25T20:57:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-25T21:10:31.478198"
-    },
-    {
-      "id": "ae3bf7ca3978a254",
-      "titulo": "Deco y Echevarría, en el concierto de Diana Krall",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260725/1004210179/deco-echevarria-concierto-diana-krall.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-25T20:19:53",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-25T20:40:29.794670"
     }
   ]
 }
