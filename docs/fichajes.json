@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T14:30:48.813293Z",
+  "actualizado": "2026-08-21T14:40:35.073671Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -170,6 +170,19 @@
       "fecha": "2026-08-21T11:22:11",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-21T11:40:33.527438"
+    },
+    {
+      "id": "2a84babad9d15be8",
+      "titulo": "Oficial la venta de Tommy Marqués al Sporting Braga por 11 millones fijos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218267/cerrada-venta-tommy-marques-sporting-braga-12-millones.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-21T11:22:11",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-21T14:40:29.440876"
     },
     {
       "id": "5d1ece736cada4a1",
@@ -5318,19 +5331,6 @@
       "fecha": "2026-07-24T22:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-24T22:40:26.430186"
-    },
-    {
-      "id": "386090ebc0cce144",
-      "titulo": "El Barça fichó a Adeyemi sin que el Borussia lograra su tradicional plusvalía",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260724/1004209875/barca-ficho-adeyemi-borussia-lograra-tradicional-plusvalia.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-24T17:55:09",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-24T18:10:29.860603"
     }
   ]
 }
