@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T07:30:50.626216Z",
+  "actualizado": "2026-08-21T07:40:34.388106Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -132,6 +132,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "48662e0591f52203",
+      "titulo": "Rodri Hernández, sobre sus estudios: \"No aprendí a hablar inglés en Manchester o Londres. Lo aprendí en el bosque de Connecticut. Mi referencia es el inglés americano\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/rodri-hernandez-estudios-aprendi-hablar-ingles-estados-unidos-133527453?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-21T07:30:07",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-21T07:40:31.922052"
+    },
     {
       "id": "28c0e33a4bb199b0",
       "titulo": "Sólo futbolistas que quieran estar",
@@ -5318,19 +5331,6 @@
       "fecha": "2026-07-24T09:57:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-24T10:10:27.470701"
-    },
-    {
-      "id": "238e62fcaacb3347",
-      "titulo": "La presentación de Adeyemi desde dentro: familia, satisfacción en el club y celebración en el Leña",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260724/1004209636/look-estilo-kounde-celebracion-especial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-24T06:35:55",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-24T07:10:29.421761"
     }
   ]
 }
