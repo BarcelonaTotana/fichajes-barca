@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T18:00:57.969597Z",
+  "actualizado": "2026-08-21T18:10:34.551287Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,19 @@
       "fecha": "2026-08-21T15:17:31",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-21T15:40:29.293385"
+    },
+    {
+      "id": "98440ec10d323c6f",
+      "titulo": "Rodri, Adeyemi y Gordon, primeros fichajes del Barça inscritos en LaLiga",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218327/rodri-adeyemi-primeros-fichajes-barca-inscritos-laliga.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-21T15:17:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-21T18:10:28.708019"
     },
     {
       "id": "d3311e45067cf240",
@@ -5318,19 +5331,6 @@
       "fecha": "2026-07-25T16:20:17",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-07-25T16:31:38.884370"
-    },
-    {
-      "id": "86a66219e2d81663",
-      "titulo": "Flick no presionará a los descartados sin 'stage'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260725/1004209965/flick-no-presionara-descartados-stage.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-25T08:32:27",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-25T09:10:26.173827"
     }
   ]
 }
