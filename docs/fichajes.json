@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T01:00:59.230207Z",
+  "actualizado": "2026-08-21T01:10:32.333964Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -132,6 +132,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "4b85fa83d4ec7d21",
+      "titulo": "La prioridad de Flick era el '9' y han fichado a tres extremos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218077/prioridad-flick-9-han-fichado-tres-extremos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-21T01:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-21T01:10:27.305373"
+    },
     {
       "id": "8ca448c43d9bb035",
       "titulo": "El Atlético acepta traspasar a Julián al Arsenal, pero el jugador dice 'no'",
@@ -5318,19 +5331,6 @@
       "fecha": "2026-07-23T19:39:49",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-07-23T19:50:28.134838"
-    },
-    {
-      "id": "1f5fed6548852821",
-      "titulo": "Oficial: El Barça ficha a un talento marroquí",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260723/1004209533/oficial-barca-confirma-fichaje-talento-marroqui.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-07-23T17:05:39",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-23T17:40:28.649427"
     }
   ]
 }
