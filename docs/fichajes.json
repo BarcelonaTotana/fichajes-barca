@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T14:00:53.594590Z",
+  "actualizado": "2026-08-22T14:10:30.933184Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -146,6 +146,19 @@
       "fecha": "2026-08-22T12:30:10",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-22T12:40:26.265493"
+    },
+    {
+      "id": "bbb3b01813386117",
+      "titulo": "Arteta no se moja con Julián Álvarez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218580/arteta-no-moja-julian-alvarez-realmente-contento-equipo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-22T12:30:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T14:10:25.777668"
     },
     {
       "id": "5b5649b190729a23",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-27T07:35:25",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T08:10:28.758403"
-    },
-    {
-      "id": "111335837376455a",
-      "titulo": "Flick se exige recuperar al mejor Raphinha: irá al 'stage'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210459/flick-exige-recuperar-mejor-raphinha-ira-stage.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-27T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T05:40:25.358318"
     }
   ]
 }
