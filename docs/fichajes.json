@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T18:00:59.302814Z",
+  "actualizado": "2026-08-22T18:10:33.739184Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "6a4c589b4ec06675",
+      "titulo": "El presidente del Inter cierra la puerta a Lautaro Martínez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218659/presidente-inter-cierra-puerta-lautaro-martinez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-22T17:32:48",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T18:10:28.400843"
+    },
     {
       "id": "c5891366afa339af",
       "titulo": "Arteta no se moja con Julián Álvarez: \"Estoy realmente contento con el equipo que tenemos\"",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-27T09:40:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T13:40:31.176388"
-    },
-    {
-      "id": "10725eb892c6746e",
-      "titulo": "El Barça ya está en Inglaterra, con 30 jugadores y una sorpresa",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210557/31-elegidos-flick-stage-sorpresa-jong.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-27T09:40:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T16:10:27.984039"
     }
   ]
 }
