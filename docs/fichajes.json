@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T11:30:43.791191Z",
+  "actualizado": "2026-08-22T11:40:29.997118Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -145,6 +145,19 @@
       "fecha": "2026-08-22T11:15:49",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-22T11:30:41.330188"
+    },
+    {
+      "id": "a90fff41789a7603",
+      "titulo": "Flick, blindado ante el Madrid y Mourinho",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218534/flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-22T11:09:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T11:40:24.852506"
     },
     {
       "id": "43bec6e17829fccd",
@@ -5319,19 +5332,6 @@
       "fecha": "2026-07-26T16:02:49",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-26T16:40:27.226582"
-    },
-    {
-      "id": "68b28e89881cee6d",
-      "titulo": "La clara postura del Ajax con Ter Stegen: habla Míchel",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210386/clara-postura-ajax-caso-ter-stegen.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-26T16:02:49",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-26T18:12:08.789157"
     }
   ]
 }
