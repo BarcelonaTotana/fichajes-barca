@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T11:20:32.325738Z",
+  "actualizado": "2026-08-22T11:30:43.791191Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -133,6 +133,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "e241c31eb7553136",
+      "titulo": "Adama Traoré abre la mano y se lo piensa: horas claves para que el Deportivo lo convenza",
+      "enlace": "https://www.sport.es/es/noticias/futbol/adama-traore-abre-mano-piensa-133566409?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-22T11:15:49",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-22T11:30:41.330188"
+    },
     {
       "id": "43bec6e17829fccd",
       "titulo": "Flick espera a Rodri para el lunes y avanza que Cancelo estará disponible en Elche",
@@ -5319,19 +5332,6 @@
       "fecha": "2026-07-26T16:02:49",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-26T18:12:08.789157"
-    },
-    {
-      "id": "10e1d9d99ac53f52",
-      "titulo": "Diego Kochen, titular en su debut con el Lyngby",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210347/diego-kochen-titular-debut-lyngby.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-26T14:09:58",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-26T14:41:43.499831"
     }
   ]
 }
