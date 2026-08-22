@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T12:01:01.430308Z",
+  "actualizado": "2026-08-22T12:10:36.790163Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -133,6 +133,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "ad08a39dadca12cf",
+      "titulo": "Flick cierra la puerta a Julián Álvarez y la abre para Balde y Koundé",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218571/flick-cierra-puerta-julian-alvarez-abre-balde-kounde.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-22T11:58:07",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T12:10:31.576019"
+    },
     {
       "id": "e241c31eb7553136",
       "titulo": "Adama Traoré abre la mano y se lo piensa: horas claves para que el Deportivo lo convenza",
@@ -5319,19 +5332,6 @@
       "fecha": "2026-07-26T16:05:34",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-26T16:40:27.226379"
-    },
-    {
-      "id": "88e9cf688a9795c7",
-      "titulo": "La clara postura del Ajax en el 'caso Ter Stegen'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210386/clara-postura-ajax-caso-ter-stegen.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-26T16:02:49",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-26T16:40:27.226582"
     }
   ]
 }
