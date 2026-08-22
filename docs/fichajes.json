@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T09:30:56.309789Z",
+  "actualizado": "2026-08-22T09:37:38.209650Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,19 @@
   ],
   "noticias": [
     {
+      "id": "85ee903ecf57428d",
+      "titulo": "Balde prefiere seguir en el Barça a día de hoy pero todo sigue abierto",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218530/balde-prefiere-seguir-barca-dia-hoy-sigue-abierto.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-22T09:26:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T09:37:33.285844"
+    },
+    {
       "id": "3d7a661407da2d59",
       "titulo": "Joan Cancelo, también inscrito en la Liga",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218510/joan-cancelo-inscrito-liga.html",
@@ -145,6 +158,19 @@
       "fecha": "2026-08-22T08:35:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-22T09:01:50.166002"
+    },
+    {
+      "id": "06df52e78fcaca13",
+      "titulo": "Joao Cancelo, también inscrito en la Liga",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218510/joan-cancelo-inscrito-liga.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-22T08:35:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T09:37:33.286272"
     },
     {
       "id": "51b6f22531e9d96c",
@@ -5306,32 +5332,6 @@
       "fecha": "2026-07-26T11:10:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-26T11:41:13.364206"
-    },
-    {
-      "id": "3fc8e8a0d3a9d421",
-      "titulo": "El Barça ficha a Martina Fernández",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210288/barca-ficha-martina-fernandez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-26T10:27:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-26T10:41:49.015724"
-    },
-    {
-      "id": "618a4f3ee96da9cb",
-      "titulo": "Martina Fernández regresa al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210288/barca-ficha-martina-fernandez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-26T10:27:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-26T11:41:13.364397"
     }
   ]
 }
