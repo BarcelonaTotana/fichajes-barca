@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T05:30:47.359293Z",
+  "actualizado": "2026-08-22T05:40:34.544545Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -133,6 +133,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "a5da09e32f1d510d",
+      "titulo": "Julián Álvarez merece ser feliz",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218393/julian-alvarez-merece-feliz.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-22T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T05:40:28.842495"
+    },
     {
       "id": "def95fa40f7f2fc1",
       "titulo": "Ni Gordon ni Bisiwu: el Barça inscribe dos nuevos fichajes y espera registrar dos más antes del inicio de la Liga",
@@ -5319,19 +5332,6 @@
       "fecha": "2026-07-26T03:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-26T03:11:37.773424"
-    },
-    {
-      "id": "b1455aaf929efb9c",
-      "titulo": "Koundé, una opción más de central",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210191/kounde-opcion-central.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-26T02:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-26T03:11:37.773603"
     }
   ]
 }
