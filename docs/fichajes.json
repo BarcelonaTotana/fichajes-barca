@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T11:00:57.116200Z",
+  "actualizado": "2026-08-22T11:10:38.024162Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -133,6 +133,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "43bec6e17829fccd",
+      "titulo": "Flick espera a Rodri para el lunes y avanza que Cancelo estará disponible en Elche",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218544/flick-espera-rodri-lunes-avanza-cancelo-estara-disponible-elche.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-22T10:42:34",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T11:10:32.874016"
+    },
     {
       "id": "3f0d52a0ae2df608",
       "titulo": "Lo de Joao Pedro con el Chelsea de Xabi Alonso ya es oficial",
@@ -5319,19 +5332,6 @@
       "fecha": "2026-07-26T14:09:58",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-26T14:41:43.499831"
-    },
-    {
-      "id": "903fb57b222b727c",
-      "titulo": "La cesión de Ter Stegen al Ajax avanza pero lentamente",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210319/cesion-ter-stegen-ajax-avanza-lentamente.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-26T11:57:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-26T12:10:27.124397"
     }
   ]
 }
