@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T07:01:04.684130Z",
+  "actualizado": "2026-08-22T07:10:32.404764Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -133,6 +133,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "51b6f22531e9d96c",
+      "titulo": "La RFEF apelará ante la FIFA la sanción de Gavi",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218470/rfef-apelara-fifa-sancion-gavi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-22T06:40:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T07:10:27.322142"
+    },
     {
       "id": "a5da09e32f1d510d",
       "titulo": "Julián Álvarez merece ser feliz",
@@ -5319,19 +5332,6 @@
       "fecha": "2026-07-26T07:30:21",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-26T08:10:29.361589"
-    },
-    {
-      "id": "e6801ae14559f1b4",
-      "titulo": "El Barça no quiere líos con el Athletic por Laporte",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210190/barca-no-quiere-lios-athletic-laporte.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-26T03:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-26T03:11:37.773424"
     }
   ]
 }
