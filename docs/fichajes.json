@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T12:30:46.424726Z",
+  "actualizado": "2026-08-22T12:40:31.700687Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -65,6 +65,7 @@
     "56fdc33f742463d4",
     "592788f78b2f9daf",
     "5b462f2a0265786c",
+    "5b5649b190729a23",
     "609c90f80c89b22c",
     "62e748acf1dcaf9c",
     "6603845fea51b1fa",
@@ -134,6 +135,32 @@
   ],
   "noticias": [
     {
+      "id": "c5891366afa339af",
+      "titulo": "Arteta no se moja con Julián Álvarez: \"Estoy realmente contento con el equipo que tenemos\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218580/arteta-no-moja-julian-alvarez-realmente-contento-equipo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-22T12:30:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T12:40:26.265493"
+    },
+    {
+      "id": "5b5649b190729a23",
+      "titulo": "El Annecy ficha a David Oduro del Barça Atlètic",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218574/annecy-ficha-david-oduro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-22T12:20:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T12:40:26.265624"
+    },
+    {
       "id": "ad08a39dadca12cf",
       "titulo": "Flick cierra la puerta a Julián Álvarez y la abre para Balde y Koundé",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218571/flick-cierra-puerta-julian-alvarez-abre-balde-kounde.html",
@@ -145,6 +172,19 @@
       "fecha": "2026-08-22T11:58:07",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-22T12:10:31.576019"
+    },
+    {
+      "id": "465d9ac3045be63e",
+      "titulo": "Flick no responde sobre Julián y abre la puerta a Balde y Koundé",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218571/flick-cierra-puerta-julian-alvarez-abre-balde-kounde.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-22T11:58:07",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T12:40:26.265799"
     },
     {
       "id": "e241c31eb7553136",
@@ -5293,45 +5333,6 @@
       "fecha": "2026-07-27T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T05:40:25.358318"
-    },
-    {
-      "id": "3adeb58269f3e521",
-      "titulo": "Flick se exige recuperar al mejor Raphinha: irá al 'stage' el miércoles",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210459/flick-exige-recuperar-mejor-raphinha-ira-stage.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-27T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-28T07:10:34.541777"
-    },
-    {
-      "id": "89549da99e0db3ab",
-      "titulo": "El tercer portero del Barça, entre Áron Yaakobishvili o Eder Aller",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210343/tercer-portero-yaako-eder.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-26T19:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-26T19:10:27.437025"
-    },
-    {
-      "id": "ef47fd23b61c7f2b",
-      "titulo": "Pedri y su 'boom' en China: vacaciones en familia, actos y hasta un saque de honor",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210387/pedri-boom-china-vacaciones-familia-actos-saque-honor.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-26T16:05:34",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-26T16:40:27.226379"
     }
   ]
 }
