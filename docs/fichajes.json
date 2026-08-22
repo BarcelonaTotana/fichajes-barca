@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T14:30:46.258387Z",
+  "actualizado": "2026-08-22T14:40:34.586964Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -263,6 +263,19 @@
       "fecha": "2026-08-22T09:26:10",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-22T09:37:33.285844"
+    },
+    {
+      "id": "12c9b3f11978f099",
+      "titulo": "Balde prefería seguir en el Barça antes de las palabras de Flick",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218530/balde-prefiere-seguir-barca-dia-hoy-sigue-abierto.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-22T09:26:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T14:40:29.007414"
     },
     {
       "id": "3d7a661407da2d59",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-27T09:40:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T16:10:27.984039"
-    },
-    {
-      "id": "f75c3f69b1a7e1a2",
-      "titulo": "Así vivió Adeyemi sus primeros días tras fichar por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210519/asi-vivio-adeyemi-primeros-dias-fichar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-27T07:35:25",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T08:10:28.758403"
     }
   ]
 }
