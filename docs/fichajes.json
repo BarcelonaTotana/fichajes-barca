@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T10:00:58.406729Z",
+  "actualizado": "2026-08-22T10:10:33.606122Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -133,6 +133,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "3f0d52a0ae2df608",
+      "titulo": "Lo de Joao Pedro con el Chelsea de Xabi Alonso ya es oficial",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260822/1004218531/joao-pedro-chelsea-xabi-alonso-oficial.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-22T09:35:31",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-22T10:10:29.517883"
+    },
     {
       "id": "85ee903ecf57428d",
       "titulo": "Balde prefiere seguir en el Barça a día de hoy pero todo sigue abierto",
@@ -5319,19 +5332,6 @@
       "fecha": "2026-07-26T11:57:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-26T12:10:27.124397"
-    },
-    {
-      "id": "5adfead18a0d005b",
-      "titulo": "El cerco del Arsenal por Vinicius puede afectar a Julián Álvarez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210291/cerco-arsenal-vinicius-afectar-julian-alvarez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-26T11:10:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-26T11:41:13.364206"
     }
   ]
 }
