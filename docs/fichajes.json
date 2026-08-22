@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T09:00:59.742473Z",
+  "actualizado": "2026-08-22T09:01:55.209151Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -133,6 +133,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "3d7a661407da2d59",
+      "titulo": "Joan Cancelo, también inscrito en la Liga",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218510/joan-cancelo-inscrito-liga.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-22T08:35:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-22T09:01:50.166002"
+    },
     {
       "id": "51b6f22531e9d96c",
       "titulo": "La RFEF apelará ante la FIFA la sanción de Gavi",
@@ -5319,19 +5332,6 @@
       "fecha": "2026-07-26T10:27:23",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-26T11:41:13.364397"
-    },
-    {
-      "id": "c1b8a3c089e5fe2a",
-      "titulo": "De la Fuente explica con detalle la 'repesca' de Eric Garcia para la final del Mundial",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260726/1004210234/fuente-explica-repesca-eric-garcia-final-mundial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-26T07:30:21",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-26T08:10:29.361589"
     }
   ]
 }
