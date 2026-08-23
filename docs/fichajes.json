@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T04:30:41.655759Z",
+  "actualizado": "2026-08-23T04:40:33.161176Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "fabb59e6d5c264c1",
+      "titulo": "Un central depende de Balde o Koundé",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218750/central-depende-balde-kounde.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-23T04:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T04:40:27.824543"
+    },
     {
       "id": "dea7064ee8530c0e",
       "titulo": "Yoan Makoundou, nuevo refuerzo para el juego interior azulgrana",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-27T11:32:06",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T05:40:24.301924"
-    },
-    {
-      "id": "4b3334ecc4e4e503",
-      "titulo": "Los 31 elegidos por Flick para el 'stage' y sorpresa con De Jong",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210557/31-elegidos-flick-stage-sorpresa-jong.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-27T09:40:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T10:10:29.533571"
     }
   ]
 }
