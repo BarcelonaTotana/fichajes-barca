@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T22:30:46.391804Z",
+  "actualizado": "2026-08-23T22:34:53.460083Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,45 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "c936365725f56242",
+      "titulo": "Fermín y el fichaje de un '9': \"Confiamos en Deco, pero tenemos variantes y lo hemos demostrado\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219052/fermin-fichaje-9-confiamos-deco-variantes-hemos-demostrado.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-23T22:27:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T22:34:48.137113"
+    },
+    {
+      "id": "2e03ec7fc76ac139",
+      "titulo": "Raphinha, sobre el '9': \"Tenemos calidad suficiente para adaptarnos\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219048/raphinha-sobre-9-calidad-suficiente-adaptarnos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-23T22:07:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T22:34:48.137277"
+    },
+    {
+      "id": "440a701771021240",
+      "titulo": "Flick celebra el estreno del Barça y avisa: \"Tenemos que hablar con Deco\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219025/flick-celebra-estreno-barca-avisa-hablar-deco.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-23T22:05:03",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T22:34:48.137455"
+    },
     {
       "id": "d1b4e91b1ed4fd06",
       "titulo": "Raphinha estrena capitanía con doblete y hace el gesto de la Araña",
@@ -5294,45 +5333,6 @@
       "fecha": "2026-07-28T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T05:40:24.299965"
-    },
-    {
-      "id": "3ee1859f7f224cbb",
-      "titulo": "Oficial: Barça Atlètic, firma Aziz Issah",
-      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY0d0NUlvZjFvNk1BbjZZM2Z3bmt6bVFOQnM3UDFxY3BjR1pQRkZXaVVncnkyM2I4ZXVzSW9SbG11ZjAwMEdnaDM2dEEyYXlEUEZZN19vOUFycUVDY2hwSTFnMmxLeS1EMlNSOGJDTV9pQ0dGdVRNT2k1ZGU3anpYRzRXTEVIdw?oc=5",
-      "medio": "nuevofutbol.com",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-07-27T21:31:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-27T21:40:38.797393"
-    },
-    {
-      "id": "6c75bb692f96835d",
-      "titulo": "El Barça preguntó por Diomande",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210752/barca-valoro-diomande-aposto-gordon.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-27T20:04:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T20:40:30.982471"
-    },
-    {
-      "id": "2d3d2a4ffeece0d3",
-      "titulo": "Galería: Primer entrenamiento del Barça en Saint George's Park",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210784/primer-entrenamiento-pretemporada-barca-tierras-inglesas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-27T19:21:48",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T22:40:27.151103"
     }
   ]
 }
