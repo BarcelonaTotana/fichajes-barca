@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T05:00:56.023237Z",
+  "actualizado": "2026-08-23T05:01:19.340803Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "5d76bc8b7bb42e84",
+      "titulo": "Fichar por no fichar a un 9",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218718/fichar-no-fichar-9.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-23T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T05:01:14.029445"
+    },
     {
       "id": "fabb59e6d5c264c1",
       "titulo": "Un central depende de Balde o Koundé",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-27T11:32:06",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T12:01:31.345807"
-    },
-    {
-      "id": "3c8e1ded5d571dd7",
-      "titulo": "Dos balas para el nuevo Barça: los números de los 'hiperactivos' Adeyemi y Gordon",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210547/dos-balas-barca-futbolistas-corren-25-km-h-bdg.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-27T11:32:06",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-28T05:40:24.301924"
     }
   ]
 }
