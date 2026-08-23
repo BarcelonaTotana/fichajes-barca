@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T09:00:55.614612Z",
+  "actualizado": "2026-08-23T09:10:33.844514Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -276,6 +276,19 @@
       "fecha": "2026-08-22T11:58:07",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-22T12:40:26.265799"
+    },
+    {
+      "id": "95661088665412d3",
+      "titulo": "Flick no responde sobre Julián Álvarez y abre la puerta a Balde y Koundé",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218571/flick-cierra-puerta-julian-alvarez-abre-balde-kounde.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-22T11:58:07",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T09:10:29.093929"
     },
     {
       "id": "e241c31eb7553136",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-27T15:11:28",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T15:40:31.897731"
-    },
-    {
-      "id": "1c26eb53036e118c",
-      "titulo": "Sale a la luz una de las claves del fichaje de Bisiwu por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210663/sale-luz-claves-fichaje-bisiwu-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-27T13:29:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T13:40:31.175714"
     }
   ]
 }
