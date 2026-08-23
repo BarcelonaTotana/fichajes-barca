@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T11:30:46.685338Z",
+  "actualizado": "2026-08-23T11:40:34.164833Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -135,6 +135,19 @@
   ],
   "noticias": [
     {
+      "id": "f09b74f6e1af6613",
+      "titulo": "Pasión por el Barça a su llegada a Elche",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218815/barca-elche.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-23T11:12:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T11:40:28.882887"
+    },
+    {
       "id": "ac74c9e32e2c85e2",
       "titulo": "Los últimos diez debuts del Barça en Liga",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218816/ultimos-diez-debuts-barca-liga.html",
@@ -224,6 +237,19 @@
       "fecha": "2026-08-22T17:32:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-22T18:10:28.400843"
+    },
+    {
+      "id": "ef41ef5bfbed920a",
+      "titulo": "El Inter cierra la puerta a Lautaro Martínez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218659/presidente-inter-cierra-puerta-lautaro-martinez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-22T17:32:48",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T11:40:28.884684"
     },
     {
       "id": "c5891366afa339af",
@@ -5307,32 +5333,6 @@
       "fecha": "2026-07-27T16:23:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T16:40:25.146350"
-    },
-    {
-      "id": "6f0a75f24ee3a1d2",
-      "titulo": "Celia Segura renueva con el Barça y se marcha cedida al Atlético de Madrid",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/femenino/20260727/1004210711/celia-segura-renueva-barca-marcha-cedida-atletico-madrid.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-07-27T15:26:18",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T15:40:31.897493"
-    },
-    {
-      "id": "87ba8e90687dddb9",
-      "titulo": "Khadijah Cissé, nueva guardameta del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/femenino/20260727/1004210703/khadijah-cisse-nueva-guardameta-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-07-27T15:12:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T15:40:31.897622"
     }
   ]
 }
