@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T16:01:56.492967Z",
+  "actualizado": "2026-08-23T16:10:31.772911Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "ecb919198ad6a442",
+      "titulo": "Sitúan al Nottingham Forest en la 'pole' por Casadó",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218914/situan-nottingham-forest-pole-casado.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-23T15:47:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T16:10:26.195137"
+    },
     {
       "id": "e4624bea4f7019a5",
       "titulo": "Mateu Alemany: \"Que Julián esté convocado lo dice todo y pone a cada uno en su sitio\"",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-27T18:02:24",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T18:40:29.947103"
-    },
-    {
-      "id": "62e748acf1dcaf9c",
-      "titulo": "El Barça hace oficial un nuevo fichaje",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210755/barca-oficial-nuevo-fichaje.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-07-27T17:32:30",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T17:40:33.433662"
     }
   ]
 }
