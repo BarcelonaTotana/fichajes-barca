@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T15:30:47.955156Z",
+  "actualizado": "2026-08-23T15:40:30.504161Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "e4624bea4f7019a5",
+      "titulo": "Mateu Alemany: \"Que Julián esté convocado lo dice todo y pone a cada uno en su sitio\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218902/mateu-alemany-julian-convocado-dice-pone-sitio.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-23T15:11:16",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T15:40:25.467291"
+    },
     {
       "id": "f09b74f6e1af6613",
       "titulo": "Pasión por el Barça a su llegada a Elche",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-27T17:32:30",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T17:40:33.433662"
-    },
-    {
-      "id": "596d3fe7d604d7a9",
-      "titulo": "El Barça no estará solo durante su stage en St. George's Park",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210737/barca-no-estara-stage-st-george-s-park.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-27T16:23:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T16:40:25.146350"
     }
   ]
 }
