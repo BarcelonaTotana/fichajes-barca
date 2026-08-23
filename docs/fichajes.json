@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T18:57:37.778399Z",
+  "actualizado": "2026-08-23T19:00:57.664125Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -185,6 +185,19 @@
       "fecha": "2026-08-23T10:18:02",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-23T10:36:19.963479"
+    },
+    {
+      "id": "1e0731728a903a10",
+      "titulo": "Elche CF – FC Barcelona: Pistoletazo de salida a la Liga",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR1NaSjJJaEZQOVlqRHZpenhyMExHdXF5ZEdDdndtNkNCTUNRUW5WOVFGS0JrNzNhdzl3TFlBVkp5UVBCclNnXzZDT3BtU3RxSDhPajhTc1JQODhMeEJhdmlndTU5WU1ySzFjbE9kdFJzTlFwOHlELUZCQ3lSZHFmblZ5a05Kb3dQNGxQVkE0VmllVldLOTBEaHVpMlVESjl4bXBiUWpPaTIxSEN1VmpB?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-23T09:46:19",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-08-23T19:00:51.289790"
     },
     {
       "id": "205c98ffac2c032b",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-27T19:21:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T13:10:34.943313"
-    },
-    {
-      "id": "af0089361f15efe2",
-      "titulo": "\"El Barça sondea el fichaje de Rodri\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210763/barca-sondea-fichaje-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-27T18:02:24",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T18:40:29.947103"
     }
   ]
 }
