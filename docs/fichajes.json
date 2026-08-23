@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T21:33:21.693018Z",
+  "actualizado": "2026-08-23T21:40:30.587723Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d1b4e91b1ed4fd06",
+      "titulo": "Raphinha estrena capitanía con doblete y hace el gesto de la Araña",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218996/raphina-estrena-capitania-gol-guino-julian-alvarez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-23T20:00:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T21:40:25.615891"
+    },
     {
       "id": "ecb919198ad6a442",
       "titulo": "Sitúan al Nottingham Forest en la 'pole' por Casadó",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-27T19:21:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T22:40:27.151103"
-    },
-    {
-      "id": "3a94c5f84fcb244a",
-      "titulo": "Primer entrenamiento del Barça en Saint George's Park",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210784/primer-entrenamiento-pretemporada-barca-tierras-inglesas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-27T19:21:48",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-28T13:10:34.943313"
     }
   ]
 }
