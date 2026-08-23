@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T23:00:54.245806Z",
+  "actualizado": "2026-08-23T23:10:31.080162Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -172,6 +172,19 @@
       "fecha": "2026-08-23T22:05:03",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-23T22:34:48.137455"
+    },
+    {
+      "id": "de568849496412ce",
+      "titulo": "Flick desvela sus planes: \"Tenemos que hablar con Deco del '9'\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219025/flick-celebra-estreno-barca-avisa-hablar-deco.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-23T22:05:03",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T23:10:25.455437"
     },
     {
       "id": "d1b4e91b1ed4fd06",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-28T06:34:26",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-28T06:40:29.117943"
-    },
-    {
-      "id": "576cd834a52feb60",
-      "titulo": "Tasación alta del Barça por Casadó en un mercado al alza",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004210666/barca-tasa-marc-casado-40-millones.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-28T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-28T05:40:24.299965"
     }
   ]
 }
