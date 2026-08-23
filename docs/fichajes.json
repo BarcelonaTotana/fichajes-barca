@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T10:30:47.289554Z",
+  "actualizado": "2026-08-23T10:36:25.054576Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "ac74c9e32e2c85e2",
+      "titulo": "Los últimos diez debuts del Barça en Liga",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218816/ultimos-diez-debuts-barca-liga.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-23T10:18:02",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-23T10:36:19.963479"
+    },
     {
       "id": "205c98ffac2c032b",
       "titulo": "El Borussia Dortmund, en Barcelona para cerrar el fichaje de Hèctor Fort",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-27T15:12:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-27T15:40:31.897622"
-    },
-    {
-      "id": "042d040f7ab37260",
-      "titulo": "El fichaje de Kerolin por el Barça, a punto",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260727/1004210701/fichaje-kerolin-baca-punto.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-27T15:11:28",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-27T15:40:31.897731"
     }
   ]
 }
