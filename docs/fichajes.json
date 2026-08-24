@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T19:30:52.936218Z",
+  "actualizado": "2026-08-24T19:40:33.490510Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -137,6 +137,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "1bf8ba58347289f1",
+      "titulo": "El United prefiere una cesión por Balde",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219352/united-prefiere-cesion-balde.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-24T19:12:45",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-24T19:40:28.339681"
+    },
     {
       "id": "5bdef98d6bcb8b01",
       "titulo": "El Deportivo avanza por Adama Traoré, que apunta a ser el octavo fichaje del retorno a Primera",
@@ -5323,19 +5336,6 @@
       "fecha": "2026-07-29T05:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-29T05:40:37.034141"
-    },
-    {
-      "id": "5e454d499bbfd9f0",
-      "titulo": "Casos abiertos en el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211117/casos-abiertos-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-28T22:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-28T22:40:39.368634"
     }
   ]
 }
