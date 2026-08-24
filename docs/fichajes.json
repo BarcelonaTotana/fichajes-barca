@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T17:40:33.898395Z",
+  "actualizado": "2026-08-24T17:50:37.523511Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -43,6 +43,7 @@
     "30f4eae64d270777",
     "345b79d8299bd2ab",
     "352f8451dd4e256b",
+    "38fbf5c51499ae05",
     "3903d499d73904bd",
     "3916dd3ee8186767",
     "3b3868743b3b44cd",
@@ -136,6 +137,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "38fbf5c51499ae05",
+      "titulo": "El ex del Barça, Franck Kessié, en el radar de un equipo 'top' de Europa",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219334/ex-barca-franck-kessie-radar-equipo-top-europa.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-24T17:29:29",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-24T17:50:32.749982"
+    },
     {
       "id": "7fc035e7d6d36370",
       "titulo": "El coruñés Nico González, cerca de cambiar el Manchester City por el Newcastle",
@@ -5322,19 +5336,6 @@
       "fecha": "2026-07-28T18:12:03",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T18:40:31.865903"
-    },
-    {
-      "id": "fdce5ab552ed85c3",
-      "titulo": "Dragoni apunta al Chelsea",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004211080/dragoni-apunta-chelsea.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-28T17:20:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-28T17:40:35.391967"
     }
   ]
 }
