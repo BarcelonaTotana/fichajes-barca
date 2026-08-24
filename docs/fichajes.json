@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T08:40:34.256998Z",
+  "actualizado": "2026-08-24T08:50:42.867822Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "a212bad8e0ea762e",
+      "titulo": "El Cádiz se refuerza con un exjugador del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219123/orellana.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-24T08:25:26",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-24T08:50:38.858321"
+    },
     {
       "id": "c936365725f56242",
       "titulo": "Fermín y el fichaje de un '9': \"Confiamos en Deco, pero tenemos variantes y lo hemos demostrado\"",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-28T07:56:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T08:10:34.034179"
-    },
-    {
-      "id": "577489aefd8af78b",
-      "titulo": "El Barcelona anuncia su séptimo fichaje: un delantero africano junto a Hamza Abdelkarim",
-      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNWNtckFmRGNCZFptRG0wM0pydnFKckdJQ1d2d2paT2I3YkdRWmNBeTFJRzVtLTZ0VGJFSVREQUtPN19rTm9xd1VxNVRNN0VmSFpoMHkxUlpCeVVmS3VOZERFbi12ZTh5Y3RXVC1oQ3dmdHQ4dl9WNlRGMlo2VFpXV1ZiVmluYU1iVzJCclRTNV9xU0RYTUVQTVQwdkI1WHdWaFN1WUVweldGWFJqWE1qVXZ1QkpHQWRnV2xZU0J5NF80cjNqQThPSXpEVHVvQmlxRzNCZnI1TzBIdw?oc=5",
-      "medio": "Goal.com",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-28T06:34:26",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-28T06:40:29.117943"
     }
   ]
 }
