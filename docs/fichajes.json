@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T19:01:08.392455Z",
+  "actualizado": "2026-08-24T19:10:33.552606Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -137,6 +137,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "1efa0633ff512169",
+      "titulo": "Barça Team: \"El Barça agotará todas las vías por Julián\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219345/barca-team-barca-agotara-todas-vias-julian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-24T18:56:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-24T19:10:28.407168"
+    },
     {
       "id": "38fbf5c51499ae05",
       "titulo": "El ex del Barça, Franck Kessié, en el radar de un equipo 'top' de Europa",
@@ -5323,19 +5336,6 @@
       "fecha": "2026-07-28T19:09:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T19:40:32.570064"
-    },
-    {
-      "id": "ba812cf40b662f4a",
-      "titulo": "Insisten en que una promesa brasileña es objetivo de Barça y United",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004211074/insisten-promesa-brasilena-objetivo-barca-united.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-28T18:12:03",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-28T18:40:31.865903"
     }
   ]
 }
