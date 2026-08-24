@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T09:30:49.904450Z",
+  "actualizado": "2026-08-24T09:40:34.502846Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "98e9ff2bae9635ca",
+      "titulo": "El Barça preguntó por Guirassy",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219139/barca-pregunto-guirassy.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-24T09:24:26",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-24T09:40:29.503779"
+    },
     {
       "id": "a212bad8e0ea762e",
       "titulo": "El Cádiz se refuerza con un exjugador del Barça",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-28T09:57:46",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-28T10:50:29.112327"
-    },
-    {
-      "id": "9be8e6e415d09243",
-      "titulo": "\"Lewandowski rechazó 200 millones por seguir en el Barça\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004210864/lewandowski-rechazo-200-millones-seguir-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-28T07:56:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-28T08:10:34.034179"
     }
   ]
 }
