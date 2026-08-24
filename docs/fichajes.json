@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T11:01:01.074183Z",
+  "actualizado": "2026-08-24T11:10:36.606591Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "bfa8c2d122c65ce0",
+      "titulo": "Balde se entrena con normalidad a la espera de aclarar su futuro",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219184/balde-entrena-normalidad-espera-aclarar-futuro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-24T10:46:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-24T11:10:31.086569"
+    },
     {
       "id": "29aa041368d41f37",
       "titulo": "Rodri ya prepara su debut para este jueves",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-28T12:31:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T13:10:34.941540"
-    },
-    {
-      "id": "16d637fc0c991980",
-      "titulo": "Aziz Issah ya es del Barça Atlètic: firma hasta 2028",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUVlSEMyMWIwRUVUbkV5bnFSRW1KZ1V3QUNIQkREbm5BTTZNeHZ2eUQ3bU9Eckdpa0xENV9vZW4xZG5aSndaSnZDSGdNN2t4a0ZBSnFUQlg0Um1FZ1FncW82SUUwWkJxUXExcFdlVk8tc0dzQ3BqUUE1SzNNemZHbzhUcXBQcE5QbHZMaTFtLU1QcTRNOTl0a05XZmFnblQ5LTJXNg?oc=5",
-      "medio": "fcbarcelonanoticias.com",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-28T11:12:41",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-28T16:50:36.469740"
     }
   ]
 }
