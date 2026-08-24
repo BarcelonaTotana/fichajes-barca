@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T11:30:46.044967Z",
+  "actualizado": "2026-08-24T11:40:32.796508Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -159,6 +159,19 @@
       "fecha": "2026-08-24T10:05:53",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-24T10:42:17.678441"
+    },
+    {
+      "id": "69b68e5043d76410",
+      "titulo": "Rodri ya prepara su debut con el Barça para este jueves",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219168/rodri-prepara-debut-barca-jueves.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-24T10:05:53",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-24T11:40:27.680213"
     },
     {
       "id": "98e9ff2bae9635ca",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-28T13:24:39",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-29T08:01:28.536136"
-    },
-    {
-      "id": "d597a351a2b070f6",
-      "titulo": "Christensen: \"Estoy muy agradecido por renovar y tener esta nueva oportunidad\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004210981/christensen-agradecido-renovar-nueva-oportunidad.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-28T12:31:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-28T13:10:34.941540"
     }
   ]
 }
