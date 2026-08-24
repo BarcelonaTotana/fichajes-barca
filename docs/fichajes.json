@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T19:20:34.617193Z",
+  "actualizado": "2026-08-24T19:28:59.895206Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -137,6 +137,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "5bdef98d6bcb8b01",
+      "titulo": "El Deportivo avanza por Adama Traoré, que apunta a ser el octavo fichaje del retorno a Primera",
+      "enlace": "https://www.sport.es/es/noticias/futbol/deportivo-avanza-adama-traore-apunta-133625472?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-24T19:10:54",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-24T19:28:57.415395"
+    },
     {
       "id": "1efa0633ff512169",
       "titulo": "Barça Team: \"El Barça agotará todas las vías por Julián\"",
@@ -5323,19 +5336,6 @@
       "fecha": "2026-07-28T22:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T22:40:39.368634"
-    },
-    {
-      "id": "124c30ed10c65f64",
-      "titulo": "\"Gordon deberá demostrar un gran carácter en el Barça\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004211115/gordon-debera-demostrar-gran-caracter-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-28T19:09:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-28T19:40:32.570064"
     }
   ]
 }
