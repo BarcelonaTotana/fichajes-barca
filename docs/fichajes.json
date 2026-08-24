@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T12:01:01.055795Z",
+  "actualizado": "2026-08-24T12:10:33.601910Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "94be991a111a66c4",
+      "titulo": "Comunicado oficial del Barcelona tras las pruebas a Gavi",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219202/comunicado-oficial-barcelona-pruebas-gavi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-24T11:42:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-24T12:10:28.025560"
+    },
     {
       "id": "bfa8c2d122c65ce0",
       "titulo": "Balde se entrena con normalidad a la espera de aclarar su futuro",
@@ -5320,19 +5333,6 @@
       "fecha": "2026-07-28T13:24:39",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T13:40:36.319430"
-    },
-    {
-      "id": "ca5832c55e104c5d",
-      "titulo": "Eli Junior Kroupi es inviable para el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004211000/eli-junior-kroupi-inviable-barca-precio.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-28T13:24:39",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-29T08:01:28.536136"
     }
   ]
 }
