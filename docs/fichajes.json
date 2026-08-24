@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T17:30:48.516855Z",
+  "actualizado": "2026-08-24T17:37:50.985315Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -136,6 +136,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "7fc035e7d6d36370",
+      "titulo": "El coruñés Nico González, cerca de cambiar el Manchester City por el Newcastle",
+      "enlace": "https://www.sport.es/es/noticias/futbol/corunes-nico-gonzalez-cerca-cambiar-133623645?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-24T17:27:44",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-24T17:37:48.562331"
+    },
+    {
+      "id": "d52b948b911c68b5",
+      "titulo": "Gordon: \"Ha sido el inicio perfecto\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219328/gordon-sido-inicio-perfecto.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-24T17:18:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-24T17:37:46.121556"
+    },
     {
       "id": "c034fcc3f6c493f7",
       "titulo": "Acuerdo del Newcastle con el Manchester City por el ex azulgrana Nico González",
@@ -5309,32 +5335,6 @@
       "fecha": "2026-07-28T17:20:42",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-28T17:40:35.391967"
-    },
-    {
-      "id": "dba63faa5269fdec",
-      "titulo": "El Dortmund se ilusiona con el 'nuevo Lamine' tras la marcha de Adeyemi",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260728/1004211069/karetsas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-28T17:08:33",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-07-28T17:50:28.574775"
-    },
-    {
-      "id": "cef7f8ac4ba12a9d",
-      "titulo": "Dos novedades para el retorno al Spotify Camp Nou",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260728/1004211044/dos-novedades-retorno-spotify-camp-nou.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-28T16:07:55",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-28T16:40:34.289618"
     }
   ]
 }
