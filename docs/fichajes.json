@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T21:30:46.089985Z",
+  "actualizado": "2026-08-24T21:40:31.394885Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -137,6 +137,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "8c47cf9c4a83242c",
+      "titulo": "La Real Sociedad busca la fórmula para llevarse a Héctor Fort",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219384/real-sociedad-busca-formula-llevarse-hector-fort.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-24T21:03:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-24T21:40:26.442794"
+    },
     {
       "id": "1bf8ba58347289f1",
       "titulo": "El United prefiere una cesión por Balde",
@@ -5323,19 +5336,6 @@
       "fecha": "2026-07-29T05:38:26",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-07-29T23:30:51.183042"
-    },
-    {
-      "id": "1a1070f0e5e69553",
-      "titulo": "El Barça no se olvida de Jorge Salinas por un precio menor",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211153/barca-no-olvida-jorge-salinas-precio-menor.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-29T05:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-29T05:40:37.034141"
     }
   ]
 }
