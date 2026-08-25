@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T05:30:50.107871Z",
+  "actualizado": "2026-08-25T05:34:10.885310Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -98,6 +98,7 @@
     "a8834e2935efb5a4",
     "ab109c4f2d31ccf8",
     "af0089361f15efe2",
+    "b4c0c9c8ccf1b13e",
     "b631447530d14036",
     "b6be42fd132bae88",
     "b81a8a239b9fc848",
@@ -137,6 +138,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "5c02385ad8b5cb6b",
+      "titulo": "Julián Alvarez, Barça y Atlético: todos pierden",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219462/julian-alvarez-barca-atletico-todos-pierden.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-25T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T05:34:05.737804"
+    },
+    {
+      "id": "6054d11233b03a9a",
+      "titulo": "Un inicio demoledor sin '9'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219342/inicio-demoledor-9.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-25T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T05:34:05.738456"
+    },
     {
       "id": "8c47cf9c4a83242c",
       "titulo": "La Real Sociedad busca la fórmula para llevarse a Héctor Fort",
@@ -318,6 +345,19 @@
       "fecha": "2026-08-24T08:25:26",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-08-24T08:50:38.858321"
+    },
+    {
+      "id": "b4c0c9c8ccf1b13e",
+      "titulo": "El ex del Barça Jandro Orellana firma por el Cádiz",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219123/orellana.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-24T08:25:26",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-25T05:34:06.853784"
     },
     {
       "id": "c936365725f56242",
@@ -5297,45 +5337,6 @@
       "fecha": "2026-07-29T12:49:02",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-29T13:10:34.081070"
-    },
-    {
-      "id": "fb4aff1baf66daa7",
-      "titulo": "El Sporting Atlético se refuerza con el extremo Oriol Pallàs",
-      "enlace": "https://www.sport.es/es/noticias/futbol/sporting-atletico-refuerza-extremo-oriol-132913673?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-29T09:38:51",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-07-29T09:50:37.982815"
-    },
-    {
-      "id": "d344f9efb5c1f842",
-      "titulo": "En Inglaterra afirman que el Tottenham va a por Koundé",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211191/inglaterra-afirman-tottenham-kounde.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-29T07:16:06",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-29T07:40:31.276913"
-    },
-    {
-      "id": "0dd40314cdc4dd05",
-      "titulo": "EL SPORTING CIERRA PARA SU FILIAL EL FICHAJE DE ORIOL PALLAS PROCEDENTE DEL JUVENIL DEL F.C. BARCELONA",
-      "enlace": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPX3pTNHloYjl0SlpjUGFqSWoxejAzb2RJWVV2MUxyZEpYOU5ZSkVYQWJyMXpPcEJXaGNUeHl5NDZqTlFfbWt4RXFSZUlZaG5Oak9uZ0d6ekNLcUc5V3BPcnVlNjJsVmJ4bzQ0X1JXb3ZSRHhMeExDaWplVXhzeEFOT0tGaUJWcWFiaGV0YktZcU1adGx0VEN3VUJEa2pvbXgzc2dUeVJEbHIweGkyRFZJT0pIZ3Nrd01ieEFwVUxNQWFMSGdGcG9MS2dMbWNiN2ZpNVJ1TlZKTUM5R2plRE1HZUVnUkJrNDBuUDN6YTN3eU5lVGlsWUJvRFVheUdpa3o2RVIzcmxsSXNzU3ozQlp4MVJvWnAtZw?oc=5",
-      "medio": "Football Addict",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-29T05:38:26",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-29T23:30:51.183042"
     }
   ]
 }
