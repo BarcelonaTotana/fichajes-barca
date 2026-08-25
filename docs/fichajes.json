@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T18:01:01.670076Z",
+  "actualizado": "2026-08-25T18:10:39.574298Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -244,6 +244,19 @@
       "visto_por_primera_vez": "2026-08-25T16:35:01.646118"
     },
     {
+      "id": "df0c0c236f91e5c3",
+      "titulo": "Livakovic llega para firmar: \"¿Si me quedaré esta temporada? Veremos\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219583/livakovic-llega-hoy-barcelona-fichar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-25T11:00:01",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T18:10:34.535749"
+    },
+    {
       "id": "ea17700da382b4fa",
       "titulo": "Laporta, en la Ciutat Esportiva para una cumbre técnica",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219525/laporta-ciutat-esportiva-cumbre-tecnica.html",
@@ -333,6 +346,19 @@
       "fecha": "2026-08-24T21:03:44",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-24T21:40:26.442794"
+    },
+    {
+      "id": "1b64f6d3d0e6b71b",
+      "titulo": "Julián sigue alimentando el sueño del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219387/julian-sigue-alimentando-sueno-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-24T20:52:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T18:10:34.537512"
     },
     {
       "id": "1bf8ba58347289f1",
@@ -5312,32 +5338,6 @@
       "fecha": "2026-07-30T06:45:18",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T07:10:27.276920"
-    },
-    {
-      "id": "4e3668e497d7e34a",
-      "titulo": "El fichaje 'tapado' de Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211383/fichaje-tapado-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-30T05:05:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-30T05:40:27.486373"
-    },
-    {
-      "id": "de3c77525e460dbe",
-      "titulo": "Adeyemi: \"Hay granes cosas por venir\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211451/no-temo-lamine-yamal-nadie-mi-nivel-jugare.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-30T01:15:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-30T12:10:28.493431"
     }
   ]
 }
