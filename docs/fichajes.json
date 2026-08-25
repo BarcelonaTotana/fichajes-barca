@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T11:30:49.957287Z",
+  "actualizado": "2026-08-25T11:38:21.673906Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -96,6 +96,7 @@
     "a0f6cc383777f3a3",
     "a6a4505cce06ed66",
     "a8834e2935efb5a4",
+    "a8a47597c10b065b",
     "ab109c4f2d31ccf8",
     "af0089361f15efe2",
     "b4c0c9c8ccf1b13e",
@@ -138,6 +139,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "a8a47597c10b065b",
+      "titulo": "Livakovic llega hoy a Barcelona para fichar por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219583/livakovic-llega-hoy-barcelona-fichar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-25T11:00:01",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T11:38:15.448868"
+    },
     {
       "id": "ea17700da382b4fa",
       "titulo": "Laporta, en la Ciutat Esportiva para una cumbre técnica",
@@ -5324,19 +5338,6 @@
       "fecha": "2026-07-29T15:34:42",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T07:40:28.767850"
-    },
-    {
-      "id": "7f6cbd489c2304c8",
-      "titulo": "Marc Bernal: \"Me veo para ser titular\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211380/marc-bernal-me-veo-titular.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-29T14:40:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-29T15:10:28.146475"
     }
   ]
 }
