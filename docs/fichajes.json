@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T12:30:52.458489Z",
+  "actualizado": "2026-08-25T12:40:32.657305Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -164,6 +164,19 @@
       "fecha": "2026-08-25T08:41:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-25T09:10:31.184744"
+    },
+    {
+      "id": "433efe280f16928d",
+      "titulo": "Cumbre de Laporta con la dirección deportiva",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219525/laporta-ciutat-esportiva-cumbre-tecnica.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-25T08:41:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T12:40:27.623787"
     },
     {
       "id": "4ef5121a42d3365d",
@@ -5325,19 +5338,6 @@
       "fecha": "2026-07-29T15:34:42",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-29T16:10:41.485436"
-    },
-    {
-      "id": "8a2e0a36638ab99a",
-      "titulo": "Deco se hace con el control del filial",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211386/deco-gana-peso-control-filial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "avanzado",
-      "fecha": "2026-07-29T15:34:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-30T07:40:28.767850"
     }
   ]
 }
