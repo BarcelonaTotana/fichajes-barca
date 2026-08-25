@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T16:01:07.132389Z",
+  "actualizado": "2026-08-25T16:10:46.879707Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -140,6 +140,32 @@
   ],
   "noticias": [
     {
+      "id": "e18ba5eb939389c1",
+      "titulo": "Xavi, en su presentación con Países Bajos: \"Vengo a la universidad del fútbol\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219683/xavi-presentacion-paises-bajos-vengo-universidad-futbol.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-25T15:52:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T16:10:41.697478"
+    },
+    {
+      "id": "1d59374d528a72e4",
+      "titulo": "Así juega Livakovic, el nuevo portero del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219629/asi-juega-livakovic-nuevo-portero-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-25T15:47:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T16:10:41.697606"
+    },
+    {
       "id": "3dba614b65e8a37a",
       "titulo": "Nuevo pretendiente en la Premier League por Rafael Leão",
       "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260825/1004219661/nuevo-pretendiente-premier-league-rafael-leao.html",
@@ -164,6 +190,19 @@
       "fecha": "2026-08-25T11:00:01",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-25T11:38:15.448868"
+    },
+    {
+      "id": "a73c82304f1874f1",
+      "titulo": "Livakovic llega a Barcelona para firmar: \"¿Si me quedaré esta temporada? Veremos\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219583/livakovic-llega-hoy-barcelona-fichar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-25T11:00:01",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T16:10:41.698064"
     },
     {
       "id": "ea17700da382b4fa",
@@ -5299,45 +5338,6 @@
       "fecha": "2026-07-29T19:08:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-29T19:40:36.898754"
-    },
-    {
-      "id": "112eb4e8fee85487",
-      "titulo": "Adeyemi se confiesa: \"No temo ni a Lamine Yamal ni a ningún jugador\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211430/adeyemi-confiesa-no-temo-lamine-yamal-jugador.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-29T18:24:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-29T18:40:33.944120"
-    },
-    {
-      "id": "41aadab7b4dac62f",
-      "titulo": "Kroupi, baja entre tres y cuatro meses",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211422/kroupi-baja-tres-cuatro-meses.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-29T17:19:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-29T17:40:38.705347"
-    },
-    {
-      "id": "1817b8a00079b0a1",
-      "titulo": "Joan Anaya dice adiós al Barça y se va al Sant Andreu",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211413/joan-anaya-dice-adios-barca-sant-andreu.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-29T17:02:22",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-29T17:40:38.706125"
     }
   ]
 }
