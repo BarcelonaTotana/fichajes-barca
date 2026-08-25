@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T17:09:41.157133Z",
+  "actualizado": "2026-08-25T17:10:35.471340Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -139,6 +139,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "f91fd04bbb721eb4",
+      "titulo": "Aubameyang se reencontrará en Riazor con otro ex del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260825/1004219713/aubameyang-reencontrara-riazor-ex-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-25T16:50:33",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-25T17:10:31.271145"
+    },
     {
       "id": "e18ba5eb939389c1",
       "titulo": "Xavi, en su presentación con Países Bajos: \"Vengo a la universidad del fútbol\"",
@@ -5325,19 +5338,6 @@
       "fecha": "2026-07-30T01:15:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T14:02:36.783449"
-    },
-    {
-      "id": "a3999bd9d4b9e11e",
-      "titulo": "Adeyemi: \"Hay cosas grandes por venir\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211451/no-temo-lamine-yamal-nadie-mi-nivel-jugare.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-29T22:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-29T22:40:35.321915"
     }
   ]
 }
