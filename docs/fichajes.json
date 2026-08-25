@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T15:01:05.600875Z",
+  "actualizado": "2026-08-25T15:10:40.224725Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -139,6 +139,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "3dba614b65e8a37a",
+      "titulo": "Nuevo pretendiente en la Premier League por Rafael Leão",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260825/1004219661/nuevo-pretendiente-premier-league-rafael-leao.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-25T14:58:45",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-25T15:10:36.057978"
+    },
     {
       "id": "a8a47597c10b065b",
       "titulo": "Livakovic llega hoy a Barcelona para fichar por el Barça",
@@ -5325,19 +5338,6 @@
       "fecha": "2026-07-29T17:02:22",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-29T17:40:38.706125"
-    },
-    {
-      "id": "468a8f69c2850cce",
-      "titulo": "Goretzka se habría ofrecido al Barça de Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211404/goretzka-habria-ofrecido-barca-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-29T16:03:54",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-29T16:40:30.629241"
     }
   ]
 }
