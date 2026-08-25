@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T09:01:01.226982Z",
+  "actualizado": "2026-08-25T09:10:36.173261Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -138,6 +138,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "ea17700da382b4fa",
+      "titulo": "Laporta, en la Ciutat Esportiva para una cumbre técnica",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219525/laporta-ciutat-esportiva-cumbre-tecnica.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-25T08:41:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T09:10:31.184744"
+    },
     {
       "id": "4ef5121a42d3365d",
       "titulo": "En Inglaterra hablan de ofensiva y ponen precio a Balde",
@@ -5324,19 +5337,6 @@
       "fecha": "2026-07-29T14:40:35",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-29T15:10:28.146475"
-    },
-    {
-      "id": "85ab83ecd8c126ce",
-      "titulo": "El sábado sube la cláusula de rescisión de Javi Guerra",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211379/sabado-sube-clausula-rescision-javi-guerra.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-29T14:39:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-29T15:10:28.147048"
     }
   ]
 }
