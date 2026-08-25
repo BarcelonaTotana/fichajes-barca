@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T17:30:49.603440Z",
+  "actualizado": "2026-08-25T17:40:36.604198Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -139,6 +139,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "a0f5518f478b7c11",
+      "titulo": "Gaspart desvela su conversación con Gil Marín por Julián: \"No pierdas el tiempo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219718/gaspart-desvela-conversacion-gil-marin-julian-no-pierdas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-25T17:31:02",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T17:40:31.643820"
+    },
     {
       "id": "f91fd04bbb721eb4",
       "titulo": "Aubameyang se reencontrará en Riazor con otro ex del Barça",
@@ -5325,19 +5338,6 @@
       "fecha": "2026-07-30T01:15:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T12:10:28.493431"
-    },
-    {
-      "id": "5fb18cf4cb4fddf9",
-      "titulo": "\"No temo a Lamine Yamal ni a nadie, si estoy a mi nivel jugaré\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211451/no-temo-lamine-yamal-nadie-mi-nivel-jugare.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-30T01:15:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-30T14:02:36.783449"
     }
   ]
 }
