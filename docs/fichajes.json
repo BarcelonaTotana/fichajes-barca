@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T08:30:51.531348Z",
+  "actualizado": "2026-08-25T08:39:43.395277Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -138,6 +138,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "4ef5121a42d3365d",
+      "titulo": "En Inglaterra hablan de ofensiva y ponen precio a Balde",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219508/inglaterra-hablan-ofensiva-ponen-precio-balde.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-25T08:21:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T08:39:38.239458"
+    },
     {
       "id": "5c02385ad8b5cb6b",
       "titulo": "Julián Alvarez, Barça y Atlético: todos pierden",
@@ -5324,19 +5337,6 @@
       "fecha": "2026-07-29T14:39:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-29T15:10:28.147048"
-    },
-    {
-      "id": "35cdab816e8f11ee",
-      "titulo": "Balde: \"Estoy seguro de que Adeyemi nos ayudará mucho\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211338/balde-seguro-adeyemi-ayudara.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-29T12:49:02",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-29T13:10:34.081070"
     }
   ]
 }
