@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T16:30:50.257363Z",
+  "actualizado": "2026-08-25T16:35:06.941549Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -203,6 +203,19 @@
       "fecha": "2026-08-25T11:00:01",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-25T16:10:41.698064"
+    },
+    {
+      "id": "5614b7bdf9f9e203",
+      "titulo": "Livakovic llega a Barcelona: \"¿Si me quedaré esta temporada? Veremos\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219583/livakovic-llega-hoy-barcelona-fichar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-25T11:00:01",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-25T16:35:01.646118"
     },
     {
       "id": "ea17700da382b4fa",
@@ -5325,19 +5338,6 @@
       "fecha": "2026-07-29T22:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-29T22:40:35.321915"
-    },
-    {
-      "id": "dd3bfe19950f70c8",
-      "titulo": "El mensaje de Kroupi tras ser operado con éxito",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211450/mensaje-kroupi-operado-exito.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-29T19:08:15",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-29T19:40:36.898754"
     }
   ]
 }
