@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T17:30:48.487363Z",
+  "actualizado": "2026-08-26T17:40:40.540492Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -141,6 +141,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "67eac49b5149246e",
+      "titulo": "Salinas: la 'amenaza' de Barça y Atleti obliga al Racing a moverse",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220063/salinas-amenaza-barca-atleti-obliga-racing-moverse.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-26T17:09:25",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T17:40:34.691560"
+    },
     {
       "id": "19093aa5cace4d83",
       "titulo": "La versión de Julián sobre su ausencia en la sesión de hoy",
@@ -5327,19 +5340,6 @@
       "fecha": "2026-07-31T08:44:08",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T09:10:28.912759"
-    },
-    {
-      "id": "f61ce33d1a0ee4b2",
-      "titulo": "El problema del Barça de cada verano",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211694/problema-barca-verano.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-31T05:10:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-31T05:40:25.087235"
     }
   ]
 }
