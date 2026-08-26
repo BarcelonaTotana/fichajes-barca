@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T22:00:59.635869Z",
+  "actualizado": "2026-08-26T22:10:32.454874Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -143,6 +143,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "3325be8176c962a1",
+      "titulo": "Todos los bombos para el sorteo de la Champions 2026-27: objetivo, Metropolitano",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219746/sorteo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-26T21:32:54",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T22:10:27.276225"
+    },
     {
       "id": "a0ff90665a18fcf6",
       "titulo": "¡Nuevo fichaje bomba en el Deportivo!",
@@ -5329,19 +5342,6 @@
       "fecha": "2026-07-31T16:09:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T16:40:29.846267"
-    },
-    {
-      "id": "b0fd83013b6ca7fb",
-      "titulo": "Ter Stegen deja la concentración y pone rumbo a Amsterdam",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004212042/ter-stegen-deja-concentracion-pone-rumbo-amsterdam.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "here_we_go",
-      "fecha": "2026-07-31T15:58:27",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-31T16:10:26.841833"
     }
   ]
 }
