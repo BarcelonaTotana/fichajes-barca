@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T12:00:59.974661Z",
+  "actualizado": "2026-08-26T12:10:34.595807Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -139,6 +139,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "5ae4c949bf911405",
+      "titulo": "Flick deja en el aire la permanencia de Livakovic",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219959/flick-deja-aire-permanencia-livakovic.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-26T11:43:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T12:10:28.405053"
+    },
     {
       "id": "2fc4374eb51e1d0b",
       "titulo": "Flick confirma la vuelta de Balde pero le mete presión",
@@ -5325,19 +5338,6 @@
       "fecha": "2026-07-30T14:44:36",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T15:10:27.725107"
-    },
-    {
-      "id": "46746cb52779067b",
-      "titulo": "El Barça, tranquilo pese a la denuncia del Atlético, mantendrá su plan",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211678/barca-tranquilo-pese-denuncia-atletico-mantendra-plan.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-30T13:42:22",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-30T14:02:36.781354"
     }
   ]
 }
