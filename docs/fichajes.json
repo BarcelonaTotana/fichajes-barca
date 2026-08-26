@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T04:30:50.760241Z",
+  "actualizado": "2026-08-26T04:40:33.781746Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -139,6 +139,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "fc8f0200e58280d2",
+      "titulo": "Verano loco en la portería del Barça: cinco salidas y Eder e Iker, a la expectativa por Livakovic",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219783/verano-loco-porteria-barca-cinco-salidas-eder-e-iker-expectativa-livakovic.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-26T04:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T04:40:28.540846"
+    },
     {
       "id": "68f8d976b3e8f1f5",
       "titulo": "Las claves de la cumbre entre Laporta y la comisión deportiva",
@@ -5325,19 +5338,6 @@
       "fecha": "2026-07-30T07:46:17",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T08:10:29.148493"
-    },
-    {
-      "id": "9aa856daeba73353",
-      "titulo": "Nervios en el Al Hilal por el retraso de Cancelo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211526/nervios-hilal-retraso-cancelo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-30T07:08:18",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-30T07:40:28.761074"
     }
   ]
 }
