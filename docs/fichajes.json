@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T20:30:49.405599Z",
+  "actualizado": "2026-08-26T20:43:22.098804Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -143,6 +143,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "8be3f647c40aff9f",
+      "titulo": "Adama ya es del Deportivo: firma hasta 2028",
+      "enlace": "https://www.sport.es/es/noticias/futbol/adama-deportivo-firma-2028-133688263?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-26T20:28:41",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-26T20:42:25.297882"
+    },
     {
       "id": "fbf313e0c58d6a4f",
       "titulo": "La oficialidad del fichaje de Livakovic se traslada a este jueves",
@@ -5329,19 +5342,6 @@
       "fecha": "2026-07-31T10:19:00",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-08-03T12:00:53.488817"
-    },
-    {
-      "id": "d94545d1196ce20a",
-      "titulo": "Jesse Bisiwu firma hoy por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211893/jesse-bisiwu-firma-hoy-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-07-31T09:19:26",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-31T09:40:27.007296"
     }
   ]
 }
