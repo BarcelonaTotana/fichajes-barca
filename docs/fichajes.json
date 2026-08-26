@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T18:10:35.308224Z",
+  "actualizado": "2026-08-26T18:20:36.017391Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -100,6 +100,7 @@
     "a8834e2935efb5a4",
     "a8a47597c10b065b",
     "ab109c4f2d31ccf8",
+    "ae11430778915027",
     "af0089361f15efe2",
     "b4c0c9c8ccf1b13e",
     "b631447530d14036",
@@ -323,6 +324,19 @@
       "fecha": "2026-08-26T05:02:29",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-26T16:20:32.144859"
+    },
+    {
+      "id": "ae11430778915027",
+      "titulo": "El Real Zaragoza hace oficial por fin el fichaje de Rubén Iranzo y acaba con el 'culebrón'. \"No veo la categoría al venir, sino el club que es y la afición que tiene\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/real-zaragoza-oficial-fichaje-ruben-133659988?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-26T05:02:29",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-26T18:20:33.567160"
     },
     {
       "id": "7537c9939cc6829a",
@@ -5328,19 +5342,6 @@
       "fecha": "2026-07-31T09:19:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T12:40:29.639731"
-    },
-    {
-      "id": "30f0349c496f2926",
-      "titulo": "Oficial: Jesse Bisiwu ya es del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211893/jesse-bisiwu-firma-hoy-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-31T09:19:26",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-31T18:40:31.015929"
     }
   ]
 }
