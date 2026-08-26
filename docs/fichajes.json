@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T18:01:07.339566Z",
+  "actualizado": "2026-08-26T18:10:35.308224Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -23,6 +23,7 @@
     "075a54a89507f220",
     "09144d5ce9eed317",
     "09e90e74922a2b9b",
+    "0ca73f3a1a9e33e9",
     "0dcc3195962dd4cd",
     "0f6dcf300e0cb34e",
     "10c093e3e5f4eedd",
@@ -181,6 +182,19 @@
       "visto_por_primera_vez": "2026-08-26T14:30:45.531253"
     },
     {
+      "id": "0ca73f3a1a9e33e9",
+      "titulo": "Acuerdo Barça-Real por Héctor Fort, pero falta el 'ok' del jugador",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220000/aceleron-real-sociedad-hector-fort.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-26T14:15:17",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T18:10:29.430415"
+    },
+    {
       "id": "355b40795c8b61e3",
       "titulo": "Laporta denuncia la detención en Elche y confirma que no habrá homenaje a los campeones del mundo",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219987/laporta-denuncia-detencion-elche-confirma-no-habra-homenaje-campeones-mundo.html",
@@ -231,6 +245,19 @@
       "fecha": "2026-08-26T12:30:24",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-26T14:30:45.531603"
+    },
+    {
+      "id": "4926501ff6227e33",
+      "titulo": "Joan Laporta insiste en el fichaje de Julián y tiende la mano al Atlético",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219974/joan-laporta-julian-alvarez-operacion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-26T12:30:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T18:10:29.430746"
     },
     {
       "id": "fcf3c9c0caac81fe",
@@ -5314,32 +5341,6 @@
       "fecha": "2026-07-31T09:19:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T18:40:31.015929"
-    },
-    {
-      "id": "6603845fea51b1fa",
-      "titulo": "Oficial: Jesse Bisiwu ya es nuevo jugador del FC Barcelona",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211893/jesse-bisiwu-firma-hoy-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-31T09:19:26",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-01T10:40:33.356912"
-    },
-    {
-      "id": "8224e9a8ba463a6f",
-      "titulo": "Birmingham, una ciudad con historia para el Barcelona",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211879/birmingham-ciudad-historia-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-31T08:44:08",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-31T09:10:28.912759"
     }
   ]
 }
