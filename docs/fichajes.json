@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T11:30:47.856535Z",
+  "actualizado": "2026-08-26T11:40:37.554567Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -139,6 +139,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "2fc4374eb51e1d0b",
+      "titulo": "Flick confirma la vuelta de Balde pero le mete presión",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219941/flick-confirma-vuelta-balde-le-mete-presion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-26T11:02:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T11:40:32.038840"
+    },
     {
       "id": "11c25e7648ad22c9",
       "titulo": "Flick, sobre Julián y el '9': \"Deco y yo estamos de acuerdo con Laporta\"",
@@ -5325,19 +5338,6 @@
       "fecha": "2026-07-30T13:42:22",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T14:02:36.781354"
-    },
-    {
-      "id": "d45a76bc237b79fb",
-      "titulo": "El Barça, tranquilo pese a la denuncia del Atlético, mantendrá su plan con Julián",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211678/barca-tranquilo-pese-denuncia-atletico-mantendra-plan.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-30T13:42:22",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-31T11:40:38.644739"
     }
   ]
 }
