@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T16:10:34.577871Z",
+  "actualizado": "2026-08-26T16:20:34.978732Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -12,6 +12,7 @@
     "martina fernandez",
     "nico gonzalez",
     "olivier nkamhoua",
+    "ruben iranzo",
     "van asten"
   ],
   "alertadas": [
@@ -120,6 +121,7 @@
     "cf86e5c6af4b5e90",
     "cfc7974d49bc48e0",
     "d1678f114989da7e",
+    "d50e311752fe32b0",
     "d74b02004bbf149f",
     "d94545d1196ce20a",
     "d99b318f89a79c54",
@@ -255,6 +257,19 @@
       "fecha": "2026-08-26T10:50:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-26T11:10:29.540394"
+    },
+    {
+      "id": "d50e311752fe32b0",
+      "titulo": "El Real Zaragoza hace oficial por fin el fichaje de Rubén Iranzo y acaba con el 'culebrón'",
+      "enlace": "https://www.sport.es/es/noticias/futbol/real-zaragoza-oficial-fichaje-ruben-133659988?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-26T05:02:29",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-26T16:20:32.144859"
     },
     {
       "id": "7537c9939cc6829a",
@@ -5325,19 +5340,6 @@
       "fecha": "2026-07-31T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T05:00:58.364590"
-    },
-    {
-      "id": "ed331fc4e07b5623",
-      "titulo": "El noveno fichaje del Barça B viene de la Masía: la joya de la generación 2008 que impresiona a Belletti",
-      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOU1WRnhMWHI1emRieUVsdkh4N1duVVJoQV9BLVFDTC1PazlXVFlqOWdxX09MSE5fYmxva3lEZ0Rkd0MyVTZ0S1E2enhjSDFIM3YxaFh4Q2pSa1lkSkNfUFpUQnNDRGxrdmwyYm1qLXRacjJ0a211S0hrQTFTYTdDYWNVVURrX0JoSWxEMWpIYjdUUDFmT2N6RFhSYU14enN6SV9RSmZfQkhiamJ4djJpUzkwZVBmcGV5UmRMU1pRb2Y3TVBiSF8zZUhUaEZFUmgtSHpuSjlnRGxBV2ZuVlFHM9IB4AFBVV95cUxQOU1WRnhMWHI1emRieUVsdkh4N1duVVJoQV9BLVFDTC1PazlXVFlqOWdxX09MSE5fYmxva3lEZ0Rkd0MyVTZ0S1E2enhjSDFIM3YxaFh4Q2pSa1lkSkNfUFpUQnNDRGxrdmwyYm1qLXRacjJ0a211S0hrQTFTYTdDYWNVVURrX0JoSWxEMWpIYjdUUDFmT2N6RFhSYU14enN6SV9RSmZfQkhiamJ4djJpUzkwZVBmcGV5UmRMU1pRb2Y3TVBiSF8zZUhUaEZFUmgtSHpuSjlnRGxBV2ZuVlFHMw?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-07-30T19:49:39",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-30T21:20:38.777599"
     }
   ]
 }
