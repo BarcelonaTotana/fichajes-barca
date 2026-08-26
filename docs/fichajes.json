@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T19:01:08.597430Z",
+  "actualizado": "2026-08-26T19:10:34.334467Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -143,6 +143,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "fbf313e0c58d6a4f",
+      "titulo": "La oficialidad del fichaje de Livakovic se traslada a este jueves",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220076/presentacion-livakovic-traslada-jueves.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-26T18:31:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T19:10:29.171394"
+    },
     {
       "id": "67eac49b5149246e",
       "titulo": "Salinas: la 'amenaza' de Barça y Atleti obliga al Racing a moverse",
@@ -5329,19 +5342,6 @@
       "fecha": "2026-07-31T09:19:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T09:40:27.007296"
-    },
-    {
-      "id": "89790074452b7534",
-      "titulo": "Jesse Bisiwu ya ha firmado por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211893/jesse-bisiwu-firma-hoy-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-31T09:19:26",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-31T12:40:29.639731"
     }
   ]
 }
