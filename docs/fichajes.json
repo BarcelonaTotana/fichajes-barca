@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T09:01:02.028310Z",
+  "actualizado": "2026-08-26T09:10:37.535056Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -190,6 +190,19 @@
       "fecha": "2026-08-25T21:59:04",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-25T22:09:12.644192"
+    },
+    {
+      "id": "ccfe394b78b76422",
+      "titulo": "La cumbre Laporta-comisión deportiva: con Julián hasta el final y Balde decide él",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219787/claves-cumbre-laporta-comision-deportiva.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-25T21:59:04",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T09:10:31.947372"
     },
     {
       "id": "a0f5518f478b7c11",
@@ -5325,19 +5338,6 @@
       "fecha": "2026-07-30T12:29:51",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T12:40:36.297406"
-    },
-    {
-      "id": "b986352e28d0fe27",
-      "titulo": "¡El Barça recibe la denuncia del Atlético por Julián Álvarez!",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211646/barca-recibe-denuncia-atletico-julian-alvarez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-30T11:48:17",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-30T12:10:28.491956"
     }
   ]
 }
