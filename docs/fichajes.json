@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T11:01:00.720139Z",
+  "actualizado": "2026-08-26T11:10:34.556086Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -139,6 +139,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "11c25e7648ad22c9",
+      "titulo": "Flick, sobre Julián y el '9': \"Deco y yo estamos de acuerdo con Laporta\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219937/flick-sobre-julian-9-deco-acuerdo-laporta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-26T10:50:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T11:10:29.540394"
+    },
     {
       "id": "7537c9939cc6829a",
       "titulo": "Dos misiles en las bandas",
@@ -5325,19 +5338,6 @@
       "fecha": "2026-07-30T13:42:22",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T11:40:38.644739"
-    },
-    {
-      "id": "d8e4cb051279b3f3",
-      "titulo": "Griezmann, un precedente del 'Caso Julián' que no tuvo mucho recorrido",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211660/griezmann-precedente-caso-julian-no-tuvo-recorrido.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-30T12:29:51",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-30T12:40:36.297406"
     }
   ]
 }
