@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T05:01:02.308907Z",
+  "actualizado": "2026-08-26T05:10:33.884777Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -139,6 +139,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "7537c9939cc6829a",
+      "titulo": "Dos misiles en las bandas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219716/dos-misiles-bandas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-26T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T05:10:28.672572"
+    },
+    {
+      "id": "202aa1dd7de267b0",
+      "titulo": "El plan del Barça con Bisiwu",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219618/plan-barca-bisiwu.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-26T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T05:10:28.672787"
+    },
     {
       "id": "fc8f0200e58280d2",
       "titulo": "Verano loco en la portería del Barça: cinco salidas y Eder e Iker, a la expectativa por Livakovic",
@@ -5312,32 +5338,6 @@
       "fecha": "2026-07-30T11:48:17",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T12:10:28.491956"
-    },
-    {
-      "id": "119634ca0b4bc2d4",
-      "titulo": "Contacto por Abde: El Barça, muy pendiente",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260730/1004211541/barca-pendiente-interes-roma-abde.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-30T08:09:19",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-07-30T08:40:29.424142"
-    },
-    {
-      "id": "ed46d0cece5938c0",
-      "titulo": "Estas son las exigencias de Racing y Barça por Salinas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211534/son-exigencias-racing-barca-salinas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-30T07:46:17",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-30T08:10:29.148493"
     }
   ]
 }
