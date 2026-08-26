@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T16:30:55.483959Z",
+  "actualizado": "2026-08-26T16:40:33.395346Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -141,6 +141,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "19093aa5cace4d83",
+      "titulo": "La versión de Julián sobre su ausencia en la sesión de hoy",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220038/version-julian-sobre-ausencia-sesion-hoy.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-26T16:03:07",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T16:40:28.292663"
+    },
     {
       "id": "71f6d8d5bc96cddc",
       "titulo": "Acelerón de la Real Sociedad por Héctor Fort",
@@ -5327,19 +5340,6 @@
       "fecha": "2026-07-31T05:10:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T05:40:25.087235"
-    },
-    {
-      "id": "a4ff4476b597e9d5",
-      "titulo": "Fermín, el arma letal de Flick que puede jugar de todo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211796/fermin-arma-letal-flick-jugar.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-31T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-31T05:00:58.364590"
     }
   ]
 }
