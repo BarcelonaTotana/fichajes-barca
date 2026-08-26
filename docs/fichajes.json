@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T21:40:33.680032Z",
+  "actualizado": "2026-08-26T21:50:36.315704Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -143,6 +143,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "a0ff90665a18fcf6",
+      "titulo": "¡Nuevo fichaje bomba en el Deportivo!",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260826/1004220120/nuevo-fichaje-bomba-deportivo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-26T21:27:52",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-26T21:50:32.329250"
+    },
     {
       "id": "8be3f647c40aff9f",
       "titulo": "Adama ya es del Deportivo: firma hasta 2028",
@@ -5329,19 +5342,6 @@
       "fecha": "2026-07-31T15:58:27",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T16:10:26.841833"
-    },
-    {
-      "id": "c9365068ea68e649",
-      "titulo": "El FC Barcelona ficha a Jesse Bisiwu",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNjJXblg4Z2VDOVhXS3drb0NGUmczUkRRQTllNmNIeDl6LXdjOU1CQUpIbW9oZ2lpNXRrcThtWjdaMXlPd21kaVVWUlQ5cUJiYjhHUkp3aVdzS0dMb3ppYWZIVjQ1a1ZBSi1CSGZkeVhYTHpZWGdFOEw5TFNEWllBdldURU5QaGxsOW1XR3JwakItcFE1Q3FBM1h4SnRXOHd0SDh2MmpCN2ltbHAwenc?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-31T10:19:00",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-08-03T12:00:53.488817"
     }
   ]
 }
