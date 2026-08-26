@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T13:30:48.990023Z",
+  "actualizado": "2026-08-26T13:40:35.671023Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -140,6 +140,19 @@
   ],
   "noticias": [
     {
+      "id": "355b40795c8b61e3",
+      "titulo": "Laporta denuncia la detención en Elche y confirma que no habrá homenaje a los campeones del mundo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219987/laporta-denuncia-detencion-elche-confirma-no-habra-homenaje-campeones-mundo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-26T13:08:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T13:40:29.968653"
+    },
+    {
       "id": "036a089f4cebe30a",
       "titulo": "Joan Laporta insiste en el fichaje de Julián y estrecha la mano al Atlético",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219974/joan-laporta-julian-alvarez-operacion.html",
@@ -151,6 +164,19 @@
       "fecha": "2026-08-26T12:30:24",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-26T12:40:27.552653"
+    },
+    {
+      "id": "826836bd8eae4906",
+      "titulo": "Laporta insiste en fichar a Julián y estrecha la mano al Atlético",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219974/joan-laporta-julian-alvarez-operacion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-26T12:30:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-26T13:40:29.968818"
     },
     {
       "id": "fcf3c9c0caac81fe",
@@ -5312,32 +5338,6 @@
       "fecha": "2026-07-30T15:09:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-30T15:41:50.400453"
-    },
-    {
-      "id": "4dfa171342e57a98",
-      "titulo": "Ter Stegen abandonará este viernes la concentración para firmar por el Ajax",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211705/ter-stegen-abandona-concentracion-firmar-ajax.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-30T15:09:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-30T20:12:14.357967"
-    },
-    {
-      "id": "442f484c3b019099",
-      "titulo": "Ter Stegen abandonará hoy la concentración para firmar por el Ajax",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260730/1004211705/ter-stegen-abandona-concentracion-firmar-ajax.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-30T15:09:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-31T05:40:25.088348"
     }
   ]
 }
