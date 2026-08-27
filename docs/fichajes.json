@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T10:00:59.564572Z",
+  "actualizado": "2026-08-27T10:10:34.470390Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -102,6 +102,7 @@
     "ab109c4f2d31ccf8",
     "ae11430778915027",
     "af0089361f15efe2",
+    "b3719da09d156cc6",
     "b4c0c9c8ccf1b13e",
     "b631447530d14036",
     "b6be42fd132bae88",
@@ -143,6 +144,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "b3719da09d156cc6",
+      "titulo": "Oficial: Livakovic ya es del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220253/oficial-livakovic-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-27T09:46:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T10:10:28.797673"
+    },
     {
       "id": "695a5955e5b4257c",
       "titulo": "El Barça sigue sacando dinero por sus 'ex': Nico deja otro 'pellizco'",
@@ -5329,19 +5343,6 @@
       "fecha": "2026-07-31T20:51:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-01T12:42:32.121010"
-    },
-    {
-      "id": "70bce6bbc32e7dd3",
-      "titulo": "El Barça anuncia el fichaje del belga Jesse Bisiwu, de 18 años",
-      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYmpfbXhOaC1aUUdTLXNOLVUtZlBnSl8zSWt4T2dLVFVpeDJwRXd3aW9IZUxneWJQR1h0cVd5OERNZkYxNTRMa1NfQmV1U2JENWlPcFQ1MnVxdnQwTTlyaXNmcmVPVmwxazJXaEJMSTd3NjFuWTByclgzT0VkQy14Q3B5amNFa2Jwd2E5QTd2UjhGa245di1SQWFnQ25MSkFXVERv0gGoAUFVX3lxTE53bHJ5ckJ2R3I4aHVQQWZ4dFR0T3IzNmt1Z2laY0U0NXBibThkQW9NUjJIOXJCaHRlOTF3Wl9KUWlJQ25SVFpjYzZjc0xTaUxQTkN2WmtHdmo0TWN1YUFVT0I1OVY0TVgzbkY4T3JndWhhRUU5SlJ6SUpkdDd4NHZKb3lrV01LM3dvNnp3cjBnaFF3LWRJUHNGQmJyRjFTWmZ6RUhQMmZrdw?oc=5",
-      "medio": "Faro de Vigo",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-31T19:37:13",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-08-03T07:00:59.334637"
     }
   ]
 }
