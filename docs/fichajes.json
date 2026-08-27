@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T10:30:44.616225Z",
+  "actualizado": "2026-08-27T10:36:50.025531Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "a4b670b5f6710dfb",
+      "titulo": "Livakovic: \"El Barça es el club más popular, un club increíble\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220260/livakovic-barca-club-popular-club-increible.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T10:11:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T10:36:45.090461"
+    },
     {
       "id": "b3719da09d156cc6",
       "titulo": "Oficial: Livakovic ya es del Barça",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-07-31T21:27:34",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T21:40:25.748098"
-    },
-    {
-      "id": "edf6a2c3c27df9b6",
-      "titulo": "Un 'Baby-Barça' adolescente sólo cede en los penaltis",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004212083/cronica-birmingham-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-31T20:51:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-01T12:42:32.121010"
     }
   ]
 }
