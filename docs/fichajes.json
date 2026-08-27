@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T17:01:05.821945Z",
+  "actualizado": "2026-08-27T17:13:10.146681Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "1f897382aa89c0b5",
+      "titulo": "Charla Yuste-Cerezo antes del sorteo ¿por Julián?",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220399/charla-yuste-cerezo-sorteo-julian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T16:56:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T17:12:17.080760"
+    },
+    {
+      "id": "092a9ac8c13f8fe2",
+      "titulo": "Nico, el jugador gallego que más dinero ha movido en traspasos: casi 140 millones",
+      "enlace": "https://www.sport.es/es/noticias/futbol/nico-jugador-gallego-dinero-movido-133713782?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T16:55:37",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-27T17:12:19.781648"
+    },
     {
       "id": "01ed8a3f0ba4569c",
       "titulo": "Álvaro Cortés, rumbo a Bélgica",
@@ -5317,32 +5343,6 @@
       "fecha": "2026-08-01T15:16:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-01T16:10:27.608940"
-    },
-    {
-      "id": "070daaa04538bb76",
-      "titulo": "El Benfica sólo venderá a Pavlidis \"por una oferta irresistible\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260801/1004212209/benfica-vendera-pavlidis-oferta-irresistible.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-01T09:52:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-01T10:03:34.346951"
-    },
-    {
-      "id": "d1678f114989da7e",
-      "titulo": "El 'caso Cancelo' se desencalla: Al Hilal negocia con el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260801/1004212190/caso-cancelo-desencalla-hilal-acepta-negociar.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-01T08:13:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-01T08:42:28.013787"
     }
   ]
 }
