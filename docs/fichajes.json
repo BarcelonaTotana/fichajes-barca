@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T05:00:58.021221Z",
+  "actualizado": "2026-08-27T05:10:32.270269Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -143,6 +143,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "94fbbb14dfabbffc",
+      "titulo": "El exjugador del Real Zaragoza que aparece en el documental de Mourinho en Netflix: pagaron 7 millones por su fichaje y fue campeón de la Premier",
+      "enlace": "https://www.sport.es/es/noticias/futbol/exjugador-real-zaragoza-aparece-documental-133691444?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T05:00:51",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-27T05:10:29.843900"
+    },
     {
       "id": "3325be8176c962a1",
       "titulo": "Todos los bombos para el sorteo de la Champions 2026-27: objetivo, Metropolitano",
@@ -5329,19 +5342,6 @@
       "fecha": "2026-07-31T16:37:02",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T17:10:26.874791"
-    },
-    {
-      "id": "4eb73016b6efb218",
-      "titulo": "El Barça anuncia el traspaso de Dragoni al Chelsea",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004212047/barca-anuncia-traspaso-dragoni-chelsea.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-07-31T16:09:26",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-31T16:40:29.846267"
     }
   ]
 }
