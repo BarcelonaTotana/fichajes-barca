@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T20:01:10.544130Z",
+  "actualizado": "2026-08-27T20:10:32.963131Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "93ea0ff26923aaf9",
+      "titulo": "Raphinha se empeña en ser el '9' y abre el marcador",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220468/raphinha-empena-9-abre-marcador.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T19:56:04",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T20:10:27.299271"
+    },
     {
       "id": "fbf6efcb891b3b4f",
       "titulo": "En Holanda vinculan a Nijstad para el central zurdo",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-02T15:34:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-02T22:10:35.571366"
-    },
-    {
-      "id": "bd248ef617e43158",
-      "titulo": "Ounahi vuelve a sonar para el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212453/ounahi-vuelve-sonar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-02T09:18:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-02T09:40:31.350939"
     }
   ]
 }
