@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T08:01:03.934939Z",
+  "actualizado": "2026-08-27T08:10:31.831393Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -209,6 +209,19 @@
       "visto_por_primera_vez": "2026-08-26T19:10:29.171394"
     },
     {
+      "id": "5d9958286ea1563c",
+      "titulo": "La oficialidad del fichaje de Livakovic, al caer",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220076/presentacion-livakovic-traslada-jueves.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-26T18:31:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T08:10:26.689848"
+    },
+    {
       "id": "67eac49b5149246e",
       "titulo": "Salinas: la 'amenaza' de Barça y Atleti obliga al Racing a moverse",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220063/salinas-amenaza-barca-atleti-obliga-racing-moverse.html",
@@ -233,6 +246,19 @@
       "fecha": "2026-08-26T16:03:07",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-26T16:40:28.292663"
+    },
+    {
+      "id": "f31e9f2a3616bdaa",
+      "titulo": "La versión de Julián sobre su ausencia en la sesión de ayer",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220038/version-julian-sobre-ausencia-sesion-hoy.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-26T16:03:07",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T08:10:26.690262"
     },
     {
       "id": "71f6d8d5bc96cddc",
@@ -5316,32 +5342,6 @@
       "fecha": "2026-07-31T18:44:12",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-07-31T19:10:35.707053"
-    },
-    {
-      "id": "21d194336dd3edda",
-      "titulo": "El FC Barcelona hace oficial el fichaje Jesse Bisiwu para el filial por 8.5M",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMzB5ZFhVVVFERmJSWEtsRGg5TEwxXzR4X3hSdWRXa2Qzd2o5RDJLdFBOS2JQLTVzUThuclVhVEVtZ2ZWOGN1OWwycUJqa2Y4VzNsZXVfREI4cGtiY21kVVp3T19RSHdQOWtDNDlUcVI5cEtZS1lRX3V2QnJib25XWjF5SkVjRWdfSGJlSW9DOWszcjF6U0JYZ19nMnVTU0o4NmNncHRLWjJGSjZHbmY2bXRuS0RORkZGSDcycEVUZ3B3dkZyalUxX0d2ODLSAcwBQVVfeXFMTjMweWRYVVVRREZiUlhLbERoOUxMMV80eF94UnVkV2tkM3dqOUQyS3RQTktiUC01c1E4bnJVYVRFbWdmVjhjdTlsMnFCamtmOFczbGV1X0RCOHBrYmNtZFVad09fUUh3UDlrQzQ5VHFSOXBLWUtZUV91dkJyYm9uV1oxeUpFY0VnX0hiZUlvQzlrM3IxelNCWGdfZzJ1U1NKODZjZ3B0S1oyRko2R25mNm10bktETkZGRkg3MnBFVGdwd3ZGcmpVMV9Hdjgy?oc=5",
-      "medio": "FútbolFantasy",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-07-31T18:29:32",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-07-31T20:03:08.741579"
-    },
-    {
-      "id": "27e719b1ecf4bb74",
-      "titulo": "En Portugal ven al Barça tras Pavlidis por su póquer en Europa",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004212049/wq.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-31T16:37:02",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-31T17:10:26.874791"
     }
   ]
 }
