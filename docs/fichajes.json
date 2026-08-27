@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T11:33:21.509319Z",
+  "actualizado": "2026-08-27T11:40:33.211565Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "01ed8a3f0ba4569c",
+      "titulo": "Álvaro Cortés, rumbo a Bélgica",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220297/alvaro-cortes-rumbo-belgica.html",
+      "medio": "mundodeportivo.com",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T11:27:51",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T11:40:27.651874"
+    },
+    {
+      "id": "5aeb5430cad41d29",
+      "titulo": "Lista del Barça ante el Athletic, con Rodri y una ausencia sintomática",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220274/lista-barca-athletic-rodri-ausencia-sintomatica.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T11:10:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T11:40:27.652015"
+    },
     {
       "id": "a4b670b5f6710dfb",
       "titulo": "Livakovic: \"El Barça es el club más popular, un club increíble\"",
@@ -5317,32 +5343,6 @@
       "fecha": "2026-08-01T08:13:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-01T08:42:28.013787"
-    },
-    {
-      "id": "156915c7a5c50c2b",
-      "titulo": "Ter Stegen tendrá en el Ajax a un ilustre ex compañero de Adeyemi",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260801/1004212176/ter-stegen-tendra-ajax-ilustre-ex-companero-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-01T07:06:18",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-01T07:40:28.126972"
-    },
-    {
-      "id": "233907c90a26a478",
-      "titulo": "Estreno con destellos del '14' Adeyemi",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004212124/estreno-destellos-14-adeyemi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-07-31T21:27:34",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-07-31T21:40:25.748098"
     }
   ]
 }
