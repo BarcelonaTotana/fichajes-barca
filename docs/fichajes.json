@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T19:40:32.767282Z",
+  "actualizado": "2026-08-27T19:50:35.213795Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -182,6 +182,19 @@
       "fecha": "2026-08-27T18:34:03",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-27T18:40:49.050951"
+    },
+    {
+      "id": "089cab89d339bc24",
+      "titulo": "El Real Zaragoza ficha a Óscar Ureña y ya tiene al extremo deseado",
+      "enlace": "https://www.sport.es/es/noticias/futbol/real-zaragoza-ficha-oscar-urena-133716641?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "avanzado",
+      "fecha": "2026-08-27T18:34:03",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-27T19:50:32.683741"
     },
     {
       "id": "a1a1f9c6db0ca72c",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-02T09:18:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-02T09:40:31.350939"
-    },
-    {
-      "id": "c9b052bcb9c3d09b",
-      "titulo": "Al Barça se le cae la opción Joao Pedro",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212433/barca-le-cae-opcion-joao-pedro.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-02T08:16:47",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-02T08:40:25.102421"
     }
   ]
 }
