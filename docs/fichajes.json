@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T19:30:47.988130Z",
+  "actualizado": "2026-08-27T19:40:32.767282Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "fbf6efcb891b3b4f",
+      "titulo": "En Holanda vinculan a Nijstad para el central zurdo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220459/holanda-vinculan-nijstad-central-zurdo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T19:16:40",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T19:40:27.266334"
+    },
+    {
+      "id": "445c3086486eb7a4",
+      "titulo": "El Barça se estrenará en Azerbaiyán ante el increíble Sabah FK, de 9 años de vida",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220425/barca-estrenara-azerbaiyan-increible-sabah-fk-9-anos-vida.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T19:11:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T19:40:27.266659"
+    },
     {
       "id": "1cf0efdf6651049c",
       "titulo": "El Real Zaragoza se lanza a por Óscar Ureña y apunta a cerrar su fichaje",
@@ -5317,32 +5343,6 @@
       "fecha": "2026-08-02T08:16:47",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-02T08:40:25.102421"
-    },
-    {
-      "id": "a4661c6ddb1f22c2",
-      "titulo": "Jofre Torrents podría acabar en el Ajax con Ter Stegen",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212425/jofre-torrents-acabar-ajax-ter-stegen.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-02T07:35:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-02T08:10:28.385215"
-    },
-    {
-      "id": "71825498d93dc6cc",
-      "titulo": "Jofre Torrents apunta al Ajax con Ter Stegen",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212425/jofre-torrents-acabar-ajax-ter-stegen.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-02T07:35:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-02T09:10:25.187203"
     }
   ]
 }
