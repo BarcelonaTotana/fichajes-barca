@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T21:30:48.896451Z",
+  "actualizado": "2026-08-27T21:40:34.065316Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "544e8d89d55c49c5",
+      "titulo": "Raphinha y Fermín, dos Pichichi para Flick",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220497/raphinha-fermin-dos-pichichi-flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T21:26:16",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T21:40:29.072110"
+    },
+    {
+      "id": "b2679a5d5a6d230f",
+      "titulo": "Rodri ya ejerce de líder: \"Hemos intentado levantar a Lamine\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220489/rodri-ejerce-lider-hemos-intentado-levantar-lamine.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T21:18:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T21:40:29.072409"
+    },
     {
       "id": "93ea0ff26923aaf9",
       "titulo": "Raphinha se empeña en ser el '9' y abre el marcador",
@@ -5317,32 +5343,6 @@
       "fecha": "2026-08-02T19:00:45",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-02T19:10:25.555050"
-    },
-    {
-      "id": "ee87d379835cea40",
-      "titulo": "Ferran Torres no está en venta",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212507/ferran-torres-no-venta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-02T17:14:59",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-02T17:40:33.826713"
-    },
-    {
-      "id": "bd4022ad050501bb",
-      "titulo": "Álvaro Cortés deja claro su objetivo en el Barcelona: \"Mi etapa en el filial ya ha pasado\"",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWlNBdUY1YTBOeFpNVks4R25XeUxqTFRkMU4weHhTZGxPdV9iNnpWRVFYb2NDTXdFR2RGSEN6bkJVeXJBbnlUZGhnYkhYTklrOC0zVG1JZ19lRmxYZDd4V0poaTIwdi1CaXY0MmtUR05rY05XZHZVQk5OdllUMjd6ODRna09SYjluQWh2c1Y5cGRKWjR6N0RnRnJiU3Y2a3JZX3NJa0M1amhUWUNlQWVpOVFrNDZiYm5wTXFwSkQwX0VZT0VjbXfSAcsBQVVfeXFMTl81azVPZlZQUnNReUdkM2o3SExWTldKVjhRVXBaMmVLNXQwZG1hUDh2cHc3aW8yS05EQkVlUWFKRHozb2VwUHVXa0NxSkFId2JiLUtwR0hHR1RNMFBLMVRVYzBsV0hoWmI3azFZSlNTTXp3ckJLSGlQTDdDQXF6UUVaUDJVX283eld1R25sV3Bfb0h0SnJndXE5aDRVZGxhUFF6eWVyYVEyeklJOHhNUGluQTFDSHdRVlpFOTMwQkFBcGw4cDM2MnhiRHc?oc=5",
-      "medio": "Tribuna.com",
-      "tier": 4,
-      "tier_etiqueta": "Poco fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-02T15:34:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-08-02T22:10:35.571366"
     }
   ]
 }
