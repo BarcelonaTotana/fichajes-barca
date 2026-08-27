@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T18:01:01.637953Z",
+  "actualizado": "2026-08-27T18:10:31.868000Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "be4c67405ca2fd69",
+      "titulo": "Cubarsí, Pedri y Gordon, quizá de '9', en el once del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220424/cubarsi-pedri-gordon-quiza-9-once-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T17:46:22",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T18:10:26.859846"
+    },
     {
       "id": "1f897382aa89c0b5",
       "titulo": "Charla Yuste-Cerezo antes del sorteo ¿por Julián?",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-01T15:16:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-01T15:40:34.757485"
-    },
-    {
-      "id": "39a39a64dbce2ed5",
-      "titulo": "Bisiwu, belga con vocación brasileña, desvela sus referentes",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260801/1004212279/joven-belga-vocacion-brasilena.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-01T15:16:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-01T16:10:27.608940"
     }
   ]
 }
