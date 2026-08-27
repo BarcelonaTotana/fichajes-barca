@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T19:01:00.216170Z",
+  "actualizado": "2026-08-27T19:10:34.340941Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
       "fecha": "2026-08-27T18:34:03",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-27T18:40:49.050951"
+    },
+    {
+      "id": "a1a1f9c6db0ca72c",
+      "titulo": "El morbo de los 'ex' en 5 de los 8 rivales del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220413/morbo-ex-5-8-rivales-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T18:30:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T19:10:28.540642"
     },
     {
       "id": "be4c67405ca2fd69",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-02T07:35:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-02T09:10:25.187203"
-    },
-    {
-      "id": "9d4d155daf17b373",
-      "titulo": "Pensar en positivo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212392/pensar-positivo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-02T04:15:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-02T04:38:18.092429"
     }
   ]
 }
