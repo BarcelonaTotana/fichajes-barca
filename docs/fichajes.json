@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T18:30:50.494362Z",
+  "actualizado": "2026-08-27T18:40:51.547950Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -145,6 +145,19 @@
   ],
   "noticias": [
     {
+      "id": "1cf0efdf6651049c",
+      "titulo": "El Real Zaragoza se lanza a por Óscar Ureña y apunta a cerrar su fichaje",
+      "enlace": "https://www.sport.es/es/noticias/futbol/real-zaragoza-lanza-oscar-urena-133716641?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "avanzado",
+      "fecha": "2026-08-27T18:34:03",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-27T18:40:49.050951"
+    },
+    {
       "id": "be4c67405ca2fd69",
       "titulo": "Cubarsí, Pedri y Gordon, quizá de '9', en el once del Barça",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220424/cubarsi-pedri-gordon-quiza-9-once-barca.html",
@@ -156,6 +169,19 @@
       "fecha": "2026-08-27T17:46:22",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-27T18:10:26.859846"
+    },
+    {
+      "id": "ac7a16606eff035b",
+      "titulo": "Cubarsí, Pedri y Gordon, en el once y Rodri, en el banquillo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220424/cubarsi-pedri-gordon-quiza-9-once-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-27T17:46:22",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-27T18:40:46.292194"
     },
     {
       "id": "1f897382aa89c0b5",
@@ -5317,32 +5343,6 @@
       "fecha": "2026-08-02T04:15:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-02T04:38:18.092429"
-    },
-    {
-      "id": "f6c77886d2b7e27e",
-      "titulo": "El laportismo sin Laporta",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212365/laportismo-laporta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-02T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-02T04:38:18.092734"
-    },
-    {
-      "id": "9ca000196ba04652",
-      "titulo": "El joven belga con vocación brasileña",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260801/1004212279/joven-belga-vocacion-brasilena.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-01T15:16:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-01T15:40:34.757485"
     }
   ]
 }
