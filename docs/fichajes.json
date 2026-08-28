@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T16:30:47.559186Z",
+  "actualizado": "2026-08-28T16:40:43.116480Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "0a10c9217a5d13e9",
+      "titulo": "'Barça Team': Julián sigue en el centro del debate, con el Barça lanzado en la Liga",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220689/barca-team-julian-sigue-centro-debate-barca-lanzado.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-28T16:18:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-28T16:40:37.233491"
+    },
     {
       "id": "fd3dcbafa6a75158",
       "titulo": "Xavi Espart, 'fichaje' inesperado para Flick",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-03T11:14:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T11:40:25.545233"
-    },
-    {
-      "id": "235523e64a0be6a5",
-      "titulo": "Míchel ya da por hecho a Ter Stegen: \"El Ajax será mejor\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212710/michel-da-hecho-ter-stegen-ajax-sera-mejor.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-03T09:32:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-03T10:12:16.601468"
     }
   ]
 }
