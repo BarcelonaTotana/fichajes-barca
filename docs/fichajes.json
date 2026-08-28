@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T16:40:43.116480Z",
+  "actualizado": "2026-08-28T16:50:33.686655Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "324674b7147188ef",
+      "titulo": "Emery, futuro rival del Barça, confirma una marcha y una llegada en ataque",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260828/1004220724/emery.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-28T16:21:22",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-28T16:50:29.483643"
+    },
     {
       "id": "0a10c9217a5d13e9",
       "titulo": "'Barça Team': Julián sigue en el centro del debate, con el Barça lanzado en la Liga",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-03T13:21:10",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T13:40:33.783266"
-    },
-    {
-      "id": "6f8e5dad1468ccc2",
-      "titulo": "Un gigante inglés quiere dejar al Barça sin Jorge Salinas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212713/gigante-ingles-quiere-dejar-barca-jorge-salinas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-03T11:14:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-03T11:40:25.545233"
     }
   ]
 }
