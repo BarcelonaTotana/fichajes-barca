@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T11:01:09.004641Z",
+  "actualizado": "2026-08-28T11:10:37.218011Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "fd3dcbafa6a75158",
+      "titulo": "Xavi Espart, 'fichaje' inesperado para Flick",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220631/xavi-espart-fichaje-inesperado-flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-28T10:55:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-28T11:10:31.678130"
+    },
     {
       "id": "ef8e7298ca0e3943",
       "titulo": "Una psicóloga analiza el estado mental de Julián Álvarez: \"Puede creer que las consecuencias superan su capacidad para lidiar con ellas, su concentración ya no será la misma y sus errores pueden parecer más graves\"",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-03T09:32:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T10:12:16.601468"
-    },
-    {
-      "id": "32f7d64f08bdaac5",
-      "titulo": "La amenaza del Arsenal por Julián pierde fuelle",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212694/amenaza-arsenal-julian-pierde-fuelle.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-03T09:04:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-03T09:40:33.904542"
     }
   ]
 }
