@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T09:01:02.003321Z",
+  "actualizado": "2026-08-28T09:10:31.876619Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d66b80db93f3d07f",
+      "titulo": "La única salida que le queda a Julián Alvarez para irse al Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220589/unica-salida-le-queda-julian-alvarez-irse-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-28T08:49:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-28T09:10:26.864383"
+    },
     {
       "id": "9aa3601a3db585da",
       "titulo": "El tiro por la culata",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-03T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T05:10:39.115093"
-    },
-    {
-      "id": "a1268fb3f287b18b",
-      "titulo": "Cuenta atrás para el regreso de Cancelo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212598/cuenta-regreso-cancelo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-03T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-03T05:10:39.115376"
     }
   ]
 }
