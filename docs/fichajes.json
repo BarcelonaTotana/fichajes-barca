@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T05:03:38.813161Z",
+  "actualizado": "2026-08-28T05:10:32.113119Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "9aa3601a3db585da",
+      "titulo": "El tiro por la culata",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220452/tiro-culata.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-28T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-28T05:10:27.239080"
+    },
+    {
+      "id": "5509287a5656e6ce",
+      "titulo": "Rodri por Julián",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220329/rodri-julian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-28T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-28T05:10:27.239440"
+    },
     {
       "id": "544e8d89d55c49c5",
       "titulo": "Raphinha y Fermín, dos Pichichi para Flick",
@@ -5317,32 +5343,6 @@
       "fecha": "2026-08-03T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T05:10:39.115376"
-    },
-    {
-      "id": "d895f9d4493103a8",
-      "titulo": "Asllani se acerca mucho al Leipzig",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212596/asllani-acerca-leipzig.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-02T20:05:49",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-02T20:40:26.353558"
-    },
-    {
-      "id": "99cf10164bcc8ded",
-      "titulo": "\"Buena suerte, Jesse\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212580/buena-suerte-jesse.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-02T19:00:45",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-02T19:10:25.555050"
     }
   ]
 }
