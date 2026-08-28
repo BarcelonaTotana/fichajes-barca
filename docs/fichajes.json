@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T19:30:50.820147Z",
+  "actualizado": "2026-08-28T19:40:33.417295Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
       "fecha": "2026-08-28T16:45:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-28T17:10:28.217321"
+    },
+    {
+      "id": "783821ca0243dc32",
+      "titulo": "Toni Fernández encarrila su fichaje por el Venezia y Fort viaja mañana a San Sebastián",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220727/toni-fernandez-encarrila-fichaje-venezia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-28T16:45:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-28T19:40:27.175244"
     },
     {
       "id": "324674b7147188ef",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-03T16:26:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T16:40:27.006523"
-    },
-    {
-      "id": "e3a94229afba7283",
-      "titulo": "Pretendiente para Rashford tras su adiós al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212807/pretendiente-rashford-adios-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-03T15:41:01",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-03T16:10:30.070963"
     }
   ]
 }
