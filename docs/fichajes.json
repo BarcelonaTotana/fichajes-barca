@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T09:20:36.134393Z",
+  "actualizado": "2026-08-28T09:31:03.429238Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "ef8e7298ca0e3943",
+      "titulo": "Una psicóloga analiza el estado mental de Julián Álvarez: \"Puede creer que las consecuencias superan su capacidad para lidiar con ellas, su concentración ya no será la misma y sus errores pueden parecer más graves\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/psicologa-analiza-mental-julian-alvarez-consecuencias-concentracion-errores-133728179?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-28T09:21:54",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-28T09:31:00.899123"
+    },
     {
       "id": "d66b80db93f3d07f",
       "titulo": "La única salida que le queda a Julián Alvarez para irse al Barcelona",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-03T09:04:31",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T09:40:33.904542"
-    },
-    {
-      "id": "c1bf70abae2ebb3a",
-      "titulo": "Ferran, pájaro en mano",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212611/ferran-pajaro-mano.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-03T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-03T05:10:39.115093"
     }
   ]
 }
