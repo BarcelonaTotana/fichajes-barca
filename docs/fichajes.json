@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T20:30:44.118402Z",
+  "actualizado": "2026-08-29T20:40:29.713665Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -145,6 +145,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "9f865b4dc332bdb6",
+      "titulo": "Oficial: Héctor Fort ficha por la Real Sociedad",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220946/oficial-hector-fort-ficha-real-sociedad.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-29T20:03:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-29T20:40:24.804638"
+    },
     {
       "id": "39e3e610937d0eb6",
       "titulo": "El ex azulgrana Kessié, fichará por el Atalanta tras caerse la operación con la Juventus",
@@ -5331,19 +5344,6 @@
       "fecha": "2026-08-03T18:25:53",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T18:40:27.649227"
-    },
-    {
-      "id": "a3bd519d9841990a",
-      "titulo": "Apuntan a una nueva cita del agente de Julián con el Barça esta semana",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212876/agentes-julian-alvarez-planean-venir-barcelona.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-03T17:42:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-03T18:10:28.806398"
     }
   ]
 }
