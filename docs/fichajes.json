@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T10:00:57.194917Z",
+  "actualizado": "2026-08-29T10:10:32.380074Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "f906dc5dedad53cc",
+      "titulo": "El Real Decreto 1.006 no sancionaría ni a Julián Álvarez ni al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220903/real-decreto-1-006-no-sancionaria-julian-alvarez-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-29T09:59:27",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-29T10:10:27.338763"
+    },
     {
       "id": "f417e84d096ca8e6",
       "titulo": "Bisiwu revela los secretos de su estancia en el Barça",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-03T16:48:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T08:00:52.206908"
-    },
-    {
-      "id": "ee0ae67404d9d53c",
-      "titulo": "Oficial: Ter Stegen se va cedido al Ajax de Míchel",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212857/ter-stegen-sera-presentado-martes-nuevo-portero-ajax.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-03T16:48:15",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T12:40:37.334088"
     }
   ]
 }
