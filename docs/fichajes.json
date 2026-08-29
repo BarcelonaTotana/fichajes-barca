@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T17:30:44.358117Z",
+  "actualizado": "2026-08-29T17:40:32.549227Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -157,6 +157,19 @@
       "fecha": "2026-08-29T16:44:38",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-08-29T17:10:29.996449"
+    },
+    {
+      "id": "094dd0bf21abaac1",
+      "titulo": "Preventa Entradas FC BARCELONA - FEYENOORD - UEFA Champions League - fútbol masculino",
+      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeTFwZmVVMlpZTjlEV25sNTNFdVRWcFJnSG5wZDBvRm1VWmJCWndSN3NFNXpZWkVPZ0p3VjdsNUxPeDl2TlN0ekFMbWlvYlFZcjNoT3EyakV5dXlyUVVFaXloUUdNNFI4S1VQWHloWkVPT3ZyNzBnakVFTXJROGZXZU1n?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-29T16:22:04",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-08-29T17:40:26.348322"
     },
     {
       "id": "d0d39b0c83862c84",
@@ -5331,19 +5344,6 @@
       "fecha": "2026-08-03T17:42:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T18:10:28.806398"
-    },
-    {
-      "id": "8c99e26c03b603c3",
-      "titulo": "Ven optimismo en el PSG por fichar a Ferran Torres",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212874/ven-optimismo-psg-fichar-ferran-torres.html",
-      "medio": "mundodeportivo.com",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-03T17:26:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-03T17:40:29.744806"
     }
   ]
 }
