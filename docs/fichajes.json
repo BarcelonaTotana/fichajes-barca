@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T07:30:44.441796Z",
+  "actualizado": "2026-08-29T07:39:56.753953Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "777ac0769e78c684",
+      "titulo": "Nico González sitúa a Galicia en la cima del mercado: unos 140 millones en sus traspasos",
+      "enlace": "https://www.sport.es/es/noticias/futbol/nico-gonzalez-situa-galicia-cima-133746270?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-29T07:30:14",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-08-29T07:39:54.303240"
+    },
     {
       "id": "495d16114943188a",
       "titulo": "Toni Fernández encarrila su fichaje por el Venezia",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-03T16:34:51",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-03T16:40:29.608116"
-    },
-    {
-      "id": "2423998c9eba4aef",
-      "titulo": "Ya hay fecha y hora para el Valencia-Barça de Liga",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212843/hay-fecha-hora-valencia-barca-liga.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-03T16:26:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-03T16:40:27.006523"
     }
   ]
 }
