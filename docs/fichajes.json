@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T09:30:44.633938Z",
+  "actualizado": "2026-08-29T09:40:32.954487Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -145,6 +145,19 @@
   ],
   "noticias": [
     {
+      "id": "f417e84d096ca8e6",
+      "titulo": "Bisiwu revela los secretos de su estancia en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220875/bisiwu-revela-secretos-estancia-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-29T09:11:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-29T09:40:27.953254"
+    },
+    {
       "id": "777ac0769e78c684",
       "titulo": "Nico González sitúa a Galicia en la cima del mercado: unos 140 millones en sus traspasos",
       "enlace": "https://www.sport.es/es/noticias/futbol/nico-gonzalez-situa-galicia-cima-133746270?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
@@ -182,6 +195,19 @@
       "fecha": "2026-08-28T16:45:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-28T19:40:27.175244"
+    },
+    {
+      "id": "d248be7ef64d6cc3",
+      "titulo": "Toni Fernández encarrila su fichaje por el Venezia y Fort viaja este sábado a Donostia",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220727/toni-fernandez-encarrila-fichaje-venezia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-28T16:45:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-29T09:40:27.954434"
     },
     {
       "id": "324674b7147188ef",
@@ -5317,32 +5343,6 @@
       "fecha": "2026-08-03T16:48:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T12:40:37.334088"
-    },
-    {
-      "id": "2afd8df59ff42b07",
-      "titulo": "¡Ferran no se toca! El Barça frena al PSG y prioriza su renovación",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212856/ferran-no-toca-barca-frena-psg-prioriza-renovacion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-03T16:43:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-03T17:10:28.417330"
-    },
-    {
-      "id": "e4543f842574c62e",
-      "titulo": "Samed Bazdar, ante sus ultimas horas como jugador del Real Zaragoza: salida inminente del delantero",
-      "enlace": "https://www.sport.es/es/noticias/futbol/samed-bazdar-ultimas-horas-jugador-133068882?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-03T16:34:51",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-03T16:40:29.608116"
     }
   ]
 }
