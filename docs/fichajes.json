@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T17:00:59.635720Z",
+  "actualizado": "2026-08-29T17:10:34.831131Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -48,6 +48,7 @@
     "38fbf5c51499ae05",
     "3903d499d73904bd",
     "3916dd3ee8186767",
+    "39e3e610937d0eb6",
     "3b3868743b3b44cd",
     "3c47891347dd1256",
     "3e1e9d7b56e10b9a",
@@ -144,6 +145,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "39e3e610937d0eb6",
+      "titulo": "El ex azulgrana Kessié, fichará por el Atalanta tras caerse la operación con la Juventus",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260829/1004221025/ex-azulgrana-kessie-fichara-atalanta-caerse-operacion-juventus.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-29T16:44:38",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-29T17:10:29.996449"
+    },
     {
       "id": "d0d39b0c83862c84",
       "titulo": "Gordon ya tiene la afición del Barça en el bolsillo",
@@ -5330,19 +5344,6 @@
       "fecha": "2026-08-03T17:26:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T17:40:29.744806"
-    },
-    {
-      "id": "4120702996c568ed",
-      "titulo": "Ter Stegen será presentado este martes como nuevo portero del Ajax",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212857/ter-stegen-sera-presentado-martes-nuevo-portero-ajax.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-03T16:48:15",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-03T17:10:28.417053"
     }
   ]
 }
