@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T22:03:34.281248Z",
+  "actualizado": "2026-08-29T22:10:33.864680Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -94,6 +94,7 @@
     "8b4dc1648da51d1b",
     "8f35aa9144d84d17",
     "942698cb9b788434",
+    "980fabf715d87dfb",
     "98d0679f06dc8a35",
     "9edce93ae27b024e",
     "a0f6cc383777f3a3",
@@ -183,6 +184,19 @@
       "fecha": "2026-08-29T16:44:38",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-08-29T17:10:29.996449"
+    },
+    {
+      "id": "980fabf715d87dfb",
+      "titulo": "El ex azulgrana Kessié ficha por el Atalanta tras caerse la operación con la Juventus",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260829/1004221025/ex-azulgrana-kessie-fichara-atalanta-caerse-operacion-juventus.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-29T16:44:38",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-29T22:10:29.619552"
     },
     {
       "id": "094dd0bf21abaac1",
@@ -5331,19 +5345,6 @@
       "fecha": "2026-08-03T20:59:23",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T21:10:36.448556"
-    },
-    {
-      "id": "cc1ede646b0e4ab4",
-      "titulo": "Estanis Pedrola, un culé que ficha por el Oviedo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260803/1004212917/estanis-pedrola-cule-ficha-oviedo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-03T20:58:46",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-03T21:10:37.784333"
     }
   ]
 }
