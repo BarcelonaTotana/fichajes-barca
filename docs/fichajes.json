@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T10:33:21.917509Z",
+  "actualizado": "2026-08-29T10:40:28.177120Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -144,6 +144,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d0d39b0c83862c84",
+      "titulo": "Gordon ya tiene la afición del Barça en el bolsillo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220888/gordon-aficion-barca-bolsillo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-29T10:14:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-29T10:40:23.298346"
+    },
     {
       "id": "f906dc5dedad53cc",
       "titulo": "El Real Decreto 1.006 no sancionaría ni a Julián Álvarez ni al Barça",
@@ -5330,19 +5343,6 @@
       "fecha": "2026-08-03T16:48:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-03T17:10:28.417053"
-    },
-    {
-      "id": "b5841727a18c8375",
-      "titulo": "Oficial: Ter Stegen se va cedido al Ajax y hoy será presentado",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212857/ter-stegen-sera-presentado-martes-nuevo-portero-ajax.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-03T16:48:15",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T08:00:52.206908"
     }
   ]
 }
