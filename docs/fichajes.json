@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T03:00:56.774438Z",
+  "actualizado": "2026-08-30T03:10:31.165500Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -146,6 +146,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "983b167a4ae0a0d5",
+      "titulo": "\"Este año, sí\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221035/ano.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T03:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T03:10:25.617008"
+    },
     {
       "id": "d0d85909a70e4001",
       "titulo": "El Barça no puede permitir un segundo año sin cerrar el fichaje estrella",
@@ -5332,19 +5345,6 @@
       "fecha": "2026-08-04T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T05:40:28.333744"
-    },
-    {
-      "id": "7480a3d2d5cd5d82",
-      "titulo": "El precio y el ‘timing’",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212927/precio-timing.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-04T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T05:40:28.333956"
     }
   ]
 }
