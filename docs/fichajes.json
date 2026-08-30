@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T21:30:42.040614Z",
+  "actualizado": "2026-08-30T21:40:32.014714Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -151,6 +151,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "e77d59246f3e9212",
+      "titulo": "Golazo de la perla que sigue el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221437/golazo-perla-sigue-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T21:16:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T21:40:26.654463"
+    },
     {
       "id": "44d7db752909b453",
       "titulo": "La agenda prevista con Gabriel Jesus",
@@ -5337,19 +5350,6 @@
       "fecha": "2026-08-04T20:19:41",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T20:43:37.876215"
-    },
-    {
-      "id": "ec5d910a4f1a4b4c",
-      "titulo": "Deco, en Madrid con Julián Álvarez como objetivo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213201/deco-madrid-julian-alvarez-objetivo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-04T20:00:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T20:02:54.436058"
     }
   ]
 }
