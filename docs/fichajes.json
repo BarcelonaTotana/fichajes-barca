@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T15:00:59.276072Z",
+  "actualizado": "2026-08-30T15:10:31.188080Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -148,6 +148,19 @@
   ],
   "noticias": [
     {
+      "id": "1b28df223d8dd4ff",
+      "titulo": "El fichaje 'low cost' de Gabriel Jesús activará la inscripción de Livakovic",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221313/fichaje-low-cost-gabriel-jesus-activara-inscripcion-livakovic.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T14:50:40",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T15:10:25.968908"
+    },
+    {
       "id": "b315da77bd4187e7",
       "titulo": "La llegada de Gabriel Jesús no descarta el interés por Julián para el futuro",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221289/llegada-gabriel-jesus-no-descarta-interes-julian-futuro.html",
@@ -211,6 +224,19 @@
       "fecha": "2026-08-30T11:42:42",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T14:40:27.204151"
+    },
+    {
+      "id": "3e028f7a857defa9",
+      "titulo": "Flick admite que espera algún fichaje más",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221243/flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-30T11:42:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T15:10:25.970042"
     },
     {
       "id": "bfc0ce49a3894a71",
@@ -5320,32 +5346,6 @@
       "fecha": "2026-08-04T15:48:53",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T16:10:31.262933"
-    },
-    {
-      "id": "cfe4809de24b8ded",
-      "titulo": "Bisiwu: \"Es un sueño, ya he hablado con Flick y voy a trabajar muy duro\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213091/bisiwu-sueno-he-hablado-flick-trabajar-duro.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-04T13:13:28",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T13:40:35.123710"
-    },
-    {
-      "id": "725b7caed2f22a15",
-      "titulo": "El Barça intentó fichar a Kett y volverá a la carga en enero",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213077/barca-intento-fichar-kett-volvera-carga-enero.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-04T12:41:15",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T13:10:36.804129"
     }
   ]
 }
