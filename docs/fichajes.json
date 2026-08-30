@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T16:00:55.623192Z",
+  "actualizado": "2026-08-30T16:10:33.269560Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -25,6 +25,7 @@
     "09e90e74922a2b9b",
     "0ca73f3a1a9e33e9",
     "0dcc3195962dd4cd",
+    "0f64cf370f746294",
     "0f6dcf300e0cb34e",
     "10c093e3e5f4eedd",
     "10ecb8140963287e",
@@ -148,6 +149,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "0f64cf370f746294",
+      "titulo": "El Feyenoord cede otro empate a 10 días de visitar al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221330/feyenoord-cede-empate-10-dias-visitar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T15:52:27",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T16:10:27.728670"
+    },
     {
       "id": "1b28df223d8dd4ff",
       "titulo": "El fichaje 'low cost' de Gabriel Jesús activará la inscripción de Livakovic",
@@ -5334,19 +5348,6 @@
       "fecha": "2026-08-04T16:27:00",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-08-04T16:50:30.778515"
-    },
-    {
-      "id": "fe34ad8fd47d7b75",
-      "titulo": "Fin del culebrón Salah: su fichaje, al caer",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260804/1004213143/culebron-salah-fichaje-trabzonspor-caer.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-04T16:27:00",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-04T18:10:31.966534"
     }
   ]
 }
