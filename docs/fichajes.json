@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T05:00:55.244853Z",
+  "actualizado": "2026-08-30T05:10:33.286136Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -146,6 +146,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "a0ad9ea2400e48f3",
+      "titulo": "Descartar a Julián",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221122/descartar-julian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T05:10:28.299757"
+    },
     {
       "id": "983b167a4ae0a0d5",
       "titulo": "\"Este año, sí\"",
@@ -5332,19 +5345,6 @@
       "fecha": "2026-08-04T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T05:40:28.333613"
-    },
-    {
-      "id": "1c51b61a85806331",
-      "titulo": "Bisiwu firma hoy con Laporta de anfitrión",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212928/bisiwu-firma-hoy-laporta-anfitrion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-04T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T05:40:28.333744"
     }
   ]
 }
