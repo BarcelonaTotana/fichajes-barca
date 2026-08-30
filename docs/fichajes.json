@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T10:30:45.302134Z",
+  "actualizado": "2026-08-30T10:39:32.492093Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -146,6 +146,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "fe28c9fb7179d81a",
+      "titulo": "El Leverkusen entra con fuerza en la puja por Casadó y el Besiktas sigue apretando",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221229/leverkusen-entra-fuerza-puja-casado-besiktas-sigue-apretando.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T10:05:29",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T10:39:26.836036"
+    },
     {
       "id": "e7388119f5a425d6",
       "titulo": "Un Barça multiusos para soñar",
@@ -5332,19 +5345,6 @@
       "fecha": "2026-08-04T07:00:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-22T03:40:35.852161"
-    },
-    {
-      "id": "74e216f3daf379f8",
-      "titulo": "Ferran insiste: \"El 12 de agosto tengo que volver a entrenar, veremos qué pasa\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212951/ferran-insiste-12-agosto-volver-entrenar-veremos-pasa.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-04T06:13:18",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T06:42:10.500833"
     }
   ]
 }
