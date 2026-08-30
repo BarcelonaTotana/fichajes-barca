@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T18:33:34.462125Z",
+  "actualizado": "2026-08-30T18:40:30.168395Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -151,6 +151,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "44d7db752909b453",
+      "titulo": "La agenda prevista con Gabriel Jesus",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221387/agenda-prevista-gabriel-jesus.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-30T18:20:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T18:40:25.136881"
+    },
     {
       "id": "ac778d22471e32b6",
       "titulo": "Oficial: el Aston Villa, rival del Barça, vende a su gran goleador",
@@ -5337,19 +5350,6 @@
       "fecha": "2026-08-04T20:00:35",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T20:02:54.436058"
-    },
-    {
-      "id": "1467f13d7a4c2289",
-      "titulo": "Representación del FC Barcelona en el funeral de Baresi",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213182/representacion-fc-barcelona-funeral-baresi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-04T18:42:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T19:01:11.300837"
     }
   ]
 }
