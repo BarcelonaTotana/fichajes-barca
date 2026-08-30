@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T16:30:44.183053Z",
+  "actualizado": "2026-08-30T16:40:36.245247Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -226,6 +226,19 @@
       "fecha": "2026-08-30T12:18:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T12:40:27.200909"
+    },
+    {
+      "id": "fe9ffec425239c0e",
+      "titulo": "¡El Barça ata a Gabriel Jesús!",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221269/barca-lanza-gabriel-jesus-ficharlo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T12:18:26",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T16:40:31.084104"
     },
     {
       "id": "743bd71f231edf76",
@@ -5335,19 +5348,6 @@
       "fecha": "2026-08-04T16:28:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T16:40:36.207611"
-    },
-    {
-      "id": "e9b08cd4d8551d9d",
-      "titulo": "Fin del culebrón Salah: su fichaje por el Trabzonspor al caer",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260804/1004213143/culebron-salah-fichaje-trabzonspor-caer.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-04T16:27:00",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-04T16:50:30.778515"
     }
   ]
 }
