@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T01:00:59.934721Z",
+  "actualizado": "2026-08-30T01:10:30.509129Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -146,6 +146,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d0d85909a70e4001",
+      "titulo": "El Barça no puede permitir un segundo año sin cerrar el fichaje estrella",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221037/barca-no-permitir-segundo-ano-cerrar-fichaje-estrella.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T01:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T01:10:25.681928"
+    },
     {
       "id": "c3ca927bd490503b",
       "titulo": "Héctor Fort cierra su último capítulo con el Barça tras 13 temporadas",
@@ -5332,19 +5345,6 @@
       "fecha": "2026-08-04T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T05:40:28.333956"
-    },
-    {
-      "id": "10ecb8140963287e",
-      "titulo": "Ferran Torres: \"El Barça tiene que demostrar que me quiere\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260803/1004212919/ferran-torres-barca-demostrar-me-quiere.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-03T20:59:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-03T21:10:36.448556"
     }
   ]
 }
