@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T11:20:39.383309Z",
+  "actualizado": "2026-08-30T11:30:44.284766Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -146,6 +146,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "bfc0ce49a3894a71",
+      "titulo": "Harry Kane lo anuncia: \"Este será mi último gran contrato\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260830/1004221231/kane.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T10:38:43",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-30T11:30:40.577474"
+    },
     {
       "id": "fe28c9fb7179d81a",
       "titulo": "El Leverkusen entra con fuerza en la puja por Casadó y el Besiktas sigue apretando",
@@ -5332,19 +5345,6 @@
       "fecha": "2026-08-04T08:33:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T16:10:31.269466"
-    },
-    {
-      "id": "7e22edd2aaee67e7",
-      "titulo": "Ya es oficial: el cuarto fichaje de Deco para el Barça es delantero, tiene 18 años y cuesta 8,5 millones de euros",
-      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQnNWb2dJUkc5bU1Pc1Nobno0WFJhekRzeU5saHFMbjlVRjUyRzF6a3d4ZjFCdUcxX0JVNDFRb1lMcWZpSUJKM2p1elhHd2RNLTBUTi1mZzdnU1BwWVgxeWg2LTFWc1ZrZkFRMTkxV3R1aGI1LWJSWmludk9MX1B4bVdMWHlIeDRYbEF6a3FVRDJieG53SGVRUi1PUWgtQjhQU3NJcnB2V2dxN3l2cWFKNF8ydUZMOXRsM09uSVl2MlJtc2R1TE5zNWxFQlpHN1dFYUdnMDFHbkp4QdIB3wFBVV95cUxNMDBrcGE2dlh0Tng3eGxKUU1tS2dnY3NjUTZ6Vzk3a2dMVHlpaUlhSmdab0ZPV0JJR0Z3cmRqNndDcXQzajUxekZmWTRqZnNIOTlwaF96cUlvbWxZQndXX2g5dTVsaEhHYXJBZV9JOHhZaW1adlNwOUpJVGxmeUxmQWJYT2h4YlN2eWpEZC1icXRGQWtNcGF2R2x5QzdzUkppU29oU3F4OHBLa0V6aFRvYlB1dDRLRm1zZDVhQmJEdmxjMHV2OVJOSUYzSzdxaFZLVmFNNXNMakhQUjVESlRz?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-04T07:00:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-08-22T03:40:35.852161"
     }
   ]
 }
