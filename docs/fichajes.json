@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T12:30:44.456191Z",
+  "actualizado": "2026-08-30T12:40:32.189671Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -146,6 +146,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "b4ece69d76d0ad95",
+      "titulo": "¡El Barça se lanza a por Gabriel Jesús para ficharlo ya!",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221269/barca-lanza-gabriel-jesus-ficharlo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T12:18:26",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T12:40:27.200909"
+    },
     {
       "id": "bfc0ce49a3894a71",
       "titulo": "Harry Kane lo anuncia: \"Este será mi último gran contrato\"",
@@ -5332,19 +5345,6 @@
       "fecha": "2026-08-04T08:33:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T09:10:30.603781"
-    },
-    {
-      "id": "592788f78b2f9daf",
-      "titulo": "Oficial: Kerolin firma por el Barça hasta 2030",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212959/kerolin-barcelona-fichar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-04T08:33:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T16:10:31.269466"
     }
   ]
 }
