@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T15:40:31.477633Z",
+  "actualizado": "2026-08-30T15:50:31.231766Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -50,6 +50,7 @@
     "3916dd3ee8186767",
     "39e3e610937d0eb6",
     "3b3868743b3b44cd",
+    "3b9bc2319db3dea0",
     "3c47891347dd1256",
     "3e1e9d7b56e10b9a",
     "3e2c4f091ab5587f",
@@ -4308,6 +4309,19 @@
       "visto_por_primera_vez": "2026-08-18T20:57:19.639904"
     },
     {
+      "id": "3b9bc2319db3dea0",
+      "titulo": "Ronald Araujo, cedido al Liverpool FC",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2ZTVWlHZ1JQYTcwVVBaVHV1Z1BqamtDSEN1UTkwX1lTbFNRRDNXZ0hwWEhSeVhsVDY0OGdQNlRZc0dXUHJVZUpOdHZnYjJGOGdHZXNYekhCQ00tRURhNVVPb0V1dXJzeC1QcVR6WTZSMm9VdDUyQ24ydkt3UG9MQkdSNTdlbjBSVU9BVVkzVlR2WFFhWWE4YWJFdUF3VmRJXzdlWHBxbTU1XzRzTEt6MTV6WnlOUQ?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-10T07:00:00",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-08-30T15:50:24.539095"
+    },
+    {
       "id": "45444e77c4f6774b",
       "titulo": "La salida de Jofre, también inminente",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214703/salida-jofre-inminente.html",
@@ -5333,19 +5347,6 @@
       "fecha": "2026-08-04T16:27:00",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-08-04T18:10:31.966534"
-    },
-    {
-      "id": "1a0e7fbbccda361c",
-      "titulo": "Vinculan al Aston Villa tras los pasos de Marc Bernal",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213129/vinculan-aston-villa-pasos-marc-bernal.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-04T15:48:53",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T16:10:31.262933"
     }
   ]
 }
