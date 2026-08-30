@@ -1,8 +1,9 @@
 {
-  "actualizado": "2026-08-30T17:40:31.316668Z",
+  "actualizado": "2026-08-30T17:50:36.257989Z",
   "total": 400,
   "cerradas": [
     "alex campos",
+    "aston villa",
     "carla julia",
     "celia segura",
     "jesse bisiwu",
@@ -104,6 +105,7 @@
     "a8834e2935efb5a4",
     "a8a47597c10b065b",
     "ab109c4f2d31ccf8",
+    "ac778d22471e32b6",
     "ae11430778915027",
     "af0089361f15efe2",
     "b3719da09d156cc6",
@@ -149,6 +151,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "ac778d22471e32b6",
+      "titulo": "Oficial: el Aston Villa, rival del Barça, vende a su gran goleador",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260830/1004221369/aston-villa.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-30T17:29:31",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-08-30T17:50:31.365737"
+    },
     {
       "id": "e8c6b207486fee0f",
       "titulo": "El \"mejor delantero-defensa\" de Guardiola con muy buenas cifras de goles",
@@ -5335,19 +5350,6 @@
       "fecha": "2026-08-04T18:42:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T19:01:11.300837"
-    },
-    {
-      "id": "d028259c7c897f71",
-      "titulo": "El Barça no varía su postura pese al desafío de Ferran",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213144/barca-no-varia-postura-pese-desafio-ferran.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-04T16:48:01",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T17:10:31.330500"
     }
   ]
 }
