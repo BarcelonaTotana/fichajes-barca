@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T13:00:54.794754Z",
+  "actualizado": "2026-08-30T13:10:36.829694Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -135,6 +135,7 @@
     "e3a94229afba7283",
     "e6801ae14559f1b4",
     "ea808076b691ebf8",
+    "ec2ad5ac04ad89bb",
     "ed20b49c576f59d0",
     "edf6a2c3c27df9b6",
     "eea11ae24a1b3e53",
@@ -146,6 +147,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "ec2ad5ac04ad89bb",
+      "titulo": "Lo que le ofrece el Barça a Gabriel Jesús",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221276/le-ofrece-barca-gabriel-jesus.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T12:36:40",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T13:10:30.396468"
+    },
+    {
+      "id": "459cddd6c66ef67b",
+      "titulo": "Flick da las claves de Brian Fariñas, Hamza y Bisiwu",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221271/flick-da-claves-brian-farinas-hamza-bisiwu.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-30T12:34:48",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T13:10:30.396631"
+    },
     {
       "id": "b4ece69d76d0ad95",
       "titulo": "¡El Barça se lanza a por Gabriel Jesús para ficharlo ya!",
@@ -5319,32 +5346,6 @@
       "fecha": "2026-08-04T11:26:06",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T11:40:36.819421"
-    },
-    {
-      "id": "8941b56e89a4d510",
-      "titulo": "En Inglaterra apuntan a un posible destino para Rashford",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260804/1004213032/inglaterra-apuntan-posible-destino-rashford.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-04T10:22:13",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-04T10:50:33.699820"
-    },
-    {
-      "id": "beadcf55619bf472",
-      "titulo": "Kerolin ya está en Barcelona para fichar por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212959/kerolin-barcelona-fichar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-04T08:33:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T09:10:30.603781"
     }
   ]
 }
