@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T14:00:56.481299Z",
+  "actualizado": "2026-08-30T14:10:33.427902Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -147,6 +147,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "b315da77bd4187e7",
+      "titulo": "La llegada de Gabriel Jesús no descarta el interés por Julián para el futuro",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221289/llegada-gabriel-jesus-no-descarta-interes-julian-futuro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T13:59:34",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T14:10:27.860837"
+    },
     {
       "id": "ec2ad5ac04ad89bb",
       "titulo": "Lo que le ofrece el Barça a Gabriel Jesús",
@@ -5333,19 +5346,6 @@
       "fecha": "2026-08-04T12:21:11",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T12:40:37.326256"
-    },
-    {
-      "id": "502f635b60915087",
-      "titulo": "Joan Laporta reaparece tras su arritmia para presentar a Bisiwu",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213060/joan-laporta-reaparece-arritmia-presentar-bisiwu.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-04T11:26:06",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T11:40:36.819421"
     }
   ]
 }
