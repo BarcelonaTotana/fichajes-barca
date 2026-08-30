@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T06:30:44.626429Z",
+  "actualizado": "2026-08-30T06:40:34.170988Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -146,6 +146,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "e7388119f5a425d6",
+      "titulo": "Un Barça multiusos para soñar",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221155/barca-multiusos-sonar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T06:22:18",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T06:40:28.639721"
+    },
     {
       "id": "a0ad9ea2400e48f3",
       "titulo": "Descartar a Julián",
@@ -5332,19 +5345,6 @@
       "fecha": "2026-08-04T06:13:18",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T06:42:10.500833"
-    },
-    {
-      "id": "a4cfed63b016093e",
-      "titulo": "El Barça mantiene el plan con Julián Álvarez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212929/barca-mantiene-plan-julian-alvarez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-04T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T05:40:28.333613"
     }
   ]
 }
