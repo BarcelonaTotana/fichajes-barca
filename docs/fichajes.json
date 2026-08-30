@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-30T14:30:46.022247Z",
+  "actualizado": "2026-08-30T14:40:32.702032Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -198,6 +198,19 @@
       "fecha": "2026-08-30T12:18:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T12:40:27.200909"
+    },
+    {
+      "id": "743bd71f231edf76",
+      "titulo": "Flick admite que espera algún refuerzo más",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221243/flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-08-30T11:42:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-30T14:40:27.204151"
     },
     {
       "id": "bfc0ce49a3894a71",
@@ -5333,19 +5346,6 @@
       "fecha": "2026-08-04T12:41:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-04T13:10:36.804129"
-    },
-    {
-      "id": "c55d5a6a63da9be9",
-      "titulo": "Ter Stegen: \"Quiero devolver al Ajax al lugar que se merece\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213075/ter-stegen-quiero-devolver-ajax-lugar-merece.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-04T12:21:11",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T12:40:37.326256"
     }
   ]
 }
