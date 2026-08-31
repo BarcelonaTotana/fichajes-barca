@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T05:00:53.986683Z",
+  "actualizado": "2026-08-31T05:10:30.571250Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -151,6 +151,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "49622b5b4ce94905",
+      "titulo": "Sacudir la sombra de Haaland",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221475/sacudir-sombra-haaland.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-31T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-31T05:10:25.782932"
+    },
     {
       "id": "abade679119bbefd",
       "titulo": "El posible once del Barça ante el Rayo Vallecano",
@@ -5337,19 +5350,6 @@
       "fecha": "2026-08-05T04:50:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-05T05:10:28.282808"
-    },
-    {
-      "id": "87bbe7b0e9c64817",
-      "titulo": "Partida de ajedrez por Julián",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213227/partida-ajedrez-julian.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-05T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-05T04:13:57.913422"
     }
   ]
 }
