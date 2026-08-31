@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T09:30:46.695300Z",
+  "actualizado": "2026-08-31T09:40:35.154869Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -163,6 +163,19 @@
       "fecha": "2026-08-31T07:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T07:10:28.112525"
+    },
+    {
+      "id": "df1b7a890d69856c",
+      "titulo": "El Barça ata el fichaje de Mikael Baza, un central de futuro",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221487/barca-aun-no-renuncia-central-futuro-avala-flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "avanzado",
+      "fecha": "2026-08-31T07:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-31T09:40:29.444452"
     },
     {
       "id": "49622b5b4ce94905",
@@ -5337,19 +5350,6 @@
       "fecha": "2026-08-05T10:14:32",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-05T10:40:36.078649"
-    },
-    {
-      "id": "2a475687bcc25bcc",
-      "titulo": "Ferran Torres, protagonista en el Yankee Stadium",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213280/ferran-torres-protagonista-yankee-stadium.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-05T08:08:34",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-05T08:40:35.550232"
     }
   ]
 }
