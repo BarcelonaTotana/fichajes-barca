@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T10:01:01.726866Z",
+  "actualizado": "2026-08-31T10:10:30.204155Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -151,6 +151,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "bb1c73e8c45a539c",
+      "titulo": "Flick pide expresamente a Mikael Baza del Hamburgo para el Barça Atlètic y el club negocia 250.000 euros",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR1VaQjdMVFhsSEx6NDhTMmpyR2JxZ0ZrbG8xazF4dXV3Y0FJQXZLYk56eURySEFsS0ZJRGRrbmktb3hDYldQX0Y4X2Fnc3ZDSWRENXRnckdvTk5KSnJVal9uVklKQVB2VEQ0RHVwUWJHVjZFcUotc0lHRHFSS0FNSXphSVg3elVkZXFmRjdQdU82TzRFMFZ0bFB2cmNUWUFwdlNwajlvd3pYNVd4?oc=5",
+      "medio": "elgoldigital",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-31T10:00:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-08-31T10:10:29.186347"
+    },
     {
       "id": "24beec484966191f",
       "titulo": "El Barça aún no renuncia al central del futuro que avala Flick",
@@ -5337,19 +5350,6 @@
       "fecha": "2026-08-05T14:23:36",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-05T18:40:28.016756"
-    },
-    {
-      "id": "609c90f80c89b22c",
-      "titulo": "El Barça anuncia el traspaso de Alexis Olmedo al Celta",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213331/barca-anuncia-traspaso-alexis-olmedo-celta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-05T10:14:32",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-05T10:40:36.078649"
     }
   ]
 }
