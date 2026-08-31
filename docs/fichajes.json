@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T07:01:08.506963Z",
+  "actualizado": "2026-08-31T07:10:33.104263Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -151,6 +151,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "24beec484966191f",
+      "titulo": "El Barça aún no renuncia al central del futuro que avala Flick",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221487/barca-aun-no-renuncia-central-futuro-avala-flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-31T07:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-31T07:10:28.112525"
+    },
     {
       "id": "49622b5b4ce94905",
       "titulo": "Sacudir la sombra de Haaland",
@@ -5337,19 +5350,6 @@
       "fecha": "2026-08-05T07:45:22",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-05T08:00:56.439665"
-    },
-    {
-      "id": "8be0fe3580871c50",
-      "titulo": "El Barça sigue luchando por Julián como fichaje prioritario",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213229/barca-tope-fichaje-julian-alvarez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-05T04:50:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-05T05:10:28.282808"
     }
   ]
 }
