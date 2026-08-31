@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T16:50:33.284702Z",
+  "actualizado": "2026-08-31T17:01:11.486549Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -152,6 +152,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "dabe2f89d1ba5578",
+      "titulo": "Gabriel Jesus: “Faltaba a clases para ver al Barça”",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221761/gabriel-jesus-faltaba-clases-ver-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-31T16:33:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-31T17:01:06.291025"
+    },
     {
       "id": "7355007c43f2479b",
       "titulo": "Gabriel Jesus ya está en Barcelona cargado de ilusión: \"Estoy muy contento\"",
@@ -5338,19 +5351,6 @@
       "fecha": "2026-08-05T21:25:30",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-05T21:40:24.923199"
-    },
-    {
-      "id": "a7d9004a48c2c575",
-      "titulo": "Julián, por la vía del diálogo con Simeone y el Atlético",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213505/julian-dialogo-simeone.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-05T20:42:24",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-05T21:10:29.457472"
     }
   ]
 }
