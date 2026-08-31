@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T23:00:55.590848Z",
+  "actualizado": "2026-08-31T23:10:34.507827Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -152,6 +152,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "00393bca9ff53eb9",
+      "titulo": "Un nuevo ídolo en el Camp Nou",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221915/nuevo-idolo-camp-nou.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-31T22:55:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-31T23:10:29.214819"
+    },
     {
       "id": "001d204af0d0392f",
       "titulo": "De nueve, Raphinha",
@@ -5338,19 +5351,6 @@
       "fecha": "2026-08-06T08:52:59",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T09:40:29.225395"
-    },
-    {
-      "id": "e13ec7010fb8322b",
-      "titulo": "La opción Asllani se desvanece",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213612/opcion-asllani-desvanece.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-06T08:11:28",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-06T08:40:33.429714"
     }
   ]
 }
