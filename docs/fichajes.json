@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T14:01:03.404721Z",
+  "actualizado": "2026-08-31T14:10:36.608470Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -152,6 +152,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "7355007c43f2479b",
+      "titulo": "Gabriel Jesus ya está en Barcelona cargado de ilusión: \"Estoy muy contento\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221619/gabriel-jesus-llega-barcelona-cargado-ilusion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-31T13:58:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-31T14:10:31.412693"
+    },
     {
       "id": "1cbed168ede70ad2",
       "titulo": "Nuevo fichaje culé: Catovic llega cedido del Stuttgart",
@@ -5338,19 +5351,6 @@
       "fecha": "2026-08-05T20:42:24",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-05T21:10:29.457472"
-    },
-    {
-      "id": "f7bd0b5b8e22028e",
-      "titulo": "Cinco años de la bomba del siglo: el adiós de Messi al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213492/cinco-anos-bomba-siglo-adios-messi-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-05T18:46:34",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-05T19:10:28.653199"
     }
   ]
 }
