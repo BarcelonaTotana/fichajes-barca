@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T13:20:36.773063Z",
+  "actualizado": "2026-08-31T13:30:46.130808Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -152,6 +152,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "1cbed168ede70ad2",
+      "titulo": "Nuevo fichaje culé: Catovic llega cedido del Stuttgart",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2d4S1RQN1RIVHZra2VhUXQteE91YmxBSUY2X3Z2QS05cy1GdnZMdkdJNWZieTZ6N0dwNHdDLXA4S3VEeGxwZVBsX1FHTlFYNFBXZ1EyZzk3RFNtSlRIUjUzcXF0Z2pCdnFuUmxkQkQ4MGZCR1dDZThQMVE1cm0xTXlPb1JMRXVlUk9VR21yS0dTVm5HUEhQazB3?oc=5",
+      "medio": "Dosis Futbolera",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-31T13:29:58",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-08-31T13:30:45.113470"
+    },
     {
       "id": "9510683ed5fc2bba",
       "titulo": "La Asamblea del Barça apunta al domingo 20 de septiembre",
@@ -5338,19 +5351,6 @@
       "fecha": "2026-08-05T18:46:34",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-05T19:10:28.653199"
-    },
-    {
-      "id": "22e06e9fde5744f4",
-      "titulo": "El agente de Bisiwu revela el motivo de su fichaje",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213454/agente-bisiwu-revela-motivo-fichaje.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-05T16:30:03",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-05T16:40:36.093259"
     }
   ]
 }
