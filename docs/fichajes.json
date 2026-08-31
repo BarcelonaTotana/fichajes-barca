@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T20:00:59.049803Z",
+  "actualizado": "2026-08-31T20:10:31.443539Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -166,6 +166,19 @@
       "visto_por_primera_vez": "2026-08-31T17:01:06.291025"
     },
     {
+      "id": "7c0c336a7aa1ac14",
+      "titulo": "“Faltaba a clases para ver al Barça”",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221761/gabriel-jesus-faltaba-clases-ver-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-31T16:33:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-31T20:10:26.424223"
+    },
+    {
       "id": "7355007c43f2479b",
       "titulo": "Gabriel Jesus ya está en Barcelona cargado de ilusión: \"Estoy muy contento\"",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221619/gabriel-jesus-llega-barcelona-cargado-ilusion.html",
@@ -177,6 +190,19 @@
       "fecha": "2026-08-31T13:58:13",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T14:10:31.412693"
+    },
+    {
+      "id": "b8a86eff44d96f7c",
+      "titulo": "Gabriel Jesus ya está en Barcelona cargado de ilusión",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221619/gabriel-jesus-llega-barcelona-cargado-ilusion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-31T13:58:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-31T20:10:26.424761"
     },
     {
       "id": "1cbed168ede70ad2",
@@ -5325,32 +5351,6 @@
       "fecha": "2026-08-06T04:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T04:40:27.032616"
-    },
-    {
-      "id": "f3b31c4c14991034",
-      "titulo": "El Racing avisa al Barça sobre el precio de Jorge Salinas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213533/racing-avisa-barca-sobre-precio-jorge-salinas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-05T21:28:54",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-05T21:40:24.922995"
-    },
-    {
-      "id": "8223abe13077336f",
-      "titulo": "El Barça espera la oferta por Ferran",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260805/1004213535/barca-espera-oferta-ferran.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-05T21:25:30",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-05T21:40:24.923199"
     }
   ]
 }
