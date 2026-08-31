@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T08:01:02.605359Z",
+  "actualizado": "2026-08-31T08:10:32.892785Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -241,6 +241,19 @@
       "fecha": "2026-08-30T16:51:53",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T17:10:28.218345"
+    },
+    {
+      "id": "be1b62173e8fba84",
+      "titulo": "Gabriel Jesus, el \"mejor delantero-defensa\" de Guardiola con muy buenas cifras de goles",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221353/gabriel-jesus-mejor-delantero-defensa-guardiola-buenas-cifras-goles.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-30T16:51:53",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-31T08:10:27.165196"
     },
     {
       "id": "0f64cf370f746294",
@@ -5337,19 +5350,6 @@
       "fecha": "2026-08-05T08:08:34",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-05T08:40:35.550232"
-    },
-    {
-      "id": "eb99941cebc71f09",
-      "titulo": "Lara Ferreiro, psicóloga: \"Rodri simboliza el autocontrol, la constancia y una disciplina que trasciende el fútbol\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/lara-ferreiro-psicologa-rodri-simboliza-autocontrol-constancia-disciplina-futbol-valores-capitan-seleccion-espanola-133106583?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-05T07:45:22",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-05T08:00:56.439665"
     }
   ]
 }
