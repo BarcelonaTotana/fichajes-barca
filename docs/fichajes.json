@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T04:30:48.956032Z",
+  "actualizado": "2026-08-31T04:40:32.096816Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -151,6 +151,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "abade679119bbefd",
+      "titulo": "El posible once del Barça ante el Rayo Vallecano",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221483/posible-once-barca-rayo-vallecano.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-31T04:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-31T04:40:26.595150"
+    },
     {
       "id": "e77d59246f3e9212",
       "titulo": "Golazo de la perla que sigue el Barça",
@@ -5337,19 +5350,6 @@
       "fecha": "2026-08-05T04:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-05T04:13:57.913422"
-    },
-    {
-      "id": "c78a008a8829f2bf",
-      "titulo": "Alexis Olmedo se despide del Barça con emoción y se va al Celta",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213203/alexis-olmedo-despide-barca-emocion-celta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-04T20:19:41",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-04T20:43:37.876215"
     }
   ]
 }
