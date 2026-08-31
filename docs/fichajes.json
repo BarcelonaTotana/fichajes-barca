@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T22:00:59.578055Z",
+  "actualizado": "2026-08-31T22:10:33.139050Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -152,6 +152,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "001d204af0d0392f",
+      "titulo": "De nueve, Raphinha",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221857/nueve-raphinha.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-31T21:50:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-08-31T22:10:27.020061"
+    },
     {
       "id": "dabe2f89d1ba5578",
       "titulo": "Gabriel Jesus: “Faltaba a clases para ver al Barça”",
@@ -5338,19 +5351,6 @@
       "fecha": "2026-08-06T08:11:28",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T08:40:33.429714"
-    },
-    {
-      "id": "ed98572021fe1439",
-      "titulo": "Como si lo pidiese el Cholito",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213551/pidiese-cholito.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-06T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-06T04:40:27.032616"
     }
   ]
 }
