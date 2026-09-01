@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T11:30:45.298887Z",
+  "actualizado": "2026-09-01T11:40:38.479499Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -19,6 +19,7 @@
   "alertadas": [
     "0003ad0cf536db0c",
     "0069a55d2c0e761e",
+    "009b4ae2cfd0bbe9",
     "0406f0e9c8c96ef8",
     "05fed9472c50534b",
     "075a54a89507f220",
@@ -152,6 +153,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "009b4ae2cfd0bbe9",
+      "titulo": "El traspaso de Marc Guiu deja un dinero extra al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222059/traspaso-guiu-deja-dinero-extra-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T11:12:53",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T11:40:32.104988"
+    },
     {
       "id": "9d6396474e8e135b",
       "titulo": "El contrato de Gabriel Jesus es de tres años fijos",
@@ -5338,19 +5352,6 @@
       "fecha": "2026-08-06T13:12:31",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T13:40:42.426616"
-    },
-    {
-      "id": "781b8d3ca4f2b408",
-      "titulo": "Jorge Salinas espera un movimiento del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213700/das.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-06T11:41:34",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-06T12:10:30.035955"
     }
   ]
 }
