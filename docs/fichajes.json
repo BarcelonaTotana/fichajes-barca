@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T22:30:42.897326Z",
+  "actualizado": "2026-09-01T22:40:29.726212Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "8e7fd5061736d3d8",
+      "titulo": "Gabriel Jesus, inscrito con el '9' a un cuarto de hora del cierre",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222374/gabriel-jesus-inscrito-cuarto-hora-cierre.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T22:07:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T22:40:24.793440"
+    },
     {
       "id": "b3ef2a28079b3b8f",
       "titulo": "Las cifras del traspaso de Álvaro Cortés al Amberes",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-08T11:12:40",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-08T11:40:26.231131"
-    },
-    {
-      "id": "26fdc15c1bbabbf8",
-      "titulo": "Araujo empezará en Liverpool con camino libre para volver a ser importante",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214216/araujo-tendra-liverpool-camino-libre-volver-importante.html",
-      "medio": "mundodeportivo.com",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-08T10:34:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-08T11:12:11.822152"
     }
   ]
 }
