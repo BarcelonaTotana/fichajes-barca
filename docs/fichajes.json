@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T14:23:08.309473Z",
+  "actualizado": "2026-09-01T14:30:46.813624Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -155,6 +155,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "89e0194dff4b9a4c",
+      "titulo": "El Deportivo irrumpe con fuerza por Marc Casadó",
+      "enlace": "https://www.sport.es/es/noticias/futbol/deportivo-irrumpe-fuerza-marc-casado-133845452?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T14:22:10",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-01T14:30:44.325919"
+    },
     {
       "id": "25a6cbbd5a5db371",
       "titulo": "Gabriel Jesus se bajó \"significativamente\" el sueldo para jugar en el Barça",
@@ -5341,19 +5354,6 @@
       "fecha": "2026-08-06T21:41:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T23:03:28.221309"
-    },
-    {
-      "id": "ca9e28ead7742267",
-      "titulo": "Rodri mira al Barça y el City agita toda su media",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213842/rodri-mira-barca-city-agita-toda-media.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-06T20:05:28",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-06T23:03:28.221529"
     }
   ]
 }
