@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T09:00:56.272924Z",
+  "actualizado": "2026-09-01T09:10:34.682296Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -152,6 +152,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "9d6396474e8e135b",
+      "titulo": "El contrato de Gabriel Jesus es de tres años fijos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221993/contrato-gabriel-jesus-tres-anos-fijos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T08:39:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T09:10:28.684604"
+    },
     {
       "id": "4828430f490a7919",
       "titulo": "A Casadó le toca elegir: estas son sus principales opciones",
@@ -5338,19 +5351,6 @@
       "fecha": "2026-08-06T11:41:34",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T12:10:30.035955"
-    },
-    {
-      "id": "825c23ac7a9b7fbb",
-      "titulo": "\"Es 99% seguro que Rodri nos jodió por el Barça\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213682/99-seguro-rodri-jodio-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-06T11:27:59",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-06T11:40:29.567961"
     }
   ]
 }
