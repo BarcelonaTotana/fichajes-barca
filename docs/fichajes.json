@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T17:00:59.997441Z",
+  "actualizado": "2026-09-01T17:10:31.107555Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -155,6 +155,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d82b4e468baa79fc",
+      "titulo": "El Twente se cierra en banda ante el Barça por Nijstad",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222232/twente-cierra-banda-barca-nijstad.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T16:50:53",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T17:10:26.329320"
+    },
+    {
+      "id": "3f8e1898128ba8c4",
+      "titulo": "Deco lo confirma: \"No habrá más llegadas\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222231/deco-confirma-no-habra-llegadas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T16:49:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T17:10:26.329484"
+    },
     {
       "id": "ed73a9ca30048c22",
       "titulo": "Guille, en Mallorca para firmar y con hambre de ascenso",
@@ -5328,32 +5354,6 @@
       "fecha": "2026-08-07T09:42:21",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-08-07T10:10:30.839217"
-    },
-    {
-      "id": "86e34abdf5f95791",
-      "titulo": "Negociaciones lanzadas Barça-City por Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213979/negociaciones-lanzadas-barca-city-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-07T09:16:11",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T09:40:02.229792"
-    },
-    {
-      "id": "399bbcf7222d88bf",
-      "titulo": "Los fichajes de Bisiwu, Adeyemi y Gordon echan del Barça a un sentenciado de Hansi Flick",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQnpEQmQ1WDBrS0w5NDB0SlB1OGhRWmNMMXpvb3p0cjdiMk9GSm9uRThiWXNORkdTT1JKclZqRkN5Z3hfTEtRMWlETU5SR3pTaHlwNThYdTFCQVFadXUzWDFNWC1sOXhVcnZldlhEdkJWQ0c4aWg0WDRYcm00a1hPcFItR1FmQVcxclFKeHhsVUFKLURGVXZBLWE2ODZ1SEJDdkRILWktNlN2MlpXV3ZXRkZsOFpKTVl1MjNVQ2tDS29qVGJJR3FYX3ROdWFRRUtPdkpmNmh2TGrSAd4BQVVfeXFMUEhIWGtXNGlPTG8tVGZ0QTNyMzVEck51bjZ0YU9weUNCVWNiWmY1WVE3UVgxZG04SXdvYjZNRHpER3czb2tmOUVpNVFTUFQ3QUh5d09keTRPYWpHcnctYzduejlaOVo2VC1xTk9MY1E2VkkxTXVzVzZCdExlV0stR1pOQ1l4VVg5aUxCcmRPR2Y4WUd2Q045U0dNZUVodnc0Vnhyd1BfX3JSYmNHZjBWeTIzcks2UDkwQXRtZk40enQ0SU4yNnBlaG0zbWx2X3p6NUFLbUJMRGtYbTZvRFlR?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-07T07:00:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-08-19T19:40:35.059404"
     }
   ]
 }
