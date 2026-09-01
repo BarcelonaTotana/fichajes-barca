@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T23:00:56.070308Z",
+  "actualizado": "2026-09-01T23:10:30.275223Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "2c7bbc86ee6c78b3",
+      "titulo": "El Barça anuncia a Mirza Catovic para el filial y a Mikael Baza para el juvenil",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222380/barca-anuncia-mirza-catovic-filial-mikael-baza-juvenil.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-01T22:44:18",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T23:10:25.179399"
+    },
     {
       "id": "8e7fd5061736d3d8",
       "titulo": "Gabriel Jesus, inscrito con el '9' a un cuarto de hora del cierre",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-08T12:28:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-08T14:40:28.060254"
-    },
-    {
-      "id": "d720a297de79e230",
-      "titulo": "Araujo se va de la Ciutat Esportiva dando las \"gracias\" a los culés",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214258/araujo-ciutat-esportiva-dando-gracias-cules.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-08T11:12:40",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-08T11:40:26.231131"
     }
   ]
 }
