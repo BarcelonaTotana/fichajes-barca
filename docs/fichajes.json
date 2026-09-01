@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T14:30:46.813624Z",
+  "actualizado": "2026-09-01T14:40:35.168796Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
   ],
   "noticias": [
     {
+      "id": "2155379b3b5c13bd",
+      "titulo": "Confirmada la fecha y horario del primer Clásico",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222164/confirmada-fecha-horario-primer-clasico.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T14:25:09",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T14:40:30.076220"
+    },
+    {
       "id": "89e0194dff4b9a4c",
       "titulo": "El Deportivo irrumpe con fuerza por Marc Casadó",
       "enlace": "https://www.sport.es/es/noticias/futbol/deportivo-irrumpe-fuerza-marc-casado-133845452?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
@@ -180,6 +193,19 @@
       "fecha": "2026-09-01T13:59:35",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T14:00:54.417969"
+    },
+    {
+      "id": "a2fd46509c34bcda",
+      "titulo": "Gabriel Jesus admite que se bajó el sueldo para jugar en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222136/gabriel-jesus-significativamente-sueldo-jugar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T13:59:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T14:40:30.076390"
     },
     {
       "id": "8c6edb8683ff157b",
@@ -5328,32 +5354,6 @@
       "fecha": "2026-08-07T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-07T05:40:30.421363"
-    },
-    {
-      "id": "216be28e1213ff35",
-      "titulo": "Hachazo de Rodri y Deco",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213866/hachazo-rodri-deco.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-07T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T05:40:30.421651"
-    },
-    {
-      "id": "2a90a844cd0adf46",
-      "titulo": "El Barça ya ultima la propuesta al City por Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213880/barca-ultima-propuesta-city-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-06T21:41:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-06T23:03:28.221309"
     }
   ]
 }
