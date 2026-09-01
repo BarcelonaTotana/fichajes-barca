@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T21:30:46.445793Z",
+  "actualizado": "2026-09-01T21:40:33.646214Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -339,6 +339,19 @@
       "visto_por_primera_vez": "2026-09-01T19:40:29.331724"
     },
     {
+      "id": "a055f95cba776f69",
+      "titulo": "Cerrado: Marc Casadó, cedido al Deportivo con opción de compra",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222192/marc-casado-ofrecido-deportivo-pendiente-carambola-financiera.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-01T15:20:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T21:40:28.087902"
+    },
+    {
       "id": "2155379b3b5c13bd",
       "titulo": "Confirmada la fecha y horario del primer Clásico",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222164/confirmada-fecha-horario-primer-clasico.html",
@@ -404,6 +417,19 @@
       "visto_por_primera_vez": "2026-09-01T15:40:26.772569"
     },
     {
+      "id": "77221e8ab6a8c61e",
+      "titulo": "Gabriel Jesus se bajó significativamenteel sueldo para jugar en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222136/gabriel-jesus-significativamente-sueldo-jugar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T13:59:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T21:40:28.088380"
+    },
+    {
       "id": "8c6edb8683ff157b",
       "titulo": "Gabriel Jesus hereda el dorsal '9' de Lewandowski",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222134/gabriel-jesus-hereda-dorsal-9-lewandowski.html",
@@ -428,6 +454,19 @@
       "fecha": "2026-09-01T13:34:54",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T14:00:54.418397"
+    },
+    {
+      "id": "80b7eb60318d66f2",
+      "titulo": "\"No me ofende ser el plan B a Julián\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222121/gabriel-jesus-no-me-ofende-plan-b-julian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T13:34:54",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T21:40:28.088749"
     },
     {
       "id": "3a4e296039b2c79a",
@@ -5316,45 +5355,6 @@
       "fecha": "2026-08-08T10:34:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-08T11:12:11.822152"
-    },
-    {
-      "id": "58478c9994e4fe0f",
-      "titulo": "El Brujas oficializa el fichaje de Virgili con rango de estrella",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214242/brujas-oficializa-fichaje-virgili-rango-estrella.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-08T10:29:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-08T10:40:32.560798"
-    },
-    {
-      "id": "1ec47bd54c6714e0",
-      "titulo": "La opción de compra del Liverpool por Araujo es de 55 millones",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214228/opcion-compra-liverpool-araujo-55-millones.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-08T09:13:32",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-08T09:30:41.369415"
-    },
-    {
-      "id": "6873fe82db40d19b",
-      "titulo": "Casadó no viaja a Udine con el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214219/casado-no-viaja-udine-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-08T08:37:58",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-08T09:12:08.763456"
     }
   ]
 }
