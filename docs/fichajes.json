@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T15:31:29.812146Z",
+  "actualizado": "2026-09-01T15:40:32.010278Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
   ],
   "noticias": [
     {
+      "id": "5340ac305c47f553",
+      "titulo": "Marc Casadó, ofrecido al Deportivo y pendiente de una carambola financiera",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222192/marc-casado-ofrecido-deportivo-pendiente-carambola-financiera.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T15:20:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T15:40:26.772101"
+    },
+    {
       "id": "2155379b3b5c13bd",
       "titulo": "Confirmada la fecha y horario del primer Clásico",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222164/confirmada-fecha-horario-primer-clasico.html",
@@ -206,6 +219,19 @@
       "fecha": "2026-09-01T13:59:35",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T14:40:30.076390"
+    },
+    {
+      "id": "431aba52a437a4ad",
+      "titulo": "Gabriel Jesus accedió a bajarse el sueldo para jugar en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222136/gabriel-jesus-significativamente-sueldo-jugar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T13:59:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T15:40:26.772569"
     },
     {
       "id": "8c6edb8683ff157b",
@@ -5328,32 +5354,6 @@
       "fecha": "2026-08-07T05:43:44",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-07T06:10:28.519630"
-    },
-    {
-      "id": "72bad0006c895784",
-      "titulo": "La historia de la primera vez que el Barça sondeó a Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213911/rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-07T05:43:44",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T08:40:30.502223"
-    },
-    {
-      "id": "82f3fd0f376a3741",
-      "titulo": "Diferencias Barça-Al Hilal por Casadó",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213869/diferencias-barca-hilal-casado.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-07T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T05:40:30.421363"
     }
   ]
 }
