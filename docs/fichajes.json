@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T17:30:58.612641Z",
+  "actualizado": "2026-09-01T17:40:33.842465Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -155,6 +155,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "8ad89f66353a4f4c",
+      "titulo": "Locura culé con Gabriel Jesus",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222251/locura-cule-gabriel-jesus.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T17:17:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T17:40:28.771297"
+    },
     {
       "id": "d82b4e468baa79fc",
       "titulo": "El Twente se cierra en banda ante el Barça por Nijstad",
@@ -336,6 +349,19 @@
       "fecha": "2026-09-01T12:49:06",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T13:10:27.912500"
+    },
+    {
+      "id": "5550fe65d3af518f",
+      "titulo": "El Barcelona negocia con el Betis el fichaje del central Jean Emmanuel N'Goran para el filial",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmpORy1JZXFRVU9qMU1tWmRUUWt4MWF0LUZfVXJ4eGxOeGtqVW5xdU9pWld2aXFEcndhTzh3QTBfektXSU1ZV1JBMzJOdmtNQUdZSi1UMW14SW1WNzhUeFlHMWpCWTA3MlhwOFV0dlp0d0NKMEI0QVZFTVFGaWlQX3pFQ1dXUHpOSmVoV1JUR1VZTXZfQmIydzhFekRIeEhhMVJQUW1VUnNhMXdrbm1QZ19iYXBJRDNPZ3g2ajRZbGV1ZC1LYkVoStIBzgFBVV95cUxNVDdRbjlLek5UaHJJM0NxZ3NnZlMwNEJ5eEM0NHF1akp2SjdKZk54eXVJa0pub0ZCbkpZenU4TGQ4a29yTmltMkhFSWpOeW9RenJOUXROdV9ubGh5YWxMeHQyQ3ljTlhJblp4OUVTMVUybTFrR1JOU2E3X2pTVm9mODdaRGJ2NFZSNDZjWkFoenFQS3QwQXBuYmFoaV9NQ0JuX1VYNGNma0xxYmVkTEVHNWpSV3ZxYkJyUzJEak5QUXZiOThZUENPV05COUVSZw?oc=5",
+      "medio": "Tribuna.com",
+      "tier": 4,
+      "tier_etiqueta": "Poco fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-01T12:12:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-09-01T17:40:32.824453"
     },
     {
       "id": "fd0024a574374387",
@@ -5328,32 +5354,6 @@
       "fecha": "2026-08-07T13:21:29",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-07T13:40:26.304152"
-    },
-    {
-      "id": "bce5b4d3048becb7",
-      "titulo": "Flick dio en abril la gran clave que explica la 'ofensiva Rodri'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004214029/flick-dio-abril-gran-clave-explica-ofensiva-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-07T11:35:18",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T12:00:56.132461"
-    },
-    {
-      "id": "b604f416cedb0f54",
-      "titulo": "El Manchester City se marca un ambicioso objetivo para sustituir a Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/top/20260807/1004213984/manchester-city-marca-objetivo-prioritario-sustituir-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-07T09:42:21",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-07T10:10:30.839217"
     }
   ]
 }
