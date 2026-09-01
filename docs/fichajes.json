@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T16:01:01.901871Z",
+  "actualizado": "2026-09-01T16:10:36.976328Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
   ],
   "noticias": [
     {
+      "id": "ed73a9ca30048c22",
+      "titulo": "Guille, en Mallorca para firmar y con hambre de ascenso",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222196/guille-mallorca-firmar-hambre-ascenso.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T15:39:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T16:10:30.903689"
+    },
+    {
       "id": "5340ac305c47f553",
       "titulo": "Marc Casadó, ofrecido al Deportivo y pendiente de una carambola financiera",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222192/marc-casado-ofrecido-deportivo-pendiente-carambola-financiera.html",
@@ -167,6 +180,19 @@
       "fecha": "2026-09-01T15:20:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T15:40:26.772101"
+    },
+    {
+      "id": "7c4dc60d0d7b10a4",
+      "titulo": "Marc Casadó, opción Deportivo y pendiente de una carambola financiera",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222192/marc-casado-ofrecido-deportivo-pendiente-carambola-financiera.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T15:20:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T16:10:30.903812"
     },
     {
       "id": "2155379b3b5c13bd",
@@ -5328,32 +5354,6 @@
       "fecha": "2026-08-07T06:49:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-07T07:10:26.187405"
-    },
-    {
-      "id": "197583949fa78033",
-      "titulo": "Reacción en Manchester: ponen precio a Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213924/reaccion-manchester-no-vender-rodri-ponen-precio.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-07T06:49:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T15:40:28.778788"
-    },
-    {
-      "id": "d8a70f14e607f373",
-      "titulo": "El Barça ya sondeó el fichaje de Rodri en el año 2017",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213911/rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-07T05:43:44",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T06:10:28.519630"
     }
   ]
 }
