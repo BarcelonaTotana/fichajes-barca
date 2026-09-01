@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T02:50:35.041758Z",
+  "actualizado": "2026-09-01T03:00:58.849709Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -152,6 +152,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "7c6254fa8ab367d3",
+      "titulo": "Sea bienvenido Gabriel Jesus",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221907/sea-bienvenido-gabriel-jesus.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T03:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T03:00:53.395527"
+    },
     {
       "id": "00393bca9ff53eb9",
       "titulo": "Un nuevo ídolo en el Camp Nou",
@@ -5338,19 +5351,6 @@
       "fecha": "2026-08-06T08:52:59",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T09:10:32.031883"
-    },
-    {
-      "id": "e74c977c77fd01f7",
-      "titulo": "The Athletic: El Barça explora el fichaje de Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213638/the-athletic-barca-explora-fichaje-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-06T08:52:59",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-06T09:40:29.225395"
     }
   ]
 }
