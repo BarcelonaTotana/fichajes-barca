@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T21:00:58.619733Z",
+  "actualizado": "2026-09-01T21:10:32.912133Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "b3ef2a28079b3b8f",
+      "titulo": "Las cifras del traspaso de Álvaro Cortés al Amberes",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222313/oficial-traspaso-alvaro-cortes-amberes.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T20:59:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T21:10:27.633011"
+    },
     {
       "id": "8b989eda53c8a737",
       "titulo": "Oficial: Toni Fernández, al Venecia con diferencias en los comunicados",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-08T08:37:58",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-08T09:12:08.763456"
-    },
-    {
-      "id": "63588142dbc4cdb6",
-      "titulo": "Ronald Araujo, cedido al Liverpool",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004214179/ronald-araujo-cedido-liverpool.html",
-      "medio": "mundodeportivo.com",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-07T21:34:56",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T22:08:34.884917"
     }
   ]
 }
