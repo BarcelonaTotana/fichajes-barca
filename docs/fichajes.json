@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T19:30:45.199650Z",
+  "actualizado": "2026-09-01T19:40:35.367988Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -41,6 +41,7 @@
     "1f5fed6548852821",
     "20234a678e468e32",
     "2424d14d53098add",
+    "2777903274ddc4a8",
     "279bf11271d3cee8",
     "27f25d89b4825926",
     "2afd8df59ff42b07",
@@ -156,6 +157,32 @@
   ],
   "noticias": [
     {
+      "id": "8b989eda53c8a737",
+      "titulo": "Oficial: Toni Fernández, al Venecia con diferencias en los comunicados",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222286/oficial-toni-fernandez-venecia-diferencias-comunicados.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T19:07:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T19:40:29.330534"
+    },
+    {
+      "id": "a4babbefd00c8a2d",
+      "titulo": "El ex culé Alan Godoy ya tiene equipo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222284/ex-cule-alan-godoy-equipo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-01T19:04:06",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T19:40:29.330681"
+    },
+    {
       "id": "dc43171f822ffc10",
       "titulo": "El fichaje de Gabriel Jesus por el Barça impacta en Brasil",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222222/impacto-brasil-fichaje-gabriel-jesus-barca.html",
@@ -258,6 +285,19 @@
       "fecha": "2026-09-01T15:20:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T16:40:30.875833"
+    },
+    {
+      "id": "2777903274ddc4a8",
+      "titulo": "Negociación Barça-Depor por Casadó: los azulgrana quieren incluir opción de compra",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222192/marc-casado-ofrecido-deportivo-pendiente-carambola-financiera.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T15:20:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T19:40:29.331724"
     },
     {
       "id": "2155379b3b5c13bd",
@@ -5315,45 +5355,6 @@
       "fecha": "2026-08-07T18:42:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-07T19:10:27.803050"
-    },
-    {
-      "id": "2b07895a52179645",
-      "titulo": "Joao Cancelo se reincorpora al Al-Hilal a la espera de cerrar su regreso al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004214143/joao-cancelo-reincorpora-hilal-espera-cerrar-regreso-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "here_we_go",
-      "fecha": "2026-08-07T18:25:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T18:40:33.677875"
-    },
-    {
-      "id": "5c2c6af2cec29fe0",
-      "titulo": "El City se interesa por Tommy Marqués, al que también quieren Braga y Dortmund",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004214103/manchester-city-interesa-tommy-marques-quieren-sporting-braga-borussia-dortmund.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-07T15:54:22",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T16:10:30.375544"
-    },
-    {
-      "id": "e4aa8092e48339ef",
-      "titulo": "La reflexión de Rodri (30 años) sobre sus estudios: \"Mis compañeros entrenaban y luego volvían a un piso solos. Me formé, luego fui a clase y volví a la residencia de estudiantes\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/rodri-hernandez-30-anos-capitan-133156040?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-07T15:42:00",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-07T15:50:36.152219"
     }
   ]
 }
