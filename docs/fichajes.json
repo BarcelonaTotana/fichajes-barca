@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T16:30:50.123269Z",
+  "actualizado": "2026-09-01T16:40:36.461293Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -193,6 +193,19 @@
       "fecha": "2026-09-01T15:20:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T16:10:30.903812"
+    },
+    {
+      "id": "64da63faca90a1ea",
+      "titulo": "Optimismo en el Deportivo para cerrar a Casadó",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222192/marc-casado-ofrecido-deportivo-pendiente-carambola-financiera.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T15:20:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T16:40:30.875833"
     },
     {
       "id": "2155379b3b5c13bd",
@@ -5341,19 +5354,6 @@
       "fecha": "2026-08-07T07:00:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-19T19:40:35.059404"
-    },
-    {
-      "id": "408436a233d3ca57",
-      "titulo": "Reacción en Manchester: 'no' a vender a Rodrí pero ponen precio",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004213924/reaccion-manchester-no-vender-rodri-ponen-precio.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-07T06:49:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T07:10:26.187405"
     }
   ]
 }
