@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T06:00:57.884400Z",
+  "actualizado": "2026-09-01T06:10:32.062425Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -190,6 +190,19 @@
       "fecha": "2026-09-01T04:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T04:40:26.253094"
+    },
+    {
+      "id": "757b87b508487909",
+      "titulo": "El plan C ilusiona más que el plan Julián",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221795/plan-c-gabriel-jesus-ilusiona-plan-julian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T04:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T06:10:26.965460"
     },
     {
       "id": "7c6254fa8ab367d3",
@@ -5338,19 +5351,6 @@
       "fecha": "2026-08-06T11:27:59",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T11:40:29.567961"
-    },
-    {
-      "id": "547f893158126b8b",
-      "titulo": "La ilusión de Martina por volver al \"mejor club del mundo\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213667/ilusion-martina-volver-mejor-club-mundo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-06T10:22:46",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-06T10:40:35.447704"
     }
   ]
 }
