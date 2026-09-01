@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T04:50:33.826515Z",
+  "actualizado": "2026-09-01T05:02:38.301060Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -152,6 +152,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "4828430f490a7919",
+      "titulo": "A Casadó le toca elegir: estas son sus principales opciones",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221916/casado-le-toca-elegir-son-opciones.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T05:02:33.333807"
+    },
     {
       "id": "e026b13e83e6b182",
       "titulo": "Nijstad aprieta para ir al Barça y Balde sigue sin contar para Flick",
@@ -5338,19 +5351,6 @@
       "fecha": "2026-08-06T10:22:46",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T10:40:35.447704"
-    },
-    {
-      "id": "947a8028ba91ec25",
-      "titulo": "El Barça, a la expectativa con Rodri: si él lanza una señal se estudiará",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213643/barca-expectativa-rodri-lanza-senal-estudiara.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-06T09:18:17",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-06T09:40:29.225259"
     }
   ]
 }
