@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T20:30:54.124670Z",
+  "actualizado": "2026-09-01T20:40:37.251611Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -168,6 +168,19 @@
       "fecha": "2026-09-01T19:07:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T19:40:29.330534"
+    },
+    {
+      "id": "c93b488c271caa8b",
+      "titulo": "Oficial: Toni Fernández, al Venezia con una fórmula diferente",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222286/oficial-toni-fernandez-venecia-diferencias-comunicados.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T19:07:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T20:40:31.581269"
     },
     {
       "id": "a4babbefd00c8a2d",
@@ -571,6 +584,19 @@
       "fecha": "2026-08-31T21:50:41",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T22:10:27.020061"
+    },
+    {
+      "id": "8f248eeae7b53c60",
+      "titulo": "Ilman Ndiaye, el próximo centrocampista del Manchester City de Maresca",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260831/1004221802/ilman-ndiaye-proximo-centrocampista-manchester-city-maresca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-31T19:08:06",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-09-01T20:40:33.068392"
     },
     {
       "id": "dabe2f89d1ba5578",
@@ -5329,32 +5355,6 @@
       "fecha": "2026-08-07T21:34:56",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-07T22:08:34.884917"
-    },
-    {
-      "id": "6efc28f91572845d",
-      "titulo": "Asllani, que había sido vinculado al Barça, no supera la revisión médica del Leipzig",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260807/1004214172/asllani-habia-sido-vinculado-barca-no-supera-revision-medica-leipzig.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-07T20:53:21",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T21:10:33.874061"
-    },
-    {
-      "id": "1cd6d783fb737142",
-      "titulo": "Kessie podría renovar ahora en Arabia aunque Pape Gueye interesa",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260807/1004214151/kessie.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-07T18:55:53",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-07T19:20:36.543086"
     }
   ]
 }
