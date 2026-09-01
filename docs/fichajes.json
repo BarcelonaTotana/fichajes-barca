@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T12:30:49.419491Z",
+  "actualizado": "2026-09-01T12:40:34.684734Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -153,6 +153,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "fd0024a574374387",
+      "titulo": "Presentación de Gabriel Jesus con el Barça, en directo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222079/presentacion-gabriel-jesus-barca-directo-ultima-hora-fc-barcelona-mercado-fichajes-azulgrana.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T11:56:07",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T12:40:29.014418"
+    },
     {
       "id": "009b4ae2cfd0bbe9",
       "titulo": "El traspaso de Marc Guiu deja un dinero extra al Barça",
@@ -5339,19 +5352,6 @@
       "fecha": "2026-08-06T14:20:09",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T14:40:30.195512"
-    },
-    {
-      "id": "fd5e0d8d28e20c6d",
-      "titulo": "Jan Virgili: una operación que aún puede dar réditos al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213731/ajax-aprieta-jan-virgili-barca-frota-manos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-06T13:12:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-06T13:40:42.426616"
     }
   ]
 }
