@@ -1,11 +1,12 @@
 {
-  "actualizado": "2026-09-01T13:01:00.262300Z",
+  "actualizado": "2026-09-01T13:10:33.969559Z",
   "total": 400,
   "cerradas": [
     "alex campos",
     "aston villa",
     "carla julia",
     "celia segura",
+    "gabriel jesus",
     "jesse bisiwu",
     "jorge salinas",
     "josue caicedo",
@@ -52,6 +53,7 @@
     "3903d499d73904bd",
     "3916dd3ee8186767",
     "39e3e610937d0eb6",
+    "3a4e296039b2c79a",
     "3b3868743b3b44cd",
     "3b9bc2319db3dea0",
     "3c47891347dd1256",
@@ -153,6 +155,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "3a4e296039b2c79a",
+      "titulo": "Oficial: Gabriel Jesus firma por el Barça hasta 2029",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222085/oficial-gabriel-jesus-firma-barca-2029.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T12:49:06",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T13:10:27.912500"
+    },
     {
       "id": "fd0024a574374387",
       "titulo": "Presentación de Gabriel Jesus con el Barça, en directo",
@@ -5339,19 +5354,6 @@
       "fecha": "2026-08-06T15:45:27",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-06T23:03:30.884258"
-    },
-    {
-      "id": "ab723a20023eac20",
-      "titulo": "Rodri, más cerca del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213752/rodri-cerca-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-06T14:20:09",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-06T14:40:30.195512"
     }
   ]
 }
