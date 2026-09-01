@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T13:50:36.122806Z",
+  "actualizado": "2026-09-01T14:00:59.465461Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,45 @@
   ],
   "noticias": [
     {
+      "id": "25a6cbbd5a5db371",
+      "titulo": "Gabriel Jesus se bajó \"significativamente\" el sueldo para jugar en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222136/gabriel-jesus-significativamente-sueldo-jugar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T13:59:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T14:00:54.417969"
+    },
+    {
+      "id": "8c6edb8683ff157b",
+      "titulo": "Gabriel Jesus hereda el dorsal '9' de Lewandowski",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222134/gabriel-jesus-hereda-dorsal-9-lewandowski.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T13:58:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T14:00:54.418129"
+    },
+    {
+      "id": "01f230dffc67d785",
+      "titulo": "Gabriel Jesus: \"No me ofende ser el plan B a Julián\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222121/gabriel-jesus-no-me-ofende-plan-b-julian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T13:34:54",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T14:00:54.418397"
+    },
+    {
       "id": "3a4e296039b2c79a",
       "titulo": "Oficial: Gabriel Jesus firma por el Barça hasta 2029",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222085/oficial-gabriel-jesus-firma-barca-2029.html",
@@ -180,6 +219,19 @@
       "fecha": "2026-09-01T11:56:07",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T12:40:29.014418"
+    },
+    {
+      "id": "15e9b6c07313768f",
+      "titulo": "Presentación de Gabriel Jesus con el Barça, en directo: última hora del FC Barcelona y del mercado de fichajes azulgrana",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222079/presentacion-gabriel-jesus-barca-directo-ultima-hora-fc-barcelona-mercado-fichajes-azulgrana.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T11:56:07",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-01T14:00:54.418731"
     },
     {
       "id": "009b4ae2cfd0bbe9",
@@ -5302,58 +5354,6 @@
       "fecha": "2026-08-06T20:05:28",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-06T23:03:28.221529"
-    },
-    {
-      "id": "fa08b9ce9d06139c",
-      "titulo": "Rodri Hernández (30 años), capitán de la selección española, claro y conciso con los estudios: \"Con pasión y dedicación puedes sacarte la universidad, aunque no en cuatro años\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/rodri-hernandez-30-anos-capitan-133156040?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-06T18:48:06",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-06T23:03:30.883743"
-    },
-    {
-      "id": "4e35a95301a46685",
-      "titulo": "Esto decía Deco sobre Rodri en 2024",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213794/deco-dijo-2024-acerca-busquets-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-06T16:44:51",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-06T23:03:28.221987"
-    },
-    {
-      "id": "05b7b0ac240c551c",
-      "titulo": "Deco ya lo dijo en 2024: \"El que más se acerca a Busquets es Rodri\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260806/1004213794/deco-dijo-2024-acerca-busquets-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-06T16:44:51",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-07T07:10:26.189071"
-    },
-    {
-      "id": "6f7a3d8a01c75a3c",
-      "titulo": "Otra vez viral: La mofa de Rodri a Vinicius justo después de ganarle el Balón de Oro en 2024",
-      "enlace": "https://www.sport.es/es/noticias/futbol/vez-viral-mofa-rodri-vinicius-133150630?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-06T15:45:27",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-06T23:03:30.884258"
     }
   ]
 }
