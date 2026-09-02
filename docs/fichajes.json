@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T22:10:34.238991Z",
+  "actualizado": "2026-09-02T22:20:29.358721Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -949,6 +949,19 @@
       "fecha": "2026-08-31T16:33:08",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T20:10:26.424223"
+    },
+    {
+      "id": "0b28e3e9527c256f",
+      "titulo": "¡Fichaje de futuro en Catalunya! El FC Barcelona amarra al primo de Jonathan Tah, la joya alemana de 16 año...",
+      "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNNkhKM3JNeHNtd3FhQnl4Rm5FclNDSmI1UC1xMUdfTUQ5SlNWeURjUWgxTk9NejdUSTB2UzREUWQ2b0lER240c01jSlA0UHdUdTMwZjFXdjZIZG9hQmVHQUY1TG1iQWljdGJUY1NmcGliU0RxVk9hOWsybmUtLTNIV0NFWC0xV1gyekZub1JGSkFwSENFZTlCZEhPQmdFRVVqR004REs0ZXlTSGVfMVlHV0NBVW15a2xPZTVLYWVrdU1wVWpRNW0tcEUxc0tXdmRBUEx5QnRIOWt0ekt5N0hXMExRQkpLLWxfdU1GaEctdEZlQnFuZ1dTZ1VRTTNGYkpNNFlBWtIBhAJBVV95cUxNNkhKM3JNeHNtd3FhQnl4Rm5FclNDSmI1UC1xMUdfTUQ5SlNWeURjUWgxTk9NejdUSTB2UzREUWQ2b0lER240c01jSlA0UHdUdTMwZjFXdjZIZG9hQmVHQUY1TG1iQWljdGJUY1NmcGliU0RxVk9hOWsybmUtLTNIV0NFWC0xV1gyekZub1JGSkFwSENFZTlCZEhPQmdFRVVqR004REs0ZXlTSGVfMVlHV0NBVW15a2xPZTVLYWVrdU1wVWpRNW0tcEUxc0tXdmRBUEx5QnRIOWt0ekt5N0hXMExRQkpLLWxfdU1GaEctdEZlQnFuZ1dTZ1VRTTNGYkpNNFlBWg?oc=5",
+      "medio": "Pasión Fútbol",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-31T14:03:07",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-09-02T22:20:28.340122"
     },
     {
       "id": "7355007c43f2479b",
@@ -5343,19 +5356,6 @@
       "fecha": "2026-08-10T07:00:00",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-08-30T15:50:24.539095"
-    },
-    {
-      "id": "45444e77c4f6774b",
-      "titulo": "La salida de Jofre, también inminente",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214703/salida-jofre-inminente.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-10T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-10T05:40:25.557051"
     }
   ]
 }
