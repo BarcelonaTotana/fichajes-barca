@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T18:30:55.982744Z",
+  "actualizado": "2026-09-02T18:40:36.019727Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -22,6 +22,7 @@
     "0069a55d2c0e761e",
     "009b4ae2cfd0bbe9",
     "0406f0e9c8c96ef8",
+    "053d70e4f90d8c86",
     "05fed9472c50534b",
     "075a54a89507f220",
     "09144d5ce9eed317",
@@ -156,6 +157,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "053d70e4f90d8c86",
+      "titulo": "Oficial: estos son los dorsales del Barça para la temporada 2026-2027",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222723/dorsales-barca-temporada-2026-2027.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-02T18:03:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-02T18:40:29.859570"
+    },
     {
       "id": "537990b2e685133f",
       "titulo": "Olmo: \"No entiendo lo del Atleti con Julián\"",
@@ -5342,19 +5356,6 @@
       "fecha": "2026-08-10T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T11:10:29.203238"
-    },
-    {
-      "id": "efe3b86cdd0b7bf9",
-      "titulo": "Abiertas dos vacantes en la capitanía del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214606/abiertas-dos-vacantes-capitania-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-10T03:45:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-10T04:10:29.981563"
     }
   ]
 }
