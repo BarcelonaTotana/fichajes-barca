@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T12:20:34.253651Z",
+  "actualizado": "2026-09-02T12:30:50.515032Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "8b221ce7bb7ea7af",
+      "titulo": "El viraje del Barcelona con el Deportivo que dejó a Marc Casadó el martes en el Prat",
+      "enlace": "https://www.sport.es/es/noticias/futbol/viraje-barcelona-deportivo-dejo-marc-133874303?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-02T12:23:34",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-02T12:30:47.907477"
+    },
     {
       "id": "ac55538c25bf2ff0",
       "titulo": "Oficial: un clásico del fútbol europeo jugará junto a Ter Stegen",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-09T17:49:53",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-09T18:10:25.837744"
-    },
-    {
-      "id": "76e9ea1a4d4bf1ee",
-      "titulo": "Luis Enrique ficha a un viejo conocido para el PSG",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260809/1004214648/luis-enrique-ficha-viejo-conocido.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-09T17:13:40",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-09T17:40:28.368604"
     }
   ]
 }
