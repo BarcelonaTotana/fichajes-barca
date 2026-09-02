@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T04:30:46.254666Z",
+  "actualizado": "2026-09-02T04:40:34.051760Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "5abffe601fa5c86f",
+      "titulo": "Barça: gran inversión en fichajes y buenos ingresos en ventas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222270/barca-gran-inversion-fichajes-buenos-ingresos-ventas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-02T04:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-02T04:40:29.307430"
+    },
     {
       "id": "2c7bbc86ee6c78b3",
       "titulo": "El Barça anuncia a Mirza Catovic para el filial y a Mikael Baza para el juvenil",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-08T12:28:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-08T12:40:31.656352"
-    },
-    {
-      "id": "c5ab861caf151d9f",
-      "titulo": "Muere Jorge Messi a los 68 años de edad",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214281/argentina-informan-muerte-jorge-messi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-08T12:28:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-08T14:40:28.060254"
     }
   ]
 }
