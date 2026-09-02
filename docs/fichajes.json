@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T11:30:46.308604Z",
+  "actualizado": "2026-09-02T11:40:38.266698Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "37a3ba3c3195ac11",
+      "titulo": "Las cifras de Gabriel Jesus en la Champions que sorprenderán",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222556/cifras-gabriel-jesus-champions-sorprenderan.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-02T11:26:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-02T11:40:31.933062"
+    },
+    {
+      "id": "63e55374aa8304bb",
+      "titulo": "Casadó: \"Todos tenemos cosas a mejorar\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222540/casado-todos-hemos-hecho-cosas-cosas-mejorar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-02T11:04:39",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-02T11:40:31.933240"
+    },
     {
       "id": "d4ad741fa4b08ac1",
       "titulo": "Lewandowski: \"La Champions es el sueño del Barça y ahora tiene 8 campeones del mundo\"",
@@ -5329,32 +5355,6 @@
       "fecha": "2026-08-09T13:08:42",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-09T13:40:29.689973"
-    },
-    {
-      "id": "e8fa755002d9e715",
-      "titulo": "Ter Stegen debuta como titular en el Ajax",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214583/ter-stegen-debuta-titular-ajax.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-09T13:00:46",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-09T13:40:29.690249"
-    },
-    {
-      "id": "9ebbf83e0cd37be4",
-      "titulo": "Darwin Núñez, puerta de entrada a Liverpool para Araujo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214568/darwin-nunez-puerta-entrada-liverpool-araujo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-09T12:05:27",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-09T12:40:29.175515"
     }
   ]
 }
