@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T21:20:32.602379Z",
+  "actualizado": "2026-09-02T21:30:45.770887Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -195,6 +195,19 @@
       "fecha": "2026-09-02T18:03:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T18:40:29.859570"
+    },
+    {
+      "id": "7f1dc4dc5e4becf8",
+      "titulo": "Los dorsales del primer equipo 2026/27, confirmados",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWlhc25fbjZsS2N2UFVqQ08tdFNnSl9pODAtaE9WMEhaNjBpOE5ZTXJQdG5xbDFQbGZkQjJ3ZnZyemt3TzdzRlNFZFJDMC10WHE2S1BxM3hYZUN2V1htYlVEd3NGVlpVQTFxN2dRUmZmRTVTT3lsQzdxSlFKbmIzWEFVVVlZVWhBbWxseTg1OWVrd1BmbFY0eENJVV84TUk4NGxhZ21NSQ?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-02T18:02:52",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-02T21:30:39.600444"
     },
     {
       "id": "537990b2e685133f",
@@ -5343,19 +5356,6 @@
       "fecha": "2026-08-10T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T05:40:25.557051"
-    },
-    {
-      "id": "ef501a89bab1fc29",
-      "titulo": "Primer día de Araujo en Liverpool: Revisión y hoy se hará oficial",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214701/primer-dia-araujo-liverpool-revision-primeros-contenidos-hoy-hara-oficial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-10T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-10T05:40:25.557314"
     }
   ]
 }
