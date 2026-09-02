@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T10:30:45.949067Z",
+  "actualizado": "2026-09-02T10:40:15.738148Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "3daa0be96226d686",
+      "titulo": "Las primeras palabras de Marc Casadó como nuevo jugador del Deportivo: \"Me ha presentado un proyecto muy guapo y estoy ilusionado\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/primeras-palabras-marc-casado-nuevo-133868814?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-02T10:30:05",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-02T10:40:13.319032"
+    },
     {
       "id": "192f22855f42f1f2",
       "titulo": "Kochen ya se luce en Dinamarca",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-09T12:01:09",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-08-09T12:40:30.558421"
-    },
-    {
-      "id": "9149474cc52329e8",
-      "titulo": "Álvaro Cortés, futuro abierto: prioridad Barça pero con ofertas concretas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214557/alvaro-cortes-futuro-abierto-prioridad-barca-ofertas-concretas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-09T11:13:27",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-09T11:40:28.181119"
     }
   ]
 }
