@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T14:30:52.385450Z",
+  "actualizado": "2026-09-02T14:40:40.448597Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -298,6 +298,19 @@
       "fecha": "2026-09-01T22:07:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T22:40:24.793440"
+    },
+    {
+      "id": "075820cf01b06c9e",
+      "titulo": "Gabriel Jesus, inscrito a un cuarto de hora del cierre",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222374/gabriel-jesus-inscrito-cuarto-hora-cierre.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T22:07:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-02T14:40:34.721684"
     },
     {
       "id": "b3ef2a28079b3b8f",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-09T18:36:18",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-09T19:10:29.910250"
-    },
-    {
-      "id": "ab63d21a91b4a1ee",
-      "titulo": "El PSG sigue sin enviar la oferta por Ferran Torres",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214656/psg-sigue-enviar-oferta-ferran-torres.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-09T17:49:53",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-09T18:10:25.837744"
     }
   ]
 }
