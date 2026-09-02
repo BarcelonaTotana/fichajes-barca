@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T07:30:48.898882Z",
+  "actualizado": "2026-09-02T07:40:38.834193Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -701,6 +701,19 @@
       "fecha": "2026-08-31T19:08:06",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-09-02T07:10:28.727790"
+    },
+    {
+      "id": "b31f3610378b9e44",
+      "titulo": "Oficial: El City se gasta 75 millones en otro refuerzo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260831/1004221802/ilman-ndiaye-proximo-centrocampista-manchester-city-maresca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-31T19:08:06",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-09-02T07:40:34.832154"
     },
     {
       "id": "dabe2f89d1ba5578",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-08T22:10:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-08T22:40:25.682960"
-    },
-    {
-      "id": "3fdb04f46647ac40",
-      "titulo": "El PSG ya ha contactado con el Barça por Ferran Torres, que quiere irse a París",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214287/psg-contactado-barca-ferran-torres-quiere-irse-paris.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-08T12:53:47",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-08T13:00:56.304880"
     }
   ]
 }
