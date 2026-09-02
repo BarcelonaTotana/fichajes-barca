@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T16:01:05.235877Z",
+  "actualizado": "2026-09-02T16:10:37.502237Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "537990b2e685133f",
+      "titulo": "Olmo: \"No entiendo lo del Atleti con Julián\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222660/olmo-no-entiendo-atleti-julian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-02T15:44:01",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-02T16:10:31.745527"
+    },
     {
       "id": "940e860ed2096aef",
       "titulo": "Adama Traoré explica su fichaje por el Deportivo: \"Aubameyang y el proyecto me convencieron de venir\"",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-10T03:45:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T04:10:29.981563"
-    },
-    {
-      "id": "ce16f95b52b60129",
-      "titulo": "Hoy, el turno de Julián en Madrid",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214704/hoy-turno-julian-madrid.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-10T01:15:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-10T01:40:28.437907"
     }
   ]
 }
