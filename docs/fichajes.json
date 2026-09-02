@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T11:00:59.467473Z",
+  "actualizado": "2026-09-02T11:10:32.549189Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d4ad741fa4b08ac1",
+      "titulo": "Lewandowski: \"La Champions es el sueño del Barça y ahora tiene 8 campeones del mundo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222531/lewandowski-champions-sueno-barca-8-campeones-mundo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-02T10:32:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-02T11:10:27.824657"
+    },
     {
       "id": "3daa0be96226d686",
       "titulo": "Las primeras palabras de Marc Casadó como nuevo jugador del Deportivo: \"Me ha presentado un proyecto muy guapo y estoy ilusionado\"",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-09T12:05:27",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-09T12:40:29.175515"
-    },
-    {
-      "id": "afb32fd44d2b0745",
-      "titulo": "Última hora sobre la situación de Rashford",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260809/1004214566/ultima-hora-sobre-situacion-rashford.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-09T12:01:09",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-09T12:40:30.558421"
     }
   ]
 }
