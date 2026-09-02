@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T12:00:59.069348Z",
+  "actualizado": "2026-09-02T12:10:36.487092Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "ac55538c25bf2ff0",
+      "titulo": "Oficial: un clásico del fútbol europeo jugará junto a Ter Stegen",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260902/1004222570/oficial-clasico-futbol-europeo-jugara-ter-stegen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-02T11:51:23",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-09-02T12:10:32.278590"
+    },
     {
       "id": "37a3ba3c3195ac11",
       "titulo": "Las cifras de Gabriel Jesus en la Champions que sorprenderán",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-09T17:13:40",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-08-09T17:40:28.368604"
-    },
-    {
-      "id": "4661faade3095b4f",
-      "titulo": "La respuesta de Asllani es \"no me puedes detener\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214580/respuesta-asllani-no-me-puedes-detener.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-09T13:08:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-09T13:40:29.689973"
     }
   ]
 }
