@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T10:00:57.346913Z",
+  "actualizado": "2026-09-02T10:10:33.450173Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "192f22855f42f1f2",
+      "titulo": "Kochen ya se luce en Dinamarca",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222489/kochen-luce-dinamarca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-02T09:49:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-02T10:10:28.434063"
+    },
     {
       "id": "2cc0021d6de2e337",
       "titulo": "Cómo ha convencido Fariñas a Flick",
@@ -402,6 +415,19 @@
       "fecha": "2026-09-01T15:20:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T21:40:28.087902"
+    },
+    {
+      "id": "cc57006a71396236",
+      "titulo": "Cerrado: Casadó, cedido al Deportivo con opción de compra",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222192/marc-casado-ofrecido-deportivo-pendiente-carambola-financiera.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-01T15:20:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-02T10:10:28.437180"
     },
     {
       "id": "2155379b3b5c13bd",
@@ -5329,32 +5355,6 @@
       "fecha": "2026-08-09T11:13:27",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-09T11:40:28.181119"
-    },
-    {
-      "id": "4d9c3c2ace839c7d",
-      "titulo": "Pedri, con un 'look' que firmaría Kroos",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214520/pedri-look-firmaria-kroos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-09T08:49:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-09T09:10:30.810702"
-    },
-    {
-      "id": "38d148b39162b4de",
-      "titulo": "Un fichaje de Champions",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214465/fichaje-champions.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-09T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-09T05:10:24.775937"
     }
   ]
 }
