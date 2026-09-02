@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T19:00:57.315344Z",
+  "actualizado": "2026-09-02T19:10:33.628857Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -157,6 +157,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "f808ca2b963a2590",
+      "titulo": "Alarma Jesse Bisiwu: ¡deja lesionado la final de la Copa Catalunya!",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222739/alarma-jesse-bisiwu-deja-lesionado-final-copa-catalunya.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-02T18:49:16",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-02T19:10:27.820106"
+    },
     {
       "id": "053d70e4f90d8c86",
       "titulo": "Oficial: estos son los dorsales del Barça para la temporada 2026-2027",
@@ -5343,19 +5356,6 @@
       "fecha": "2026-08-10T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T15:40:35.202068"
-    },
-    {
-      "id": "9b4c45cfe5c7d762",
-      "titulo": "Primer día de Araujo en Liverpool: Revisión, primeros contenidos y hoy se hará oficial",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214701/primer-dia-araujo-liverpool-revision-primeros-contenidos-hoy-hara-oficial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-10T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T11:10:29.203238"
     }
   ]
 }
