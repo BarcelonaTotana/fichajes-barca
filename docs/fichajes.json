@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T09:30:49.482372Z",
+  "actualizado": "2026-09-02T09:40:31.925392Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -156,6 +156,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "2cc0021d6de2e337",
+      "titulo": "Cómo ha convencido Fariñas a Flick",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222461/convencido-farinas-flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-02T09:11:03",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-02T09:40:26.166813"
+    },
     {
       "id": "5abffe601fa5c86f",
       "titulo": "Barça: gran inversión en fichajes y buenos ingresos en ventas",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-09T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-09T05:10:24.775937"
-    },
-    {
-      "id": "e4ba714ccbce7eea",
-      "titulo": "Álvaro Cortés presenta candidatura",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260809/1004214458/alvaro-cortes-presenta-candidatura.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-08T22:10:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-08T22:40:25.682960"
     }
   ]
 }
