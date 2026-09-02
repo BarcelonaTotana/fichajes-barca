@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T07:01:01.746902Z",
+  "actualizado": "2026-09-02T07:10:32.607865Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -688,6 +688,19 @@
       "fecha": "2026-08-31T19:08:06",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-09-01T20:40:33.068392"
+    },
+    {
+      "id": "41625171c370329b",
+      "titulo": "Oficial: El City se gasta otros 75 millones en otro refuerzo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260831/1004221802/ilman-ndiaye-proximo-centrocampista-manchester-city-maresca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-08-31T19:08:06",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-09-02T07:10:28.727790"
     },
     {
       "id": "dabe2f89d1ba5578",
@@ -5342,19 +5355,6 @@
       "fecha": "2026-08-08T12:53:47",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-08T13:00:56.304880"
-    },
-    {
-      "id": "7107a72c34e33cf8",
-      "titulo": "En Argentina informan de la muerte de Jorge Messi",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260808/1004214281/argentina-informan-muerte-jorge-messi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-08T12:28:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-08T12:40:31.656352"
     }
   ]
 }
