@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T21:01:03.786364Z",
+  "actualizado": "2026-09-02T21:10:35.641555Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -157,6 +157,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "e70545acba1d7aa2",
+      "titulo": "Lautaro: \"Lo que se decía del Barça era verdad\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222763/lautaro-decia-barca-verdad.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-02T20:45:18",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-02T21:10:30.467903"
+    },
     {
       "id": "f808ca2b963a2590",
       "titulo": "Alarma Jesse Bisiwu: ¡deja lesionado la final de la Copa Catalunya!",
@@ -5343,19 +5356,6 @@
       "fecha": "2026-08-10T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T05:40:25.557314"
-    },
-    {
-      "id": "b662ebf1a6424789",
-      "titulo": "Primer día de Araujo en Liverpool",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214701/primer-dia-araujo-liverpool-revision-primeros-contenidos-hoy-hara-oficial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-10T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-10T15:40:35.202068"
     }
   ]
 }
