@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T14:31:43.995505Z",
+  "actualizado": "2026-09-03T14:40:37.081608Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -287,6 +287,19 @@
       "fecha": "2026-09-02T20:45:18",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T21:10:30.467903"
+    },
+    {
+      "id": "f2cae67ed1c39ec9",
+      "titulo": "Escenas desgarradoras: el nuevo fichaje del Barcelona, Jesse Bisiwu, sufre una LESIÓN GRAVE y ni siquiera puede caminar",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeEFMS2R2Q0ZGQTY2NXJ1Tnh1YldGWlI2RUZFbXdOTWRFQ0FveXNWZ2NGbF93SU50NzBZR1U1eWJ1UThuZ0tYWG5IdUl1RGstejVQY0w0dF9EanZTNmNMRURfMHZxYkRRdzBweXZ5b2NENjRmc1dtdFU1ODVob0NfQS1Zc2pfS1FFdmNFUUlnYmNRZWVPWFFBd2Fn0gGaAUFVX3lxTFB4QUxLZHZDRkZBNjY1cnVOeHViV0ZaUjZFRkVtd05NZEVDQW95c1ZnY0ZsX3dJTnQ3MFlHVTV5YnVROG5nS1hYbkh1SXVEay16NVBjTDR0X0RqdlM2Y0xFRF8wdnFiRFF3MHB5dnlvY0Q2NGZzV210VTU4NWhvQ19BLVlzal9LUUV2Y0VRSWdiY1FlZU9YUUF3YWc?oc=5",
+      "medio": "Tribuna.com",
+      "tier": 4,
+      "tier_etiqueta": "Poco fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-02T19:46:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-09-03T14:40:36.061193"
     },
     {
       "id": "f808ca2b963a2590",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T10:41:09",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-11T15:30:47.046977"
-    },
-    {
-      "id": "41c637592285a9df",
-      "titulo": "Josué Caicedo llega a Barcelona con ambición y elogios a Balde",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215091/josue-caicedo-llega-barcelona-ambicion-elogios-balde.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-11T10:26:26",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T10:40:26.945928"
     }
   ]
 }
