@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T15:30:45.825748Z",
+  "actualizado": "2026-09-03T15:40:39.377426Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -159,6 +159,19 @@
   ],
   "noticias": [
     {
+      "id": "baebdbca8de3bc0e",
+      "titulo": "Entradas a la venta para la exposición 'Iniesta Experience: (El Juego Interior)'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222997/entradas-venta-exposicion-iniesta-experience-juego-interior.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T15:17:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T15:40:34.520428"
+    },
+    {
       "id": "42b3371f1e0add8b",
       "titulo": "Jorge Salinas, el defensa del futuro, seguirá en el Racing: \"Desde que lo vi, he trazado siempre la comparativa con Gvardiol\"",
       "enlace": "https://www.sport.es/es/noticias/futbol/jorge-salinas-transformacion-barca-barcelona-racing-santander-131596895?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
@@ -209,6 +222,19 @@
       "fecha": "2026-09-03T09:10:45",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-09-03T09:20:29.252017"
+    },
+    {
+      "id": "0eefb351b617155a",
+      "titulo": "La tormenta perfecta que ha llevado al Deportivo a ser el gran animador del mercado de fichajes: así aumentó e hizo rendir su límite salarial",
+      "enlace": "https://www.sport.es/es/noticias/futbol/tormenta-perfecta-llevado-deportivo-gran-133905257?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T09:10:45",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-03T15:40:36.945832"
     },
     {
       "id": "958d95205629c366",
@@ -5331,32 +5357,6 @@
       "fecha": "2026-08-11T11:18:34",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T11:40:31.116317"
-    },
-    {
-      "id": "b340790e496015a0",
-      "titulo": "Nuevos dorsales para Joan Garcia y Szczesny",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215092/nuevos-dorsales-joan-garcia-szczesny.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-11T10:49:24",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T11:10:29.195794"
-    },
-    {
-      "id": "f28ffb6373ddae4f",
-      "titulo": "Josué Caicedo ya está en Barcelona para cerrar su fichaje por el Barça",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUFFfb3dReHVCaWRzMkMxQ3hfV0dndlpKV0lYMlVyNmE0RGUteWJBSTMxMF9OaG1EUzBESTJDWjFrRDlVMFYtRnJUZ1pWZmlvTEZ5cVdCbUVPUTBya2RuSG5xVEJ2WTNTajFpU2h2LUdCTlRPeUoyRkYyck1xTmYzNm1GN0hVUXBfblZKb1Z3SERfX25IRGpaRE5SY2k2UQ?oc=5",
-      "medio": "Ecuador 221",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-11T10:41:09",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-08-11T15:30:47.046977"
     }
   ]
 }
