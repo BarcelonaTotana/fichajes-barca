@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T09:30:43.131962Z",
+  "actualizado": "2026-09-03T09:40:30.939898Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -170,6 +170,19 @@
       "fecha": "2026-09-03T09:10:45",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-09-03T09:20:29.252017"
+    },
+    {
+      "id": "958d95205629c366",
+      "titulo": "\"Siempre es agradable que te vinculen con los grandes\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222854/siempre-agradable-te-vinculen-grandes.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T09:10:03",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T09:40:25.916559"
     },
     {
       "id": "643d5176f36e29d4",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-10T18:59:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T19:00:55.587421"
-    },
-    {
-      "id": "9129d3b2b554347c",
-      "titulo": "Araujo, ya 'red', revela el mensaje que recibió de Luis Suárez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214930/araujo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-10T18:05:04",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-10T18:40:27.875640"
     }
   ]
 }
