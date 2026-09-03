@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T05:30:43.043067Z",
+  "actualizado": "2026-09-03T05:40:30.844161Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -81,6 +81,7 @@
     "5b5649b190729a23",
     "609c90f80c89b22c",
     "62e748acf1dcaf9c",
+    "643d5176f36e29d4",
     "6603845fea51b1fa",
     "69e2532d04071127",
     "6b36dc75b6b0623c",
@@ -157,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "643d5176f36e29d4",
+      "titulo": "Frustración en el Barça por la no venta de Abde",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222687/abd.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-03T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T05:40:25.659811"
+    },
     {
       "id": "faffd0d67567f7ca",
       "titulo": "Hoy, reunión de junta clave para la Asamblea del Barça",
@@ -5343,19 +5357,6 @@
       "fecha": "2026-08-10T17:32:45",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T18:10:26.984060"
-    },
-    {
-      "id": "2cf5f6ff537e4a7f",
-      "titulo": "Patricio Pacífico acelera su recuperación con el objetivo de volver al Barça Atlètic",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUndTWHV5aDUxTWtGZ2FWT3FkM29nV2xUU2laNHR1OVVyN09aZlRHVG04RHVHbEU2Vk1xb1RzMmVZc2FFTUtGQUJmTzl1QzRMYjZfanRjWnJxV1lIV01nSTRKcVNXUjFyREpLM1Y0b21FT2dQR0VzWVNuam1WZ2Uxa2hLWGZhbVZRREtIOGVBcWZ2S2FLSnhHb1hqUXhEM05lT1dONnRmeVRPdDM3Mnc5M01seDFTaDdmV3NoeWVxbzlFQdIBxwFBVV95cUxOamdpNXZ5WWFvU2VDU1Y1aDc4TnFSQnFiaHpDVzFfUlFfOWhiLXZzVUU4UFBmSk9SRTUzNmc2dzVKSVp0UGE4N2IyNV9MQkpkQlluU1hYa0FUX0w3S2N4UXhlZEgtLTZiMlEyamxCOVBIRDM1OGZ3RURVdmNDN2V0Q201WlpjTFNUR1p2YVlYdmUzTzNDZUlnbllwQVJocEt4OW80VWZJUHYtd0RqOEtRTnZEbEZIMHBUVHJqUkFuUFNubU1QM2pB?oc=5",
-      "medio": "Tribuna.com",
-      "tier": 4,
-      "tier_etiqueta": "Poco fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-10T16:59:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-08-10T17:30:48.018752"
     }
   ]
 }
