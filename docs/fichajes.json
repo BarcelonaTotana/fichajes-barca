@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T22:30:42.638659Z",
+  "actualizado": "2026-09-03T22:40:32.116589Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d8130ddd4017d554",
+      "titulo": "Las claves del fichaje de consenso de Gabriel Jesus por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223117/claves-fichaje-consenso-gabriel-jesus-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T22:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T22:40:26.534382"
+    },
     {
       "id": "0a05fb15ebc50de7",
       "titulo": "Así fueron las frenéticas horas que llevaron a Marc Casadó al Deportivo: ofrecimiento del Barça, llamada de Hidalgo y con rivales",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T16:31:13",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T17:10:28.569651"
-    },
-    {
-      "id": "2f192360d24a6743",
-      "titulo": "Se confirma la grave lesión de Roony Bardghji y su paso por el quirófano",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215143/confirma-grave-lesion-roony-bardghji-paso-quirofano.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-11T14:16:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T14:40:29.637095"
     }
   ]
 }
