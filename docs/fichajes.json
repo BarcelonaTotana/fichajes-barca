@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T13:30:47.857379Z",
+  "actualizado": "2026-09-03T13:40:35.784962Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d5335299b5f0b59c",
+      "titulo": "Cuatro ilustres exazulgranas que continúan sin equipo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222699/exazulgranas-continuan-equipo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T13:08:39",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T13:40:30.111231"
+    },
     {
       "id": "c8677372d7bc9d00",
       "titulo": "Roger Martínez deja el Barça Atlètic y se va al Al-Markhiya de Qatar",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T05:59:13",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T06:02:40.852848"
-    },
-    {
-      "id": "718a20768c355687",
-      "titulo": "El Barça está haciendo los deberes en el límite salarial",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215003/barca-haciendo-deberes-limite-salarial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-11T05:46:08",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T06:02:40.853065"
     }
   ]
 }
