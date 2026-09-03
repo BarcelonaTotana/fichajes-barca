@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T19:01:04.219446Z",
+  "actualizado": "2026-09-03T19:10:36.518549Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "776eded9f0c87f21",
+      "titulo": "Como el Barça, el Feyenoord también cierra su mercado fichando en el Arsenal",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223081/barca-feyenoord-cierra-mercado-fichando-arsenal.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T18:54:11",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T19:10:30.770915"
+    },
     {
       "id": "b3c24f93b3e12a56",
       "titulo": "Andrés Iniesta tendrá su propia exposición en Barcelona: ‘Iniesta Experience: [El Juego Interior]",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T14:07:24",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-12T12:30:50.943049"
-    },
-    {
-      "id": "dab57ae6070c3e69",
-      "titulo": "Mensaje al Barça: \"Ya me han ofrecido 14 millones por Jorge Salinas y hemos dicho que no\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215139/mensaje-barca-me-han-ofrecido-14-millones-jorge-salinas-hemos-dicho-no.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-11T13:59:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T14:03:14.627359"
     }
   ]
 }
