@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T17:50:37.863327Z",
+  "actualizado": "2026-09-03T18:00:56.792110Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "b3c24f93b3e12a56",
+      "titulo": "Andrés Iniesta tendrá su propia exposición en Barcelona: ‘Iniesta Experience: [El Juego Interior]",
+      "enlace": "https://www.sport.es/es/noticias/futbol/andres-iniesta-tendra-propia-exposicion-133927082?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-03T17:58:31",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-03T18:00:54.265690"
+    },
     {
       "id": "240b35d3cb2eb575",
       "titulo": "Digne entra en la comparación del actual PSG con el Barça de Luis Enrique",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T13:59:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T14:03:14.627359"
-    },
-    {
-      "id": "10ac8013ff1d2d6a",
-      "titulo": "Yaakobishvili apunta a salir en breve",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215103/yaakobishvili-apunta-salir-breve.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-11T11:25:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T11:40:31.097961"
     }
   ]
 }
