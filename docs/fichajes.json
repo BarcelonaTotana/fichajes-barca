@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T05:10:33.402221Z",
+  "actualizado": "2026-09-03T05:20:30.483528Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -1365,6 +1365,19 @@
       "fecha": "2026-08-30T06:22:18",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T06:40:28.639721"
+    },
+    {
+      "id": "0eee09cc592d44dc",
+      "titulo": "El Barça ficha a Catovic para el filial y a Baza para el juvenil",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMV9FVHZwaUZ0eG5QVFVObzh0bUs2NVljbzBHVVYyVnJqWURJVGpTTy1wZ09EOXVrVVVoenFaOGtoXzBDQlFKa0tjaEdBTFJKeEp4YkJxdHliOU5lU0hwOWZrZ3Zidktud1U5cndiR0FkcHVJcjNpNUp6ZXZNcGNEUC0wZ3V5U01oaGJvQzdLbUZHWkotc2Y1Vk5n?oc=5",
+      "medio": "ahora.com.pe",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-08-30T05:14:58",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-09-03T05:20:29.463688"
     },
     {
       "id": "a0ad9ea2400e48f3",
@@ -5343,19 +5356,6 @@
       "fecha": "2026-08-10T16:59:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-10T17:30:48.018752"
-    },
-    {
-      "id": "e64f9d21dc761b39",
-      "titulo": "Josué Caicedo sigue a la espera",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214874/josue-caicedo-espera.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-10T16:00:40",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-10T16:37:05.232348"
     }
   ]
 }
