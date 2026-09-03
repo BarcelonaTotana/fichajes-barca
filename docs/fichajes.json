@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T19:30:45.676956Z",
+  "actualizado": "2026-09-03T19:40:35.479088Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "9f86d915a5dc464e",
+      "titulo": "El Barça, con Hamza y Bisiwu en la lista A de la Champions y Fariñas, en la B",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223091/barca-hamza-bisiwu-lista-champions-farinas-b.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T19:04:02",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T19:40:29.648127"
+    },
     {
       "id": "776eded9f0c87f21",
       "titulo": "Como el Barça, el Feyenoord también cierra su mercado fichando en el Arsenal",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T14:07:24",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-11T14:20:32.741295"
-    },
-    {
-      "id": "dd2dce6a56fc2cf9",
-      "titulo": "Adrián Liso jugará en el Mallorca: cesión con compra obligatoria en caso de ascenso de alrededor de 3 millones para el Real Zaragoza",
-      "enlace": "https://www.sport.es/es/noticias/futbol/adrian-liso-jugara-mallorca-cesion-133268369?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-11T14:07:24",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-12T12:30:50.943049"
     }
   ]
 }
