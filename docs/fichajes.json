@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T09:10:30.466614Z",
+  "actualizado": "2026-09-03T09:20:31.665508Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "5f54edc2669e15db",
+      "titulo": "La tormenta perfecta que ha llevado al Deportivo a ser el gran animador del mercado: así dio un golpe encima de la mesa",
+      "enlace": "https://www.sport.es/es/noticias/futbol/tormenta-perfecta-llevado-deportivo-gran-133905257?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T09:10:45",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-03T09:20:29.252017"
+    },
     {
       "id": "643d5176f36e29d4",
       "titulo": "Frustración en el Barça por la no venta de Abde",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-10T18:05:04",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T18:40:27.875640"
-    },
-    {
-      "id": "7794de62439b3d5c",
-      "titulo": "Oficial: Ronald Araujo, cedido al Liverpool",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214923/oficial-ronald-araujo-cedido-liverpool.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-10T17:32:45",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-10T18:10:26.984060"
     }
   ]
 }
