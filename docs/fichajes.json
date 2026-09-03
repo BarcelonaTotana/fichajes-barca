@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T17:01:36.522457Z",
+  "actualizado": "2026-09-03T17:10:35.519990Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "240b35d3cb2eb575",
+      "titulo": "Digne entra en la comparación del actual PSG con el Barça de Luis Enrique",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223036/digne-compara-actual-psg-barca-luis-enrique.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-03T16:58:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T17:10:29.639599"
+    },
     {
       "id": "baebdbca8de3bc0e",
       "titulo": "Entradas a la venta para la exposición 'Iniesta Experience: (El Juego Interior)'",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T11:25:42",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T11:40:31.097961"
-    },
-    {
-      "id": "084c88868b6a7d03",
-      "titulo": "Emotiva despedida de Araujo, con reacción de Ferran",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215106/emotiva-despedida-araujo-reaccion-ferran.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-11T11:18:34",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T11:40:31.116317"
     }
   ]
 }
