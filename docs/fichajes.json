@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T02:30:45.130320Z",
+  "actualizado": "2026-09-03T02:40:32.119146Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -157,6 +157,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "faffd0d67567f7ca",
+      "titulo": "Hoy, reunión de junta clave para la Asamblea del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222706/hoy-reunion-junta-clave-asamblea-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-03T02:15:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T02:40:26.914353"
+    },
     {
       "id": "b91f4cffcc0b8385",
       "titulo": "Pau Cubarsí era el bueno",
@@ -5343,19 +5356,6 @@
       "fecha": "2026-08-10T16:00:40",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T16:37:05.232348"
-    },
-    {
-      "id": "7a6251af818723fe",
-      "titulo": "Lautaro Martínez, alternativa del Barça a Julián Álvarez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214890/desmarque-lautaro-martinez-plan-b-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-10T15:42:27",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-10T16:10:30.963871"
     }
   ]
 }
