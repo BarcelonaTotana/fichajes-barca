@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T11:20:44.250871Z",
+  "actualizado": "2026-09-03T11:30:52.253214Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -456,6 +456,19 @@
       "fecha": "2026-09-02T04:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T04:40:29.307430"
+    },
+    {
+      "id": "5e8779a71534e8cf",
+      "titulo": "El FC Barcelona apuesta por dos perlas",
+      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQW1rdXZPVWotd3pNYm4tcUU3MVdkQmVDTUhxVF9IQ1hNVTB3WEN3MVBHQnhjcW95ZlFaVHFWeENmNGpLdUE1SWZmNUl2ZkpDNDJENlBtWWFfSDdBUFBJQlRpOHFocTh1b0E1dXJYOFZIZmNWOENIaVFCSm0zMkZ6MW9xdVNsdG9FVmdNQg?oc=5",
+      "medio": "Fichajes.com",
+      "tier": 5,
+      "tier_etiqueta": "Ruido / clickbait",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-01T23:24:09",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-09-03T11:30:51.232479"
     },
     {
       "id": "2c7bbc86ee6c78b3",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T05:46:08",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T06:02:40.853065"
-    },
-    {
-      "id": "e71aefe0fe62ce97",
-      "titulo": "Julián explota y avisa al Atlético de que se plantará",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214946/julian-explota-avisa-atletico-plantara.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-10T19:19:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-10T19:34:32.307830"
     }
   ]
 }
