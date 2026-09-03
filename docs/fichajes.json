@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T10:30:47.483455Z",
+  "actualizado": "2026-09-03T10:40:32.205043Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "c8677372d7bc9d00",
+      "titulo": "Roger Martínez deja el Barça Atlètic y se va al Al-Markhiya de Qatar",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222881/roger-martinez-deja-barca-atletic-markhiya-qatar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-03T10:09:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T10:40:27.235666"
+    },
     {
       "id": "5f54edc2669e15db",
       "titulo": "La tormenta perfecta que ha llevado al Deportivo a ser el gran animador del mercado: así dio un golpe encima de la mesa",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-10T19:19:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T10:40:26.947137"
-    },
-    {
-      "id": "0003ad0cf536db0c",
-      "titulo": "Natan (Betis), de nuevo en la órbita del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214943/natan-betis-nuevo-orbita-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-10T18:59:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-10T19:00:55.587421"
     }
   ]
 }
