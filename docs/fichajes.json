@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T20:00:59.585048Z",
+  "actualizado": "2026-09-03T20:10:32.551936Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "0a05fb15ebc50de7",
+      "titulo": "Así fueron las frenéticas horas que llevaron a Marc Casadó al Deportivo: ofrecimiento del Barça, llamada de Hidalgo y con rivales",
+      "enlace": "https://www.sport.es/es/noticias/futbol/freneticas-horas-llevaron-marc-casado-133929773?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T20:02:12",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-03T20:10:30.021037"
+    },
     {
       "id": "9f86d915a5dc464e",
       "titulo": "El Barça, con Hamza y Bisiwu en la lista A de la Champions y Fariñas, en la B",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T14:16:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T14:40:29.637095"
-    },
-    {
-      "id": "ecd47c8f6ad50b61",
-      "titulo": "Adrián Liso jugará en el Mallorca: cesión con compra obligatoria y alrededor de 3 millones para el Real Zaragoza a final de temporada",
-      "enlace": "https://www.sport.es/es/noticias/futbol/adrian-liso-jugara-mallorca-cesion-133268369?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-11T14:07:24",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-11T14:20:32.741295"
     }
   ]
 }
