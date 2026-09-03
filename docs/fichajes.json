@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T01:00:54.397792Z",
+  "actualizado": "2026-09-03T01:09:46.895501Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -195,6 +195,19 @@
       "fecha": "2026-09-02T18:03:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T18:40:29.859570"
+    },
+    {
+      "id": "9ff5c00d853375c6",
+      "titulo": "Los dorsales del Barça para la temporada 2026-2027",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222723/dorsales-barca-temporada-2026-2027.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-02T18:03:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T01:09:41.729979"
     },
     {
       "id": "7f1dc4dc5e4becf8",
@@ -5343,19 +5356,6 @@
       "fecha": "2026-08-10T07:00:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-18T20:57:19.639904"
-    },
-    {
-      "id": "3b9bc2319db3dea0",
-      "titulo": "Ronald Araujo, cedido al Liverpool FC",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2ZTVWlHZ1JQYTcwVVBaVHV1Z1BqamtDSEN1UTkwX1lTbFNRRDNXZ0hwWEhSeVhsVDY0OGdQNlRZc0dXUHJVZUpOdHZnYjJGOGdHZXNYekhCQ00tRURhNVVPb0V1dXJzeC1QcVR6WTZSMm9VdDUyQ24ydkt3UG9MQkdSNTdlbjBSVU9BVVkzVlR2WFFhWWE4YWJFdUF3VmRJXzdlWHBxbTU1XzRzTEt6MTV6WnlOUQ?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-10T07:00:00",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-08-30T15:50:24.539095"
     }
   ]
 }
