@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T14:01:00.944958Z",
+  "actualizado": "2026-09-03T14:10:45.177650Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "42b3371f1e0add8b",
+      "titulo": "Jorge Salinas, el defensa del futuro, seguirá en el Racing: \"Desde que lo vi, he trazado siempre la comparativa con Gvardiol\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/jorge-salinas-transformacion-barca-barcelona-racing-santander-131596895?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T14:04:11",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-03T14:10:43.085935"
+    },
     {
       "id": "d5335299b5f0b59c",
       "titulo": "Cuatro ilustres exazulgranas que continúan sin equipo",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T10:26:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T10:40:26.945928"
-    },
-    {
-      "id": "872f991adcd3ed56",
-      "titulo": "Ferran y Rodri apuran para no volver ya con el Barça y el Manchester City",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215005/ferran-rodri-apuran-no-volver-barca-manchester-city.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-11T05:59:13",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T06:02:40.852848"
     }
   ]
 }
