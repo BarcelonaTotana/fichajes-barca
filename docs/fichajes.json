@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T10:50:33.589278Z",
+  "actualizado": "2026-09-03T11:00:57.787692Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -547,6 +547,19 @@
       "fecha": "2026-09-01T19:04:06",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T19:40:29.330681"
+    },
+    {
+      "id": "3a617a4c06020609",
+      "titulo": "Oficial: Guille Fernández deja el Barcelona y ficha por el Mallorca",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3RFRFMyRTAzWUk5U3E5a3BCV3N5ZVBYeGpHaEZmUGhYNWc3UEQ1YTE5Q3JONEdHX2dUdkswVXRtMzFVZmxzS2NSU0lBVzFIc205TDBVZ1dFNE1RZHRRRHdJNDlWXzJFeEZ0Q1pYX2JOdk8wNUYzMVhXOU9XaEVRcjMtclh4dWt6VnBIZEFZb0V0VW50X25CRXZqblNGOHc1U0J4THRaN2VGaGNDYU400gGvAUFVX3lxTFBHdEVEUzJFMDNZSTlTcTlrcEJXc3llUFh4akdoRmZQaFg1ZzdQRDVhMTlDck40R0dfZ1R2SzBVdG0zMVVmbHNLY1JTSUFXMUhzbTlMMFVnV0U0TVFkdFFEd0k0OVZfMkV4RnRDWlhfYk52TzA1RjMxWFc5T1doRVFyMy1yWHh1a3pWcEhkQVlvRXRVbnRfbkJFdmpuU0Y4dzVTQnhMdFo3ZUZoY0NhTjQ?oc=5",
+      "medio": "Tribuna.com",
+      "tier": 4,
+      "tier_etiqueta": "Poco fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T18:59:15",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-09-03T11:00:56.776421"
     },
     {
       "id": "04af81336e7110f5",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-10T19:19:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T19:34:32.307830"
-    },
-    {
-      "id": "3c0ba2b183ab0718",
-      "titulo": "Julián Álvarez explota y avisa al Atlético de que se plantará",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214946/julian-explota-avisa-atletico-plantara.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-10T19:19:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T10:40:26.947137"
     }
   ]
 }
