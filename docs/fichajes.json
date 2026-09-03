@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T02:00:54.949125Z",
+  "actualizado": "2026-09-03T02:13:07.742632Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -157,6 +157,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "b91f4cffcc0b8385",
+      "titulo": "Pau Cubarsí era el bueno",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222682/pau-cubarsi-bueno.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T02:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T02:12:07.167109"
+    },
+    {
+      "id": "f29e5c69418a8d15",
+      "titulo": "El plan de fichajes del Barça, trabajado con silencio y efectividad",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222748/plan-fichajes-barca-trabajado-on-silencio-efectividad.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T01:40:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-03T02:12:07.167366"
+    },
     {
       "id": "e70545acba1d7aa2",
       "titulo": "Lautaro: \"Lo que se decía del Barça era verdad\"",
@@ -5330,32 +5356,6 @@
       "fecha": "2026-08-10T15:42:27",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-10T16:10:30.963871"
-    },
-    {
-      "id": "b81a8a239b9fc848",
-      "titulo": "El Barça rechaza una primera oferta del PSG de 40 millones fijos por Ferran",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214840/barca-rechaza-primera-oferta-psg-40-millones-fijos-ferran.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-10T13:22:22",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-10T13:40:32.287295"
-    },
-    {
-      "id": "3055d766e4841d67",
-      "titulo": "¿Nueva superioridad sobre el Madrid? El Barcelona se lanza a por un nuevo fichaje español",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUXJJU0tZSW1nbmE3WDI5OE94YTdLZ1FVOVZ1ekhDV0RZQzhvaGIyRmJQQ28tbEJNYzM3amNWRDkzNlFxS3hSSktGLWtaQVFGaEl4ZFpfVjVlN2NUd2R0bFFfSm5mNWFmVkc3S0dSb1Ntc3dIVGZDVnNON3ZSeVdOelE1TDczaDZtcFQ5ZUJTUTBZeFFYa2xldzJGaHB4bDVjZ3RxTER6THpvMU1pOGZ0Zm1UY01acHhHOHdZOGxobkZwUFRPV3dIQUZJeWwyT0MzVW1jTC1qcw?oc=5",
-      "medio": "goal.com",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-10T07:00:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-08-18T20:57:19.639904"
     }
   ]
 }
