@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T09:10:38.390147Z",
+  "actualizado": "2026-09-04T09:20:32.755389Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d0aa394910dd4eed",
+      "titulo": "Maldini suelta la bomba: \"La mejor plantilla de Europa es la del Barça\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/maldini-suelta-bomba-mejor-plantilla-europa-barca-133938904?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-04T09:16:18",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-04T09:20:30.254859"
+    },
     {
       "id": "b81bad0546e85c9f",
       "titulo": "Juanma Rodríguez estalla en El Chiringuito: \"Es un club desestabilizador\"",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-12T06:47:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-12T07:12:13.179511"
-    },
-    {
-      "id": "924f119a2e2d2563",
-      "titulo": "Sigue el tira y afloja entre el City y el Barça por Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215251/sigue-tira-afloja-city-barca-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-11T21:05:04",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T21:40:29.871269"
     }
   ]
 }
