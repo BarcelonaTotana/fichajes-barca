@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T17:35:05.355816Z",
+  "actualizado": "2026-09-04T17:40:31.764649Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -249,6 +249,19 @@
       "fecha": "2026-09-03T22:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T22:40:26.534382"
+    },
+    {
+      "id": "8346377c616ea0ca",
+      "titulo": "Las claves del fichaje de Gabriel Jesus por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223117/claves-fichaje-consenso-gabriel-jesus-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-03T22:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-04T17:40:26.207202"
     },
     {
       "id": "0a05fb15ebc50de7",
@@ -5345,19 +5358,6 @@
       "fecha": "2026-08-12T12:12:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-12T12:40:29.055996"
-    },
-    {
-      "id": "91acd95bf1de47a1",
-      "titulo": "Yaakobishvili se marchará al Almería traspasado",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260812/1004215412/yaakobishvili-marchara-almeria-traspasado.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-12T11:41:44",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-12T12:10:30.086175"
     }
   ]
 }
