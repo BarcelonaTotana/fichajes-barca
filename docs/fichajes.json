@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T07:40:35.819934Z",
+  "actualizado": "2026-09-04T07:50:35.460408Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "b81bad0546e85c9f",
+      "titulo": "Juanma Rodríguez estalla en El Chiringuito: \"Es un club desestabilizador\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/juanma-rodriguez-estalla-chiringuito-club-desestabilizador-atletico-de-madrid-barca-julian-alvarez-133936831?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-04T07:41:42",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-04T07:50:33.041919"
+    },
     {
       "id": "0b1befd9af376b30",
       "titulo": "En directo y en diferido",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T21:05:04",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T21:40:29.871269"
-    },
-    {
-      "id": "cfc7974d49bc48e0",
-      "titulo": "Sin acuerdo con el PSG, el Barça espera a Ferran este miércoles",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215225/acuerdo-ferran-barca-le-espera-manana.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-11T19:22:58",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T19:40:26.345711"
     }
   ]
 }
