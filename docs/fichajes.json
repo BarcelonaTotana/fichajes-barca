@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T03:00:58.195340Z",
+  "actualizado": "2026-09-04T03:10:40.437307Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "7c825d4b02788afd",
+      "titulo": "Factor de gol cada 112 minutos en la Premier, buena señal para el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223118/factor-gol-112-minutos-premier-buena-senal-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-04T03:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-04T03:10:34.804043"
+    },
     {
       "id": "d8130ddd4017d554",
       "titulo": "Las claves del fichaje de consenso de Gabriel Jesus por el Barça",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T19:22:58",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T22:10:28.139531"
-    },
-    {
-      "id": "45c432a54b37b8a7",
-      "titulo": "El Barça encarrila el fichaje de Dany Freire, joya del fútbol portugués",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215177/barca-encarrila-fichaje-dany-freire.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-11T16:31:13",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T17:10:28.569651"
     }
   ]
 }
