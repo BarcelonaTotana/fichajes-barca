@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T12:40:36.605238Z",
+  "actualizado": "2026-09-04T12:50:34.861592Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -95,6 +95,7 @@
     "7311a4fc282f6a99",
     "745703ac2fc48f0c",
     "7f5de7c97cea0906",
+    "7fc57e0e098803fd",
     "8223abe13077336f",
     "831ffdba8f3957f2",
     "836ef578c7088a31",
@@ -1353,6 +1354,19 @@
       "fecha": "2026-08-31T12:25:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T12:40:39.115383"
+    },
+    {
+      "id": "7fc57e0e098803fd",
+      "titulo": "Rayo Vallecano: El objetivo es seguir ganando",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkhWdWZvRktCNzEyRE9EZ19MT2hvN3M1NkJadnhicFVtTmZuOG50Q19ZZ2lkLUIxX1hhUVF3ZHlQQmNmVlNYMDRnWWtDdFhqQi1jY2hhT1VQSXBiU3dyU0UwSExWTTFzd0RINGx5SVFSaW9kZmhOaHNwWHEwVXJQOS1MdnRFNDBWOHpocC1BR1RpeXRteFBsWUFiSVJHczF0NXpyMll0UDFoaWNIc0d0bkVNbnNieXc?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-31T10:57:26",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-04T12:50:26.902257"
     },
     {
       "id": "87646c21d2312d9b",
@@ -5344,19 +5358,6 @@
       "fecha": "2026-08-12T08:43:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-12T09:10:28.176582"
-    },
-    {
-      "id": "84a7f5ba59a70286",
-      "titulo": "Cumbre por el futuro de Marc Bernal",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260812/1004215346/cumbre-vista-marc-bernal.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-12T08:43:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-12T11:10:27.732137"
     }
   ]
 }
