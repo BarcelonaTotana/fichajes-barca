@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T18:01:00.331301Z",
+  "actualizado": "2026-09-04T18:10:33.625009Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -3761,6 +3761,19 @@
       "visto_por_primera_vez": "2026-08-20T13:10:29.896410"
     },
     {
+      "id": "5b8162dbd1a0ea13",
+      "titulo": "Ídolo del PSG, Barcelona y Milan, Ronaldinho Gaúcho firma un nuevo contrato para regresar al fútbol profesional",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMkZMZ1pyNjA0dGdWSTlPNEpEUGotX3FRVXRtUFJLRWt2SWlHdXEtQUtpSDRIZmFxakdVMUE2ZnRPZ2NiMUNERWNIZ1FxdEFvN0ctalVJQUg1eWFlR2ctcDhuVGdhNHpnci1JS01MRDJPcGh2ckdjZnlKU0tXUUhfYVNQOVlBOGE3WU9IcWkwSTY1bFF1a3JKa3doSG5rdHM4eWZMbnhMbTZjS1ZsS041WHZGcHVtSnhUdVlQVVRkRURqRGdBUDk0UHN3eXhyOXlmVHF6RWxBdFpzNWM?oc=5",
+      "medio": "Vistazo",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-20T07:00:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-09-04T18:10:32.605175"
+    },
+    {
       "id": "72d79b090e7bcd31",
       "titulo": "Xavi Espart demuestra que el halago no siempre debilita",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217667/xavi-espart-demuestra-halago-no-siempre-debilita.html",
@@ -5345,19 +5358,6 @@
       "fecha": "2026-08-12T12:25:12",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-12T12:40:29.055674"
-    },
-    {
-      "id": "9ed998625ef510d5",
-      "titulo": "Xavi, candidato a la selección de Países Bajos",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260812/1004215416/xavi-candidato-seleccion-paises-bajos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-12T12:12:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-12T12:40:29.055996"
     }
   ]
 }
