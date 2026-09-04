@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T20:00:53.977317Z",
+  "actualizado": "2026-09-04T20:10:32.620855Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -159,6 +159,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d7b9655184e4e0f8",
+      "titulo": "El Feyenoord sufre por la continuidad de Anis Hadj Moussa antes de visitar al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223389/feyen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-04T19:32:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-04T20:10:27.564656"
+    },
     {
       "id": "5bd894aa00d00699",
       "titulo": "Así está la clasificación de Primera División: el Real Madrid abre LaLiga, el Deportivo visita al Villarreal y el Barça va a Mestalla",
@@ -5345,19 +5358,6 @@
       "fecha": "2026-08-12T15:21:22",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-12T15:40:27.919344"
-    },
-    {
-      "id": "a0f6cc383777f3a3",
-      "titulo": "Rodri, caliente: la última oferta del Barça al City",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260812/1004215413/rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-12T12:25:12",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-12T12:40:29.055674"
     }
   ]
 }
