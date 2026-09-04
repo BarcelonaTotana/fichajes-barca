@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T04:00:54.817890Z",
+  "actualizado": "2026-09-04T04:10:32.303608Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -158,6 +158,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "0b1befd9af376b30",
+      "titulo": "En directo y en diferido",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004222951/directo-diferido.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-04T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-04T04:10:26.877274"
+    },
     {
       "id": "7c825d4b02788afd",
       "titulo": "Factor de gol cada 112 minutos en la Premier, buena señal para el Barça",
@@ -5344,19 +5357,6 @@
       "fecha": "2026-08-11T19:22:58",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-11T19:40:26.345711"
-    },
-    {
-      "id": "7718f57bc24620c9",
-      "titulo": "El Barça da permiso a Ferran Torres para ausentarse este miércoles y cerrar su salida",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260811/1004215225/acuerdo-ferran-barca-le-espera-manana.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-11T19:22:58",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-11T22:10:28.139531"
     }
   ]
 }
