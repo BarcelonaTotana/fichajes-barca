@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T18:30:43.501700Z",
+  "actualizado": "2026-09-05T18:40:31.866999Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "1a819d3bc5fe80f2",
+      "titulo": "Corberán: “El Barcelona ha hecho una inversión descomunal”",
+      "enlace": "https://www.sport.es/es/noticias/futbol/corberan-barcelona-hecho-inversion-descomunal-133982280?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-05T18:32:38",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-05T18:40:29.364268"
+    },
     {
       "id": "97bd822e29a583da",
       "titulo": "Un canterano de Real Zaragoza y FC Barcelona jugará en Regional Preferente en Aragón: \"Estalló la bomba en el San Miguel\"",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T09:06:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T17:40:31.763824"
-    },
-    {
-      "id": "1d27e396d87636f5",
-      "titulo": "El City rechaza la segunda oferta por Rodri y tensa la cuerda",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215636/manchester-city-rechaza-segunda-oferta-barca-rodri-tensa-cuerda.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-13T09:06:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T19:00:54.241077"
     }
   ]
 }
