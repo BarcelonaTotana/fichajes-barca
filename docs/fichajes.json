@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T01:30:46.473530Z",
+  "actualizado": "2026-09-05T01:40:32.479011Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -159,6 +159,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "029f9e8ef0d89ea4",
+      "titulo": "Cubarsí y Asencio, comparaciones odiosas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223219/cubarsi-asencio-comparaciones-odiosas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-05T01:15:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-05T01:40:27.200290"
+    },
     {
       "id": "d7b9655184e4e0f8",
       "titulo": "El Feyenoord sufre por la continuidad de Anis Hadj Moussa antes de visitar al Barça",
@@ -5345,19 +5358,6 @@
       "fecha": "2026-08-12T16:45:58",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-08-12T17:10:30.970430"
-    },
-    {
-      "id": "5b3ef3334219d5ed",
-      "titulo": "El agente de Koundé, en la Ciutat Esportiva",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260812/1004215449/agente-kounde-ciutat-esportiva.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-12T15:21:22",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-12T15:40:27.919344"
     }
   ]
 }
