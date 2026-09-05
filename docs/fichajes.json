@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T14:40:29.255900Z",
+  "actualizado": "2026-09-05T14:50:32.239738Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "97bd822e29a583da",
+      "titulo": "Un canterano de Real Zaragoza y FC Barcelona jugará en Regional Preferente en Aragón: \"Estalló la bomba en el San Miguel\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/canterano-real-zaragoza-fc-barcelona-133984519?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-05T14:30:56",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-05T14:50:29.743420"
+    },
     {
       "id": "989813f81b1ab964",
       "titulo": "El Barça incorpora a la delantera italiana Giulia Galli hasta 2030, con ficha del filial",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T09:06:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T19:00:54.241077"
-    },
-    {
-      "id": "91fdd27e64869fe8",
-      "titulo": "Ferran no se entrena con el Barça por segundo día consecutivo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215630/ferran-no-entrena-barca-segundo-dia-consecutivo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-13T08:33:22",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T09:10:37.415395"
     }
   ]
 }
