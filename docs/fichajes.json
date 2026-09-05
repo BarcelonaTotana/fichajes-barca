@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T11:57:54.156605Z",
+  "actualizado": "2026-09-05T12:00:53.587051Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -75,6 +75,7 @@
     "4a9825affa03580e",
     "4eb73016b6efb218",
     "50d1a01ff4dc6c9f",
+    "5198790d48f9978b",
     "56fdc33f742463d4",
     "592788f78b2f9daf",
     "5b462f2a0265786c",
@@ -1237,6 +1238,19 @@
       "fecha": "2026-09-01T08:39:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T09:10:28.684604"
+    },
+    {
+      "id": "5198790d48f9978b",
+      "titulo": "Acuerdo con el Amberes para el traspaso de Álvaro Cortés",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0tiQy1Za1pNWEN5WUZSbmJ2WmVkbnNYa3JfOENlWFg0bFNKSDJudVdDOUZfRC1UbEN6aXNfZ3lfX2YtQXJMTU04VGxJY0g0WEhpQ0Z2M3kwTjY2WE1ralFmSDRsMHFFSlVydHZvTlk0X0lkQmg2ajRDb01rVGp1bVMwZTZSVnVrM2lXLXREd1RjOEdodmd2c0c4VjFULUwyUEx4RGhOTEZsQ1k?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-01T07:00:00",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-05T12:00:46.922184"
     },
     {
       "id": "4828430f490a7919",
@@ -5345,19 +5359,6 @@
       "fecha": "2026-08-13T08:33:22",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T09:10:37.415395"
-    },
-    {
-      "id": "6f9cdb6da5260249",
-      "titulo": "Cara y cruz con las dos grandes joyas del Barça B: ascenso al primer equipo y salida inminente",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObWNRSkFLelZZdkJwTm9JZHFCRVJYYldFU29jWTNDbUNBOHpKRkpGQk9lUDMxWU5HMFVINWg3RjVCMFRiUm9ZRUl5ZTJudHFyY3ZmclFXQjI2dG9tVTVPbWF2b3NHWnJBcFl6NlN1YVF5NTZBQVphV1l0ZWpZZ0txa0pYcThkRWIybVRxZDZFY0FMbG9sNENJNFdFNkVXVWc3ZEVIeVQzYXFqNzhoTk9YVlE3V0ZqcF9lTXNBbmJPaWxyZDhEVlJabE1yZmVXM0Q1dDNIdTZvTkpoN2s30gHcAUFVX3lxTE5tY1FKQUt6Vll2QnBOb0lkcUJFUlhiV0VTb2NZM0NtQ0E4ekpGSkZCT2VQMzFZTkcwVUg1aDdGNUIwVGJSb1lFSXllMm50cXJjdmZyUVdCMjZ0b21VNU9tYXZvc0dackFwWXo2U3VhUXk1NkFBWmFXWXRlallnS3FrSlhxOGRFYjJtVHFkNkVjQUxsb2w0Q0k0V0U2RVdVZzdkRUh5VDNhcWo3OGhOT1hWUTdXRmpwX2VNc0FuYk9pbHJkOERWUlpsTXJmZVczRDV0M0h1Nm9OSmg3azc?oc=5",
-      "medio": "Crónica Global",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-13T08:29:52",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-08-13T22:30:49.672815"
     }
   ]
 }
