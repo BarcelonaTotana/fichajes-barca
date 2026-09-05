@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T09:50:28.503953Z",
+  "actualizado": "2026-09-05T10:00:55.202259Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -159,6 +159,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "eb3f8ea68d8f7dc1",
+      "titulo": "El fichaje fallido del Barcelona en el último día de mercado",
+      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHI5WG9GZnlPRGg5WTkwcHlsc3c0SjFVSzlZb1RGZkhsRE8tdkFvWmxONUdMN1FKLXFzOXdDZUV3SGxGQjl0X1lYMzB6RzREeWhGT1g3M09pVUxjak15QVJWMm52MGlDMzJhZ2hyVkl2ZWhiU09MM0pmRnRKeVN5b0d0cnNyeXQtYmw2aXJ3?oc=5",
+      "medio": "Fichajes.net",
+      "tier": 5,
+      "tier_etiqueta": "Ruido / clickbait",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-05T09:30:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-09-05T10:00:54.183884"
+    },
     {
       "id": "724a96f35d9ebf37",
       "titulo": "‘Mou’ y Flick, tal como son",
@@ -5345,19 +5358,6 @@
       "fecha": "2026-08-12T22:11:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-12T22:39:22.412254"
-    },
-    {
-      "id": "8360cf5dca2e5394",
-      "titulo": "Ni Balde ni Jofre Torrents ni Xavi Espart: el nuevo lateral del Barça con ficha del filial que amenaza a Cancelo",
-      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa1p1cl8zWUhqZ0dsY1g1bzg5WktvWS1EX3hPd1JwcXRtMmVmTjhmdS1xNFlNU0ZjZWdsWlE3MXRJZjBIeUJUY1o3NXlDaXNPUnp1MXRHRC13ejNpRFZ6ZWJ6aFJRUm95TURGVTdtNmVkaFlKUnJQUU9WOFY1NWtFY1VIcnd2WlFNV0xhWTZveU1pWHV5UlhodkEzZlhFSnR2Wkd2OEtJNFBWdEFwajFPdHNTdVZuTTVhNWxqNnF1cm5jZXdocTdSYmRtRG15cTFsSFHSAdIBQVVfeXFMTmtadXJfM1lIamdHbGNYNW84OVpLb1ktRF94T3dScHF0bTJlZk44ZnUtcTRZTVNGY2VnbFpRNzF0SWYwSHlCVGNaNzV5Q2lzT1J6dTF0R0Qtd3ozaURWemViemhSUVJveU1ERlU3bTZlZGhZSlJyUFFPVjhWNTVrRWNVSHJ3dlpRTVdMYVk2b3lNaVh1eVJYaHZBM2ZYRUp0dlpHdjhLSTRQVnRBcGoxT3RzU3VWbk01YTVsajZxdXJuY2V3aHE3UmJkbURteXExbEhR?oc=5",
-      "medio": "cronicaglobal.elespanol.com",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-12T17:49:42",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-08-12T18:50:30.228117"
     }
   ]
 }
