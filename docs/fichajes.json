@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T07:01:01.232750Z",
+  "actualizado": "2026-09-05T07:10:32.083824Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -159,6 +159,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "724a96f35d9ebf37",
+      "titulo": "‘Mou’ y Flick, tal como son",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223502/mou-flick-son.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-05T06:35:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-05T07:10:26.765439"
+    },
     {
       "id": "563e4ce5e9595fca",
       "titulo": "Una plantilla convincente",
@@ -5345,19 +5358,6 @@
       "fecha": "2026-08-12T17:49:42",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-12T18:50:30.228117"
-    },
-    {
-      "id": "31de94f58128739b",
-      "titulo": "Roony Bardghji pasa por el quirófano",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260812/1004215483/roony-bardghji-pasa-quirofano.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-12T17:11:06",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-12T17:40:35.446992"
     }
   ]
 }
