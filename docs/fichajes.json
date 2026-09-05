@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T11:00:53.738281Z",
+  "actualizado": "2026-09-05T11:10:35.662834Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -159,6 +159,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "989813f81b1ab964",
+      "titulo": "El Barça incorpora a la delantera italiana Giulia Galli hasta 2030, con ficha del filial",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNellXeUtuVVZOYVNhcTMzNDRTSTlXcllScWpMNHdZRk1WclJCM1dFOF8wWnRzSmNSN3FJdjFobTVBR2ptc21BdkNrSE5kUF9oR2JpcGhkN0VmWGFKOWt1dmFzTlVTMDVFVGxhMUw3RXB3WVFIQ0c3b2l5WjN2X0tZbDMyNklPTjVXMjdTenhmUWYwcTBWeEIwQVVuOHJtWnFNcTJlUGVCTWtmaGxvb1lXeGdyR0ZIQVhyUjFESFROeFFIZG9OVWV0czRaNEI5dktpZmdZa0ZB0gHwAUFVX3lxTE9wWTI2ODZXTTJqbVJWMFd2M284aFhRbHE3Z1VLa0RReWtuUmNvMV9WdjJFcG56eE9NdFhoaXE3WnRzaVNyb2ZUbnRBYlJGR3d3MXptUnRvWHlBVHYyUU9TbUZtdFFwLVJmVFNLdFllNElZa2xXZnVLY25tRFRWS2YtME9UU0sxb0Rhc0tUblR2MTExWlZqeEVzV0FCTl90eFpWWlE1Ri1Hejh4OVJjakdXYzhKMmRVSUh1SFc1dDh6WC1nZ1NrdUdJNnFOelM3dHpPU2RhcUVISHMyS2t3OTN2M2FNTHdXVWFBbkp6dDlpZA?oc=5",
+      "medio": "Infobae",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-05T11:06:04",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-09-05T11:10:34.643850"
+    },
     {
       "id": "eb3f8ea68d8f7dc1",
       "titulo": "El fichaje fallido del Barcelona en el último día de mercado",
@@ -5345,19 +5358,6 @@
       "fecha": "2026-08-13T08:29:52",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-13T22:30:49.672815"
-    },
-    {
-      "id": "08e3774053b35b3c",
-      "titulo": "Vlahovic acaba con su espera y aterriza en Estambul como un ídolo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215561/vlahovic-acaba-espera-aterriza-estambul-idolo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-12T22:11:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-12T22:39:22.412254"
     }
   ]
 }
