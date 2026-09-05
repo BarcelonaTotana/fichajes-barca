@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T20:00:52.861982Z",
+  "actualizado": "2026-09-05T20:10:28.821125Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "9ac850f49d6136a2",
+      "titulo": "Lío en el Feyenoord con Anis Hadj Moussa, que se declara en rebeldía antes de visitar al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223764/lio-feyenoord-anis-hadj-moussa-declara-rebeldia-visitar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-05T19:57:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-05T20:10:23.927823"
+    },
     {
       "id": "1a819d3bc5fe80f2",
       "titulo": "Corberán: “El Barcelona ha hecho una inversión descomunal”",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T09:06:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T09:40:34.239346"
-    },
-    {
-      "id": "8546c636ca829652",
-      "titulo": "El City rechaza la segunda oferta del Barça por Rodri y tensa la cuerda",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215636/manchester-city-rechaza-segunda-oferta-barca-rodri-tensa-cuerda.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-13T09:06:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T17:40:31.763824"
     }
   ]
 }
