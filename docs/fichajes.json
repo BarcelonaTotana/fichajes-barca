@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T04:30:42.153119Z",
+  "actualizado": "2026-09-05T04:40:30.680315Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -159,6 +159,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "563e4ce5e9595fca",
+      "titulo": "Una plantilla convincente",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223404/plantilla-convincente.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-05T04:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-05T04:40:25.490432"
+    },
     {
       "id": "029f9e8ef0d89ea4",
       "titulo": "Cubarsí y Asencio, comparaciones odiosas",
@@ -5345,19 +5358,6 @@
       "fecha": "2026-08-12T17:11:06",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-12T17:40:35.446992"
-    },
-    {
-      "id": "89a3ff396092858d",
-      "titulo": "Se cae la opción Vlahovic: ya tiene equipo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260812/1004215476/cae-opcion-vlahovic-equipo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-12T16:45:58",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-12T17:10:30.970430"
     }
   ]
 }
