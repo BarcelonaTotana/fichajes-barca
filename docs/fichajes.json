@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-06T17:03:29.977376Z",
+  "actualizado": "2026-09-06T17:10:34.432089Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "240d551f4828464b",
+      "titulo": "Flick: \"Hemos dominado y es lo que quiero ver\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004224026/flick-hemos-dominado-quiero-ver.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-06T16:47:30",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-06T17:10:28.693062"
+    },
     {
       "id": "91658a672f4df96b",
       "titulo": "El frenético y exitoso debut de Casadó con el Depor",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T11:14:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T11:40:29.658256"
-    },
-    {
-      "id": "31cc3e03b02a1e91",
-      "titulo": "Casemiro se deshace en elogios ante Messi: \"Es tan grande, el mejor de la historia. Hay que quitarse el sombrero y decirle 'gracias'\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/casemiro-deshace-elogios-messi-mejor-de-la-historia-inter-miami-futbol-133325342?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-13T10:37:05",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-13T10:40:33.719834"
     }
   ]
 }
