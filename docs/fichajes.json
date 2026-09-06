@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-06T17:30:44.953085Z",
+  "actualizado": "2026-09-06T17:40:30.607510Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -172,6 +172,19 @@
       "fecha": "2026-09-06T16:47:30",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-06T17:10:28.693062"
+    },
+    {
+      "id": "30eec604dbac90fe",
+      "titulo": "Flick: \"Ha sido un partido casi perfecto\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004224026/flick-hemos-dominado-quiero-ver.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-06T16:47:30",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-06T17:40:25.296498"
     },
     {
       "id": "91658a672f4df96b",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T11:16:46",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T11:40:29.657960"
-    },
-    {
-      "id": "550211e0bb2d9410",
-      "titulo": "La Supercopa de España se jugará en Turquía",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215677/supercopa-espana-jugara-turquia.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-13T11:14:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T11:40:29.658256"
     }
   ]
 }
