@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T07:10:32.116792Z",
+  "actualizado": "2026-09-07T07:20:30.119681Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -1680,6 +1680,19 @@
       "fecha": "2026-08-31T07:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T09:40:29.444452"
+    },
+    {
+      "id": "fbb1aae57fe5a00c",
+      "titulo": "Mercado fichajes, en directo | Altas y bajas del FC Barcelona, Real Madrid y de todas las grandes ligas, en vivo hoy",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260831/1004219520/mercado-fichajes-futbol-directo-hoy-rumores-altas-bajas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-31T05:41:07",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-09-07T07:20:26.455214"
     },
     {
       "id": "49622b5b4ce94905",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T16:15:59",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T16:38:34.288153"
-    },
-    {
-      "id": "e96ab618b58f106e",
-      "titulo": "Ferran: recta final hacia el PSG",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215685/ferran-recta-final-psg.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-13T11:56:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T12:02:05.136972"
     }
   ]
 }
