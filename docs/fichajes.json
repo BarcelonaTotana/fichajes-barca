@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T12:30:47.361649Z",
+  "actualizado": "2026-09-07T12:40:32.180560Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d4cc19fff14a3c42",
+      "titulo": "'Galifardeu' y otras palabras que hablan catalán en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224289/barca-vuelca-lengua-catalana.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-07T12:07:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-07T12:40:26.494754"
+    },
     {
       "id": "092db87e4047b2ae",
       "titulo": "La reflexión de Gonzalo Bernardos sobre el arbitraje español: \"Hemos vuelto a ver qué malos profesionales son\"",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T18:46:53",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T19:00:54.238784"
-    },
-    {
-      "id": "2f622b6ad66fe25a",
-      "titulo": "Julián lo lucha",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215796/julian-lucha.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-13T18:18:56",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T18:32:24.744632"
     }
   ]
 }
