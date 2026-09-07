@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T08:30:42.298235Z",
+  "actualizado": "2026-09-07T08:40:32.938437Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "0bc4245a00bf829f",
+      "titulo": "El Barça explica al detalle los acuerdos con Ohana y Babylon Park",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224216/barca-explica-detalle-acuerdos-ohana-babylon-park.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-07T08:25:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-07T08:40:27.222413"
+    },
     {
       "id": "a4a7ba14c7a6f8f0",
       "titulo": "El tercer Barça más goleador de la historia",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T17:05:21",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T17:40:31.761879"
-    },
-    {
-      "id": "e819651ee7e71c42",
-      "titulo": "La renovación de Pedro Villar, encarrilada",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215756/renovacion-pedro-villar-encarrilada.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-13T16:15:59",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T16:38:34.288153"
     }
   ]
 }
