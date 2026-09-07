@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T07:00:58.460947Z",
+  "actualizado": "2026-09-07T07:10:32.116792Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "a4a7ba14c7a6f8f0",
+      "titulo": "El tercer Barça más goleador de la historia",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224187/tercer-barca-goleador-historia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-07T06:44:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-07T07:10:26.329777"
+    },
     {
       "id": "2efccdea19f9ad90",
       "titulo": "Rodri, el fichaje que el Barça no sabía que necesitaba",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T11:56:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T12:02:05.136972"
-    },
-    {
-      "id": "cdc6c48f3c6200c0",
-      "titulo": "Posible destino para Tommy Marqués",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215686/posible-nuevo-destino-tommy-marques.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-13T11:38:16",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T12:02:05.137123"
     }
   ]
 }
