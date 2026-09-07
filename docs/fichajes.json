@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T19:00:56.828158Z",
+  "actualizado": "2026-09-07T19:10:33.876576Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "23bb170f81306013",
+      "titulo": "Hadj Moussa, de declararse en rebeldía a apuntar al once del Feyenoord ante el Barça en 72 horas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224479/hadj-moussa-declararse-rebeldia-apuntar-once-feyenoord-barca-72-horas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-07T18:39:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-07T19:10:28.268577"
+    },
     {
       "id": "92060922819776b4",
       "titulo": "Croacia llama a Livakovic con elogios de su seleccionador por estar en el Barça aunque sea suplente",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T19:15:35",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-13T19:30:46.383407"
-    },
-    {
-      "id": "fe5091614c88c1fc",
-      "titulo": "El PSG le ha pagado al Barça 333 millones en fichajes en el último decenio",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215803/psg-le-pagado-barca-333-millones-fichajes-ultimo-decenio.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-13T19:14:28",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T19:40:29.111502"
     }
   ]
 }
