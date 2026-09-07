@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T16:00:56.812351Z",
+  "actualizado": "2026-09-07T16:10:30.584433Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "92060922819776b4",
+      "titulo": "Croacia llama a Livakovic con elogios de su seleccionador por estar en el Barça aunque sea suplente",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224413/croacia-llama-livakovic-elogios-seleccionador-barca-sea-suplente.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-07T15:58:45",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-07T16:10:25.475760"
+    },
     {
       "id": "d4cc19fff14a3c42",
       "titulo": "'Galifardeu' y otras palabras que hablan catalán en el Barça",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T19:14:28",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-14T07:40:29.198580"
-    },
-    {
-      "id": "331ca5d6e08fb123",
-      "titulo": "Las consecuencias económicas del traspaso de Ferran",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215801/consecuencias-economicas-traspaso-ferran.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-13T18:46:53",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T19:00:54.238784"
     }
   ]
 }
