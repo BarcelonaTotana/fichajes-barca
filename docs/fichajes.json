@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T16:30:43.776825Z",
+  "actualizado": "2026-09-07T16:40:32.596249Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -172,6 +172,19 @@
       "fecha": "2026-09-07T15:58:45",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-07T16:10:25.475760"
+    },
+    {
+      "id": "758a46b9b55f73ca",
+      "titulo": "Croacia llama a Livakovic con elogios de su seleccionador por estar en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224413/croacia-llama-livakovic-elogios-seleccionador-barca-sea-suplente.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-07T15:58:45",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-07T16:40:27.808904"
     },
     {
       "id": "d4cc19fff14a3c42",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T19:14:28",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T19:40:29.111502"
-    },
-    {
-      "id": "c3510f69efead62e",
-      "titulo": "El PSG le va a pagar al Barça 333 millones en fichajes en el último decenio",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215803/psg-le-pagado-barca-333-millones-fichajes-ultimo-decenio.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-13T19:14:28",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-14T07:40:29.198580"
     }
   ]
 }
