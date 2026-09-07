@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T11:30:49.722215Z",
+  "actualizado": "2026-09-07T11:40:31.236622Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -185,6 +185,19 @@
       "fecha": "2026-09-07T08:25:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-07T08:40:27.222413"
+    },
+    {
+      "id": "504c7cfdcd7cd3aa",
+      "titulo": "El Barça explica los acuerdos con Ohana y Babylon Park",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224216/barca-explica-detalle-acuerdos-ohana-babylon-park.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-07T08:25:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-07T11:40:26.087567"
     },
     {
       "id": "a4a7ba14c7a6f8f0",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T18:18:56",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T18:32:24.744632"
-    },
-    {
-      "id": "4615fcec122448e0",
-      "titulo": "Ferran Torres, venta cerrada por casi 50 millones",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215786/ferran-torres-venta-cerrada-50-millones.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-13T17:55:02",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T18:10:32.962354"
     }
   ]
 }
