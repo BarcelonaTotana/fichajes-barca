@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T11:10:30.145217Z",
+  "actualizado": "2026-09-07T11:20:35.884099Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "092db87e4047b2ae",
+      "titulo": "La reflexión de Gonzalo Bernardos sobre el arbitraje español: \"Hemos vuelto a ver qué malos profesionales son\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/reflexion-gonzalo-bernardos-arbitraje-espanol-134028996?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-07T11:11:48",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-07T11:20:33.384845"
+    },
     {
       "id": "0bc4245a00bf829f",
       "titulo": "El Barça explica al detalle los acuerdos con Ohana y Babylon Park",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T17:55:02",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T18:10:32.962354"
-    },
-    {
-      "id": "4fdd868a2332548b",
-      "titulo": "Cifran en 5 millones de libras la diferencia Barça-City por Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215771/cifran-5-millones-libras-diferencia-barca-city-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-13T17:05:21",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T17:40:31.761879"
     }
   ]
 }
