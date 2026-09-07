@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T04:30:44.810494Z",
+  "actualizado": "2026-09-07T04:40:31.931157Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "2efccdea19f9ad90",
+      "titulo": "Rodri, el fichaje que el Barça no sabía que necesitaba",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224152/rodri-fichaje-barca-no-sabia-necesitaba.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-07T04:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-07T04:40:26.941625"
+    },
     {
       "id": "240d551f4828464b",
       "titulo": "Flick: \"Hemos dominado y es lo que quiero ver\"",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T11:38:16",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T12:02:05.137123"
-    },
-    {
-      "id": "23e0e7a054e5c571",
-      "titulo": "La Barça Academy tendrá representación en Túnez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215680/barca-academy-tendra-representacion-tunez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-13T11:16:46",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T11:40:29.657960"
     }
   ]
 }
