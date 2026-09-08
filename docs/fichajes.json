@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T10:01:01.561554Z",
+  "actualizado": "2026-09-08T10:10:33.062673Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "fe7a74349129b379",
+      "titulo": "Nijstad: \"El Barça es el más grande del mundo y que te quiera es maravilloso\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260908/1004224705/nijstad-barca-grande-mundo-te-quiera-maravilloso.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-08T10:00:40",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-08T10:10:27.753722"
+    },
     {
       "id": "e5a83241dd17d5bd",
       "titulo": "El Barça cierra finalmente la operación de Can Rigalt por 30 millones",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-13T22:16:29",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-13T22:40:27.576105"
-    },
-    {
-      "id": "e7b5fc515c7f2b3f",
-      "titulo": "Mercato caliente: El traspaso de Ferran al PSG, Rodri y Julián",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260813/1004215815/mercato-caliente-traspaso-ferran-psg-rodri-julian.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-13T20:52:01",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T21:10:26.591847"
     }
   ]
 }
