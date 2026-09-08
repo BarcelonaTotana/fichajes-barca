@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T19:30:47.125388Z",
+  "actualizado": "2026-09-08T19:40:31.570566Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "63d1a4686c2b4be7",
+      "titulo": "Marotta: \"Lautaro se negó a negociar con el Barcelona\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260908/1004224949/marotta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-08T19:19:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-08T19:40:26.579959"
+    },
     {
       "id": "eaa0f518bc5b9d43",
       "titulo": "Tres nominados del Barça al Balón de Oro y tres sorprendentes ausencias",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-14T04:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-14T04:40:27.687112"
-    },
-    {
-      "id": "d1ecdf720d6222bc",
-      "titulo": "El traspaso de Ferran puede acercar a Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004215869/traspaso-ferran-acercar-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-14T01:50:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-14T02:10:30.733239"
     }
   ]
 }
