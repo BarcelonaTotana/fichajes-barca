@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T15:30:48.049756Z",
+  "actualizado": "2026-09-08T15:40:30.054744Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -160,6 +160,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "eaa0f518bc5b9d43",
+      "titulo": "Tres nominados del Barça al Balón de Oro y tres sorprendentes ausencias",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260908/1004224840/tres-nominados-barca-balon-oro-tres-sorprendentes-ausencias.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-08T15:00:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-08T15:40:25.232500"
+    },
     {
       "id": "fe7a74349129b379",
       "titulo": "Nijstad: \"El Barça es el más grande del mundo y que te quiera es maravilloso\"",
@@ -5346,19 +5359,6 @@
       "fecha": "2026-08-14T01:50:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-14T02:10:30.733239"
-    },
-    {
-      "id": "152df101a252286c",
-      "titulo": "Rodri, 'cazado' de regreso a Manchester",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004215863/rodri-cazado-regreso-manchester.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-13T22:16:29",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-13T22:40:27.576105"
     }
   ]
 }
