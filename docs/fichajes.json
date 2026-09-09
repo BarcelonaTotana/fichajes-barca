@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T09:30:44.711257Z",
+  "actualizado": "2026-09-09T09:40:30.829931Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -134,6 +134,7 @@
     "c9365068ea68e649",
     "c9b052bcb9c3d09b",
     "ca774448b957d12b",
+    "cac05335a65c21aa",
     "cc1ede646b0e4ab4",
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
@@ -161,6 +162,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "cac05335a65c21aa",
+      "titulo": "Gabriel Jesus desvela su mala experiencia antes de fichar por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225138/gabriel-jesus-desvela-mala-experiencia-fichar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-09T09:14:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-09T09:40:25.807043"
+    },
     {
       "id": "e29f0ddbf684d7e0",
       "titulo": "Definida la primera Lista B del Barça en Champions",
@@ -5347,19 +5361,6 @@
       "fecha": "2026-08-14T16:42:32",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-14T17:10:27.958864"
-    },
-    {
-      "id": "aaea5411576afbf2",
-      "titulo": "Plan específico para Pedri en su vuelta al trabajo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004216041/plan-especifico-pedri-vuelta-trabajo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-14T13:44:24",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-14T14:10:29.331615"
     }
   ]
 }
