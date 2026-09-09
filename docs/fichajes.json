@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T08:50:34.439736Z",
+  "actualizado": "2026-09-09T09:00:57.406163Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -161,6 +161,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "e29f0ddbf684d7e0",
+      "titulo": "Definida la primera Lista B del Barça en Champions",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225128/definida-primera-lista-b-barca-champions.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-09T08:42:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-09T09:00:52.335508"
+    },
     {
       "id": "67585a275122f808",
       "titulo": "Lluvia de elogios de Henry a Rodri: \"El Barça ha conseguido a otro Busquets\"",
@@ -5347,19 +5360,6 @@
       "fecha": "2026-08-14T13:44:24",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-14T14:10:29.331615"
-    },
-    {
-      "id": "1567e55836f60ac1",
-      "titulo": "Òscar Mingueza explica cómo fue su fichaje con el Barça: \"Mi padre me dijo: 'el Barça quiere que vayas a hacer las pruebas', y yo le dije no, yo me quedo aquí con mis amigos\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/oscar-mingueza-explica-fichaje-barca-infancia-133356442?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-14T11:00:06",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-14T11:10:28.850236"
     }
   ]
 }
