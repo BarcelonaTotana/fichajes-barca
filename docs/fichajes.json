@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T06:30:43.411133Z",
+  "actualizado": "2026-09-09T06:40:32.954050Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -161,6 +161,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "119dac5b90f9066f",
+      "titulo": "El Barça conocerá mañana su nuevo límite de coste de plantilla",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225075/barca-conocera-manana-nuevo-limite-coste-plantilla.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-09T06:26:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-09T06:40:27.483339"
+    },
     {
       "id": "d5d7c661b08565b2",
       "titulo": "El probable once del Barça ante el Feyenoord, para avisar que va a por la 'orejona'",
@@ -5347,19 +5360,6 @@
       "fecha": "2026-08-14T09:35:10",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-14T10:10:27.705223"
-    },
-    {
-      "id": "1e508526ca7eabd5",
-      "titulo": "Vinculan a Luis Suárez (Sporting CP) con el Barça y el club lo niega",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004215957/luis-suarez-sporting-cp-alternativa-nueve-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-14T09:35:10",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-14T11:42:13.257721"
     }
   ]
 }
