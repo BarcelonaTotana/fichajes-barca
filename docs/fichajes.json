@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T07:30:49.499998Z",
+  "actualizado": "2026-09-09T07:40:35.588955Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -161,6 +161,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "67585a275122f808",
+      "titulo": "Lluvia de elogios de Henry a Rodri: \"El Barça ha conseguido a otro Busquets\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225080/lluvia-elogios-henry-rodri-barca-conseguido-busquets.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-09T07:01:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-09T07:40:29.982651"
+    },
     {
       "id": "119dac5b90f9066f",
       "titulo": "El Barça conocerá mañana su nuevo límite de coste de plantilla",
@@ -5347,19 +5360,6 @@
       "fecha": "2026-08-14T11:00:06",
       "fuente_feed": "SPORT · Fútbol",
       "visto_por_primera_vez": "2026-08-14T11:10:28.850236"
-    },
-    {
-      "id": "a721bfbba6c662bc",
-      "titulo": "Luis Suárez (Sporting CP), otra alternativa para el 'nueve' del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004215957/luis-suarez-sporting-cp-alternativa-nueve-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-14T09:35:10",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-14T10:10:27.705223"
     }
   ]
 }
