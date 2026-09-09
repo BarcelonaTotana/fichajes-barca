@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T11:00:54.344565Z",
+  "actualizado": "2026-09-09T11:10:35.011351Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -162,6 +162,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "5007b432e83c4133",
+      "titulo": "Lista del Barça para el debut de Champions: Flick va con todo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225182/lista-barca-debut-champions-flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-09T10:48:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-09T11:10:29.748844"
+    },
     {
       "id": "2307fe9167d00085",
       "titulo": "Oficial: Lovro Chelfi, traspasado a Arabia",
@@ -5348,19 +5361,6 @@
       "fecha": "2026-08-14T18:16:02",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-08-14T18:50:31.802724"
-    },
-    {
-      "id": "3f60d856000b9334",
-      "titulo": "Ferran estrena mural en Foios mientras espera estrenar ya nuevo club",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004216118/ferran-estrena-mural-foios-espera-estrenar-nuevo-club.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-14T18:06:29",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-14T18:40:27.675758"
     }
   ]
 }
