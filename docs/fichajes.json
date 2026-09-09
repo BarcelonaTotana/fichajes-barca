@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T05:00:56.829537Z",
+  "actualizado": "2026-09-09T05:10:34.320425Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -140,6 +140,7 @@
     "cfc7974d49bc48e0",
     "d1678f114989da7e",
     "d50e311752fe32b0",
+    "d5d7c661b08565b2",
     "d74b02004bbf149f",
     "d94545d1196ce20a",
     "d99b318f89a79c54",
@@ -160,6 +161,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d5d7c661b08565b2",
+      "titulo": "El probable once del Barça ante el Feyenoord, para avisar que va a por la 'orejona'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004224962/probable-once-barca-feyenoord-avisar-orejona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-09T04:40:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-09T05:10:26.149805"
+    },
     {
       "id": "63d1a4686c2b4be7",
       "titulo": "Marotta: \"Lautaro se negó a negociar con el Barcelona\"",
@@ -5346,19 +5360,6 @@
       "fecha": "2026-08-14T09:35:10",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-14T11:42:13.257721"
-    },
-    {
-      "id": "453094db5a144892",
-      "titulo": "Julián no se rinde en su sueño de fichar por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004215870/julian-no-rinde-sueno-fichar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-14T04:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-14T04:40:27.687112"
     }
   ]
 }
