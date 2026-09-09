@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T16:10:39.175140Z",
+  "actualizado": "2026-09-09T16:20:35.016511Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -162,6 +162,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "5475c5ec2448a6ae",
+      "titulo": "CD Castellón | Leo Messi revoluciona Segunda División con la compra de un equipo de la categoría",
+      "enlace": "https://www.sport.es/es/noticias/futbol/cd-castellon-leo-messi-revoluciona-134118378?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-09T16:05:00",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-09T16:20:32.463260"
+    },
     {
       "id": "2428dcd1fa6f3cfd",
       "titulo": "Marc Casadó quiere brillar en el Deportivo: \"Tenemos calidad para hacer una buena temporada\"",
@@ -5348,19 +5361,6 @@
       "fecha": "2026-08-15T01:09:00",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-08-22T03:20:25.201102"
-    },
-    {
-      "id": "d163ee6e481794c6",
-      "titulo": "El Barça no tiene dudas con Julián ni con Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216156/barca-no-dudas-julian-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-14T22:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-14T22:40:32.988733"
     }
   ]
 }
