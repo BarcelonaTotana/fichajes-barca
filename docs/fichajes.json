@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T10:01:05.335078Z",
+  "actualizado": "2026-09-09T10:10:33.119599Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -162,6 +162,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "2307fe9167d00085",
+      "titulo": "Oficial: Lovro Chelfi, traspasado a Arabia",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225149/oficial-lovro-chelfi-traspasado-arabia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-09T09:46:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-09T10:10:27.687779"
+    },
     {
       "id": "cac05335a65c21aa",
       "titulo": "Gabriel Jesus desvela su mala experiencia antes de fichar por el Barça",
@@ -5348,19 +5361,6 @@
       "fecha": "2026-08-14T18:06:29",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-14T18:40:27.675758"
-    },
-    {
-      "id": "548f9f28d73746a4",
-      "titulo": "Van Bronckhorst: \"Es un placer ver a Xavi con nuestra selección\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260814/1004216083/bronckhorst-placer-ver-xavi-nuestra-seleccion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-14T16:42:32",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-14T17:10:27.958864"
     }
   ]
 }
