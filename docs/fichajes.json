@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T12:01:01.080002Z",
+  "actualizado": "2026-09-09T12:10:32.519529Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -162,6 +162,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "2428dcd1fa6f3cfd",
+      "titulo": "Marc Casadó quiere brillar en el Deportivo: \"Tenemos calidad para hacer una buena temporada\"",
+      "enlace": "https://www.sport.es/es/noticias/futbol/marc-casado-quiere-brillar-deportivo-134108416?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-09T12:00:49",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-09T12:10:29.992021"
+    },
     {
       "id": "5007b432e83c4133",
       "titulo": "Lista del Barça para el debut de Champions: Flick va con todo",
@@ -5348,19 +5361,6 @@
       "fecha": "2026-08-14T22:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-14T22:40:32.988733"
-    },
-    {
-      "id": "c34f08b7749fe1c4",
-      "titulo": "Abde, alternativa a Martinelli para el Galatasaray",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260814/1004216122/abde-alternativa-martinelli-galatasaray.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-14T18:16:02",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-14T18:50:31.802724"
     }
   ]
 }
