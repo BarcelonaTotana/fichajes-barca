@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T07:30:46.137178Z",
+  "actualizado": "2026-09-10T07:40:32.328717Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -162,6 +162,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "45d3d3dda0253bb3",
+      "titulo": "Araujo no se olvida del Barça: \"Están volando y son favoritos\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225497/araujo-no-olvida-barca-siempre-acompano.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-10T07:07:29",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-10T07:40:27.550561"
+    },
     {
       "id": "3c73aa2e512b0b05",
       "titulo": "Gabriel Jesus, instinto de 'killer'",
@@ -5348,19 +5361,6 @@
       "fecha": "2026-08-15T09:12:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-15T09:40:31.536084"
-    },
-    {
-      "id": "bca33ff1b5fb27e4",
-      "titulo": "Ferran, en París a cerrar una etapa y abrir otra",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216178/ferran-paris-cerrar-etapa-abrir.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-15T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-15T05:10:22.821189"
     }
   ]
 }
