@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-10T23:50:28.134588Z",
-  "total": 400,
+  "actualizado": "2026-09-10T23:51:10.175602Z",
+  "total": 346,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -15,6 +15,7 @@
     "nico gonzalez",
     "olivier nkamhoua",
     "ruben iranzo",
+    "ter stegen",
     "van asten"
   ],
   "alertadas": [
@@ -77,6 +78,7 @@
     "50d1a01ff4dc6c9f",
     "5198790d48f9978b",
     "56fdc33f742463d4",
+    "574088e5f6764851",
     "592788f78b2f9daf",
     "5b462f2a0265786c",
     "5b5649b190729a23",
@@ -115,6 +117,7 @@
     "a8834e2935efb5a4",
     "a8a47597c10b065b",
     "ab109c4f2d31ccf8",
+    "ac55538c25bf2ff0",
     "ac778d22471e32b6",
     "ae11430778915027",
     "af0089361f15efe2",
@@ -177,19 +180,6 @@
       "visto_por_primera_vez": "2026-09-10T22:40:29.856946"
     },
     {
-      "id": "ce82b0247fc7053e",
-      "titulo": "Neymar se queda con Coutinho",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/top/20260910/1004225781/neymar-queda-coutinho.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-10T20:31:19",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-09-10T21:03:55.848233"
-    },
-    {
       "id": "88099a020cff3470",
       "titulo": "Marc Bernal: 20 minutos aprendiendo del maestro Rodri",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225595/marc-bernal-20-minutos-aprendiendo-maestro-rodri.html",
@@ -214,19 +204,6 @@
       "fecha": "2026-09-10T10:02:13",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-10T10:41:02.554489"
-    },
-    {
-      "id": "ff36fa6f889acfb7",
-      "titulo": "El exzaragocista Luis Suárez se estrena con gol en Champions y confirma su buen momento en Europa: cinco dianas en los últimos cuatro partidos",
-      "enlace": "https://www.sport.es/es/noticias/futbol/exzaragocista-luis-suarez-estrena-gol-134138426?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-10T09:56:23",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-10T10:10:29.491265"
     },
     {
       "id": "45d3d3dda0253bb3",
@@ -255,30 +232,17 @@
       "visto_por_primera_vez": "2026-09-10T04:40:24.745921"
     },
     {
-      "id": "5475c5ec2448a6ae",
-      "titulo": "CD Castellón | Leo Messi revoluciona Segunda División con la compra de un equipo de la categoría",
-      "enlace": "https://www.sport.es/es/noticias/futbol/cd-castellon-leo-messi-revoluciona-134118378?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
+      "id": "03bc3ba5f9b9b17c",
+      "titulo": "Golazos de oro",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225387/golazos-oro.html",
+      "medio": "mundodeportivo.com",
       "tier": 2,
       "tier_etiqueta": "Bastante fiable",
       "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-09T16:05:00",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-09T16:20:32.463260"
-    },
-    {
-      "id": "2428dcd1fa6f3cfd",
-      "titulo": "Marc Casadó quiere brillar en el Deportivo: \"Tenemos calidad para hacer una buena temporada\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/marc-casado-quiere-brillar-deportivo-134108416?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
       "estado": "rumor",
-      "fecha": "2026-09-09T12:00:49",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-09T12:10:29.992021"
+      "fecha": "2026-09-09T19:46:27",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-10T23:51:03.748905"
     },
     {
       "id": "5007b432e83c4133",
@@ -476,19 +440,6 @@
       "visto_por_primera_vez": "2026-09-07T12:40:26.494754"
     },
     {
-      "id": "092db87e4047b2ae",
-      "titulo": "La reflexión de Gonzalo Bernardos sobre el arbitraje español: \"Hemos vuelto a ver qué malos profesionales son\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/reflexion-gonzalo-bernardos-arbitraje-espanol-134028996?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-07T11:11:48",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-07T11:20:33.384845"
-    },
-    {
       "id": "0bc4245a00bf829f",
       "titulo": "El Barça explica al detalle los acuerdos con Ohana y Babylon Park",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224216/barca-explica-detalle-acuerdos-ohana-babylon-park.html",
@@ -632,32 +583,6 @@
       "visto_por_primera_vez": "2026-09-05T20:10:23.927823"
     },
     {
-      "id": "1a819d3bc5fe80f2",
-      "titulo": "Corberán: “El Barcelona ha hecho una inversión descomunal”",
-      "enlace": "https://www.sport.es/es/noticias/futbol/corberan-barcelona-hecho-inversion-descomunal-133982280?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-05T18:32:38",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-05T18:40:29.364268"
-    },
-    {
-      "id": "97bd822e29a583da",
-      "titulo": "Un canterano de Real Zaragoza y FC Barcelona jugará en Regional Preferente en Aragón: \"Estalló la bomba en el San Miguel\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/canterano-real-zaragoza-fc-barcelona-133984519?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-05T14:30:56",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-05T14:50:29.743420"
-    },
-    {
       "id": "989813f81b1ab964",
       "titulo": "El Barça incorpora a la delantera italiana Giulia Galli hasta 2030, con ficha del filial",
       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNellXeUtuVVZOYVNhcTMzNDRTSTlXcllScWpMNHdZRk1WclJCM1dFOF8wWnRzSmNSN3FJdjFobTVBR2ptc21BdkNrSE5kUF9oR2JpcGhkN0VmWGFKOWt1dmFzTlVTMDVFVGxhMUw3RXB3WVFIQ0c3b2l5WjN2X0tZbDMyNklPTjVXMjdTenhmUWYwcTBWeEIwQVVuOHJtWnFNcTJlUGVCTWtmaGxvb1lXeGdyR0ZIQVhyUjFESFROeFFIZG9OVWV0czRaNEI5dktpZmdZa0ZB0gHwAUFVX3lxTE9wWTI2ODZXTTJqbVJWMFd2M284aFhRbHE3Z1VLa0RReWtuUmNvMV9WdjJFcG56eE9NdFhoaXE3WnRzaVNyb2ZUbnRBYlJGR3d3MXptUnRvWHlBVHYyUU9TbUZtdFFwLVJmVFNLdFllNElZa2xXZnVLY25tRFRWS2YtME9UU0sxb0Rhc0tUblR2MTExWlZqeEVzV0FCTl90eFpWWlE1Ri1Hejh4OVJjakdXYzhKMmRVSUh1SFc1dDh6WC1nZ1NrdUdJNnFOelM3dHpPU2RhcUVISHMyS2t3OTN2M2FNTHdXVWFBbkp6dDlpZA?oc=5",
@@ -736,19 +661,6 @@
       "visto_por_primera_vez": "2026-09-04T20:10:27.564656"
     },
     {
-      "id": "5bd894aa00d00699",
-      "titulo": "Así está la clasificación de Primera División: el Real Madrid abre LaLiga, el Deportivo visita al Villarreal y el Barça va a Mestalla",
-      "enlace": "https://www.sport.es/es/noticias/futbol/clasificacion-primera-division-real-madrid-133960104?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-04T15:15:33",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-04T15:30:47.585723"
-    },
-    {
       "id": "cc16e30251bca31d",
       "titulo": "Elliott se apunta al Barça y Rioja mantiene la duda",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223268/elliott-apunta-barca-rioja-mantiene-duda.html",
@@ -760,32 +672,6 @@
       "fecha": "2026-09-04T12:01:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-04T12:40:31.012521"
-    },
-    {
-      "id": "d0aa394910dd4eed",
-      "titulo": "Maldini suelta la bomba: \"La mejor plantilla de Europa es la del Barça\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/maldini-suelta-bomba-mejor-plantilla-europa-barca-133938904?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-04T09:16:18",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-04T09:20:30.254859"
-    },
-    {
-      "id": "b81bad0546e85c9f",
-      "titulo": "Juanma Rodríguez estalla en El Chiringuito: \"Es un club desestabilizador\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/juanma-rodriguez-estalla-chiringuito-club-desestabilizador-atletico-de-madrid-barca-julian-alvarez-133936831?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-04T07:41:42",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-04T07:50:33.041919"
     },
     {
       "id": "0b1befd9af376b30",
@@ -840,19 +726,6 @@
       "visto_por_primera_vez": "2026-09-04T17:40:26.207202"
     },
     {
-      "id": "0a05fb15ebc50de7",
-      "titulo": "Así fueron las frenéticas horas que llevaron a Marc Casadó al Deportivo: ofrecimiento del Barça, llamada de Hidalgo y con rivales",
-      "enlace": "https://www.sport.es/es/noticias/futbol/freneticas-horas-llevaron-marc-casado-133929773?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-03T20:02:12",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-03T20:10:30.021037"
-    },
-    {
       "id": "9f86d915a5dc464e",
       "titulo": "El Barça, con Hamza y Bisiwu en la lista A de la Champions y Fariñas, en la B",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223091/barca-hamza-bisiwu-lista-champions-farinas-b.html",
@@ -877,19 +750,6 @@
       "fecha": "2026-09-03T18:54:11",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T19:10:30.770915"
-    },
-    {
-      "id": "b3c24f93b3e12a56",
-      "titulo": "Andrés Iniesta tendrá su propia exposición en Barcelona: ‘Iniesta Experience: [El Juego Interior]",
-      "enlace": "https://www.sport.es/es/noticias/futbol/andres-iniesta-tendra-propia-exposicion-133927082?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-03T17:58:31",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-03T18:00:54.265690"
     },
     {
       "id": "240b35d3cb2eb575",
@@ -918,19 +778,6 @@
       "visto_por_primera_vez": "2026-09-03T15:40:34.520428"
     },
     {
-      "id": "42b3371f1e0add8b",
-      "titulo": "Jorge Salinas, el defensa del futuro, seguirá en el Racing: \"Desde que lo vi, he trazado siempre la comparativa con Gvardiol\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/jorge-salinas-transformacion-barca-barcelona-racing-santander-131596895?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-03T14:04:11",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-03T14:10:43.085935"
-    },
-    {
       "id": "d5335299b5f0b59c",
       "titulo": "Cuatro ilustres exazulgranas que continúan sin equipo",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222699/exazulgranas-continuan-equipo.html",
@@ -955,32 +802,6 @@
       "fecha": "2026-09-03T10:09:44",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T10:40:27.235666"
-    },
-    {
-      "id": "5f54edc2669e15db",
-      "titulo": "La tormenta perfecta que ha llevado al Deportivo a ser el gran animador del mercado: así dio un golpe encima de la mesa",
-      "enlace": "https://www.sport.es/es/noticias/futbol/tormenta-perfecta-llevado-deportivo-gran-133905257?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-03T09:10:45",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-03T09:20:29.252017"
-    },
-    {
-      "id": "0eefb351b617155a",
-      "titulo": "La tormenta perfecta que ha llevado al Deportivo a ser el gran animador del mercado de fichajes: así aumentó e hizo rendir su límite salarial",
-      "enlace": "https://www.sport.es/es/noticias/futbol/tormenta-perfecta-llevado-deportivo-gran-133905257?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-03T09:10:45",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-03T15:40:36.945832"
     },
     {
       "id": "958d95205629c366",
@@ -1139,32 +960,6 @@
       "visto_por_primera_vez": "2026-09-02T16:10:31.745527"
     },
     {
-      "id": "940e860ed2096aef",
-      "titulo": "Adama Traoré explica su fichaje por el Deportivo: \"Aubameyang y el proyecto me convencieron de venir\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/adama-traore-explica-fichaje-deportivo-133880664?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-02T15:06:00",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-02T15:20:29.095540"
-    },
-    {
-      "id": "8b221ce7bb7ea7af",
-      "titulo": "El viraje del Barcelona con el Deportivo que dejó a Marc Casadó el martes en el Prat",
-      "enlace": "https://www.sport.es/es/noticias/futbol/viraje-barcelona-deportivo-dejo-marc-133874303?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-02T12:23:34",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-02T12:30:47.907477"
-    },
-    {
       "id": "ac55538c25bf2ff0",
       "titulo": "Oficial: un clásico del fútbol europeo jugará junto a Ter Stegen",
       "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260902/1004222570/oficial-clasico-futbol-europeo-jugara-ter-stegen.html",
@@ -1215,19 +1010,6 @@
       "fecha": "2026-09-02T10:32:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T11:10:27.824657"
-    },
-    {
-      "id": "3daa0be96226d686",
-      "titulo": "Las primeras palabras de Marc Casadó como nuevo jugador del Deportivo: \"Me ha presentado un proyecto muy guapo y estoy ilusionado\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/primeras-palabras-marc-casado-nuevo-133868814?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-02T10:30:05",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-02T10:40:13.319032"
     },
     {
       "id": "192f22855f42f1f2",
@@ -1451,6 +1233,19 @@
       "visto_por_primera_vez": "2026-09-01T17:10:26.329484"
     },
     {
+      "id": "574088e5f6764851",
+      "titulo": "Oficial: a falta de Gordon, el Newcastle anuncia a este delantero",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260901/1004222202/oficial-falta-gordon-newcastle-anuncia-delantero.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-01T15:44:34",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-09-10T23:51:05.358154"
+    },
+    {
       "id": "ed73a9ca30048c22",
       "titulo": "Guille, en Mallorca para firmar y con hambre de ascenso",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222196/guille-mallorca-firmar-hambre-ascenso.html",
@@ -1553,19 +1348,6 @@
       "fecha": "2026-09-01T14:25:09",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T14:40:30.076220"
-    },
-    {
-      "id": "89e0194dff4b9a4c",
-      "titulo": "El Deportivo irrumpe con fuerza por Marc Casadó",
-      "enlace": "https://www.sport.es/es/noticias/futbol/deportivo-irrumpe-fuerza-marc-casado-133845452?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T14:22:10",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-09-01T14:30:44.325919"
     },
     {
       "id": "25a6cbbd5a5db371",
@@ -1841,45 +1623,6 @@
       "visto_por_primera_vez": "2026-08-31T22:10:27.020061"
     },
     {
-      "id": "8f248eeae7b53c60",
-      "titulo": "Ilman Ndiaye, el próximo centrocampista del Manchester City de Maresca",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260831/1004221802/ilman-ndiaye-proximo-centrocampista-manchester-city-maresca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-31T19:08:06",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-09-01T20:40:33.068392"
-    },
-    {
-      "id": "41625171c370329b",
-      "titulo": "Oficial: El City se gasta otros 75 millones en otro refuerzo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260831/1004221802/ilman-ndiaye-proximo-centrocampista-manchester-city-maresca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-31T19:08:06",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-09-02T07:10:28.727790"
-    },
-    {
-      "id": "b31f3610378b9e44",
-      "titulo": "Oficial: El City se gasta 75 millones en otro refuerzo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260831/1004221802/ilman-ndiaye-proximo-centrocampista-manchester-city-maresca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-31T19:08:06",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-09-02T07:40:34.832154"
-    },
-    {
       "id": "dabe2f89d1ba5578",
       "titulo": "Gabriel Jesus: “Faltaba a clases para ver al Barça”",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221761/gabriel-jesus-faltaba-clases-ver-barca.html",
@@ -2036,19 +1779,6 @@
       "visto_por_primera_vez": "2026-08-31T09:40:29.444452"
     },
     {
-      "id": "fbb1aae57fe5a00c",
-      "titulo": "Mercado fichajes, en directo | Altas y bajas del FC Barcelona, Real Madrid y de todas las grandes ligas, en vivo hoy",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260831/1004219520/mercado-fichajes-futbol-directo-hoy-rumores-altas-bajas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-31T05:41:07",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-09-07T07:20:26.455214"
-    },
-    {
       "id": "49622b5b4ce94905",
       "titulo": "Sacudir la sombra de Haaland",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221475/sacudir-sombra-haaland.html",
@@ -2099,19 +1829,6 @@
       "fecha": "2026-08-30T18:20:47",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T18:40:25.136881"
-    },
-    {
-      "id": "ac778d22471e32b6",
-      "titulo": "Oficial: el Aston Villa, rival del Barça, vende a su gran goleador",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260830/1004221369/aston-villa.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-30T17:29:31",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-30T17:50:31.365737"
     },
     {
       "id": "e8c6b207486fee0f",
@@ -2257,19 +1974,6 @@
       "visto_por_primera_vez": "2026-08-30T15:10:25.970042"
     },
     {
-      "id": "bfc0ce49a3894a71",
-      "titulo": "Harry Kane lo anuncia: \"Este será mi último gran contrato\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260830/1004221231/kane.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-30T10:38:43",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-30T11:30:40.577474"
-    },
-    {
       "id": "fe28c9fb7179d81a",
       "titulo": "El Leverkusen entra con fuerza en la puja por Casadó y el Besiktas sigue apretando",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221229/leverkusen-entra-fuerza-puja-casado-besiktas-sigue-apretando.html",
@@ -2374,32 +2078,6 @@
       "visto_por_primera_vez": "2026-08-29T20:40:24.804638"
     },
     {
-      "id": "39e3e610937d0eb6",
-      "titulo": "El ex azulgrana Kessié, fichará por el Atalanta tras caerse la operación con la Juventus",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260829/1004221025/ex-azulgrana-kessie-fichara-atalanta-caerse-operacion-juventus.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-29T16:44:38",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-29T17:10:29.996449"
-    },
-    {
-      "id": "980fabf715d87dfb",
-      "titulo": "El ex azulgrana Kessié ficha por el Atalanta tras caerse la operación con la Juventus",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260829/1004221025/ex-azulgrana-kessie-fichara-atalanta-caerse-operacion-juventus.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-29T16:44:38",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-29T22:10:29.619552"
-    },
-    {
       "id": "094dd0bf21abaac1",
       "titulo": "Preventa Entradas FC BARCELONA - FEYENOORD - UEFA Champions League - fútbol masculino",
       "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeTFwZmVVMlpZTjlEV25sNTNFdVRWcFJnSG5wZDBvRm1VWmJCWndSN3NFNXpZWkVPZ0p3VjdsNUxPeDl2TlN0ekFMbWlvYlFZcjNoT3EyakV5dXlyUVVFaXloUUdNNFI4S1VQWHloWkVPT3ZyNzBnakVFTXJROGZXZU1n?oc=5",
@@ -2452,19 +2130,6 @@
       "visto_por_primera_vez": "2026-08-29T09:40:27.953254"
     },
     {
-      "id": "777ac0769e78c684",
-      "titulo": "Nico González sitúa a Galicia en la cima del mercado: unos 140 millones en sus traspasos",
-      "enlace": "https://www.sport.es/es/noticias/futbol/nico-gonzalez-situa-galicia-cima-133746270?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-29T07:30:14",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-29T07:39:54.303240"
-    },
-    {
       "id": "495d16114943188a",
       "titulo": "Toni Fernández encarrila su fichaje por el Venezia",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220727/toni-fernandez-encarrila-fichaje-venezia.html",
@@ -2504,19 +2169,6 @@
       "visto_por_primera_vez": "2026-08-29T09:40:27.954434"
     },
     {
-      "id": "324674b7147188ef",
-      "titulo": "Emery, futuro rival del Barça, confirma una marcha y una llegada en ataque",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260828/1004220724/emery.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-28T16:21:22",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-28T16:50:29.483643"
-    },
-    {
       "id": "0a10c9217a5d13e9",
       "titulo": "'Barça Team': Julián sigue en el centro del debate, con el Barça lanzado en la Liga",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220689/barca-team-julian-sigue-centro-debate-barca-lanzado.html",
@@ -2541,19 +2193,6 @@
       "fecha": "2026-08-28T10:55:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-28T11:10:31.678130"
-    },
-    {
-      "id": "ef8e7298ca0e3943",
-      "titulo": "Una psicóloga analiza el estado mental de Julián Álvarez: \"Puede creer que las consecuencias superan su capacidad para lidiar con ellas, su concentración ya no será la misma y sus errores pueden parecer más graves\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/psicologa-analiza-mental-julian-alvarez-consecuencias-concentracion-errores-133728179?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-28T09:21:54",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-28T09:31:00.899123"
     },
     {
       "id": "d66b80db93f3d07f",
@@ -2660,32 +2299,6 @@
       "visto_por_primera_vez": "2026-08-27T19:40:27.266659"
     },
     {
-      "id": "1cf0efdf6651049c",
-      "titulo": "El Real Zaragoza se lanza a por Óscar Ureña y apunta a cerrar su fichaje",
-      "enlace": "https://www.sport.es/es/noticias/futbol/real-zaragoza-lanza-oscar-urena-133716641?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "avanzado",
-      "fecha": "2026-08-27T18:34:03",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-27T18:40:49.050951"
-    },
-    {
-      "id": "089cab89d339bc24",
-      "titulo": "El Real Zaragoza ficha a Óscar Ureña y ya tiene al extremo deseado",
-      "enlace": "https://www.sport.es/es/noticias/futbol/real-zaragoza-ficha-oscar-urena-133716641?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "avanzado",
-      "fecha": "2026-08-27T18:34:03",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-27T19:50:32.683741"
-    },
-    {
       "id": "a1a1f9c6db0ca72c",
       "titulo": "El morbo de los 'ex' en 5 de los 8 rivales del Barça",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220413/morbo-ex-5-8-rivales-barca.html",
@@ -2736,19 +2349,6 @@
       "fecha": "2026-08-27T16:56:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-27T17:12:17.080760"
-    },
-    {
-      "id": "092a9ac8c13f8fe2",
-      "titulo": "Nico, el jugador gallego que más dinero ha movido en traspasos: casi 140 millones",
-      "enlace": "https://www.sport.es/es/noticias/futbol/nico-jugador-gallego-dinero-movido-133713782?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-27T16:55:37",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-27T17:12:19.781648"
     },
     {
       "id": "01ed8a3f0ba4569c",
@@ -2816,17 +2416,17 @@
       "visto_por_primera_vez": "2026-08-27T09:40:27.314812"
     },
     {
-      "id": "94fbbb14dfabbffc",
-      "titulo": "El exjugador del Real Zaragoza que aparece en el documental de Mourinho en Netflix: pagaron 7 millones por su fichaje y fue campeón de la Premier",
-      "enlace": "https://www.sport.es/es/noticias/futbol/exjugador-real-zaragoza-aparece-documental-133691444?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
+      "id": "8d7a51d1f3f18c3f",
+      "titulo": "Ni Adeyemi ni Gordon: para Hansi Flick el fichaje estrella se ha quedado en el filial, pero ya es el mejor",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQemxOMWZtYWt6SzVaM2E4WGFJdUZuelFUdkJWR2ZMTzBraWRCV0E4dDRDNXdwWktjSEVqRWZYMVI4Q0hrNkxpc05jRXRRc1hfSnp3WDFmUktZOVUxVzRIN1gtOEhCZ2daTWlpU0dNcnV3NDl0VG9Wdkx6NlgybE1KM0tKbVdBZ0xHYzlTUTQ2X3pYSjc0bEc0QXkwUGhZaDBlakpsV1ZONFN2VThxR3ZCX0RDdGRRMW9PRzQtZDhIbTBrdDJtVGw5MmJ1RWNQU3JUeFd2bG44bVZrX3c5WThF?oc=5",
+      "medio": "El Nacional.cat",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
       "estado": "rumor",
-      "fecha": "2026-08-27T05:00:51",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-27T05:10:29.843900"
+      "fecha": "2026-08-27T07:00:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-09-10T23:51:08.187984"
     },
     {
       "id": "3325be8176c962a1",
@@ -2840,32 +2440,6 @@
       "fecha": "2026-08-26T21:32:54",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-26T22:10:27.276225"
-    },
-    {
-      "id": "a0ff90665a18fcf6",
-      "titulo": "¡Nuevo fichaje bomba en el Deportivo!",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260826/1004220120/nuevo-fichaje-bomba-deportivo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-26T21:27:52",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-26T21:50:32.329250"
-    },
-    {
-      "id": "8be3f647c40aff9f",
-      "titulo": "Adama ya es del Deportivo: firma hasta 2028",
-      "enlace": "https://www.sport.es/es/noticias/futbol/adama-deportivo-firma-2028-133688263?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-26T20:28:41",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-26T20:42:25.297882"
     },
     {
       "id": "fbf313e0c58d6a4f",
@@ -3076,32 +2650,6 @@
       "visto_por_primera_vez": "2026-08-26T11:10:29.540394"
     },
     {
-      "id": "d50e311752fe32b0",
-      "titulo": "El Real Zaragoza hace oficial por fin el fichaje de Rubén Iranzo y acaba con el 'culebrón'",
-      "enlace": "https://www.sport.es/es/noticias/futbol/real-zaragoza-oficial-fichaje-ruben-133659988?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-26T05:02:29",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-26T16:20:32.144859"
-    },
-    {
-      "id": "ae11430778915027",
-      "titulo": "El Real Zaragoza hace oficial por fin el fichaje de Rubén Iranzo y acaba con el 'culebrón'. \"No veo la categoría al venir, sino el club que es y la afición que tiene\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/real-zaragoza-oficial-fichaje-ruben-133659988?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-26T05:02:29",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-26T18:20:33.567160"
-    },
-    {
       "id": "7537c9939cc6829a",
       "titulo": "Dos misiles en las bandas",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219716/dos-misiles-bandas.html",
@@ -3180,19 +2728,6 @@
       "visto_por_primera_vez": "2026-08-25T17:40:31.643820"
     },
     {
-      "id": "f91fd04bbb721eb4",
-      "titulo": "Aubameyang se reencontrará en Riazor con otro ex del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260825/1004219713/aubameyang-reencontrara-riazor-ex-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-25T16:50:33",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-25T17:10:31.271145"
-    },
-    {
       "id": "e18ba5eb939389c1",
       "titulo": "Xavi, en su presentación con Países Bajos: \"Vengo a la universidad del fútbol\"",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219683/xavi-presentacion-paises-bajos-vengo-universidad-futbol.html",
@@ -3217,19 +2752,6 @@
       "fecha": "2026-08-25T15:47:21",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-25T16:10:41.697606"
-    },
-    {
-      "id": "3dba614b65e8a37a",
-      "titulo": "Nuevo pretendiente en la Premier League por Rafael Leão",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260825/1004219661/nuevo-pretendiente-premier-league-rafael-leao.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-25T14:58:45",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-25T15:10:36.057978"
     },
     {
       "id": "a8a47597c10b065b",
@@ -3401,19 +2923,6 @@
       "visto_por_primera_vez": "2026-08-24T19:40:28.339681"
     },
     {
-      "id": "5bdef98d6bcb8b01",
-      "titulo": "El Deportivo avanza por Adama Traoré, que apunta a ser el octavo fichaje del retorno a Primera",
-      "enlace": "https://www.sport.es/es/noticias/futbol/deportivo-avanza-adama-traore-apunta-133625472?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-24T19:10:54",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-24T19:28:57.415395"
-    },
-    {
       "id": "1efa0633ff512169",
       "titulo": "Barça Team: \"El Barça agotará todas las vías por Julián\"",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219345/barca-team-barca-agotara-todas-vias-julian.html",
@@ -3427,32 +2936,6 @@
       "visto_por_primera_vez": "2026-08-24T19:10:28.407168"
     },
     {
-      "id": "38fbf5c51499ae05",
-      "titulo": "El ex del Barça, Franck Kessié, en el radar de un equipo 'top' de Europa",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219334/ex-barca-franck-kessie-radar-equipo-top-europa.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-24T17:29:29",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-24T17:50:32.749982"
-    },
-    {
-      "id": "7fc035e7d6d36370",
-      "titulo": "El coruñés Nico González, cerca de cambiar el Manchester City por el Newcastle",
-      "enlace": "https://www.sport.es/es/noticias/futbol/corunes-nico-gonzalez-cerca-cambiar-133623645?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-24T17:27:44",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-24T17:37:48.562331"
-    },
-    {
       "id": "d52b948b911c68b5",
       "titulo": "Gordon: \"Ha sido el inicio perfecto\"",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219328/gordon-sido-inicio-perfecto.html",
@@ -3464,19 +2947,6 @@
       "fecha": "2026-08-24T17:18:28",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-24T17:37:46.121556"
-    },
-    {
-      "id": "c034fcc3f6c493f7",
-      "titulo": "Acuerdo del Newcastle con el Manchester City por el ex azulgrana Nico González",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219317/acuerdo-newcastle-manchester-city-ex-azulgrana-nico-gonzalez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-24T16:41:28",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-24T17:20:31.939054"
     },
     {
       "id": "94be991a111a66c4",
@@ -3542,32 +3012,6 @@
       "fecha": "2026-08-24T09:24:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-24T09:40:29.503779"
-    },
-    {
-      "id": "a212bad8e0ea762e",
-      "titulo": "El Cádiz se refuerza con un exjugador del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219123/orellana.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-24T08:25:26",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-24T08:50:38.858321"
-    },
-    {
-      "id": "b4c0c9c8ccf1b13e",
-      "titulo": "El ex del Barça Jandro Orellana firma por el Cádiz",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219123/orellana.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-24T08:25:26",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-25T05:34:06.853784"
     },
     {
       "id": "c936365725f56242",
@@ -3869,19 +3313,6 @@
       "visto_por_primera_vez": "2026-08-23T09:10:29.093929"
     },
     {
-      "id": "e241c31eb7553136",
-      "titulo": "Adama Traoré abre la mano y se lo piensa: horas claves para que el Deportivo lo convenza",
-      "enlace": "https://www.sport.es/es/noticias/futbol/adama-traore-abre-mano-piensa-133566409?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-22T11:15:49",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-22T11:30:41.330188"
-    },
-    {
       "id": "a90fff41789a7603",
       "titulo": "Flick, blindado ante el Madrid y Mourinho",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218534/flick.html",
@@ -3906,19 +3337,6 @@
       "fecha": "2026-08-22T10:42:34",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-22T11:10:32.874016"
-    },
-    {
-      "id": "3f0d52a0ae2df608",
-      "titulo": "Lo de Joao Pedro con el Chelsea de Xabi Alonso ya es oficial",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260822/1004218531/joao-pedro-chelsea-xabi-alonso-oficial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-22T09:35:31",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-22T10:10:29.517883"
     },
     {
       "id": "85ee903ecf57428d",
@@ -4116,19 +3534,6 @@
       "visto_por_primera_vez": "2026-08-21T11:10:29.241103"
     },
     {
-      "id": "48662e0591f52203",
-      "titulo": "Rodri Hernández, sobre sus estudios: \"No aprendí a hablar inglés en Manchester o Londres. Lo aprendí en el bosque de Connecticut. Mi referencia es el inglés americano\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/rodri-hernandez-estudios-aprendi-hablar-ingles-estados-unidos-133527453?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-21T07:30:07",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-21T07:40:31.922052"
-    },
-    {
       "id": "28c0e33a4bb199b0",
       "titulo": "Sólo futbolistas que quieran estar",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218063/solo-futbolistas-quieran.html",
@@ -4270,19 +3675,6 @@
       "fecha": "2026-08-20T13:30:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-20T16:10:36.541199"
-    },
-    {
-      "id": "03d52f81206619b7",
-      "titulo": "Joaquín Delgado, nuevo delantero del Real Zaragoza. \"Me conformo con hacer la cifra de goles suficiente para subir\"",
-      "enlace": "https://www.sport.es/es/noticias/futbol/joaquin-delgado-nuevo-delantero-real-133515455?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-08-20T12:14:41",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-20T12:20:34.098390"
     },
     {
       "id": "06fab11f1699bf06",
@@ -4636,19 +4028,6 @@
       "visto_por_primera_vez": "2026-08-19T12:10:32.238118"
     },
     {
-      "id": "e34a2abe46a05456",
-      "titulo": "El Ipswich Town, ejemplo del surrealista potencial económico de la Premier",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260819/1004217591/ipswich-town-recien-ascendido-ingles-equipos-gasta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T11:14:14",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-19T11:37:37.479510"
-    },
-    {
       "id": "228e41f08fbef422",
       "titulo": "En Inglaterra afirman que Gavi rechazó al Manchester United",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217548/inglaterra-afirman-gavi-rechazo-manchester-united.html",
@@ -4777,19 +4156,6 @@
       "fecha": "2026-08-18T19:50:23",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-18T20:10:31.676783"
-    },
-    {
-      "id": "5e6d95c020e305f4",
-      "titulo": "El adamuceño Andrés Cuenca seguirá en Segunda... y volverá a cruzarse con el Córdoba CF",
-      "enlace": "https://www.sport.es/es/noticias/futbol/adamuceno-andres-cuenca-seguira-segunda-133468070?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-18T18:25:06",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-18T18:30:44.413053"
     },
     {
       "id": "cc98aa7ef96727f8",
@@ -5000,19 +4366,6 @@
       "visto_por_primera_vez": "2026-08-17T18:42:09.540049"
     },
     {
-      "id": "adcb45e88b14e339",
-      "titulo": "El modus operandi de Ferran Torres: así se repite el patrón que ya marcó su salida del Valencia",
-      "enlace": "https://www.sport.es/es/noticias/futbol/modus-operandi-ferran-torres-repite-salida-valencia-barca-psg-133436912?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-17T16:47:45",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-17T16:50:52.601507"
-    },
-    {
       "id": "6f2b96f9dfb949cd",
       "titulo": "Valdano: \"Rodri es un fichaje estratégico del Barça\"",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216973/valdano-rodri-fichaje-estrategico-barca.html",
@@ -5024,19 +4377,6 @@
       "fecha": "2026-08-17T16:26:38",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-17T16:40:27.670556"
-    },
-    {
-      "id": "6d577aef4a9dc9eb",
-      "titulo": "Los planes del Manchester City respecto a Enzo Fernández",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260817/1004216968/planes-manchester-city-sobre-enzo-fernandez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-17T16:04:43",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-17T16:40:29.039053"
     },
     {
       "id": "580866777a1db24d",
@@ -5076,19 +4416,6 @@
       "fecha": "2026-08-17T14:09:13",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-17T14:40:27.873981"
-    },
-    {
-      "id": "a77801eeee30c3ab",
-      "titulo": "Jesús de Miguel, objetivo del Real Zaragoza, quiere apurar sus opciones de seguir en Segunda División",
-      "enlace": "https://www.sport.es/es/noticias/futbol/jesus-miguel-objetivo-real-zaragoza-133432354?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-17T14:00:13",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-17T14:10:30.248027"
     },
     {
       "id": "02face2992ccf3af",
@@ -5234,19 +4561,6 @@
       "visto_por_primera_vez": "2026-08-17T19:10:27.918548"
     },
     {
-      "id": "15a9de41c6f488c3",
-      "titulo": "Andrés Cuenca, décima incorporación del Sporting, llega a Asturias: “Muy contento por volver”",
-      "enlace": "https://www.sport.es/es/noticias/futbol/andres-cuenca-decima-incorporacion-sporting-133414181?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-16T20:27:13",
-      "fuente_feed": "SPORT · Fútbol",
-      "visto_por_primera_vez": "2026-08-16T20:40:31.478778"
-    },
-    {
       "id": "4770239cdf8a4405",
       "titulo": "Principio de acuerdo Barça-City por Rodri",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216688/principio-acuerdo-barca-city-rodri.html",
@@ -5336,19 +4650,6 @@
       "fecha": "2026-08-15T21:18:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-15T21:30:42.842947"
-    },
-    {
-      "id": "8645d777ddd40d16",
-      "titulo": "Carlos Baleba, cerca de cambiar de equipo por un dineral",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260815/1004216348/carlos-baleba-sono-barca-cerca-cambiar-equipo-dineral.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-15T15:54:23",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-15T16:20:28.600318"
     },
     {
       "id": "842e75b96df120b5",
