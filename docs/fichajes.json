@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T21:00:59.515688Z",
+  "actualizado": "2026-09-10T21:03:59.725682Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -163,6 +163,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "ce82b0247fc7053e",
+      "titulo": "Neymar se queda con Coutinho",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/top/20260910/1004225781/neymar-queda-coutinho.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-10T20:31:19",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-09-10T21:03:55.848233"
+    },
     {
       "id": "88099a020cff3470",
       "titulo": "Marc Bernal: 20 minutos aprendiendo del maestro Rodri",
@@ -5349,19 +5362,6 @@
       "fecha": "2026-08-15T13:22:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-15T13:42:09.186224"
-    },
-    {
-      "id": "a2dcdb9c31a1be3c",
-      "titulo": "Las alternativas a la falta de '9'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216260/alternativa-falta-9.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-15T11:57:59",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-15T12:10:27.600022"
     }
   ]
 }
