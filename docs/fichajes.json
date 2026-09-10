@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T04:30:44.770807Z",
+  "actualizado": "2026-09-10T04:40:29.735798Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -162,6 +162,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "3c73aa2e512b0b05",
+      "titulo": "Gabriel Jesus, instinto de 'killer'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225420/gabriel-jesus-instinto-killer.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-10T04:25:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-10T04:40:24.745921"
+    },
     {
       "id": "5475c5ec2448a6ae",
       "titulo": "CD Castellón | Leo Messi revoluciona Segunda División con la compra de un equipo de la categoría",
@@ -5348,19 +5361,6 @@
       "fecha": "2026-08-15T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-15T05:10:22.821189"
-    },
-    {
-      "id": "e378643781efd1d5",
-      "titulo": "Acuerdo con el Paris Saint-Germain para el traspaso de Ferran Torres",
-      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdk9pNW9hQ3NIN1FiQTE2cG9fSnJXbS1hc0FUVGUtU1FqM0xqdVNRZ1ZCc2c3TVVtek95LWlxLVZmRmZSa0tpUTdVN0FJSXNIYm9vME5MWEs0RHkzQUVzRm9KdGdWUVB0em40amlfVWZHNVVKMjJBM1lhRmhSVHJLQ19kN3JuRjBmeHhRZUlHLUtDYjc4ZkttSXViQ1V2UzZrWkpkc0NlV0g0bWM2bkhGSVFQRFR5M01KdHczUWJHeE1NTzZhd2NLX3lsSHhrblNrUzlDMGhnVGpZdzJyb045UA?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-15T01:09:00",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-08-22T03:20:25.201102"
     }
   ]
 }
