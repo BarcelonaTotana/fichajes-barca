@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T10:00:58.602009Z",
+  "actualizado": "2026-09-10T10:10:32.012446Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -162,6 +162,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "ff36fa6f889acfb7",
+      "titulo": "El exzaragocista Luis Suárez se estrena con gol en Champions y confirma su buen momento en Europa: cinco dianas en los últimos cuatro partidos",
+      "enlace": "https://www.sport.es/es/noticias/futbol/exzaragocista-luis-suarez-estrena-gol-134138426?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-10T09:56:23",
+      "fuente_feed": "SPORT · Fútbol",
+      "visto_por_primera_vez": "2026-09-10T10:10:29.491265"
+    },
     {
       "id": "45d3d3dda0253bb3",
       "titulo": "Araujo no se olvida del Barça: \"Están volando y son favoritos\"",
@@ -5348,19 +5361,6 @@
       "fecha": "2026-08-15T09:28:54",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-15T09:40:31.535885"
-    },
-    {
-      "id": "3c40d5b332389dcf",
-      "titulo": "Oficial: Ferran Torres ficha por el PSG",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216236/oficial-ferran-torres-ficha-psg.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-15T09:12:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-15T09:40:31.536084"
     }
   ]
 }
