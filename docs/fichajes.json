@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T12:01:00.281312Z",
+  "actualizado": "2026-09-10T12:11:08.121030Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -163,6 +163,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "88099a020cff3470",
+      "titulo": "Marc Bernal: 20 minutos aprendiendo del maestro Rodri",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225595/marc-bernal-20-minutos-aprendiendo-maestro-rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-10T11:34:45",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-10T12:11:02.560328"
+    },
     {
       "id": "73e6b94e0f4d61a3",
       "titulo": "Deco: \"El Barça actuó con respeto para intentar fichar a Julián Álvarez\"",
@@ -5349,19 +5362,6 @@
       "fecha": "2026-08-15T11:57:59",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-15T12:10:27.600022"
-    },
-    {
-      "id": "c7af98a5293e1671",
-      "titulo": "El Barça hace una tercera oferta por Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216246/barca-tercera-oferta-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-15T09:28:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-15T09:40:31.535665"
     }
   ]
 }
