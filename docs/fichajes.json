@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T10:30:53.779069Z",
+  "actualizado": "2026-09-10T10:41:08.245908Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -94,6 +94,7 @@
     "6f8e5dad1468ccc2",
     "725b7caed2f22a15",
     "7311a4fc282f6a99",
+    "73e6b94e0f4d61a3",
     "745703ac2fc48f0c",
     "7f5de7c97cea0906",
     "7fc57e0e098803fd",
@@ -162,6 +163,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "73e6b94e0f4d61a3",
+      "titulo": "Deco: \"El Barça actuó con respeto para intentar fichar a Julián Álvarez\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225549/deco.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-10T10:02:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-10T10:41:02.554489"
+    },
     {
       "id": "ff36fa6f889acfb7",
       "titulo": "El exzaragocista Luis Suárez se estrena con gol en Champions y confirma su buen momento en Europa: cinco dianas en los últimos cuatro partidos",
@@ -5348,19 +5362,6 @@
       "fecha": "2026-08-15T09:28:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-15T09:40:31.535665"
-    },
-    {
-      "id": "3c47891347dd1256",
-      "titulo": "Traspaso histórico de Ferran: así queda el top-10 de ventas del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004215920/traspaso-historico-ferran-asi-queda-top-10-ventas-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-15T09:28:54",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-15T09:40:31.535885"
     }
   ]
 }
