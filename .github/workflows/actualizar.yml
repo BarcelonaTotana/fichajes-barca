@@ -23,6 +23,8 @@ jobs:
     steps:
       - name: Descargar el repositorio
         uses: actions/checkout@v4
+        with:
+          ref: main   # la punta ACTUAL de main (si esperó en cola, el commit del disparo ya está viejo y el push se rechaza)
 
       - name: Preparar Python
         uses: actions/setup-python@v5

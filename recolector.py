@@ -94,6 +94,27 @@ def _tier_periodista(texto):
     return min(tiers) if tiers else None
 
 
+def _normaliza(texto):
+    """Minúsculas y sin acentos (para casar 'Cubarsi' con 'cubarsí')."""
+    s = unicodedata.normalize("NFD", (texto or "").lower())
+    return "".join(c for c in s if unicodedata.category(c) != "Mn")
+
+
+def _patron_nombres(nombres):
+    """Regex de palabra completa para una lista de nombres (sin acentos)."""
+    return re.compile(r"\b(?:" + "|".join(re.escape(_normaliza(n)) for n in nombres) + r")\b")
+
+
+_RE_PRIMER_EQUIPO = _patron_nombres(F.JUGADORES_PRIMER_EQUIPO)
+_RE_BARCA_ATLETIC = _patron_nombres(F.JUGADORES_BARCA_ATLETIC)
+
+
+def _nombra_jugador(texto):
+    """Verdadero si el texto nombra a un jugador de la plantilla (primer equipo o filial)."""
+    t = _normaliza(texto)
+    return bool(_RE_PRIMER_EQUIPO.search(t) or _RE_BARCA_ATLETIC.search(t))
+
+
 def _es_femenino(texto):
     """Detecta fútbol femenino por marcas o por nombres de jugadoras del Barça Femení."""
     t = texto.lower()
@@ -124,11 +145,28 @@ def _es_relevante(texto):
         return False
     if _es_otro_deporte(texto):
         return False
-    if not any(b in t for b in F.PALABRAS_BARSA):
+    if not any(b in t for b in F.PALABRAS_BARSA) and not _nombra_jugador(texto):
         return False
     if not any(f in t for f in F.PALABRAS_FICHAJE):
         return False
     return True
+
+
+def _apto_feed_general(feed, titulo):
+    """En los feeds de todo el fútbol (F.FEEDS_BARSA_EN_TITULO) el TITULAR debe nombrar
+    al Barça o a un jugador de su plantilla (no basta el resumen: 'el exzaragocista…')
+    y traer un movimiento de mercado. No cuentan menciones de terceros como
+    'ex del Barça' o 'rival del Barça'."""
+    if feed not in F.FEEDS_BARSA_EN_TITULO:
+        return True
+    t = titulo.lower()
+    for m in F.MENCIONES_BARSA_AJENAS:
+        t = t.replace(m, " ")
+    # Palabra completa: 'cule' no debe casar con 'culebrón'.
+    if (not any(re.search(r"\b" + re.escape(b) + r"\b", t) for b in F.PALABRAS_BARSA)
+            and not _nombra_jugador(t)):
+        return False
+    return _tiene_movimiento(titulo)
 
 
 def _estado(texto):
@@ -147,13 +185,17 @@ def _clasificar(texto):
     """Ámbito del proyecto: 'primer_equipo' o 'barca_atletic'. Devuelve None para
     DESCARTAR (cantera inferior, o renovaciones del Barça Atlètic)."""
     t = texto.lower()
-    if any(k in t for k in F.ATLETIC_KEYS):
+    n = _normaliza(texto)
+    primer_equipo = _RE_PRIMER_EQUIPO.search(n)
+    # Filial: por palabra clave, o porque solo se nombra a jugadores del filial.
+    if any(k in t for k in F.ATLETIC_KEYS) or (_RE_BARCA_ATLETIC.search(n) and not primer_equipo):
         # Barça Atlètic: solo fichajes / cesiones / ventas (fuera renovaciones).
         if _es_renovacion(t) and not any(k in t for k in F.PALABRAS_ALTA_BAJA):
             return None
         return "barca_atletic"
-    if any(k in t for k in F.YOUTH_KEYS):
+    if any(k in t for k in F.YOUTH_KEYS) and not primer_equipo:
         return None   # juvenil, cadete, infantil, La Masia… -> fuera del ámbito
+                      # (salvo que nombre a un jugador del primer equipo: 'Lamine, joya de La Masia')
     return "primer_equipo"
 
 
@@ -188,8 +230,10 @@ def apto_para_telegram(n):
         return False
     if _es_femenino(n["titulo"]):          # nada de fútbol femenino
         return False
-    # Debe ser del CLUB, no de la ciudad de Barcelona (salvo fuente oficial, tier 0).
-    if n["tier"] != 0 and not any(c in n["titulo"].lower() for c in F.PALABRAS_CLUB):
+    # Debe ser del CLUB, no de la ciudad de Barcelona (salvo fuente oficial, tier 0):
+    # el titular nombra al club o a un jugador de la plantilla.
+    if (n["tier"] != 0 and not any(c in n["titulo"].lower() for c in F.PALABRAS_CLUB)
+            and not _nombra_jugador(n["titulo"])):
         return False
     return True
 
@@ -243,6 +287,8 @@ def recolectar_feed(nombre, tier_forzado, url):
 
         if not _es_relevante(texto):
             continue
+        if not _apto_feed_general(nombre, titulo_bruto):
+            continue
         categoria = _clasificar(texto)
         if categoria is None:      # cantera inferior o renovación del Atlètic -> fuera
             continue
@@ -293,6 +339,8 @@ def cargar_datos():
 
 
 def guardar(noticias, cerradas, alertadas):
+    """Guarda el JSON. Si solo cambiaría la hora de 'actualizado', no lo reescribe
+    (así el workflow no hace un commit en cada ejecución). Devuelve True si guardó."""
     os.makedirs("docs", exist_ok=True)
     salida = {
         "actualizado": dt.datetime.utcnow().isoformat() + "Z",
@@ -301,8 +349,17 @@ def guardar(noticias, cerradas, alertadas):
         "alertadas": sorted(alertadas)[-5000:],  # ids ya avisados (tope para no crecer sin fin)
         "noticias": noticias,
     }
+    try:
+        with open(RUTA_DATOS, "r", encoding="utf-8") as f:
+            previo = json.load(f)
+        previo.pop("actualizado", None)
+        if previo == {k: v for k, v in salida.items() if k != "actualizado"}:
+            return False
+    except Exception:
+        pass   # no existe o está corrupto -> se escribe
     with open(RUTA_DATOS, "w", encoding="utf-8") as f:
         json.dump(salida, f, ensure_ascii=False, indent=2)
+    return True
 
 
 def main():
@@ -344,7 +401,8 @@ def main():
             todas.append((f, n))
     todas.sort(key=lambda x: x[0], reverse=True)
     # Limpieza retroactiva: descarta lo ya guardado que ya no encaja con los filtros.
-    todas = [n for _, n in todas if _valida_por_titulo(n["titulo"])][:MAX_NOTICIAS]
+    todas = [n for _, n in todas if _valida_por_titulo(n["titulo"])
+             and _apto_feed_general(n.get("fuente_feed"), n["titulo"])][:MAX_NOTICIAS]
 
     # ---- Alertas de Telegram ----
     # Universo: items ÚNICOS vistos en esta ejecución. Una noticia se avisa como
@@ -384,8 +442,9 @@ def main():
             print(f"Enviando {len(lote)} alertas a Telegram…")
             telegram_alertas.enviar_alertas([n for n, _ in lote])
 
-    guardar(todas, cerradas, alertadas)
-    print(f"Noticias nuevas: {len(nuevas)} · Total guardadas: {len(todas)}")
+    guardado = guardar(todas, cerradas, alertadas)
+    print(f"Noticias nuevas: {len(nuevas)} · Total guardadas: {len(todas)}"
+          + ("" if guardado else " · Sin cambios (JSON intacto)"))
 
 
 if __name__ == "__main__":

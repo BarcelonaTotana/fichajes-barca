@@ -76,6 +76,19 @@ BUSQUEDAS_GENERALES = [
                   '-femenino -baloncesto when:21d')),
 ]
 
+# Feeds de TODO el fútbol (no solo del Barça): se exige que el TITULAR nombre al Barça
+# y traiga un movimiento de mercado (PALABRAS_MOVIMIENTO). Si no, casi siempre es otro
+# equipo (City, Depor, Zaragoza…) o una opinión / clasificación.
+FEEDS_BARSA_EN_TITULO = ["Mundo Deportivo · Fichajes", "SPORT · Fútbol"]
+
+# Menciones del Barça que NO lo hacen protagonista ("el ex del Barça X firma por el
+# Cádiz"). En esos feeds no cuentan como mención del Barça.
+MENCIONES_BARSA_AJENAS = [
+    "exjugador del barça", "ex jugador del barça", "ex del barça", "ex del barcelona",
+    "ex azulgrana", "exazulgrana", "ex blaugrana", "exblaugrana", "exbarcelonista",
+    "rival del barça", "rival del barcelona",
+]
+
 # ---------------------------------------------------------------------------
 # 3. TIER por dominio (para RSS directos, si algún día se usan).
 # ---------------------------------------------------------------------------
@@ -247,6 +260,35 @@ JUGADORAS_FEMENINO = [
     "vicky lopez", "torrejón", "torrejon", "graham hansen", "kika nazareth",
     "ainoa gómez", "ainoa gomez", "brugts", "engen", "schertenleib", "caroline graham",
     "jana fernández", "alba caño", "clàudia pina", "aleixandri", "laia aleixandri",
+]
+
+# ---------------------------------------------------------------------------
+# 12. PLANTILLA (septiembre 2026): si el texto nombra a un jugador del Barça, cuenta
+#     como mención del Barça (señal POSITIVA). Palabra completa y sin distinguir
+#     acentos. Apellidos muy comunes van con nombre completo; los que chocan con otros
+#     futbolistas se omiten (Pedro Rodríguez, Álex González, Juan Hernández).
+#     OJO: actualizar en cada mercado (fcbarcelona.com → Plantilla / Wikipedia).
+# ---------------------------------------------------------------------------
+JUGADORES_PRIMER_EQUIPO = [
+    "joan garcía", "szczesny", "szczęsny", "livakovic", "livaković",
+    "cancelo", "balde", "cubarsí", "espart", "christensen", "gerard martín",
+    "koundé", "eric garcía",
+    "fariñas", "gavi", "fermín", "pedri", "rodri", "olmo", "frenkie", "de jong",
+    "marc bernal", "bernal",
+    "gabriel jesús", "lamine", "yamal", "raphinha", "adeyemi", "anthony gordon", "gordon",
+    "bardghji", "bisiwu", "abdelkarim",
+    # cedidos (su futuro sigue siendo una operación del Barça)
+    "araujo", "ter stegen",
+]
+
+JUGADORES_BARCA_ATLETIC = [
+    "eder aller", "bonfill", "iker rodríguez",
+    "landry farré", "javi castro", "álex campos", "josué caicedo", "álex walton", "gariba",
+    "guillem víctor", "onstein", "pesquer", "patricio pacífico",
+    "pedro villar", "tunkara", "catovic", "ybarra", "dani ávila", "argemí", "orian goren",
+    "aziz issah", "shane kluivert", "ibrahim diarra", "ignasi quer", "joni hernández", "gistau",
+    # cedidos
+    "kochen", "yaakobishvili",
 ]
 
 
