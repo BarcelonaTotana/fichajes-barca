@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T22:30:42.566923Z",
+  "actualizado": "2026-09-10T22:40:35.472284Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -163,6 +163,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "2000727b4111d970",
+      "titulo": "Raphinha, el '9' que buscaba el Barça ya está aquí",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225826/raphinha-9-buscaba-barca-esta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-10T22:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-10T22:40:29.856946"
+    },
     {
       "id": "ce82b0247fc7053e",
       "titulo": "Neymar se queda con Coutinho",
@@ -5349,19 +5362,6 @@
       "fecha": "2026-08-15T13:52:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-15T14:10:28.115436"
-    },
-    {
-      "id": "c7484134e00451b6",
-      "titulo": "El Dortmund aprieta por Héctor Fort",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216312/dortmund-aprieta-hector-fort.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-15T13:22:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-15T13:42:09.186224"
     }
   ]
 }
