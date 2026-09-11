@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-11T02:40:29.240852Z",
-  "total": 347,
+  "actualizado": "2026-09-11T05:40:31.446061Z",
+  "total": 350,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -166,6 +166,45 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d86a2f6307165e42",
+      "titulo": "Ferran López, director de los Mossos, no fue cesado del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225809/ferran-lopez-director-mossos-no-cesado-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-11T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-11T05:40:25.747793"
+    },
+    {
+      "id": "044efdd155e79d15",
+      "titulo": "Lo mejor de la racha de cinco partidos marcando de Raphinha",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225805/mejor-racha-cinco-partidos-marcando-raphinha.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-11T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-11T05:40:25.748528"
+    },
+    {
+      "id": "b009308aeb102b4e",
+      "titulo": "El gol de la Champions",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225764/gol-champions.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-11T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-11T05:40:25.748967"
+    },
     {
       "id": "edfc70fc3ad26c11",
       "titulo": "Controlar la obsesión",
