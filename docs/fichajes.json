@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-11T12:10:44.481705Z",
-  "total": 352,
+  "actualizado": "2026-09-11T22:40:30.726851Z",
+  "total": 353,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -168,6 +168,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d150ea3fcdf6126f",
+      "titulo": "Las próximas renovaciones en las que ya trabaja el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226082/proximas-renovaciones-trabaja-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-11T22:10:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-11T22:40:25.703946"
+    },
     {
       "id": "d4d777d16cfe4c56",
       "titulo": "Oficial: Hamza Abdelkarim, renovado",
