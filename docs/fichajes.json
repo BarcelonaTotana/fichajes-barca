@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-11T05:40:31.446061Z",
-  "total": 350,
+  "actualizado": "2026-09-11T08:40:32.305917Z",
+  "total": 351,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -166,6 +166,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "9250158d1756202e",
+      "titulo": "Ilusión de Laporta en la Diada: \"Somos candidatos a todo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225880/ilusion-laporta-diada-candidatos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-11T08:14:51",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-11T08:40:27.319107"
+    },
     {
       "id": "d86a2f6307165e42",
       "titulo": "Ferran López, director de los Mossos, no fue cesado del Barça",
