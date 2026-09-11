@@ -1,12 +1,13 @@
 {
-  "actualizado": "2026-09-11T08:40:32.305917Z",
-  "total": 351,
+  "actualizado": "2026-09-11T12:10:44.481705Z",
+  "total": 352,
   "cerradas": [
     "alex campos",
     "aston villa",
     "carla julia",
     "celia segura",
     "gabriel jesus",
+    "hamza abdelkarim",
     "jesse bisiwu",
     "jorge salinas",
     "josue caicedo",
@@ -144,6 +145,7 @@
     "cf86e5c6af4b5e90",
     "cfc7974d49bc48e0",
     "d1678f114989da7e",
+    "d4d777d16cfe4c56",
     "d50e311752fe32b0",
     "d5d7c661b08565b2",
     "d74b02004bbf149f",
@@ -166,6 +168,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d4d777d16cfe4c56",
+      "titulo": "Oficial: Hamza Abdelkarim, renovado",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225937/oficial-hamza-abdelkarim-renovado.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-11T11:38:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-11T12:10:38.606060"
+    },
     {
       "id": "9250158d1756202e",
       "titulo": "Ilusión de Laporta en la Diada: \"Somos candidatos a todo\"",
