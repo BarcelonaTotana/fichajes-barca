@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-10T23:51:10.175602Z",
-  "total": 346,
+  "actualizado": "2026-09-11T02:40:29.240852Z",
+  "total": 347,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -166,6 +166,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "edfc70fc3ad26c11",
+      "titulo": "Controlar la obsesión",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225610/controlar-obsesion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-11T02:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-11T02:40:24.202927"
+    },
     {
       "id": "2000727b4111d970",
       "titulo": "Raphinha, el '9' que buscaba el Barça ya está aquí",
