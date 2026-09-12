@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T04:40:32.577396Z",
-  "total": 354,
+  "actualizado": "2026-09-12T05:40:33.965037Z",
+  "total": 355,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -168,6 +168,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "c3a41b60135e92d8",
+      "titulo": "Preparen la palomitas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226029/momento-dulce.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-12T05:05:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-12T05:40:28.008994"
+    },
     {
       "id": "0888e60de8bfffbe",
       "titulo": "Renovaciones que son fichajes",
