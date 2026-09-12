@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-11T22:40:30.726851Z",
-  "total": 353,
+  "actualizado": "2026-09-12T04:40:32.577396Z",
+  "total": 354,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -168,6 +168,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "0888e60de8bfffbe",
+      "titulo": "Renovaciones que son fichajes",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226085/renovaciones-son-fichajes.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-12T04:20:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-12T04:40:27.375216"
+    },
     {
       "id": "d150ea3fcdf6126f",
       "titulo": "Las próximas renovaciones en las que ya trabaja el Barça",
