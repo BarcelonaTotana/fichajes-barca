@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T15:40:34.245565Z",
-  "total": 361,
+  "actualizado": "2026-09-12T16:10:31.358031Z",
+  "total": 362,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -170,6 +170,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "f5701857a7aa41ea",
+      "titulo": "El Barça vuela hacia Valencia con 24 convocados",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226373/barca-vuela-valencia-seguir-siendo-lider.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-12T15:59:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-12T16:10:26.359750"
+    },
     {
       "id": "082beb63b3723608",
       "titulo": "Arteta se explica sobre la salida de Gabriel Jesus a Barcelona",
