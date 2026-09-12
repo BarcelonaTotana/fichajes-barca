@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T11:40:31.781766Z",
-  "total": 358,
+  "actualizado": "2026-09-12T12:10:37.581347Z",
+  "total": 359,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -169,6 +169,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "7a77a8a22bd87d41",
+      "titulo": "Bisiwu, refuerzo de lujo para el Barça Atlètic",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226298/bisiwu-refuerzo-lujo-barca-atletic.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-12T11:32:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-12T12:10:32.212447"
+    },
     {
       "id": "a9a7cc679aa5c9c6",
       "titulo": "Flick: \"Hamza es un gran proyecto de futuro\"",
