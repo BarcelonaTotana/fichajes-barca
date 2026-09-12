@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T05:40:33.965037Z",
-  "total": 355,
+  "actualizado": "2026-09-12T09:10:33.624014Z",
+  "total": 357,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -117,6 +117,7 @@
     "a6a4505cce06ed66",
     "a8834e2935efb5a4",
     "a8a47597c10b065b",
+    "aad9f2de37e7b28b",
     "ab109c4f2d31ccf8",
     "ac55538c25bf2ff0",
     "ac778d22471e32b6",
@@ -169,6 +170,19 @@
   ],
   "noticias": [
     {
+      "id": "aad9f2de37e7b28b",
+      "titulo": "Colocan al Barça en la puja por la joya del Borussia Dortmund",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226231/colocan-barca-puja-joya-borussia-dortmund.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-12T08:39:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-12T09:10:27.364752"
+    },
+    {
       "id": "c3a41b60135e92d8",
       "titulo": "Preparen la palomitas",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226029/momento-dulce.html",
@@ -180,6 +194,19 @@
       "fecha": "2026-09-12T05:05:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-12T05:40:28.008994"
+    },
+    {
+      "id": "513f2748d525a557",
+      "titulo": "Preparen las palomitas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226029/momento-dulce.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-12T05:05:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-12T09:10:27.365459"
     },
     {
       "id": "0888e60de8bfffbe",
