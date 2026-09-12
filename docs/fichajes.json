@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T09:10:33.624014Z",
-  "total": 357,
+  "actualizado": "2026-09-12T11:40:31.781766Z",
+  "total": 358,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -169,6 +169,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "a9a7cc679aa5c9c6",
+      "titulo": "Flick: \"Hamza es un gran proyecto de futuro\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226285/flick-hamza-gran-proyecto-futuro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-12T11:04:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-12T11:40:26.432081"
+    },
     {
       "id": "aad9f2de37e7b28b",
       "titulo": "Colocan al Barça en la puja por la joya del Borussia Dortmund",
