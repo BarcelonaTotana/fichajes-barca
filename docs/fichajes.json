@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T12:10:37.581347Z",
-  "total": 359,
+  "actualizado": "2026-09-12T15:40:34.245565Z",
+  "total": 361,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -27,6 +27,7 @@
     "053d70e4f90d8c86",
     "05fed9472c50534b",
     "075a54a89507f220",
+    "082beb63b3723608",
     "09144d5ce9eed317",
     "09e90e74922a2b9b",
     "0ca73f3a1a9e33e9",
@@ -169,6 +170,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "082beb63b3723608",
+      "titulo": "Arteta se explica sobre la salida de Gabriel Jesus a Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226357/arteta-explica-sobre-salida-gabriel-jesus-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-12T15:04:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-12T15:40:29.108935"
+    },
     {
       "id": "7a77a8a22bd87d41",
       "titulo": "Bisiwu, refuerzo de lujo para el Barça Atlètic",
@@ -2300,6 +2314,19 @@
       "fecha": "2026-08-29T09:11:21",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-29T09:40:27.953254"
+    },
+    {
+      "id": "6144c149ff249159",
+      "titulo": "Tras los pasos de Héctor Fort y Álvaro Cortés: el Barça ingresa cuatro millones de euros por la venta de otro canterano",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWRZUENFZ1VkcDZKNkc5ZmtRd1lMRzRFSHNUSE5KSDQtcm42LVRNbVJuQkJ1M1VOVlN5Q1I3WmxWSGNWUDlxdE94MjIxMEpLVFp1X2FxdkFFeTlyT0RLcENHM1hqMkp6eTFvVGo0QlhuamRaU1o4OXFvSmJrSlMybUwxNUVjblRfbm5jSlRtYlhOTm0tcjNOUzZJUTJJTjh3WXh1ZEExT3RMSXM3LU1OdHpSQ0tXUHV5RFBkdjZ2bVkyUjJLVUwzVGNsVFpKTnJScVRyay1JY9IB3AFBVV95cUxPNGQ1WjA2M0NnRTJ4R3NvS0R4d1lqQnJDSElCUTlvcDYwOHl0QVN0RmJ4VzczN1BPcVFpZ3VlcUlxUFJFMkwwRWYxQmpTVXdrcjdUOWtidlNHbXBFMGE5bHNZZkVQd0VRbVlTRVdOY04xaWxydGNEYmg1QVA1ZmNyMEZCQ3FEZElSV3B1OXhOcnpOWTFJUzh0bWtQMHY3UnFrQnBua2ZYUVRLdjRfSS1hOEZrOUtHempyRFBIanhoNXpUZ0lUTlBUWWk0c0xDMGhkT1IzcUZ3TXQyUjVP?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-08-29T07:00:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-09-12T15:40:33.227731"
     },
     {
       "id": "495d16114943188a",
