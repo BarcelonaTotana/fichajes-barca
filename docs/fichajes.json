@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T19:10:32.562212Z",
-  "total": 363,
+  "actualizado": "2026-09-13T20:11:09.570892Z",
+  "total": 368,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -156,6 +156,7 @@
     "dab57ae6070c3e69",
     "e378643781efd1d5",
     "e3a94229afba7283",
+    "e41123fdb5ece249",
     "e6801ae14559f1b4",
     "ea808076b691ebf8",
     "ec2ad5ac04ad89bb",
@@ -170,6 +171,58 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "e41123fdb5ece249",
+      "titulo": "Adeyemi firma la sentencia con otro golazo pero sin voltereta",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226775/adeyemi-firma-sentencia-golazo-voltereta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-13T16:46:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-13T20:11:02.502545"
+    },
+    {
+      "id": "e302b27fcaa88e8a",
+      "titulo": "Cinco novedades en el once del Barça contra el Levante",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226679/once-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-13T13:04:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-13T20:11:02.503510"
+    },
+    {
+      "id": "b6ad54f2d723c125",
+      "titulo": "Yuste pide el Balón de Oro para Lamine en la comida exprés con el Levante",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226570/laporta-comida-directivas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-13T11:28:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-13T20:11:02.503902"
+    },
+    {
+      "id": "b9e647fe5241ac0c",
+      "titulo": "El objetivo de la Champions",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226507/objetivo-champions.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-13T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-13T20:11:02.504968"
+    },
     {
       "id": "f5701857a7aa41ea",
       "titulo": "El Barça vuela hacia Valencia con 24 convocados",
@@ -195,6 +248,19 @@
       "fecha": "2026-09-12T15:59:56",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-12T19:10:27.277793"
+    },
+    {
+      "id": "fa33dc7694125c5f",
+      "titulo": "El Barça ya está en Valencia con 24 jugadores en la convocatoria",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226373/barca-vuela-valencia-seguir-siendo-lider.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-12T15:59:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-13T20:11:02.506655"
     },
     {
       "id": "082beb63b3723608",
