@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-14T12:40:34.653277Z",
-  "total": 370,
+  "actualizado": "2026-09-14T13:58:27.219461Z",
+  "total": 369,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4968,19 +4968,6 @@
       "fecha": "2026-08-15T21:18:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-15T21:30:42.842947"
-    },
-    {
-      "id": "842e75b96df120b5",
-      "titulo": "Con Ferran ya son cuatro los jugadores del Barça que Luis Enrique se ha llevado al PSG",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260815/1004216314/ferran-torres-son-cuatro-jugadores-barca-han-puesto-rumbo-psg-luis-enrique.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-15T13:52:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-15T14:10:28.115436"
     }
   ]
 }
