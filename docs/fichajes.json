@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-14T13:58:27.219461Z",
-  "total": 369,
+  "actualizado": "2026-09-14T18:40:33.417490Z",
+  "total": 370,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -172,6 +172,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "cebc9ddefe47247b",
+      "titulo": "Rodri: \"La Champions es factible pero no creo que seamos los favoritos\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227249/rodri-champions-factible-no-favoritos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-14T18:04:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-14T18:40:28.383250"
+    },
     {
       "id": "6c00ed9273b001ec",
       "titulo": "Primeros contactos para la renovación de Gerard Martín",
