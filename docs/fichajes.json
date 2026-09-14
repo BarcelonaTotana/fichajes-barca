@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-14T18:40:33.417490Z",
-  "total": 370,
+  "actualizado": "2026-09-14T19:10:35.295138Z",
+  "total": 371,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -172,6 +172,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "bb5a2aadb1f55908",
+      "titulo": "Gordon desvela a RAC1 las palabras que ya domina en catalán",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227270/gordon-desvela-rac1-palabras-domina-catalan.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-14T18:56:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-14T19:10:29.158544"
+    },
     {
       "id": "cebc9ddefe47247b",
       "titulo": "Rodri: \"La Champions es factible pero no creo que seamos los favoritos\"",
