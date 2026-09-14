@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-14T21:20:34.607608Z",
-  "total": 371,
+  "actualizado": "2026-09-14T22:04:10.386005Z",
+  "total": 374,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -172,6 +172,45 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "5e470ff9e7512f72",
+      "titulo": "Rodri: \"Llamé a Mourinho para agradecerle su interés y el trato\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227309/rodri-llame-mourinho-agradecerle-interes-trato.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-14T22:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-14T22:03:14.482470"
+    },
+    {
+      "id": "bb0b2474a756a27b",
+      "titulo": "Rodri da las claves de su elección por el Barça y su no al Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227285/rodri-da-claves-eleccion-barca-no-madrid.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-14T22:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-14T22:03:14.482823"
+    },
+    {
+      "id": "500ebfffdbaef586",
+      "titulo": "Lamine Yamal: \"Estar obsesionado con ganar la Champions es bueno\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227304/lamine-yamal-obsesionado-ganar-champions-bueno.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-14T21:42:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-14T22:03:14.483155"
+    },
     {
       "id": "bf617195eb09d0ef",
       "titulo": "Mendes: \"El Balón de Oro es para Lamine, es el mejor con mucha diferencia\"",
