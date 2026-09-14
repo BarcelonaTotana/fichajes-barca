@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-14T22:04:10.386005Z",
-  "total": 374,
+  "actualizado": "2026-09-14T22:33:17.182346Z",
+  "total": 375,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -172,6 +172,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "222550fb8dc5e136",
+      "titulo": "Laporta: \"¿Las críticas a Lamine?, no las veo cuando otros también hacen campaña\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227360/laporta-criticas-lamine-no-veo-otros-campana.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-14T22:18:25",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-14T22:33:12.076513"
+    },
     {
       "id": "5e470ff9e7512f72",
       "titulo": "Rodri: \"Llamé a Mourinho para agradecerle su interés y el trato\"",
