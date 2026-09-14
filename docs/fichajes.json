@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-14T19:10:35.295138Z",
-  "total": 371,
+  "actualizado": "2026-09-14T21:10:37.799205Z",
+  "total": 372,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -172,6 +172,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "bf617195eb09d0ef",
+      "titulo": "Mendes: \"El Balón de Oro es para Lamine, es el mejor con mucha diferencia\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227287/mendes-balon-oro-lamine-mejor-diferencia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-14T20:47:36",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-14T21:10:32.425497"
+    },
     {
       "id": "bb5a2aadb1f55908",
       "titulo": "Gordon desvela a RAC1 las palabras que ya domina en catalán",
