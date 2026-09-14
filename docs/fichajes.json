@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-14T21:10:37.799205Z",
-  "total": 372,
+  "actualizado": "2026-09-14T21:20:34.607608Z",
+  "total": 371,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4994,19 +4994,6 @@
       "fecha": "2026-08-16T03:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-16T03:40:28.754510"
-    },
-    {
-      "id": "487314b12e490544",
-      "titulo": "Oficial: Barça Atlètic, firma Josué Caicedo",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWlCUkw0UnVsOFc4eHpGOUgzM2ZWcVNBaURNSW52dWpUQkFaUkFYQkU4MFplVXhqbkEtQzJ6d00td1pHTHJIZjgwbXRMd2lzMmhQb0JQQzdwdm50VjZXektrOWZiNmlHTDJORjRXMk9VRzhuVVBoNXhqTkUwT1VsbVhleDVEWTh3U3c?oc=5",
-      "medio": "nuevofutbol.com",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-08-15T21:18:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-08-15T21:30:42.842947"
     }
   ]
 }
