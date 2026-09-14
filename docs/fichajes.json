@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-14T11:10:35.856090Z",
-  "total": 369,
+  "actualizado": "2026-09-14T12:40:34.653277Z",
+  "total": 370,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -90,6 +90,7 @@
     "6603845fea51b1fa",
     "69e2532d04071127",
     "6b36dc75b6b0623c",
+    "6c00ed9273b001ec",
     "6c872010888cca54",
     "6c8f00b103dc3566",
     "6e71035cd811a191",
@@ -171,6 +172,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "6c00ed9273b001ec",
+      "titulo": "Primeros contactos para la renovación de Gerard Martín",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227069/primeros-contactos-renovacion-gerard-martin.html",
+      "medio": "mundodeportivo.com",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-14T12:20:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-14T12:40:27.932312"
+    },
     {
       "id": "4e2bf9cb03ebc496",
       "titulo": "Raphinha lidera la generación de gol en las grandes ligas",
