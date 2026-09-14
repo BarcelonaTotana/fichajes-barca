@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-13T20:11:09.570892Z",
-  "total": 368,
+  "actualizado": "2026-09-14T11:10:35.856090Z",
+  "total": 369,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -171,6 +171,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "4e2bf9cb03ebc496",
+      "titulo": "Raphinha lidera la generación de gol en las grandes ligas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227009/raphinha-lidera-generacion-gol-grandes-ligas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-14T10:43:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-14T11:10:30.212278"
+    },
     {
       "id": "e41123fdb5ece249",
       "titulo": "Adeyemi firma la sentencia con otro golazo pero sin voltereta",
