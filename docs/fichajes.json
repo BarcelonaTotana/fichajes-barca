@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T17:10:34.008111Z",
-  "total": 380,
+  "actualizado": "2026-09-15T17:40:31.605351Z",
+  "total": 382,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -157,6 +157,7 @@
     "d99b318f89a79c54",
     "dab57ae6070c3e69",
     "ddc461c4332c90e7",
+    "e12d228c28cd4929",
     "e378643781efd1d5",
     "e3a94229afba7283",
     "e41123fdb5ece249",
@@ -174,6 +175,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "c920dd6fbe442782",
+      "titulo": "Hamza Abdelkarim, el ‘9’ de futuro: “Tengo muchas cosas que mejorar”",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227669/hamza-abdelkarim-9-futuro-muchas-cosas-mejorar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-15T17:16:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-15T17:40:26.925034"
+    },
+    {
+      "id": "e12d228c28cd4929",
+      "titulo": "Acto de renovación de Hamza Abdelkarim con el FC Barcelona, en directo: última hora del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227605/acto-renovacion-hamza-abdelkarim-fc-barcelona-directo-ultima-hora-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-15T15:09:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-15T17:40:26.925560"
+    },
     {
       "id": "1835f8bea2adcac0",
       "titulo": "La fallida 'operación Barça-Salinas' descubrió a Espart",
