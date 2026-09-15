@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T04:10:32.417640Z",
-  "total": 375,
+  "actualizado": "2026-09-15T05:40:33.412718Z",
+  "total": 376,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -172,6 +172,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "238898d488ac225c",
+      "titulo": "Un fútbol espectáculo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227258/futbol-espectaculo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-15T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-15T05:40:27.420865"
+    },
     {
       "id": "369f2a589aa102d8",
       "titulo": "Rodri, feliz: \"Flipo con el cariño de los culés\"",
