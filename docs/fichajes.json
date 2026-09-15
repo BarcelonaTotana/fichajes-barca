@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T03:41:08.631645Z",
-  "total": 375,
+  "actualizado": "2026-09-15T04:00:56.258921Z",
+  "total": 374,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -5033,19 +5033,6 @@
       "fecha": "2026-08-16T07:41:44",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-16T08:10:25.944481"
-    },
-    {
-      "id": "e79cd484598bc9ea",
-      "titulo": "Que se prepare Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216463/prepare-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-16T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-16T04:10:31.393168"
     }
   ]
 }
