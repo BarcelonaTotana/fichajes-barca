@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T11:10:31.934688Z",
-  "total": 380,
+  "actualizado": "2026-09-15T15:40:36.815729Z",
+  "total": 381,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -156,6 +156,7 @@
     "d94545d1196ce20a",
     "d99b318f89a79c54",
     "dab57ae6070c3e69",
+    "ddc461c4332c90e7",
     "e378643781efd1d5",
     "e3a94229afba7283",
     "e41123fdb5ece249",
@@ -211,6 +212,19 @@
       "fecha": "2026-09-15T07:09:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-15T07:40:28.606975"
+    },
+    {
+      "id": "ddc461c4332c90e7",
+      "titulo": "Rafa Márquez compara una perla en el radar culé con Lamine",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227390/rafa-marquez-compara-lamine-perla-radar-cule.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-15T07:09:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-15T15:40:30.663332"
     },
     {
       "id": "4ccf19efa358675a",
