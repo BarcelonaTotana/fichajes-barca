@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T05:40:33.412718Z",
-  "total": 376,
+  "actualizado": "2026-09-15T07:40:34.818479Z",
+  "total": 379,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -84,6 +84,7 @@
     "592788f78b2f9daf",
     "5b462f2a0265786c",
     "5b5649b190729a23",
+    "5e9a6188c753edfc",
     "609c90f80c89b22c",
     "62e748acf1dcaf9c",
     "643d5176f36e29d4",
@@ -172,6 +173,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "5e9a6188c753edfc",
+      "titulo": "Rafa Márquez compara con Lamine una perla en el radar culé",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227390/rafa-marquez-compara-lamine-perla-radar-cule.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-15T07:09:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-15T07:40:28.606975"
+    },
+    {
+      "id": "4ccf19efa358675a",
+      "titulo": "Rodri: \"Raphinha es espectacular y Julián es brutal, claro que lo ficharía\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227290/rodri-raphinha-espectacular-julian-brutal-claro-ficharia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-15T07:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-15T07:40:28.607211"
+    },
     {
       "id": "238898d488ac225c",
       "titulo": "Un fútbol espectáculo",
@@ -275,6 +302,19 @@
       "fecha": "2026-09-14T20:47:36",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-14T21:10:32.425497"
+    },
+    {
+      "id": "f293e61d2a80f61a",
+      "titulo": "Mendes: \"El Balón de Oro es para Lamine, es el mejor con diferencia\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227287/mendes-balon-oro-lamine-mejor-diferencia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-14T20:47:36",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-15T07:40:28.610688"
     },
     {
       "id": "bb5a2aadb1f55908",
