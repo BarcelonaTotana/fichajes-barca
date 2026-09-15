@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T09:01:06.206757Z",
-  "total": 377,
+  "actualizado": "2026-09-15T10:40:31.038315Z",
+  "total": 378,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -173,6 +173,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "9435c27f8b60acca",
+      "titulo": "El debate del '9' puro: ¿Cómo juega mejor el Barça?",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227203/debate-9-puro-juega-mejor-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-15T10:26:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-15T10:40:25.527828"
+    },
     {
       "id": "5e9a6188c753edfc",
       "titulo": "Rafa Márquez compara con Lamine una perla en el radar culé",
