@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T07:50:29.619242Z",
-  "total": 378,
+  "actualizado": "2026-09-15T09:01:06.206757Z",
+  "total": 377,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -5073,19 +5073,6 @@
       "fecha": "2026-08-16T17:07:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-16T17:40:27.447789"
-    },
-    {
-      "id": "0ad857835bd37c12",
-      "titulo": "Todos los ojos del barcelonismo puestos en Gordon",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216501/todos-ojos-barcelonismo-puestos-gordon.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-16T09:00:29",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-16T09:10:30.289671"
     }
   ]
 }
