@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T19:01:01.057199Z",
-  "total": 381,
+  "actualizado": "2026-09-15T19:31:24.453551Z",
+  "total": 382,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -175,6 +175,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "dd885461a8362ed7",
+      "titulo": "Vinculan al quinceañero JJ Gabriel, del United, a Barça y Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227700/vinculan-quinceanero-jj-gabriel-united-barca-madrid.html",
+      "medio": "mundodeportivo.com",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-15T19:13:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-15T19:31:19.315691"
+    },
     {
       "id": "c920dd6fbe442782",
       "titulo": "Hamza Abdelkarim, el ‘9’ de futuro: “Tengo muchas cosas que mejorar”",
