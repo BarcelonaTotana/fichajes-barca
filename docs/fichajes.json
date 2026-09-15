@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T17:40:31.605351Z",
-  "total": 382,
+  "actualizado": "2026-09-15T19:01:01.057199Z",
+  "total": 381,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -5127,19 +5127,6 @@
       "fecha": "2026-08-17T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-17T19:10:27.918548"
-    },
-    {
-      "id": "4770239cdf8a4405",
-      "titulo": "Principio de acuerdo Barça-City por Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216688/principio-acuerdo-barca-city-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-16T18:58:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-16T19:10:27.052059"
     }
   ]
 }
