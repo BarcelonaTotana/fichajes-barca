@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T10:40:31.038315Z",
-  "total": 378,
+  "actualizado": "2026-09-15T11:10:31.934688Z",
+  "total": 380,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -174,6 +174,19 @@
   ],
   "noticias": [
     {
+      "id": "1835f8bea2adcac0",
+      "titulo": "La fallida 'operación Barça-Salinas' descubrió a Espart",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227473/ewq.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-15T10:40:01",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-15T11:10:26.881675"
+    },
+    {
       "id": "9435c27f8b60acca",
       "titulo": "El debate del '9' puro: ¿Cómo juega mejor el Barça?",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227203/debate-9-puro-juega-mejor-barca.html",
@@ -302,6 +315,19 @@
       "fecha": "2026-09-14T21:42:12",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-14T22:03:14.483155"
+    },
+    {
+      "id": "66285a944d7188f9",
+      "titulo": "Lamine: \"Estar obsesionado con ganar la Champions es bueno\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227304/lamine-yamal-obsesionado-ganar-champions-bueno.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-14T21:42:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-15T11:10:26.886328"
     },
     {
       "id": "bf617195eb09d0ef",
