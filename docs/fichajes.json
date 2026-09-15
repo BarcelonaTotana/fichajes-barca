@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T03:30:44.197029Z",
-  "total": 374,
+  "actualizado": "2026-09-15T03:41:08.631645Z",
+  "total": 375,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -172,6 +172,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "a3026b9c710e26f0",
+      "titulo": "El hombre que dijo 'no' al Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227284/hombre-dijo-no-madrid.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-15T03:20:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-15T03:41:02.756504"
+    },
     {
       "id": "222550fb8dc5e136",
       "titulo": "Laporta: \"¿Las críticas a Lamine?, no las veo cuando otros también hacen campaña\"",
