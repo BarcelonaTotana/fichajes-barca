@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T18:24:36.743732Z",
-  "total": 375,
+  "actualizado": "2026-09-16T18:40:46.598803Z",
+  "total": 376,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -176,6 +176,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "ed929a5b87d32d61",
+      "titulo": "Cuatro cambios, alguno sorprendente, en el once del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228103/rotaciones.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T18:14:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-16T18:40:31.942445"
+    },
     {
       "id": "e93ff4f6bce5988c",
       "titulo": "Objetivo del plan de negocios: 1.450 millones de ingresos antes de 2031",
