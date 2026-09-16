@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T06:40:30.332524Z",
-  "total": 382,
+  "actualizado": "2026-09-16T08:10:32.736272Z",
+  "total": 381,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -5128,19 +5128,6 @@
       "fecha": "2026-08-17T10:51:56",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-08-17T11:20:29.579947"
-    },
-    {
-      "id": "54c17808fcbd508c",
-      "titulo": "Rodri y Cancelo llegan hoy a Barcelona",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216815/rodri-cancelo-llegan-hoy-barcelona.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-17T08:09:49",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-17T08:30:42.164960"
     }
   ]
 }
