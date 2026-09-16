@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T14:30:48.876160Z",
+  "actualizado": "2026-09-16T16:01:08.964029Z",
   "total": 375,
   "cerradas": [
     "alex campos",
@@ -176,6 +176,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "8df0c58730b27c75",
+      "titulo": "Preventa Entradas FC BARCELONA - DEPORTIVO ALAVÉS - LALIGA EA Sports - fútbol masculino",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSm5YamhCZWYzVjdKNXRHWmx4UHE4cHh1anpfWHVCaVFuZ2pVZDdKUmEzY293Y2psdVJ3R2VaVmpJUUs5VDI5NURrQldMcTMzMU1HLU9mSUNZVGpsU1RjM0FvQlFyRWtUQUxTWURzWkE0OXZWbGZnT3JXc2hYbVpwQVh0U2MxbDA0ci1pQWItVV9aejJBQkdIQ3k1WmZab0ZwQ1hZcXdvY3JwVmlUSUE?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T15:53:40",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-16T16:00:53.315534"
+    },
     {
       "id": "aae0c9df6a66cbe7",
       "titulo": "El Barça, con más razones que su racha para pensar en seguir como líder en solitario",
@@ -5037,19 +5050,6 @@
       "fecha": "2026-08-17T16:26:38",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-17T16:40:27.670556"
-    },
-    {
-      "id": "580866777a1db24d",
-      "titulo": "Alan Godoy se desvincula del Barça Atlètic",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216965/alan-godoy-desvincula-barca-atletic.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "avanzado",
-      "fecha": "2026-08-17T15:57:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-17T16:10:26.825215"
     }
   ]
 }
