@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T13:30:54.445263Z",
-  "total": 377,
+  "actualizado": "2026-09-16T13:40:42.040772Z",
+  "total": 378,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -188,6 +188,19 @@
       "fecha": "2026-09-16T10:54:46",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-16T11:10:26.596315"
+    },
+    {
+      "id": "e039ced6f7818a27",
+      "titulo": "Con más razones que su racha para pensar en seguir como líder en solitario",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227946/barca-razones-racha-pensar-seguir-lider-solitario.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T10:54:46",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-16T13:40:27.857040"
     },
     {
       "id": "116a2e5487aa0325",
