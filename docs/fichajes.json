@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T20:40:43.577760Z",
-  "total": 380,
+  "actualizado": "2026-09-16T21:32:05.032967Z",
+  "total": 381,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -188,6 +188,19 @@
       "fecha": "2026-09-16T20:12:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-16T20:40:29.630337"
+    },
+    {
+      "id": "fd9c356c6c7b6b36",
+      "titulo": "Raphinha supera a Mbappé en el Pichichi con un 'hat trick'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228181/raphinha-iguala-mbappe-pichichi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T20:12:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-16T21:31:48.723687"
     },
     {
       "id": "60f0214f63747f28",
