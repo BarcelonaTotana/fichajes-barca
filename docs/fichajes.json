@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T19:10:42.353372Z",
-  "total": 379,
+  "actualizado": "2026-09-16T20:40:43.577760Z",
+  "total": 380,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -176,6 +176,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "0a66c1a2f5859088",
+      "titulo": "Raphinha supera a Mbappé en el Pichichi con un doblete",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228181/raphinha-iguala-mbappe-pichichi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T20:12:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-16T20:40:29.630337"
+    },
     {
       "id": "60f0214f63747f28",
       "titulo": "Preventa Entradas FC BARCELONA - COMO 1907 - UEFA Champions League - fútbol masculino",
