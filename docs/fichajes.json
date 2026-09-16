@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T11:00:55.346563Z",
-  "total": 380,
+  "actualizado": "2026-09-16T11:10:31.938611Z",
+  "total": 381,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -176,6 +176,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "aae0c9df6a66cbe7",
+      "titulo": "El Barça, con más razones que su racha para pensar en seguir como líder en solitario",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227946/barca-razones-racha-pensar-seguir-lider-solitario.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T10:54:46",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-16T11:10:26.596315"
+    },
     {
       "id": "116a2e5487aa0325",
       "titulo": "El Balón de Hansi",
