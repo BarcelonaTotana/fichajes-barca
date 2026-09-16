@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T16:30:59.316666Z",
+  "actualizado": "2026-09-16T18:10:46.384286Z",
   "total": 376,
   "cerradas": [
     "alex campos",
@@ -176,6 +176,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "e93ff4f6bce5988c",
+      "titulo": "Objetivo del plan de negocios: 1.450 millones de ingresos antes de 2031",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228094/objetivo-plan-negocios-1-450-millones-ingresos-2031.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T17:01:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-16T18:10:31.918950"
+    },
     {
       "id": "8df0c58730b27c75",
       "titulo": "Preventa Entradas FC BARCELONA - DEPORTIVO ALAVÉS - LALIGA EA Sports - fútbol masculino",
@@ -5050,19 +5063,6 @@
       "fecha": "2026-08-17T18:21:25",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-17T18:42:09.539766"
-    },
-    {
-      "id": "4f49fd02b3de5d02",
-      "titulo": "El Borussia Dortmund estrecha el cerco sobre Hèctor Fort",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216995/borussia-dortmund-estrecha-cerco-sobre-hector-fort.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-17T18:02:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-17T18:42:09.540049"
     }
   ]
 }
