@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T19:01:08.489064Z",
-  "total": 377,
+  "actualizado": "2026-09-16T19:10:42.353372Z",
+  "total": 379,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -177,6 +177,19 @@
   ],
   "noticias": [
     {
+      "id": "60f0214f63747f28",
+      "titulo": "Preventa Entradas FC BARCELONA - COMO 1907 - UEFA Champions League - fútbol masculino",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXIwdnZleUQ5b2N0bUlwdE1qRHlHd3BMbWJ3QXNZNnhmMkVrN0RhU193NFpDcnZKNjN1TjNMcUplcEpZanJrbGp4MDJUQUl2NDNvbnlsdVZVSzRiVVBOUXRoNHJ5R09ycVpOVEVESmpzSVVrTTJpd3EyTmNQbFdwRzB5ZDdDelVnamlJOVRYRXYyamxMcDZJeG1WejU0QnhZZ1NwNm1iTkRIYW1XQXc?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T19:08:31",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-16T19:10:26.679347"
+    },
+    {
       "id": "c2a8990c6d4779f4",
       "titulo": "Preventa Entradas FC BARCELONA - ASTON VILLA FC - UEFA Champions League - fútbol masculino",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWU3dGtkajVtVXlOVjRhcGtPWVFyUXp3Y1Z2djFiSkQyb3IyWVpPajdnbGFJd3ZuUFpJdHplNXhScmpWM1J1dUNzdUtfelpqNnVJY2tORktjVFU1dGFPSWdUdWZsQVU0UDlrMFFRTFQtR2lqUGEyQnBsYjliTjdMZk8ybHlsRG1CR3IybHJCRlR5Y3B1WEQ2azZrb2JQMk9JTDBadEIzb1RnXzFYM3c?oc=5",
@@ -214,6 +227,19 @@
       "fecha": "2026-09-16T17:01:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-16T18:10:31.918950"
+    },
+    {
+      "id": "0e8283f61013ed74",
+      "titulo": "Preventa Entradas FC BARCELONA - RC CELTA - LALIGA EA Sports - fútbol masculino",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGtRbmlpLTFMYTRLWmluaUZtYUw0TjhTWmdNeEg5bzlMMFdlWGNUWm0yXy1WYS05RjdwcG9UQlVlSHVGck9NZnhPNU9mYXJGMlh6T3BPZkdVX3l1YTJ6dXZodTcydGlzY0FGcW5mcUprcmltb2VjZWRjci1lblVjUmpQd3ZEVlRuTFpxVWxGV2tpSDJqcG1EVWtUYXF2Z05Bc2ttVlFGbXBkUXEwLXc?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T16:15:47",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-16T19:10:26.679849"
     },
     {
       "id": "8df0c58730b27c75",
