@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T08:10:32.736272Z",
-  "total": 381,
+  "actualizado": "2026-09-16T11:00:55.346563Z",
+  "total": 380,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -5115,19 +5115,6 @@
       "fecha": "2026-08-17T11:57:56",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-17T12:40:29.842458"
-    },
-    {
-      "id": "1ddc083bfc1fac7e",
-      "titulo": "El City cierra un acuerdo: pagará 100 millones por uno de los recambios de Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/top/20260817/1004216858/city-pagara-100-millones-recambios-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-17T10:51:56",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-08-17T11:20:29.579947"
     }
   ]
 }
