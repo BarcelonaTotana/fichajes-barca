@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T05:00:55.309296Z",
-  "total": 382,
+  "actualizado": "2026-09-16T05:06:18.320850Z",
+  "total": 385,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -117,6 +117,7 @@
     "98d0679f06dc8a35",
     "9edce93ae27b024e",
     "a0f6cc383777f3a3",
+    "a439cf98babd184a",
     "a6a4505cce06ed66",
     "a8834e2935efb5a4",
     "a8a47597c10b065b",
@@ -175,6 +176,45 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "116a2e5487aa0325",
+      "titulo": "El Balón de Hansi",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227696/balon-hansi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-16T05:06:12.308437"
+    },
+    {
+      "id": "a439cf98babd184a",
+      "titulo": "Lamine se las verá con Salinas, objetivo del Barça en verano",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227466/lamine-vera-salinas-objetivo-barca-verano.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-16T05:06:12.309065"
+    },
+    {
+      "id": "f7b8527a52045962",
+      "titulo": "Lamine ya tiene nuevo reto: 'la manita'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227423/dsa.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-16T05:06:12.309335"
+    },
     {
       "id": "99582348bf2e9e04",
       "titulo": "¿El Barça es favorito para la Champions?",
