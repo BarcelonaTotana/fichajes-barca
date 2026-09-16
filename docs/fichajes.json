@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T06:20:30.032862Z",
-  "total": 383,
+  "actualizado": "2026-09-16T06:40:30.332524Z",
+  "total": 382,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -5141,19 +5141,6 @@
       "fecha": "2026-08-17T08:09:49",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-17T08:30:42.164960"
-    },
-    {
-      "id": "2b221225cd5c7016",
-      "titulo": "Cancelo ya viaja hacia Barcelona",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216789/cancelo-viaja-barcelona.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-17T06:34:08",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-17T07:25:33.884685"
     }
   ]
 }
