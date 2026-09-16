@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T18:40:46.598803Z",
-  "total": 376,
+  "actualizado": "2026-09-16T19:01:08.489064Z",
+  "total": 377,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -176,6 +176,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "c2a8990c6d4779f4",
+      "titulo": "Preventa Entradas FC BARCELONA - ASTON VILLA FC - UEFA Champions League - fútbol masculino",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWU3dGtkajVtVXlOVjRhcGtPWVFyUXp3Y1Z2djFiSkQyb3IyWVpPajdnbGFJd3ZuUFpJdHplNXhScmpWM1J1dUNzdUtfelpqNnVJY2tORktjVFU1dGFPSWdUdWZsQVU0UDlrMFFRTFQtR2lqUGEyQnBsYjliTjdMZk8ybHlsRG1CR3IybHJCRlR5Y3B1WEQ2azZrb2JQMk9JTDBadEIzb1RnXzFYM3c?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T18:52:27",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-16T19:00:53.212685"
+    },
     {
       "id": "ed929a5b87d32d61",
       "titulo": "Cuatro cambios, alguno sorprendente, en el once del Barça",
