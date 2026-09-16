@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T16:10:40.346689Z",
-  "total": 376,
+  "actualizado": "2026-09-16T16:20:41.107160Z",
+  "total": 377,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -188,6 +188,19 @@
       "fecha": "2026-09-16T15:53:40",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-09-16T16:00:53.315534"
+    },
+    {
+      "id": "72b9c4633bab78a2",
+      "titulo": "Preventa Entradas FC BARCELONA - REAL SOCIEDAD - LALIGA EA Sports - fútbol masculino",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEQ4T19XUnN3TWpDVHQyd3NGSW81Q2taeHE3WU1QSjQ0cEczRExrX2hGNmtyT0hZeXduRmdVMS1LM1BvVGFTRm9OWjRMazRSSHhfamNYOEI1NkNHNWtqOV9yVFdRWVY2RjBzZVNKUmpxaDhNSXR4RUU5WkRDUUl1U3hXUHhualBBanV4aWhhenpPOW5vQUdRUHdiQThQelcyWWJmZ25nUzNJRXNNLUE?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T13:08:13",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-16T16:20:25.574565"
     },
     {
       "id": "720063a7b8f7295f",
