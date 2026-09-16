@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T18:10:46.384286Z",
-  "total": 376,
+  "actualizado": "2026-09-16T18:24:36.743732Z",
+  "total": 375,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -5050,19 +5050,6 @@
       "fecha": "2026-08-18T04:40:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T09:40:30.185716"
-    },
-    {
-      "id": "3bc2fb803049691f",
-      "titulo": "¡Rodri ya está en Barcelona y llega con máxima ambición!: \"Es un sueño y vamos a por todo\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004217002/rodri-esta-barcelona-llega-maxima-ambicion-sueno.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-17T18:21:25",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-17T18:42:09.539766"
     }
   ]
 }
