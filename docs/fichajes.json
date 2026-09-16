@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T21:32:05.032967Z",
-  "total": 381,
+  "actualizado": "2026-09-16T22:40:40.910168Z",
+  "total": 382,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -176,6 +176,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "efe050582e9ed3b9",
+      "titulo": "Festival de la 'flecha' Adeyemi con asistencia de lujo a Lamine",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228210/festival-flecha-adeyemi-asistencia-lujo-lamine-yamal.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T22:11:40",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-16T22:40:26.346200"
+    },
     {
       "id": "0a66c1a2f5859088",
       "titulo": "Raphinha supera a Mbappé en el Pichichi con un doblete",
