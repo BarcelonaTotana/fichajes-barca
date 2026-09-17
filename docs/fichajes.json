@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T13:40:43.961491Z",
-  "total": 373,
+  "actualizado": "2026-09-17T16:10:40.755566Z",
+  "total": 375,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,19 @@
   ],
   "noticias": [
     {
+      "id": "96d6dd70c7b1edd9",
+      "titulo": "'Barça Team': la goleada, Raphinha, Lamine, Adeyemi y el Real Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228406/barca-team-goleada-raphinha-lamine-adeyemi-real-madrid.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-17T15:42:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-17T16:10:26.323410"
+    },
+    {
       "id": "30b73a607b581a0a",
       "titulo": "El Barça rechazó la oferta de Revolut por tener a Figo como imagen",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228392/barca-rechazo-oferta-revolut-figo-imagen.html",
@@ -203,6 +216,19 @@
       "fecha": "2026-09-16T22:11:40",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-16T22:40:26.346200"
+    },
+    {
+      "id": "8a12b765993dd6e4",
+      "titulo": "Festival de la 'flecha' Adeyemi con asistencia de lujo a Lamine Yamal",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228210/festival-flecha-adeyemi-asistencia-lujo-lamine-yamal.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T22:11:40",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-17T16:10:26.325756"
     },
     {
       "id": "0a66c1a2f5859088",
