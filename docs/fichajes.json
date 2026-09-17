@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T12:40:43.837113Z",
-  "total": 372,
+  "actualizado": "2026-09-17T13:40:43.961491Z",
+  "total": 373,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -50,6 +50,7 @@
     "27f25d89b4825926",
     "2afd8df59ff42b07",
     "3074515ab935956d",
+    "30b73a607b581a0a",
     "30f0349c496f2926",
     "30f4eae64d270777",
     "345b79d8299bd2ab",
@@ -177,6 +178,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "30b73a607b581a0a",
+      "titulo": "El Barça rechazó la oferta de Revolut por tener a Figo como imagen",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228392/barca-rechazo-oferta-revolut-figo-imagen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-17T13:03:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-17T13:40:29.462838"
+    },
     {
       "id": "efe050582e9ed3b9",
       "titulo": "Festival de la 'flecha' Adeyemi con asistencia de lujo a Lamine",
