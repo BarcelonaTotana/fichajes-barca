@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T19:50:42.046354Z",
-  "total": 371,
+  "actualizado": "2026-09-17T21:01:05.584489Z",
+  "total": 370,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4987,19 +4987,6 @@
       "fecha": "2026-08-18T21:24:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-18T21:40:27.404999"
-    },
-    {
-      "id": "98d0679f06dc8a35",
-      "titulo": "A Julián le 'gusta' el fichaje de Rodri por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217391/julian-le-gusta-fichaje-rodri-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-18T20:51:28",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-18T21:10:31.117110"
     }
   ]
 }
