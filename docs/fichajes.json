@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T04:40:39.448070Z",
-  "total": 380,
+  "actualizado": "2026-09-17T06:46:36.157699Z",
+  "total": 376,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -5063,58 +5063,6 @@
       "fecha": "2026-08-18T07:13:29",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-18T07:40:26.502512"
-    },
-    {
-      "id": "ba3303de03b1ce7d",
-      "titulo": "Rodri ya está en la Ciutat Esportiva para pasar la revisión médica",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217130/rodri-ciutat-esportiva-pasar-revision-medica.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-18T06:46:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-18T07:09:23.253514"
-    },
-    {
-      "id": "b668d4aa0d91fb39",
-      "titulo": "Rodri ya ha pasado la revisión médica y ultima su fichaje por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217130/rodri-ciutat-esportiva-pasar-revision-medica.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-18T06:46:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-18T10:40:34.067229"
-    },
-    {
-      "id": "84de9363427b3b6b",
-      "titulo": "Rodri ya está en las oficinas del Barça para firmar su contrato tras pasar la revisión médica",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217130/rodri-ciutat-esportiva-pasar-revision-medica.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-18T06:46:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-18T12:10:35.111840"
-    },
-    {
-      "id": "0e597a2ce31182bd",
-      "titulo": "Rodri ya ha firmado con el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217130/rodri-ciutat-esportiva-pasar-revision-medica.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-18T06:46:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-18T13:10:30.308302"
     }
   ]
 }
