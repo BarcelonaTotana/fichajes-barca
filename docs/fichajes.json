@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T06:46:36.157699Z",
-  "total": 376,
+  "actualizado": "2026-09-17T07:10:42.042781Z",
+  "total": 377,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -146,6 +146,7 @@
     "ca774448b957d12b",
     "cac05335a65c21aa",
     "cc1ede646b0e4ab4",
+    "ccb819c93c8e31db",
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
     "cfc7974d49bc48e0",
@@ -266,6 +267,19 @@
       "fecha": "2026-09-16T17:01:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-16T18:10:31.918950"
+    },
+    {
+      "id": "ccb819c93c8e31db",
+      "titulo": "Objetivo del plan de negocios del Barça: 1.450 millones de ingresos antes de 2031",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228094/objetivo-plan-negocios-1-450-millones-ingresos-2031.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T17:01:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-17T07:10:27.247322"
     },
     {
       "id": "0e8283f61013ed74",
