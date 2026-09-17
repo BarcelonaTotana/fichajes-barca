@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T21:01:05.584489Z",
-  "total": 370,
+  "actualizado": "2026-09-17T21:30:53.820688Z",
+  "total": 369,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4974,19 +4974,6 @@
       "fecha": "2026-08-19T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T05:10:27.122820"
-    },
-    {
-      "id": "171fff0ecf63142d",
-      "titulo": "Rodri ya lidera con clase y madurez: así ha sido su primer día culé",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217400/rodri-lidera-clase-madurez-asi-sido-primer-dia-cule.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-18T21:24:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-18T21:40:27.404999"
     }
   ]
 }
