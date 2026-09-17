@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T22:40:40.910168Z",
-  "total": 382,
+  "actualizado": "2026-09-17T04:40:39.448070Z",
+  "total": 380,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -5115,32 +5115,6 @@
       "fecha": "2026-08-18T06:46:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-18T13:10:30.308302"
-    },
-    {
-      "id": "19f8bbe4da269c7a",
-      "titulo": "El Barça cerrará con Rodri la base de la selección que ganó el Mundial",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004216985/barca-cerrara-rodri-base-seleccion-gano-mundial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-18T04:40:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-18T05:10:31.077108"
-    },
-    {
-      "id": "c7d16684602bc4fc",
-      "titulo": "El Barça cierra con Rodri la base de la selección que ganó el Mundial",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004216985/barca-cerrara-rodri-base-seleccion-gano-mundial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-18T04:40:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T09:40:30.185716"
     }
   ]
 }
