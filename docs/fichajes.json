@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T21:30:53.820688Z",
-  "total": 369,
+  "actualizado": "2026-09-17T23:10:40.811245Z",
+  "total": 370,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -372,6 +372,19 @@
       "fecha": "2026-09-16T13:02:09",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-09-16T16:10:25.127881"
+    },
+    {
+      "id": "868f4a552aff20c2",
+      "titulo": "Preventa Entradas FC BARCELONA - VILLARREAL CF - LALIGA EA Sports",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUTZaa3E0N25RRFpQYXU2RUl4UEtKZy1fNVoxQnRlYUgzOHZsU2t2WVpGQWNkRTJmREo5TE9jOXVUd3lKZndPZnZETGdYNk5jNkp5QnJKakMxb2lMOWI3a3ZSSy01a0FQREpmc3puVmpra1FOb29NSUc0dWRyMTJJTV80U3pwdlJkYTA2b2tsdzN1Wm9LSzN6cmZGb3pZNlZwMnpzdGRfY3Vsb2E3M0E?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-16T13:02:09",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-17T23:10:24.931667"
     },
     {
       "id": "aae0c9df6a66cbe7",
