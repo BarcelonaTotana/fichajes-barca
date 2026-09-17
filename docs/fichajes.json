@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T17:40:41.088604Z",
-  "total": 372,
+  "actualizado": "2026-09-17T19:50:42.046354Z",
+  "total": 371,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -5000,19 +5000,6 @@
       "fecha": "2026-08-18T20:51:28",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-18T21:10:31.117110"
-    },
-    {
-      "id": "8311f8cc58dbaac6",
-      "titulo": "Flick, lo tiene claro con Rodri: \"Es quizá el mejor '6' del mundo\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217378/flick-claro-rodri-quiza-mejor-6-mundo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-18T19:50:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-18T20:10:31.676783"
     }
   ]
 }
