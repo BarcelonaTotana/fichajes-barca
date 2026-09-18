@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T12:40:40.092514Z",
-  "total": 366,
+  "actualizado": "2026-09-18T13:01:09.769320Z",
+  "total": 365,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4923,19 +4923,6 @@
       "fecha": "2026-08-19T13:43:47",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T14:10:29.276908"
-    },
-    {
-      "id": "075a54a89507f220",
-      "titulo": "Livakovic, ofrecido al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217626/livakovic-ofrecido-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-19T12:57:17",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T13:10:27.909382"
     }
   ]
 }
