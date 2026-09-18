@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T18:40:43.425554Z",
-  "total": 365,
+  "actualizado": "2026-09-18T18:50:42.382356Z",
+  "total": 363,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4897,32 +4897,6 @@
       "fecha": "2026-08-19T18:50:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T21:10:26.120955"
-    },
-    {
-      "id": "ab5b746f527370bb",
-      "titulo": "Cancelo se quedó sin saltar al césped cuando ya iba de azulgrana con el dorsal 2",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217745/cancelo-quedo-saltar-cesped-iba-azulgrana-dorsal-2.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-19T18:43:40",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T19:10:35.405710"
-    },
-    {
-      "id": "823f7300fff5b683",
-      "titulo": "Cancelo se quedó sin saltar al césped cuando ya iba vestido con el dorsal 2",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217745/cancelo-quedo-saltar-cesped-iba-azulgrana-dorsal-2.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-19T18:43:40",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T22:03:15.071625"
     }
   ]
 }
