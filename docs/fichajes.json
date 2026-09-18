@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T21:40:44.185279Z",
-  "total": 354,
+  "actualizado": "2026-09-18T22:10:39.883638Z",
+  "total": 353,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4767,19 +4767,6 @@
       "fecha": "2026-08-20T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-20T05:40:25.999630"
-    },
-    {
-      "id": "31d511eaf856a91b",
-      "titulo": "Yuste evita más polémicas con el Atlético por Julián Álvarez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217830/yuste-evita-polemicas-atletico-julian-alvarez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T22:08:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T22:37:05.669264"
     }
   ]
 }
