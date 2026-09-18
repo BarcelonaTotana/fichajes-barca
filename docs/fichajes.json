@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T05:01:00.290260Z",
-  "total": 370,
+  "actualizado": "2026-09-18T05:30:54.791316Z",
+  "total": 371,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -178,6 +178,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "c379c01b9c3e77d3",
+      "titulo": "Charly y el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228518/charly-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-18T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-18T05:30:40.769738"
+    },
     {
       "id": "a788ba78e3cdb6fa",
       "titulo": "El objetivo del ‘sorpasso’",
