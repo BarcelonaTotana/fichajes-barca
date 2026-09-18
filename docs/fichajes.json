@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T16:31:01.213111Z",
-  "total": 366,
+  "actualizado": "2026-09-18T16:40:42.590953Z",
+  "total": 367,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "81f8bc78b1bdd021",
+      "titulo": "Las quejas arbitrales de Belletti que pasaron desapercibidas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228787/quejas-arbitrales-belletti-pasaron-desapercibidas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-18T16:18:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-18T16:40:28.184291"
+    },
     {
       "id": "163b1bd0536c7095",
       "titulo": "Raphinha: \"Pienso renovar y ojalá acabar mi carrera en el Barça\"",
