@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T18:50:42.382356Z",
-  "total": 363,
+  "actualizado": "2026-09-18T19:01:12.583449Z",
+  "total": 361,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4871,32 +4871,6 @@
       "fecha": "2026-08-19T20:02:46",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T20:40:29.028304"
-    },
-    {
-      "id": "5ae9603baecab264",
-      "titulo": "El Pichichi Hamza no perdona ni a su ex equipo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217748/pichichi-hamza-no-perdona-ex-equipo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T18:50:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T19:10:35.405511"
-    },
-    {
-      "id": "72482481e4b4d5e1",
-      "titulo": "El Pichichi Hamza no perdona ni a sus ex",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217748/pichichi-hamza-no-perdona-ex-equipo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T18:50:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T21:10:26.120955"
     }
   ]
 }
