@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T11:40:41.419567Z",
-  "total": 366,
+  "actualizado": "2026-09-18T12:01:06.565157Z",
+  "total": 365,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4923,19 +4923,6 @@
       "fecha": "2026-08-19T12:57:17",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T13:10:27.909382"
-    },
-    {
-      "id": "3999ba7b1e02f0f6",
-      "titulo": "Puyol se entusiasma con el fichaje de Rodri: \"Me gusta muchísimo\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217609/puyol-entusiasma-fichaje-rodri-me-gusta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T11:55:12",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T12:10:32.237820"
     }
   ]
 }
