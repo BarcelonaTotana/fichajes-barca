@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T12:01:06.565157Z",
-  "total": 365,
+  "actualizado": "2026-09-18T12:40:40.092514Z",
+  "total": 366,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "b5c549bcfe423c7d",
+      "titulo": "Flick confirma rotaciones y elogia a Raphinha: \"Él va y todos le siguen\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228719/flick-confirma-rotaciones-elogia-raphinha-todos-le-siguen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-18T12:05:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-18T12:40:26.051178"
+    },
     {
       "id": "86c14838c9b4acf9",
       "titulo": "Telefónica, nuevo Partner Oficial del Espai Barça",
