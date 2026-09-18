@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T13:50:39.738565Z",
-  "total": 365,
+  "actualizado": "2026-09-18T14:10:43.019683Z",
+  "total": 367,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -180,6 +180,19 @@
   ],
   "noticias": [
     {
+      "id": "163b1bd0536c7095",
+      "titulo": "Raphinha: \"Pienso renovar y ojalá acabar mi carrera en el Barça\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228745/raphinha-pienso-renovar-ojala-acabar-mi-carrera-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-18T13:43:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-18T14:10:28.948920"
+    },
+    {
       "id": "d63fdb22369e0701",
       "titulo": "Los otros temas de Lamine: Messi, el racismo, el Madrid y la 'bronca' de Busquets",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228739/messi-racismo-madrid-bronca-busquets-otros-temas-lamine-valdano.html",
@@ -191,6 +204,19 @@
       "fecha": "2026-09-18T13:14:51",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-18T13:40:27.095638"
+    },
+    {
+      "id": "d0fd652f00218717",
+      "titulo": "Messi, el racismo, el Madrid y la 'bronca' de Busquets, los otros temas de Lamine",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228739/messi-racismo-madrid-bronca-busquets-otros-temas-lamine-valdano.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-18T13:14:51",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-18T14:10:28.949208"
     },
     {
       "id": "b5c549bcfe423c7d",
