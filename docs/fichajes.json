@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T09:30:53.976416Z",
-  "total": 366,
+  "actualizado": "2026-09-18T09:40:41.544900Z",
+  "total": 367,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -109,6 +109,7 @@
     "831ffdba8f3957f2",
     "836ef578c7088a31",
     "8546c636ca829652",
+    "86c14838c9b4acf9",
     "87646c21d2312d9b",
     "895a78b03cb87710",
     "8b4dc1648da51d1b",
@@ -178,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "86c14838c9b4acf9",
+      "titulo": "Telefónica, nuevo Partner Oficial del Espai Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228646/telefonica-nuevo-partner-oficial-espai-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-18T09:32:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-18T09:40:26.568567"
+    },
     {
       "id": "c379c01b9c3e77d3",
       "titulo": "Charly y el Barça",
