@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T06:50:37.910153Z",
-  "total": 370,
+  "actualizado": "2026-09-18T08:20:39.180768Z",
+  "total": 368,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4961,32 +4961,6 @@
       "fecha": "2026-08-19T08:44:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T09:10:28.261170"
-    },
-    {
-      "id": "64cf3801fcb08598",
-      "titulo": "Ronaldinho, Eto'o, Neymar, Suárez, Rodri: puente aéreo hacia la Champions",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217517/ronaldinho-eto-suarez-neymar-rodri-puente-aereo-champions.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T08:16:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T08:40:28.689658"
-    },
-    {
-      "id": "53a2f5b3e493935a",
-      "titulo": "Ronaldinho, Eto'o, Villa, Neymar, Suárez, Rodri: puente aéreo hacia la Champions",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217517/ronaldinho-eto-suarez-neymar-rodri-puente-aereo-champions.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T08:16:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T12:10:32.238976"
     }
   ]
 }
