@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T21:01:04.750820Z",
-  "total": 356,
+  "actualizado": "2026-09-18T21:40:44.185279Z",
+  "total": 354,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4780,32 +4780,6 @@
       "fecha": "2026-08-19T22:08:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T22:37:05.669264"
-    },
-    {
-      "id": "b9f2e37718200dd7",
-      "titulo": "El Barça cuenta con todos los refuerzos inscritos para Elche",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217798/barca-cuenta-todos-refuerzos-inscritos-elche.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T21:31:27",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T22:03:15.069456"
-    },
-    {
-      "id": "b9615fa4ece6f73e",
-      "titulo": "El Barça cuenta con tener todos los refuerzos inscritos para Elche",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217798/barca-cuenta-todos-refuerzos-inscritos-elche.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T21:31:27",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T22:37:05.669490"
     }
   ]
 }
