@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T03:30:53.073619Z",
-  "total": 371,
+  "actualizado": "2026-09-18T04:10:38.742769Z",
+  "total": 372,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -178,6 +178,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "a788ba78e3cdb6fa",
+      "titulo": "El objetivo del ‘sorpasso’",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228319/objetivo-sorpasso.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-18T03:50:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-18T04:10:24.470967"
+    },
     {
       "id": "c0894c918c517b94",
       "titulo": "Gabriel Jesús, efectividad máxima",
