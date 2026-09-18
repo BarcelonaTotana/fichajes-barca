@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T04:10:38.742769Z",
-  "total": 372,
+  "actualizado": "2026-09-18T05:01:00.290260Z",
+  "total": 370,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4987,32 +4987,6 @@
       "fecha": "2026-08-19T06:45:58",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T07:10:29.454729"
-    },
-    {
-      "id": "62856e8c563407a8",
-      "titulo": "Lo que inflan en Madrid",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217395/inflan-madrid.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T05:10:27.122261"
-    },
-    {
-      "id": "cd233cbf2a407f19",
-      "titulo": "Ferran y la tercera persona",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217353/ferran-tercera-persona.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T05:10:27.122820"
     }
   ]
 }
