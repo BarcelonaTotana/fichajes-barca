@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T20:40:45.064175Z",
-  "total": 357,
+  "actualizado": "2026-09-18T21:01:04.750820Z",
+  "total": 356,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4806,19 +4806,6 @@
       "fecha": "2026-08-19T21:31:27",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T22:37:05.669490"
-    },
-    {
-      "id": "cd32f6a0c7f19d76",
-      "titulo": "Balde: \"Rodri tiene mucha experiencia y ayudará mucho al equipo\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217787/balde-rodri-experiencia-ayudara-equipo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T20:50:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T21:10:26.119582"
     }
   ]
 }
