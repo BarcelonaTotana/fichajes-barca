@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T08:20:39.180768Z",
-  "total": 368,
+  "actualizado": "2026-09-18T08:50:43.614984Z",
+  "total": 367,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4948,19 +4948,6 @@
       "fecha": "2026-08-19T09:21:01",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T09:40:30.182247"
-    },
-    {
-      "id": "dac8fbe96c185c04",
-      "titulo": "Rooney, convencido con Rashford tras el trampolín del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217535/rooney-convencido-rashford-trampolin-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T08:44:48",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T09:10:28.261170"
     }
   ]
 }
