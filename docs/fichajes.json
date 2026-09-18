@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T08:50:43.614984Z",
-  "total": 367,
+  "actualizado": "2026-09-18T09:30:53.976416Z",
+  "total": 366,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4935,19 +4935,6 @@
       "fecha": "2026-08-19T11:39:58",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T12:10:32.238118"
-    },
-    {
-      "id": "228e41f08fbef422",
-      "titulo": "En Inglaterra afirman que Gavi rechazó al Manchester United",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217548/inglaterra-afirman-gavi-rechazo-manchester-united.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-19T09:21:01",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T09:40:30.182247"
     }
   ]
 }
