@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T14:10:43.019683Z",
-  "total": 367,
+  "actualizado": "2026-09-18T16:31:01.213111Z",
+  "total": 366,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4936,19 +4936,6 @@
       "fecha": "2026-08-19T16:55:58",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T17:10:30.518170"
-    },
-    {
-      "id": "04229d5ccc9bc4b2",
-      "titulo": "El once del Barça en el Gamper, con Espart y Hamza",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217707/once-barca-gamper-espart-hamza.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T16:30:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T17:10:30.518409"
     }
   ]
 }
