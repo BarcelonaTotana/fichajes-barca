@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T17:01:07.177073Z",
-  "total": 366,
+  "actualizado": "2026-09-18T18:40:43.425554Z",
+  "total": 365,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4923,19 +4923,6 @@
       "fecha": "2026-08-19T18:43:40",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T22:03:15.071625"
-    },
-    {
-      "id": "c3cf6b9a5c607006",
-      "titulo": "Las mejores imágenes de la presentación oficial del Barça 2026-27 en el Gamper",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217725/mejores-imagenes-presentacion-oficial-barca-2026-27-gamper.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-19T18:31:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T19:10:35.405837"
     }
   ]
 }
