@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T13:01:09.769320Z",
-  "total": 365,
+  "actualizado": "2026-09-18T13:40:41.008685Z",
+  "total": 366,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d63fdb22369e0701",
+      "titulo": "Los otros temas de Lamine: Messi, el racismo, el Madrid y la 'bronca' de Busquets",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228739/messi-racismo-madrid-bronca-busquets-otros-temas-lamine-valdano.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-18T13:14:51",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-18T13:40:27.095638"
+    },
     {
       "id": "b5c549bcfe423c7d",
       "titulo": "Flick confirma rotaciones y elogia a Raphinha: \"Él va y todos le siguen\"",
