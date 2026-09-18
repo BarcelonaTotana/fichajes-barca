@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T19:01:12.583449Z",
-  "total": 361,
+  "actualizado": "2026-09-18T20:10:41.853258Z",
+  "total": 360,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4858,19 +4858,6 @@
       "fecha": "2026-08-19T20:28:35",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T21:10:26.120211"
-    },
-    {
-      "id": "83ae64c1851294cb",
-      "titulo": "Laporta, eufórico en el palco por Rodri junto a la familia Gamper",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217773/laporta-euforico-palco-rodri-familia-gamper.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-19T20:02:46",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T20:40:29.028304"
     }
   ]
 }
