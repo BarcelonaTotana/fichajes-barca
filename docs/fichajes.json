@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T16:40:42.590953Z",
-  "total": 367,
+  "actualizado": "2026-09-18T17:01:07.177073Z",
+  "total": 366,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4936,19 +4936,6 @@
       "fecha": "2026-08-19T18:31:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T19:10:35.405837"
-    },
-    {
-      "id": "fcd2b68ead22adea",
-      "titulo": "Pedri muestra a Rodri los avances del Spotify Camp Nou antes de su presentación oficial",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217715/pedri-muestra-rodri-avances-spotify-camp-nou-presentacion-oficial.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-19T16:55:58",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T17:10:30.518170"
     }
   ]
 }
