@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T23:10:40.811245Z",
-  "total": 370,
+  "actualizado": "2026-09-18T03:30:53.073619Z",
+  "total": 371,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -178,6 +178,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "c0894c918c517b94",
+      "titulo": "Gabriel Jesús, efectividad máxima",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228463/gabriel-jesus-efectividad-maxima.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-18T03:25:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-18T03:30:38.881157"
+    },
     {
       "id": "96d6dd70c7b1edd9",
       "titulo": "'Barça Team': la goleada, Raphinha, Lamine, Adeyemi y el Real Madrid",
