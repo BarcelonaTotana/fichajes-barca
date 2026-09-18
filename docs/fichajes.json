@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T20:10:41.853258Z",
-  "total": 360,
+  "actualizado": "2026-09-18T20:30:54.559504Z",
+  "total": 358,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4832,32 +4832,6 @@
       "fecha": "2026-08-19T20:31:47",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-19T21:10:26.119983"
-    },
-    {
-      "id": "495218ebdda2d8f0",
-      "titulo": "Deco avanza \"algún movimiento\" para fichar en ataque",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217780/deco-avanza-movimiento-fichar-ataque.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T20:28:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T20:40:29.027624"
-    },
-    {
-      "id": "0e270432b329e11f",
-      "titulo": "Deco augura \"algún movimiento\" para fichar en ataque",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217780/deco-avanza-movimiento-fichar-ataque.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-19T20:28:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-19T21:10:26.120211"
     }
   ]
 }
