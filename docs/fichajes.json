@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T14:40:39.822886Z",
+  "actualizado": "2026-09-19T15:40:40.400358Z",
   "total": 350,
   "cerradas": [
     "alex campos",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "80585a3fc4ae9f04",
+      "titulo": "Deco argumenta la gestión del Barça Atlètic por el área deportiva profesional",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229108/deco-argumenta-gestion-barca-atletic-area-deportiva-profesional.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-19T15:14:55",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T15:40:26.291871"
+    },
     {
       "id": "577a4775576151c6",
       "titulo": "¡Deco anuncia las renovaciones inminentes de Raphinha (hasta 2030), Bernal y Espart!",
@@ -4715,19 +4728,6 @@
       "fecha": "2026-08-20T17:37:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-20T18:10:30.816100"
-    },
-    {
-      "id": "4dbbf6426f989809",
-      "titulo": "Flick bendice el regreso de Cancelo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004218019/flick-bendice-regreso-cancelo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-20T15:37:02",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-20T16:10:36.540913"
     }
   ]
 }
