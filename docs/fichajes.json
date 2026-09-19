@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T13:30:53.163854Z",
-  "total": 349,
+  "actualizado": "2026-09-19T14:40:39.822886Z",
+  "total": 350,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "577a4775576151c6",
+      "titulo": "¡Deco anuncia las renovaciones inminentes de Raphinha (hasta 2030), Bernal y Espart!",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229080/deco-anuncia-renovaciones-inminentes-raphinha-bernal-espart.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T14:21:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T14:40:25.448002"
+    },
     {
       "id": "70f41f60bdda7026",
       "titulo": "\"No será necesaria más deuda para acabar el estadio\"",
