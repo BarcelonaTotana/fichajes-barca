@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T18:10:41.077130Z",
-  "total": 354,
+  "actualizado": "2026-09-19T18:40:44.482851Z",
+  "total": 355,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "0dd32e4ec90b76c3",
+      "titulo": "Carrick manda a un mensaje a JJ Gabriel, el talento que flirtea con Barça y Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229166/carrick-manda-mensaje-jj-gabriel-talento-flirtea-barca-madrid.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T18:17:04",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T18:40:30.220608"
+    },
     {
       "id": "5ab729b3bd7f4bae",
       "titulo": "Recuerdo de Laporta hacia Jorge Messi antes de hablar del homenaje a Leo",
