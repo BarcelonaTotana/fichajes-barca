@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T17:40:38.773861Z",
-  "total": 352,
+  "actualizado": "2026-09-19T17:50:41.465900Z",
+  "total": 353,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -271,6 +271,19 @@
       "visto_por_primera_vez": "2026-09-19T12:10:25.165129"
     },
     {
+      "id": "7813402cc686e17c",
+      "titulo": "La Asamblea avala unas cuentas de récord que confirman la recuperación económica del Club",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRGlQakZvWDZPNUI2ZTlVT2pxbVNaMTJ4cWNmMzZuY0k5SVBDenRGLThCNVZfLUJoRm83aENHQTdQYkJjOUc3YTBsdTJuU3NlX085NXczTWd4R1BRb2tkSy1CcENONi1CTHZwZTFqSHhUME5Ub3Zsay1sWk1KMTZrMWEySHU4MGdFaW9NaWF3OTBKajZKUk1YTmU3TllpRzNWQUN6Mlp2ZWpxb3FWN1ozZkNpeS1nVlRmbnpYVnh4Mmlsay1ZVGJsR1B1TlRXa2FSMXBvRXpjNkhVQQ?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T11:10:53",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-19T17:50:25.883105"
+    },
+    {
       "id": "fe6e45aac48c9a8d",
       "titulo": "La partida prevista de traspasos del Barça 2026-27, garantizada",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004228987/partida-prevista-traspasos-barca-2026-27-garantizada.html",
@@ -295,6 +308,19 @@
       "fecha": "2026-09-19T09:54:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-19T10:00:49.486125"
+    },
+    {
+      "id": "5331a344593a4782",
+      "titulo": "Si eres socio o socia compromisario, ¡accede y vota!",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnBtX1lFVXduaHFmNmdMdzg3aWRCNGpCMUVxNmR1R29xV1VaZnpkRHdDZmxxZ3NRbTdkUWVOQ09FWVRBNWNOX3h1Qmc1OGFnWWI5b0dNQlpMWXdHOFVGVUV6eU81Mm1ZbTYzNTZjWlRhS3RtM3lKVUZQam00el9YQ1BFcU9RSVByazl0WExMWkhaY2dQdDFyWVVfZUZ4ekNlTmQzUXQ0Yw?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T07:41:20",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-19T17:50:25.884199"
     },
     {
       "id": "7a39c25212cccd68",
@@ -4741,19 +4767,6 @@
       "fecha": "2026-08-20T18:44:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-20T21:10:30.337343"
-    },
-    {
-      "id": "51bc62f9e66af4b4",
-      "titulo": "Tommy Marqués, en Braga para firmar por 11 millones de euros",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004218068/tommy-marques-braga-firmar-11-millones-euros.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-20T17:45:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-20T18:10:30.815786"
     }
   ]
 }
