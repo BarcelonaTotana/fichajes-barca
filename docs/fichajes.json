@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T21:04:18.192768Z",
-  "total": 355,
+  "actualizado": "2026-09-19T21:20:39.640740Z",
+  "total": 356,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -243,6 +243,19 @@
       "fecha": "2026-09-19T17:06:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-19T17:40:24.334963"
+    },
+    {
+      "id": "3fcadf057165da96",
+      "titulo": "La Asamblea ratifica los acuerdos con Ohana Development y Babylon Park",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRjM1N0ZERkF6bG9vMmFxVExpaVgxRnFKa1hkVGtrenVKUkw0eHpCY2Nxd05ZZ1ZNX2N2dGg0SjczOFJMVVJUY1A5ZVE2QzFERVdrVnN3R3RCQzFqaTl2eVZtSWZwaEpZT3hNU2tfUHN5SkN6YklwS080MWZyd3AxcVF1MWlOV0ttRGRhejF4TE80RE5TLUk1bG5BRXBhTGJ4bE5uZTRwOHI3Um1VWmR6b3p5NExpTXU3d0toamRNUDFzUU0?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-19T16:04:19",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-19T21:20:24.198599"
     },
     {
       "id": "bfe5b65602ce57aa",
