@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T07:01:05.891721Z",
-  "total": 351,
+  "actualizado": "2026-09-19T07:40:43.090935Z",
+  "total": 352,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "7a39c25212cccd68",
+      "titulo": "La representación azulgrana en el parón internacional",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUJsb3FoMUQ5NGtGTnBWbW1pS0NoSVVlS3FRNnZoLThoSVQ3MTVOOUhUY3VtY3F2Mml5TkZlemtUMXF5VGZQMjh5ckZwSkJJWVBmdmNCUUwxRElKc0lHNGlJeW9JVVk4NzJkMFdQQ1RhSldhcHhjcXBZUjQxNzNrNUVzMk82STd5YTJkT2JmQ1JONENwaVpaWDUxTWYtZE5MMEE5VTNHTVRldUJFTkhrOWljYWF4TkxYNW0yd2JueVhkS1FoWFgtQ2tnemw?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-18T19:50:37",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-09-19T07:40:27.667843"
+    },
     {
       "id": "81f8bc78b1bdd021",
       "titulo": "Las quejas arbitrales de Belletti que pasaron desapercibidas",
