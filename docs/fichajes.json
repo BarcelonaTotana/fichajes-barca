@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T16:13:14.981244Z",
-  "total": 351,
+  "actualizado": "2026-09-19T17:40:38.773861Z",
+  "total": 352,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "5ab729b3bd7f4bae",
+      "titulo": "Recuerdo de Laporta hacia Jorge Messi antes de hablar del homenaje a Leo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229152/sentido-recuerdo-laporta-jorge-messi-hablar-homenaje-leo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T17:21:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T17:40:24.334727"
+    },
+    {
+      "id": "c4da6d6f35fe1987",
+      "titulo": "\"Preparados para culminar la obra\": El emotivo video que anuncia la fase final del nuevo Camp Nou",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229142/preparados-culminar-obra-emotivo-video-anuncia-fase-final-nuevo-camp-nou.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T17:06:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T17:40:24.334963"
+    },
     {
       "id": "bfe5b65602ce57aa",
       "titulo": "Luz verde a los acuerdos con Ohana y Babylon Park",
@@ -4728,19 +4754,6 @@
       "fecha": "2026-08-20T17:45:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-20T18:10:30.815786"
-    },
-    {
-      "id": "3074515ab935956d",
-      "titulo": "Livakovic, opción firme para la portería del Barça 2027-28",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004218070/livakovic-opcion-firme-porteria-barca-2027-28.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-20T17:37:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-20T18:10:30.816100"
     }
   ]
 }
