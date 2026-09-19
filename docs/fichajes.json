@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T18:40:44.482851Z",
-  "total": 355,
+  "actualizado": "2026-09-19T18:50:40.439985Z",
+  "total": 353,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4767,32 +4767,6 @@
       "fecha": "2026-08-20T20:21:30",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-20T20:40:31.502048"
-    },
-    {
-      "id": "99c16b0bc3f66bd0",
-      "titulo": "Cumbre de Deco y Mendes con varias carpetas abiertas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004218091/cumbre-deco-mendes-carpetas-abiertas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-20T18:44:26",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-20T19:10:27.619311"
-    },
-    {
-      "id": "405882304bd42374",
-      "titulo": "Cumbre Deco-Mendes con varias carpetas abiertas: ojo con Balde",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004218091/cumbre-deco-mendes-carpetas-abiertas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-20T18:44:26",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-20T21:10:30.337343"
     }
   ]
 }
