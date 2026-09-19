@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T08:40:38.766085Z",
-  "total": 351,
+  "actualizado": "2026-09-19T10:01:03.448191Z",
+  "total": 352,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "a36de3bd69992e07",
+      "titulo": "Olivé: \"Tuvimos récord de ingresos en el peor año y preferimos no malvender\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004228969/olive-tuvimos-record-ingresos-peor-ano-preferimos-no-malvender.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T09:54:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T10:00:49.486125"
+    },
     {
       "id": "7a39c25212cccd68",
       "titulo": "La representación azulgrana en el parón internacional",
