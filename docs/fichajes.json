@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T10:40:39.223312Z",
-  "total": 352,
+  "actualizado": "2026-09-19T11:40:47.083379Z",
+  "total": 351,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4741,19 +4741,6 @@
       "fecha": "2026-08-20T11:56:34",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-20T12:00:57.822951"
-    },
-    {
-      "id": "aac526688ba1ecfe",
-      "titulo": "El Barça cede a Yaakobishvili, portero del filial, al Almería",
-      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkVEQUI5SzlPWHlXN3FscjU2Q3YwMzAwWGc4M3dHOHRQMnVRRy0xT3FkNVZTVTVqOHB0QlJjcUhMa2VTamQtS3NuLWcwR3RlZ2xNejFVbVJvMzhhV0k3TFBfN1NlQjRHRjVPUzhRZEtFQkJ1bW9EMVVicV8wRkszZ3F1ZkFJaFE5dEMwdzV4d9IBjwFBVV95cUxOUkVEQUI5SzlPWHlXN3FscjU2Q3YwMzAwWGc4M3dHOHRQMnVRRy0xT3FkNVZTVTVqOHB0QlJjcUhMa2VTamQtS3NuLWcwR3RlZ2xNejFVbVJvMzhhV0k3TFBfN1NlQjRHRjVPUzhRZEtFQkJ1bW9EMVVicV8wRkszZ3F1ZkFJaFE5dEMwdzV4dw?oc=5",
-      "medio": "BeSoccer ES",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-20T11:40:25",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-08-20T12:59:39.821134"
     }
   ]
 }
