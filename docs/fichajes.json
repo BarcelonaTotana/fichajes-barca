@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T17:50:41.465900Z",
-  "total": 353,
+  "actualizado": "2026-09-19T18:10:41.077130Z",
+  "total": 354,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -243,6 +243,19 @@
       "fecha": "2026-09-19T14:21:41",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-19T14:40:25.448002"
+    },
+    {
+      "id": "f936d95e94e3842d",
+      "titulo": "¡Deco anuncia las renovaciones inminentes de Raphinha (2030), Bernal y Espart!",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229080/deco-anuncia-renovaciones-inminentes-raphinha-bernal-espart.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T14:21:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T18:10:26.913608"
     },
     {
       "id": "70f41f60bdda7026",
