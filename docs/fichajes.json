@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T12:10:39.286150Z",
-  "total": 350,
+  "actualizado": "2026-09-19T13:01:05.453559Z",
+  "total": 351,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "70f41f60bdda7026",
+      "titulo": "\"No será necesaria más deuda para acabar el estadio\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229029/no-sera-necesaria-deuda-acabar-estadio.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T12:46:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T13:00:51.065308"
+    },
     {
       "id": "9c6625448cbe2792",
       "titulo": "El Barça no pagará el nuevo Palau y estudia el interés de muchos inversores",
