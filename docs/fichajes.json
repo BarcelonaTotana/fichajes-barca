@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T21:20:39.640740Z",
-  "total": 356,
+  "actualizado": "2026-09-19T22:10:40.037474Z",
+  "total": 357,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -230,6 +230,19 @@
       "fecha": "2026-09-19T17:21:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-19T17:40:24.334727"
+    },
+    {
+      "id": "ddf7b38b76e937c1",
+      "titulo": "Sentido recuerdo de Laporta hacia Jorge Messi antes de hablar del homenaje a Leo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229152/sentido-recuerdo-laporta-jorge-messi-hablar-homenaje-leo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T17:21:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T22:10:25.924017"
     },
     {
       "id": "c4da6d6f35fe1987",
