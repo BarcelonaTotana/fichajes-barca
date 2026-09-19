@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T19:10:38.479330Z",
-  "total": 355,
+  "actualizado": "2026-09-19T20:30:53.866429Z",
+  "total": 354,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4780,19 +4780,6 @@
       "fecha": "2026-08-21T01:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-21T01:10:27.305373"
-    },
-    {
-      "id": "8ca448c43d9bb035",
-      "titulo": "El Atlético acepta traspasar a Julián al Arsenal, pero el jugador dice 'no'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004218109/atletico-acepta-traspasar-julian-arsenal-jugador-dice-no.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-20T20:21:30",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-20T20:40:31.502048"
     }
   ]
 }
