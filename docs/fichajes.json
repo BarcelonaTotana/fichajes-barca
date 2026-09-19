@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T12:01:03.435304Z",
+  "actualizado": "2026-09-19T12:10:39.286150Z",
   "total": 350,
   "cerradas": [
     "alex campos",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "9c6625448cbe2792",
+      "titulo": "El Barça no pagará el nuevo Palau y estudia el interés de muchos inversores",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229025/barca-no-pagara-nuevo-palau-estudia-interes-inversores.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T11:57:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T12:10:25.165129"
+    },
     {
       "id": "fe6e45aac48c9a8d",
       "titulo": "La partida prevista de traspasos del Barça 2026-27, garantizada",
@@ -4715,19 +4728,6 @@
       "fecha": "2026-08-20T13:30:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-20T16:10:36.541199"
-    },
-    {
-      "id": "06fab11f1699bf06",
-      "titulo": "La presentación de Joao Cancelo, en streaming",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217965/presentacion-joao-cancelo-streaming.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-20T12:02:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-20T12:40:31.955417"
     }
   ]
 }
