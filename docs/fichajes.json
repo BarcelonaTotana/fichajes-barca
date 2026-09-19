@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T15:40:40.400358Z",
-  "total": 350,
+  "actualizado": "2026-09-19T16:13:14.981244Z",
+  "total": 351,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "bfe5b65602ce57aa",
+      "titulo": "Luz verde a los acuerdos con Ohana y Babylon Park",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229118/luz-verde-acuerdos-ohana-babylon-park.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-19T15:43:09",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T16:12:10.674945"
+    },
     {
       "id": "80585a3fc4ae9f04",
       "titulo": "Deco argumenta la gestión del Barça Atlètic por el área deportiva profesional",
