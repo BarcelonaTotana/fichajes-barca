@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T18:50:40.439985Z",
-  "total": 353,
+  "actualizado": "2026-09-19T19:10:38.479330Z",
+  "total": 355,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -180,6 +180,19 @@
   ],
   "noticias": [
     {
+      "id": "fb0c562c8bd28643",
+      "titulo": "Laporta desvela por qué el Atlético frenó el fichaje de Julián Alvarez por el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229190/laporta-desvela-atletico-freno-fichaje-julian-alvarez-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T18:53:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T19:10:23.978021"
+    },
+    {
       "id": "0dd32e4ec90b76c3",
       "titulo": "Carrick manda a un mensaje a JJ Gabriel, el talento que flirtea con Barça y Madrid",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229166/carrick-manda-mensaje-jj-gabriel-talento-flirtea-barca-madrid.html",
@@ -295,6 +308,19 @@
       "fecha": "2026-09-19T11:57:47",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-19T12:10:25.165129"
+    },
+    {
+      "id": "8216502268ea79b6",
+      "titulo": "El Barça no pagará el nuevo Palau y estudia ofertas de muchos inversores",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229025/barca-no-pagara-nuevo-palau-estudia-interes-inversores.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T11:57:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T19:10:23.981036"
     },
     {
       "id": "7813402cc686e17c",
