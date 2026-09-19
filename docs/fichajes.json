@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T22:10:39.883638Z",
-  "total": 353,
+  "actualizado": "2026-09-19T05:01:04.147250Z",
+  "total": 352,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4754,19 +4754,6 @@
       "fecha": "2026-08-20T07:00:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-09-04T18:10:32.605175"
-    },
-    {
-      "id": "72d79b090e7bcd31",
-      "titulo": "Xavi Espart demuestra que el halago no siempre debilita",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217667/xavi-espart-demuestra-halago-no-siempre-debilita.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-20T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-20T05:40:25.999630"
     }
   ]
 }
