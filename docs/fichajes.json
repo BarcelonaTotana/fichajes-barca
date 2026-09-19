@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T20:30:53.866429Z",
-  "total": 354,
+  "actualizado": "2026-09-19T21:04:18.192768Z",
+  "total": 355,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "482b25b080597ede",
+      "titulo": "Doblete de golazos de Raphinha para remontar en el Pizjuán",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229209/golazo-raphinha-empatar-pizjuan.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T19:38:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T21:03:11.790030"
+    },
     {
       "id": "fb0c562c8bd28643",
       "titulo": "Laporta desvela por qué el Atlético frenó el fichaje de Julián Alvarez por el Barça",
