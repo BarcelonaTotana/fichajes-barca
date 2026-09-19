@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T10:01:03.448191Z",
+  "actualizado": "2026-09-19T10:40:39.223312Z",
   "total": 352,
   "cerradas": [
     "alex campos",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "fe6e45aac48c9a8d",
+      "titulo": "La partida prevista de traspasos del Barça 2026-27, garantizada",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004228987/partida-prevista-traspasos-barca-2026-27-garantizada.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-19T10:29:30",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T10:40:25.162931"
+    },
     {
       "id": "a36de3bd69992e07",
       "titulo": "Olivé: \"Tuvimos récord de ingresos en el peor año y preferimos no malvender\"",
@@ -4741,19 +4754,6 @@
       "fecha": "2026-08-20T11:40:25",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-20T12:59:39.821134"
-    },
-    {
-      "id": "831cd732fd9e7c94",
-      "titulo": "Oficial: Yaakobishvili, cedido al Almería",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217937/oficial-yaakobishvili-cedido-almeria.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-20T10:39:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-20T11:10:30.321041"
     }
   ]
 }
