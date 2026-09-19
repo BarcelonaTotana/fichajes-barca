@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T13:01:05.453559Z",
-  "total": 351,
+  "actualizado": "2026-09-19T13:30:53.163854Z",
+  "total": 349,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4715,32 +4715,6 @@
       "fecha": "2026-08-20T15:37:02",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-20T16:10:36.540913"
-    },
-    {
-      "id": "3903d499d73904bd",
-      "titulo": "Cancelo: \"Mi único objetivo era el Barça y ganar todos los títulos aquí\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217975/cancelo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-20T13:30:15",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-20T14:10:27.765707"
-    },
-    {
-      "id": "745703ac2fc48f0c",
-      "titulo": "Cancelo: \"Mi único objetivo era el Barça y voy a darlo todo para seguir ganando\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260820/1004217975/cancelo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-20T13:30:15",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-20T16:10:36.541199"
     }
   ]
 }
