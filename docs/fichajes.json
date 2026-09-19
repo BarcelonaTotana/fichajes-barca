@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T07:40:43.090935Z",
-  "total": 352,
+  "actualizado": "2026-09-19T08:10:42.908393Z",
+  "total": 353,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -243,6 +243,19 @@
       "fecha": "2026-09-18T13:14:51",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-18T14:10:28.949208"
+    },
+    {
+      "id": "585d0961d2e53367",
+      "titulo": "Messi, el racismo, el Madrid y la 'bronca' de Busquets, los otros temas de Lamine con Valdano",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228739/messi-racismo-madrid-bronca-busquets-otros-temas-lamine-valdano.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-18T13:14:51",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-19T08:10:28.780394"
     },
     {
       "id": "b5c549bcfe423c7d",
