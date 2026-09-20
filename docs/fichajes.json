@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T05:01:01.442738Z",
-  "total": 355,
+  "actualizado": "2026-09-20T09:40:41.731592Z",
+  "total": 356,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -173,12 +173,26 @@
     "eea11ae24a1b3e53",
     "f20ed5cc2751badd",
     "f6077b9dc4673321",
+    "f6e1116d885121a8",
     "f75c3f69b1a7e1a2",
     "f7bd0b5b8e22028e",
     "fa8e9a7abfd2ddc7",
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "f6e1116d885121a8",
+      "titulo": "Raphinha pulveriza un récord de Messi, va a por Cristiano y puede ser histórico",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229323/raphinha-pulveriza-record-messi-cristiano-historico.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-20T09:15:16",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-20T09:40:26.195485"
+    },
     {
       "id": "310a26d0bbf31fbd",
       "titulo": "El Barça Atlètic, a por la primera conquista",
