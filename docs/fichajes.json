@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T01:40:39.562622Z",
-  "total": 355,
+  "actualizado": "2026-09-20T04:33:25.016683Z",
+  "total": 356,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -179,6 +179,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "310a26d0bbf31fbd",
+      "titulo": "El Barça Atlètic, a por la primera conquista",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229111/barca-atletic-primera-victoria-fuera-casa.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-20T04:10:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-20T04:32:20.501695"
+    },
     {
       "id": "482b25b080597ede",
       "titulo": "Doblete de golazos de Raphinha para remontar en el Pizjuán",
