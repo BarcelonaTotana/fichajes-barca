@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T16:20:39.352886Z",
-  "total": 350,
+  "actualizado": "2026-09-20T20:35:28.057616Z",
+  "total": 351,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -112,6 +112,7 @@
     "86c14838c9b4acf9",
     "87646c21d2312d9b",
     "895a78b03cb87710",
+    "8a5e264faba0e09b",
     "8b4dc1648da51d1b",
     "8f35aa9144d84d17",
     "942698cb9b788434",
@@ -180,6 +181,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "8a5e264faba0e09b",
+      "titulo": "Raphinha, renovación de oro",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229571/raphinha-renovacion-oro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-20T20:26:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-20T20:35:12.845869"
+    },
     {
       "id": "f524c87aa855aaad",
       "titulo": "Comunicado médico de Christensen",
