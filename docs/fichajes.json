@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T12:30:52.123799Z",
+  "actualizado": "2026-09-20T12:40:42.686152Z",
   "total": 353,
   "cerradas": [
     "alex campos",
@@ -180,6 +180,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "48ea7d4d40fa9ae7",
+      "titulo": "El Barça espió a Gabriel Rajkovic, el '9' que bate récords de Haaland",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229374/barca-espio-gabriel-rajkovic-9-bate-records-haaland.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-20T12:24:36",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-20T12:40:28.473330"
+    },
     {
       "id": "283ebbbcc0169a5a",
       "titulo": "Las cifras de la exhibición silenciosa de Rodri",
@@ -4755,19 +4768,6 @@
       "fecha": "2026-08-21T15:17:31",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-21T20:40:28.390696"
-    },
-    {
-      "id": "d3311e45067cf240",
-      "titulo": "'Barça Team': la carpeta Julián no está cerrada",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218278/barca-team-carpeta-julian-no-cerrada.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-21T12:31:04",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-21T12:40:30.210549"
     }
   ]
 }
