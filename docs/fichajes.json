@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T01:01:03.292583Z",
-  "total": 356,
+  "actualizado": "2026-09-20T01:40:39.562622Z",
+  "total": 355,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4793,19 +4793,6 @@
       "fecha": "2026-08-21T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-21T05:10:30.744593"
-    },
-    {
-      "id": "884939d91704941b",
-      "titulo": "A la plantilla de Flick le falta la guinda del 'nueve'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218100/plantilla-flick-le-falta-guinda-nueve.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-21T01:35:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-21T02:10:26.518946"
     }
   ]
 }
