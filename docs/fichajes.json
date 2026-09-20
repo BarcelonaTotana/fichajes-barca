@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T12:40:42.686152Z",
-  "total": 353,
+  "actualizado": "2026-09-20T13:01:06.902172Z",
+  "total": 354,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -180,6 +180,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "f524c87aa855aaad",
+      "titulo": "Comunicado médico de Christensen",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229386/comunicado-medico-christensen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-20T12:56:04",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-20T13:00:52.342936"
+    },
     {
       "id": "48ea7d4d40fa9ae7",
       "titulo": "El Barça espió a Gabriel Rajkovic, el '9' que bate récords de Haaland",
