@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T13:01:06.902172Z",
-  "total": 354,
+  "actualizado": "2026-09-20T15:20:40.459976Z",
+  "total": 351,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4742,45 +4742,6 @@
       "fecha": "2026-08-21T16:19:03",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-21T18:20:30.847357"
-    },
-    {
-      "id": "ea3b994d7212b2de",
-      "titulo": "Rodri y Adeyemi, primeros fichajes del Barça inscritos en LaLiga",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218327/rodri-adeyemi-primeros-fichajes-barca-inscritos-laliga.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-21T15:17:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-21T15:40:29.293385"
-    },
-    {
-      "id": "98440ec10d323c6f",
-      "titulo": "Rodri, Adeyemi y Gordon, primeros fichajes del Barça inscritos en LaLiga",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218327/rodri-adeyemi-primeros-fichajes-barca-inscritos-laliga.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-21T15:17:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-21T18:10:28.708019"
-    },
-    {
-      "id": "ae519ae60514a7f6",
-      "titulo": "Rodri, Adeyemi y Gordon, ya con dorsal, primeros fichajes del Barça inscritos",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218327/rodri-adeyemi-primeros-fichajes-barca-inscritos-laliga.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-21T15:17:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-21T20:40:28.390696"
     }
   ]
 }
