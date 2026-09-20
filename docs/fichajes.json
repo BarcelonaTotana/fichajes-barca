@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T10:40:44.336040Z",
-  "total": 356,
+  "actualizado": "2026-09-20T11:30:51.656163Z",
+  "total": 354,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4781,32 +4781,6 @@
       "fecha": "2026-08-21T12:20:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-21T12:40:30.210839"
-    },
-    {
-      "id": "0a91f56ed777bdac",
-      "titulo": "Cerrada la venta de Tommy Marqués al Sporting Braga por casi 12 millones",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218267/cerrada-venta-tommy-marques-sporting-braga-12-millones.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-21T11:22:11",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-21T11:40:33.527438"
-    },
-    {
-      "id": "2a84babad9d15be8",
-      "titulo": "Oficial la venta de Tommy Marqués al Sporting Braga por 11 millones fijos",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218267/cerrada-venta-tommy-marques-sporting-braga-12-millones.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-21T11:22:11",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-21T14:40:29.440876"
     }
   ]
 }
