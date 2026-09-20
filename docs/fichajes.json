@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T11:30:51.656163Z",
-  "total": 354,
+  "actualizado": "2026-09-20T12:30:52.123799Z",
+  "total": 353,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4768,19 +4768,6 @@
       "fecha": "2026-08-21T12:31:04",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-21T12:40:30.210549"
-    },
-    {
-      "id": "c68e524f59c3bdd3",
-      "titulo": "El Barça encarrila el fichaje de Livakovic: las cifras de la operación",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218283/barca-encarrila-fichaje-livakovic-cifras-operacion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-21T12:20:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-21T12:40:30.210839"
     }
   ]
 }
