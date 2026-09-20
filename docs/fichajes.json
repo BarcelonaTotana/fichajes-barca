@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T22:10:40.037474Z",
-  "total": 357,
+  "actualizado": "2026-09-20T01:01:03.292583Z",
+  "total": 356,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4806,19 +4806,6 @@
       "fecha": "2026-08-21T01:35:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-21T02:10:26.518946"
-    },
-    {
-      "id": "4b85fa83d4ec7d21",
-      "titulo": "La prioridad de Flick era el '9' y han fichado a tres extremos",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218077/prioridad-flick-9-han-fichado-tres-extremos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-21T01:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-21T01:10:27.305373"
     }
   ]
 }
