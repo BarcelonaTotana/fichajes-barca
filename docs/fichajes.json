@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T04:33:25.016683Z",
-  "total": 356,
+  "actualizado": "2026-09-20T05:01:01.442738Z",
+  "total": 355,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4793,19 +4793,6 @@
       "fecha": "2026-08-21T10:35:58",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-21T11:10:29.241103"
-    },
-    {
-      "id": "28c0e33a4bb199b0",
-      "titulo": "Sólo futbolistas que quieran estar",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260821/1004218063/solo-futbolistas-quieran.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-21T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-21T05:10:30.744593"
     }
   ]
 }
