@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T08:40:45.054431Z",
-  "total": 350,
+  "actualizado": "2026-09-21T09:30:55.652662Z",
+  "total": 348,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4705,32 +4705,6 @@
       "fecha": "2026-08-22T10:42:34",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-22T11:10:32.874016"
-    },
-    {
-      "id": "85ee903ecf57428d",
-      "titulo": "Balde prefiere seguir en el Barça a día de hoy pero todo sigue abierto",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218530/balde-prefiere-seguir-barca-dia-hoy-sigue-abierto.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-22T09:26:10",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T09:37:33.285844"
-    },
-    {
-      "id": "12c9b3f11978f099",
-      "titulo": "Balde prefería seguir en el Barça antes de las palabras de Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218530/balde-prefiere-seguir-barca-dia-hoy-sigue-abierto.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-22T09:26:10",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T14:40:29.007414"
     }
   ]
 }
