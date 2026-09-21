@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T11:10:41.007465Z",
-  "total": 348,
+  "actualizado": "2026-09-21T12:01:08.834851Z",
+  "total": 345,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4666,45 +4666,6 @@
       "fecha": "2026-08-22T12:20:41",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-22T12:40:26.265624"
-    },
-    {
-      "id": "ad08a39dadca12cf",
-      "titulo": "Flick cierra la puerta a Julián Álvarez y la abre para Balde y Koundé",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218571/flick-cierra-puerta-julian-alvarez-abre-balde-kounde.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-22T11:58:07",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T12:10:31.576019"
-    },
-    {
-      "id": "465d9ac3045be63e",
-      "titulo": "Flick no responde sobre Julián y abre la puerta a Balde y Koundé",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218571/flick-cierra-puerta-julian-alvarez-abre-balde-kounde.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-22T11:58:07",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T12:40:26.265799"
-    },
-    {
-      "id": "95661088665412d3",
-      "titulo": "Flick no responde sobre Julián Álvarez y abre la puerta a Balde y Koundé",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218571/flick-cierra-puerta-julian-alvarez-abre-balde-kounde.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-22T11:58:07",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T09:10:29.093929"
     }
   ]
 }
