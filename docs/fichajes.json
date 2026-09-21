@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T20:35:28.057616Z",
-  "total": 351,
+  "actualizado": "2026-09-21T05:01:05.784924Z",
+  "total": 350,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4730,19 +4730,6 @@
       "fecha": "2026-08-22T06:40:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-22T07:10:27.322142"
-    },
-    {
-      "id": "a5da09e32f1d510d",
-      "titulo": "Julián Álvarez merece ser feliz",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218393/julian-alvarez-merece-feliz.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-22T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T05:40:28.842495"
     }
   ]
 }
