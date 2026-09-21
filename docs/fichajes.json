@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T10:50:39.898662Z",
-  "total": 347,
+  "actualizado": "2026-09-21T11:10:41.007465Z",
+  "total": 348,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -182,6 +182,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "0020359c9dd1005d",
+      "titulo": "Viaje a Brasil para ojear al central zurdo que convocó Ancelotti",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229712/viaje-brasil-ojear-central-zurdo-convoco-ancelotti.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-21T10:52:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-21T11:10:26.925357"
+    },
+    {
+      "id": "f93132f7f2a52426",
+      "titulo": "El 'nuevo' Landry Farré recupera la sonrisa en el Barça Atlètic",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229671/landry.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-21T10:43:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-21T11:10:26.925625"
+    },
     {
       "id": "7ca3ff80d1734320",
       "titulo": "Gordon y Adeyemi, más compañerismo que rivalidad",
@@ -4679,19 +4705,6 @@
       "fecha": "2026-08-22T11:58:07",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-23T09:10:29.093929"
-    },
-    {
-      "id": "a90fff41789a7603",
-      "titulo": "Flick, blindado ante el Madrid y Mourinho",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218534/flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-22T11:09:56",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T11:40:24.852506"
     }
   ]
 }
