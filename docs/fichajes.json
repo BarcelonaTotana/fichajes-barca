@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T12:31:02.847760Z",
-  "total": 342,
+  "actualizado": "2026-09-21T15:40:46.981618Z",
+  "total": 343,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -182,6 +182,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "7a3973d9ead93f91",
+      "titulo": "Raphinha va lanzado a por la Bota de Oro",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229829/raphinha-lanzado-bota-oro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-21T15:27:55",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-21T15:40:32.941800"
+    },
     {
       "id": "0020359c9dd1005d",
       "titulo": "Viaje a Brasil para ojear al central zurdo que convocó Ancelotti",
