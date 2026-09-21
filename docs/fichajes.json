@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T15:40:46.981618Z",
-  "total": 343,
+  "actualizado": "2026-09-21T17:10:42.942425Z",
+  "total": 344,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -194,6 +194,19 @@
       "fecha": "2026-09-21T15:27:55",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-21T15:40:32.941800"
+    },
+    {
+      "id": "3f17468bbdb95284",
+      "titulo": "Raphinha ya es segundo en la Bota de Oro",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229829/raphinha-lanzado-bota-oro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-21T15:27:55",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-21T17:10:28.473955"
     },
     {
       "id": "0020359c9dd1005d",
