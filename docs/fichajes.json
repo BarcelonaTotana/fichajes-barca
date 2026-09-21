@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T06:50:39.377627Z",
-  "total": 351,
+  "actualizado": "2026-09-21T08:40:45.054431Z",
+  "total": 350,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -182,6 +182,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "7ca3ff80d1734320",
+      "titulo": "Gordon y Adeyemi, más compañerismo que rivalidad",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229612/gordon-adeyemi-companerismo-rivalidad.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-21T08:21:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-21T08:40:31.215267"
+    },
     {
       "id": "4478d1f6eb7a4870",
       "titulo": "La cláusula que tendrá Bernal en su nuevo contrato",
@@ -4718,32 +4731,6 @@
       "fecha": "2026-08-22T09:26:10",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-22T14:40:29.007414"
-    },
-    {
-      "id": "3d7a661407da2d59",
-      "titulo": "Joan Cancelo, también inscrito en la Liga",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218510/joan-cancelo-inscrito-liga.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-22T08:35:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T09:01:50.166002"
-    },
-    {
-      "id": "06df52e78fcaca13",
-      "titulo": "Joao Cancelo, también inscrito en la Liga",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218510/joan-cancelo-inscrito-liga.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-22T08:35:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T09:37:33.286272"
     }
   ]
 }
