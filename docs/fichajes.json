@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T17:10:42.942425Z",
-  "total": 344,
+  "actualizado": "2026-09-21T17:40:44.754128Z",
+  "total": 342,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4627,32 +4627,6 @@
       "fecha": "2026-08-23T00:07:59",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-08-23T04:21:22.283537"
-    },
-    {
-      "id": "6a4c589b4ec06675",
-      "titulo": "El presidente del Inter cierra la puerta a Lautaro Martínez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218659/presidente-inter-cierra-puerta-lautaro-martinez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-22T17:32:48",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T18:10:28.400843"
-    },
-    {
-      "id": "ef41ef5bfbed920a",
-      "titulo": "El Inter cierra la puerta a Lautaro Martínez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218659/presidente-inter-cierra-puerta-lautaro-martinez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-22T17:32:48",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T11:40:28.884684"
     }
   ]
 }
