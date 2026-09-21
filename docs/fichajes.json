@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T09:30:55.652662Z",
-  "total": 348,
+  "actualizado": "2026-09-21T10:50:39.898662Z",
+  "total": 347,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4692,19 +4692,6 @@
       "fecha": "2026-08-22T11:09:56",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-22T11:40:24.852506"
-    },
-    {
-      "id": "43bec6e17829fccd",
-      "titulo": "Flick espera a Rodri para el lunes y avanza que Cancelo estará disponible en Elche",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218544/flick-espera-rodri-lunes-avanza-cancelo-estara-disponible-elche.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-22T10:42:34",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T11:10:32.874016"
     }
   ]
 }
