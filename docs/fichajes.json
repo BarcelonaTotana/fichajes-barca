@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T12:01:08.834851Z",
-  "total": 345,
+  "actualizado": "2026-09-21T12:31:02.847760Z",
+  "total": 342,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4627,45 +4627,6 @@
       "fecha": "2026-08-22T17:32:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-23T11:40:28.884684"
-    },
-    {
-      "id": "c5891366afa339af",
-      "titulo": "Arteta no se moja con Julián Álvarez: \"Estoy realmente contento con el equipo que tenemos\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218580/arteta-no-moja-julian-alvarez-realmente-contento-equipo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-22T12:30:10",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T12:40:26.265493"
-    },
-    {
-      "id": "bbb3b01813386117",
-      "titulo": "Arteta no se moja con Julián Álvarez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218580/arteta-no-moja-julian-alvarez-realmente-contento-equipo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-22T12:30:10",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T14:10:25.777668"
-    },
-    {
-      "id": "5b5649b190729a23",
-      "titulo": "El Annecy ficha a David Oduro del Barça Atlètic",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260822/1004218574/annecy-ficha-david-oduro.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-22T12:20:41",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-22T12:40:26.265624"
     }
   ]
 }
