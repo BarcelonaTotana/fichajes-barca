@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T05:01:05.784924Z",
-  "total": 350,
+  "actualizado": "2026-09-21T05:10:39.585860Z",
+  "total": 352,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -71,6 +71,7 @@
     "40bde5baeee14aa2",
     "40c7579b1923fccf",
     "4350d89f43a19914",
+    "4478d1f6eb7a4870",
     "44f3d9ace54808e4",
     "453094db5a144892",
     "468a8f69c2850cce",
@@ -181,6 +182,32 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "4478d1f6eb7a4870",
+      "titulo": "La cláusula que tendrá Bernal en su nuevo contrato",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229578/clausula-tendra-bernal-nuevo-contrato.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-21T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-21T05:10:25.469119"
+    },
+    {
+      "id": "e0ec1b4f77162d7b",
+      "titulo": "Raphinha-Lamine, la mejor dupla de las grandes ligas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229550/raphinha-lamine-mejor-dupla-grandes-ligas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-21T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-21T05:10:25.469506"
+    },
     {
       "id": "8a5e264faba0e09b",
       "titulo": "Raphinha, renovación de oro",
