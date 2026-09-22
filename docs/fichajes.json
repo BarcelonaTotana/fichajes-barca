@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T05:01:03.708239Z",
-  "total": 339,
+  "actualizado": "2026-09-22T07:50:42.789263Z",
+  "total": 338,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4575,19 +4575,6 @@
       "fecha": "2026-08-23T08:15:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-23T08:40:29.924687"
-    },
-    {
-      "id": "1c19dd8b90881e73",
-      "titulo": "Vinculan al central zurdo Gonçalo Inácio con el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218795/vinculan-central-goncalo-inacio-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-23T07:44:55",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T08:04:52.156235"
     }
   ]
 }
