@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T15:20:48.545891Z",
-  "total": 334,
+  "actualizado": "2026-09-22T15:50:41.971579Z",
+  "total": 333,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4510,19 +4510,6 @@
       "fecha": "2026-08-23T20:00:13",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-23T21:40:25.615891"
-    },
-    {
-      "id": "ecb919198ad6a442",
-      "titulo": "Sitúan al Nottingham Forest en la 'pole' por Casadó",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218914/situan-nottingham-forest-pole-casado.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-23T15:47:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T16:10:26.195137"
     }
   ]
 }
