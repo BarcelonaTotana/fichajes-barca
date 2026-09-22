@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T15:50:41.971579Z",
-  "total": 333,
+  "actualizado": "2026-09-22T16:40:45.365190Z",
+  "total": 334,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -182,6 +182,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "eceb88239042e986",
+      "titulo": "Laporta irá a Copenhague la próxima semana",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004230088/laporta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-22T16:19:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-22T16:40:31.210746"
+    },
     {
       "id": "c3c84d9ccc47d732",
       "titulo": "Las interioridades de Gordon: cercano a Joan Garcia y sorprendido con Bernal",
