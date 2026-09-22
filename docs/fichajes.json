@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T04:30:51.583427Z",
-  "total": 340,
+  "actualizado": "2026-09-22T05:01:03.708239Z",
+  "total": 339,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4588,19 +4588,6 @@
       "fecha": "2026-08-23T07:44:55",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-23T08:04:52.156235"
-    },
-    {
-      "id": "5d76bc8b7bb42e84",
-      "titulo": "Fichar por no fichar a un 9",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218718/fichar-no-fichar-9.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-23T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T05:01:14.029445"
     }
   ]
 }
