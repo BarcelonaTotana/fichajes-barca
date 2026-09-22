@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T11:20:49.362530Z",
-  "total": 334,
+  "actualizado": "2026-09-22T12:40:42.742391Z",
+  "total": 335,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -182,6 +182,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "c3c84d9ccc47d732",
+      "titulo": "Las interioridades de Gordon: cercano a Joan Garcia y sorprendido con Bernal",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004230089/interioridades-gordon-cercano-joan-garcia-sorprendido-bernal.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-22T12:09:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-22T12:40:28.481379"
+    },
     {
       "id": "7a3973d9ead93f91",
       "titulo": "Raphinha va lanzado a por la Bota de Oro",
