@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T08:20:40.449412Z",
-  "total": 337,
+  "actualizado": "2026-09-22T09:50:39.931629Z",
+  "total": 336,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4549,19 +4549,6 @@
       "fecha": "2026-08-23T10:18:02",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-23T10:36:19.963479"
-    },
-    {
-      "id": "1e0731728a903a10",
-      "titulo": "Elche CF – FC Barcelona: Pistoletazo de salida a la Liga",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR1NaSjJJaEZQOVlqRHZpenhyMExHdXF5ZEdDdndtNkNCTUNRUW5WOVFGS0JrNzNhdzl3TFlBVkp5UVBCclNnXzZDT3BtU3RxSDhPajhTc1JQODhMeEJhdmlndTU5WU1ySzFjbE9kdFJzTlFwOHlELUZCQ3lSZHFmblZ5a05Kb3dQNGxQVkE0VmllVldLOTBEaHVpMlVESjl4bXBiUWpPaTIxSEN1VmpB?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-23T09:46:19",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-08-23T19:00:51.289790"
     }
   ]
 }
