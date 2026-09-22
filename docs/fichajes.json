@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T20:01:09.397777Z",
-  "total": 333,
+  "actualizado": "2026-09-22T22:10:44.917788Z",
+  "total": 330,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4471,45 +4471,6 @@
       "fecha": "2026-08-23T22:27:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-23T22:34:48.137113"
-    },
-    {
-      "id": "2e03ec7fc76ac139",
-      "titulo": "Raphinha, sobre el '9': \"Tenemos calidad suficiente para adaptarnos\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219048/raphinha-sobre-9-calidad-suficiente-adaptarnos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-23T22:07:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T22:34:48.137277"
-    },
-    {
-      "id": "440a701771021240",
-      "titulo": "Flick celebra el estreno del Barça y avisa: \"Tenemos que hablar con Deco\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219025/flick-celebra-estreno-barca-avisa-hablar-deco.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-23T22:05:03",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T22:34:48.137455"
-    },
-    {
-      "id": "de568849496412ce",
-      "titulo": "Flick desvela sus planes: \"Tenemos que hablar con Deco del '9'\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219025/flick-celebra-estreno-barca-avisa-hablar-deco.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-23T22:05:03",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T23:10:25.455437"
     }
   ]
 }
