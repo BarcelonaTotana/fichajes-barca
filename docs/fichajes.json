@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T09:50:39.931629Z",
-  "total": 336,
+  "actualizado": "2026-09-22T10:20:45.860043Z",
+  "total": 335,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4536,19 +4536,6 @@
       "fecha": "2026-08-23T11:12:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-23T11:40:28.882887"
-    },
-    {
-      "id": "ac74c9e32e2c85e2",
-      "titulo": "Los últimos diez debuts del Barça en Liga",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218816/ultimos-diez-debuts-barca-liga.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-23T10:18:02",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T10:36:19.963479"
     }
   ]
 }
