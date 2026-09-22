@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T00:10:52.211018Z",
-  "total": 341,
+  "actualizado": "2026-09-22T04:30:51.583427Z",
+  "total": 340,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4601,19 +4601,6 @@
       "fecha": "2026-08-23T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-23T05:01:14.029445"
-    },
-    {
-      "id": "fabb59e6d5c264c1",
-      "titulo": "Un central depende de Balde o Koundé",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218750/central-depende-balde-kounde.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-23T04:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T04:40:27.824543"
     }
   ]
 }
