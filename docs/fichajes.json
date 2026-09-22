@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T22:10:44.917788Z",
-  "total": 330,
+  "actualizado": "2026-09-22T22:30:55.099995Z",
+  "total": 329,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4458,19 +4458,6 @@
       "fecha": "2026-08-24T09:24:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-24T09:40:29.503779"
-    },
-    {
-      "id": "c936365725f56242",
-      "titulo": "Fermín y el fichaje de un '9': \"Confiamos en Deco, pero tenemos variantes y lo hemos demostrado\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219052/fermin-fichaje-9-confiamos-deco-variantes-hemos-demostrado.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-23T22:27:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T22:34:48.137113"
     }
   ]
 }
