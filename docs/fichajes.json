@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T22:30:55.099995Z",
-  "total": 329,
+  "actualizado": "2026-09-22T22:40:41.218208Z",
+  "total": 330,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -182,6 +182,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "d6c2a2d759e5fad5",
+      "titulo": "Rodri escuece en el Real Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230278/rodri-escuece-real-madrid.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-22T22:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-22T22:40:26.311745"
+    },
     {
       "id": "eceb88239042e986",
       "titulo": "Laporta irá a Copenhague la próxima semana",
