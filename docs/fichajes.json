@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T10:20:45.860043Z",
-  "total": 335,
+  "actualizado": "2026-09-22T11:20:49.362530Z",
+  "total": 334,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4523,19 +4523,6 @@
       "fecha": "2026-08-23T15:11:16",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-23T15:40:25.467291"
-    },
-    {
-      "id": "f09b74f6e1af6613",
-      "titulo": "Pasión por el Barça a su llegada a Elche",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218815/barca-elche.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-23T11:12:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T11:40:28.882887"
     }
   ]
 }
