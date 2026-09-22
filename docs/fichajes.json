@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T07:50:42.789263Z",
-  "total": 338,
+  "actualizado": "2026-09-22T08:20:40.449412Z",
+  "total": 337,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4562,19 +4562,6 @@
       "fecha": "2026-08-23T09:46:19",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-08-23T19:00:51.289790"
-    },
-    {
-      "id": "205c98ffac2c032b",
-      "titulo": "El Borussia Dortmund, en Barcelona para cerrar el fichaje de Hèctor Fort",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218803/borussia-dortmund-barcelona-cerrar-fichaje-hector-fort.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-23T08:15:48",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-23T08:40:29.924687"
     }
   ]
 }
