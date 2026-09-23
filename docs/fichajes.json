@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-23T09:30:51.999793Z",
-  "total": 332,
+  "actualizado": "2026-09-23T10:10:43.146654Z",
+  "total": 330,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4472,32 +4472,6 @@
       "fecha": "2026-08-24T10:46:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-24T11:10:31.086569"
-    },
-    {
-      "id": "29aa041368d41f37",
-      "titulo": "Rodri ya prepara su debut para este jueves",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219168/rodri-prepara-debut-barca-jueves.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-24T10:05:53",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-24T10:42:17.678441"
-    },
-    {
-      "id": "69b68e5043d76410",
-      "titulo": "Rodri ya prepara su debut con el Barça para este jueves",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219168/rodri-prepara-debut-barca-jueves.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-24T10:05:53",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-24T11:40:27.680213"
     }
   ]
 }
