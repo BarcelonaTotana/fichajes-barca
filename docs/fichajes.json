@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-23T16:10:42.993651Z",
-  "total": 330,
+  "actualizado": "2026-09-23T17:20:44.689234Z",
+  "total": 329,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4459,19 +4459,6 @@
       "fecha": "2026-08-24T18:56:12",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-24T19:10:28.407168"
-    },
-    {
-      "id": "d52b948b911c68b5",
-      "titulo": "Gordon: \"Ha sido el inicio perfecto\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219328/gordon-sido-inicio-perfecto.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-24T17:18:28",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-24T17:37:46.121556"
     }
   ]
 }
