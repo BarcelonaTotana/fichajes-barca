@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-23T19:20:41.551767Z",
-  "total": 328,
+  "actualizado": "2026-09-23T19:40:51.950362Z",
+  "total": 329,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -183,6 +183,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "adc953e94af131ec",
+      "titulo": "Rodri tiene claro que las acusaciones de corrupción arbitral del Madrid \"hacen daño al fútbol\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230608/rodri-claro-acusaciones-corrupcion-arbitral-madrid-dano-futbol.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-23T19:04:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-23T19:40:37.684632"
+    },
     {
       "id": "1677b514840da6e5",
       "titulo": "'Barça Team': Rodri, la pieza que el Madrid dejó escapar y ahora disfruta el Barcelona",
