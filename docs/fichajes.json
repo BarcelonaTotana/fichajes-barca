@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-23T17:20:44.689234Z",
-  "total": 329,
+  "actualizado": "2026-09-23T19:01:09.747205Z",
+  "total": 328,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4446,19 +4446,6 @@
       "fecha": "2026-08-24T19:12:45",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-24T19:40:28.339681"
-    },
-    {
-      "id": "1efa0633ff512169",
-      "titulo": "Barça Team: \"El Barça agotará todas las vías por Julián\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219345/barca-team-barca-agotara-todas-vias-julian.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-24T18:56:12",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-24T19:10:28.407168"
     }
   ]
 }
