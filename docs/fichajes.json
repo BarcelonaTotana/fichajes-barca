@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-23T11:50:43.452131Z",
-  "total": 328,
+  "actualizado": "2026-09-23T13:10:45.266296Z",
+  "total": 329,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -183,6 +183,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "f628317424250e84",
+      "titulo": "Casadó se recupera de su operación en Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230452/casado-recupera-operacion-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-23T12:50:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-23T13:10:30.835772"
+    },
     {
       "id": "4914df7260e58a10",
       "titulo": "Desvelan un posible diseño de la próxima equipación del Barça",
