@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-23T19:10:42.950540Z",
-  "total": 329,
+  "actualizado": "2026-09-23T19:20:41.551767Z",
+  "total": 328,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4446,19 +4446,6 @@
       "fecha": "2026-08-24T20:52:35",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-25T18:10:34.537512"
-    },
-    {
-      "id": "1bf8ba58347289f1",
-      "titulo": "El United prefiere una cesión por Balde",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219352/united-prefiere-cesion-balde.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-24T19:12:45",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-24T19:40:28.339681"
     }
   ]
 }
