@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-23T10:50:38.817369Z",
-  "total": 329,
+  "actualizado": "2026-09-23T11:50:43.452131Z",
+  "total": 328,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4446,19 +4446,6 @@
       "fecha": "2026-08-24T17:18:28",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-24T17:37:46.121556"
-    },
-    {
-      "id": "94be991a111a66c4",
-      "titulo": "Comunicado oficial del Barcelona tras las pruebas a Gavi",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219202/comunicado-oficial-barcelona-pruebas-gavi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-24T11:42:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-24T12:10:28.025560"
     }
   ]
 }
