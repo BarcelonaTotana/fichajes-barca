@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-23T19:01:09.747205Z",
-  "total": 328,
+  "actualizado": "2026-09-23T19:10:42.950540Z",
+  "total": 329,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -183,6 +183,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "1677b514840da6e5",
+      "titulo": "'Barça Team': Rodri, la pieza que el Madrid dejó escapar y ahora disfruta el Barcelona",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230580/barca-team-rodri-pieza-madrid-dejo-escapar-disfruta-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-23T18:41:38",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-23T19:10:28.726843"
+    },
     {
       "id": "7ddfd89715b34526",
       "titulo": "Bisiwu presume de ser del Barça con Bélgica",
