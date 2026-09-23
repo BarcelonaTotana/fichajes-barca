@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-23T01:30:53.667920Z",
-  "total": 331,
+  "actualizado": "2026-09-23T05:40:38.617182Z",
+  "total": 332,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -30,6 +30,7 @@
     "082beb63b3723608",
     "09144d5ce9eed317",
     "09e90e74922a2b9b",
+    "0bd6cac1c05c7e5b",
     "0ca73f3a1a9e33e9",
     "0dcc3195962dd4cd",
     "0f64cf370f746294",
@@ -182,6 +183,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "0bd6cac1c05c7e5b",
+      "titulo": "Objetivo Varsovia para el Barça: arranca el camino del campeón",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230170/objetivo-varsovia-barca-arranca-camino-campeon.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-23T05:21:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-23T05:40:24.401073"
+    },
     {
       "id": "e173a4f15047f534",
       "titulo": "Cronología de un engaño",
