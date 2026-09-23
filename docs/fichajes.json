@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-23T07:40:43.047654Z",
-  "total": 333,
+  "actualizado": "2026-09-23T09:30:51.999793Z",
+  "total": 332,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4498,19 +4498,6 @@
       "fecha": "2026-08-24T10:05:53",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-24T11:40:27.680213"
-    },
-    {
-      "id": "98e9ff2bae9635ca",
-      "titulo": "El Barça preguntó por Guirassy",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219139/barca-pregunto-guirassy.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-24T09:24:26",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-24T09:40:29.503779"
     }
   ]
 }
