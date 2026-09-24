@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-24T08:50:39.826854Z",
-  "total": 322,
+  "actualizado": "2026-09-24T11:01:09.976960Z",
+  "total": 318,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4316,58 +4316,6 @@
       "fecha": "2026-08-25T15:47:21",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-25T16:10:41.697606"
-    },
-    {
-      "id": "a8a47597c10b065b",
-      "titulo": "Livakovic llega hoy a Barcelona para fichar por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219583/livakovic-llega-hoy-barcelona-fichar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-25T11:00:01",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-25T11:38:15.448868"
-    },
-    {
-      "id": "a73c82304f1874f1",
-      "titulo": "Livakovic llega a Barcelona para firmar: \"¿Si me quedaré esta temporada? Veremos\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219583/livakovic-llega-hoy-barcelona-fichar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-25T11:00:01",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-25T16:10:41.698064"
-    },
-    {
-      "id": "5614b7bdf9f9e203",
-      "titulo": "Livakovic llega a Barcelona: \"¿Si me quedaré esta temporada? Veremos\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219583/livakovic-llega-hoy-barcelona-fichar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-25T11:00:01",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-25T16:35:01.646118"
-    },
-    {
-      "id": "df0c0c236f91e5c3",
-      "titulo": "Livakovic llega para firmar: \"¿Si me quedaré esta temporada? Veremos\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219583/livakovic-llega-hoy-barcelona-fichar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-25T11:00:01",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-25T18:10:34.535749"
     }
   ]
 }
