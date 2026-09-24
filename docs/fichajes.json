@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-24T08:30:53.493961Z",
-  "total": 325,
+  "actualizado": "2026-09-24T08:50:39.826854Z",
+  "total": 322,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4368,45 +4368,6 @@
       "fecha": "2026-08-25T11:00:01",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-25T18:10:34.535749"
-    },
-    {
-      "id": "ea17700da382b4fa",
-      "titulo": "Laporta, en la Ciutat Esportiva para una cumbre técnica",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219525/laporta-ciutat-esportiva-cumbre-tecnica.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-25T08:41:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-25T09:10:31.184744"
-    },
-    {
-      "id": "433efe280f16928d",
-      "titulo": "Cumbre de Laporta con la dirección deportiva",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219525/laporta-ciutat-esportiva-cumbre-tecnica.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-25T08:41:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-25T12:40:27.623787"
-    },
-    {
-      "id": "8c85e9570bfba296",
-      "titulo": "Cumbre de Laporta con Deco y Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219525/laporta-ciutat-esportiva-cumbre-tecnica.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-25T08:41:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-25T13:07:39.430165"
     }
   ]
 }
