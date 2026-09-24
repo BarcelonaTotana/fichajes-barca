@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-24T02:40:38.255666Z",
-  "total": 328,
+  "actualizado": "2026-09-24T05:01:05.645052Z",
+  "total": 326,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4420,32 +4420,6 @@
       "fecha": "2026-08-25T08:21:23",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-25T08:39:38.239458"
-    },
-    {
-      "id": "5c02385ad8b5cb6b",
-      "titulo": "Julián Alvarez, Barça y Atlético: todos pierden",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219462/julian-alvarez-barca-atletico-todos-pierden.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-25T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-25T05:34:05.737804"
-    },
-    {
-      "id": "6054d11233b03a9a",
-      "titulo": "Un inicio demoledor sin '9'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219342/inicio-demoledor-9.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-25T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-25T05:34:05.738456"
     }
   ]
 }
