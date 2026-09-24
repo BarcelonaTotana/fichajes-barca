@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-24T17:31:03.310835Z",
-  "total": 315,
+  "actualizado": "2026-09-24T17:40:40.803341Z",
+  "total": 316,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -183,6 +183,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "edcb51dd4345a6ec",
+      "titulo": "Fermín habla de la Champions, de la competencia con Olmo y del fichaje que más le ha sorprendido",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260924/1004230884/fermin-habla-champions-competencia-olmo-fichaje-le-sorprendido.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-24T17:05:04",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-24T17:40:26.646038"
+    },
     {
       "id": "9802c099bef59586",
       "titulo": "New Era tampoco es lo que era",
