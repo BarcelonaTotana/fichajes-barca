@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-24T11:01:09.976960Z",
-  "total": 318,
+  "actualizado": "2026-09-24T15:50:43.793447Z",
+  "total": 317,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4303,19 +4303,6 @@
       "fecha": "2026-08-25T15:52:57",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-25T16:10:41.697478"
-    },
-    {
-      "id": "1d59374d528a72e4",
-      "titulo": "Así juega Livakovic, el nuevo portero del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219629/asi-juega-livakovic-nuevo-portero-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-25T15:47:21",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-25T16:10:41.697606"
     }
   ]
 }
