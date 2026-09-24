@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-24T15:50:43.793447Z",
-  "total": 317,
+  "actualizado": "2026-09-24T16:01:11.244858Z",
+  "total": 316,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4290,19 +4290,6 @@
       "fecha": "2026-08-25T17:31:02",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-25T17:40:31.643820"
-    },
-    {
-      "id": "e18ba5eb939389c1",
-      "titulo": "Xavi, en su presentación con Países Bajos: \"Vengo a la universidad del fútbol\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219683/xavi-presentacion-paises-bajos-vengo-universidad-futbol.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-25T15:52:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-25T16:10:41.697478"
     }
   ]
 }
