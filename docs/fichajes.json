@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-24T05:01:05.645052Z",
-  "total": 326,
+  "actualizado": "2026-09-24T08:30:53.493961Z",
+  "total": 325,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4407,19 +4407,6 @@
       "fecha": "2026-08-25T08:41:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-25T13:07:39.430165"
-    },
-    {
-      "id": "4ef5121a42d3365d",
-      "titulo": "En Inglaterra hablan de ofensiva y ponen precio a Balde",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219508/inglaterra-hablan-ofensiva-ponen-precio-balde.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-25T08:21:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-25T08:39:38.239458"
     }
   ]
 }
