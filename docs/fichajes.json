@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-24T17:40:40.803341Z",
-  "total": 316,
+  "actualizado": "2026-09-24T19:40:42.198170Z",
+  "total": 317,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -183,6 +183,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "adf9dad5d84ff34b",
+      "titulo": "Sitúan al Bayern tras los pasos de Dani Olmo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260924/1004230916/situan-bayern-pasos-dani-olmo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-24T19:11:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-24T19:40:28.347171"
+    },
     {
       "id": "edcb51dd4345a6ec",
       "titulo": "Fermín habla de la Champions, de la competencia con Olmo y del fichaje que más le ha sorprendido",
