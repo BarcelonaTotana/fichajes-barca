@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-25T05:01:05.047540Z",
-  "total": 312,
+  "actualizado": "2026-09-25T09:40:42.512290Z",
+  "total": 313,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -103,6 +103,7 @@
     "6f8e5dad1468ccc2",
     "725b7caed2f22a15",
     "7311a4fc282f6a99",
+    "735ae30c907ad06a",
     "73e6b94e0f4d61a3",
     "745703ac2fc48f0c",
     "7f5de7c97cea0906",
@@ -183,6 +184,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "735ae30c907ad06a",
+      "titulo": "El Barça vende 2.000 asientos VIP más y prevé ingresar 700 millones en 30 años",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260925/1004231060/barca-pone-marcha-nueva-fase-negocio-vip-spotify-camp-nou.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-25T09:08:09",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-25T09:40:28.014252"
+    },
     {
       "id": "adf9dad5d84ff34b",
       "titulo": "Sitúan al Bayern tras los pasos de Dani Olmo",
