@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-25T17:10:40.776968Z",
-  "total": 300,
+  "actualizado": "2026-09-25T18:40:39.515822Z",
+  "total": 298,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4058,32 +4058,6 @@
       "fecha": "2026-08-26T21:32:54",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-26T22:10:27.276225"
-    },
-    {
-      "id": "fbf313e0c58d6a4f",
-      "titulo": "La oficialidad del fichaje de Livakovic se traslada a este jueves",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220076/presentacion-livakovic-traslada-jueves.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-26T18:31:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T19:10:29.171394"
-    },
-    {
-      "id": "5d9958286ea1563c",
-      "titulo": "La oficialidad del fichaje de Livakovic, al caer",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220076/presentacion-livakovic-traslada-jueves.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-26T18:31:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-27T08:10:26.689848"
     }
   ]
 }
