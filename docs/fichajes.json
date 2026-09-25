@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-25T14:20:43.365375Z",
-  "total": 303,
+  "actualizado": "2026-09-25T16:10:40.350232Z",
+  "total": 301,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4097,32 +4097,6 @@
       "fecha": "2026-08-26T17:09:25",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-26T17:40:34.691560"
-    },
-    {
-      "id": "19093aa5cace4d83",
-      "titulo": "La versión de Julián sobre su ausencia en la sesión de hoy",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220038/version-julian-sobre-ausencia-sesion-hoy.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-26T16:03:07",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T16:40:28.292663"
-    },
-    {
-      "id": "f31e9f2a3616bdaa",
-      "titulo": "La versión de Julián sobre su ausencia en la sesión de ayer",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220038/version-julian-sobre-ausencia-sesion-hoy.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-26T16:03:07",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-27T08:10:26.690262"
     }
   ]
 }
