@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T12:30:57.865471Z",
+  "actualizado": "2026-09-25T13:10:40.748672Z",
   "total": 305,
   "cerradas": [
     "alex campos",
@@ -50,6 +50,7 @@
     "279bf11271d3cee8",
     "27f25d89b4825926",
     "2afd8df59ff42b07",
+    "2c300e65fd4f3059",
     "3074515ab935956d",
     "30b73a607b581a0a",
     "30f0349c496f2926",
@@ -184,6 +185,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "2c300e65fd4f3059",
+      "titulo": "De cedido a posible fichaje: Araujo ya convence al Liverpool",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260925/1004231176/cedido-fichaje-araujo-empieza-convencer-liverpool.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-25T12:34:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-25T13:10:26.305517"
+    },
     {
       "id": "735ae30c907ad06a",
       "titulo": "El Barça vende 2.000 asientos VIP más y prevé ingresar 700 millones en 30 años",
@@ -4135,19 +4149,6 @@
       "fecha": "2026-08-26T14:15:17",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-26T18:10:29.430415"
-    },
-    {
-      "id": "355b40795c8b61e3",
-      "titulo": "Laporta denuncia la detención en Elche y confirma que no habrá homenaje a los campeones del mundo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219987/laporta-denuncia-detencion-elche-confirma-no-habra-homenaje-campeones-mundo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-26T13:08:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T13:40:29.968653"
     }
   ]
 }
