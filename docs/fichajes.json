@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-25T13:10:40.748672Z",
-  "total": 305,
+  "actualizado": "2026-09-25T14:20:43.365375Z",
+  "total": 303,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4123,32 +4123,6 @@
       "fecha": "2026-08-26T16:03:07",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-27T08:10:26.690262"
-    },
-    {
-      "id": "71f6d8d5bc96cddc",
-      "titulo": "Acelerón de la Real Sociedad por Héctor Fort",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220000/aceleron-real-sociedad-hector-fort.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-26T14:15:17",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T14:30:45.531253"
-    },
-    {
-      "id": "0ca73f3a1a9e33e9",
-      "titulo": "Acuerdo Barça-Real por Héctor Fort, pero falta el 'ok' del jugador",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220000/aceleron-real-sociedad-hector-fort.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-26T14:15:17",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T18:10:29.430415"
     }
   ]
 }
