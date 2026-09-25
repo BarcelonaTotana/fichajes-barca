@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-25T18:40:39.515822Z",
-  "total": 298,
+  "actualizado": "2026-09-25T21:40:42.053360Z",
+  "total": 297,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4045,19 +4045,6 @@
       "fecha": "2026-08-27T07:00:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-09-10T23:51:08.187984"
-    },
-    {
-      "id": "3325be8176c962a1",
-      "titulo": "Todos los bombos para el sorteo de la Champions 2026-27: objetivo, Metropolitano",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219746/sorteo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-26T21:32:54",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T22:10:27.276225"
     }
   ]
 }
