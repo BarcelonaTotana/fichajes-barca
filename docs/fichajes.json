@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-24T22:01:06.619779Z",
-  "total": 315,
+  "actualizado": "2026-09-25T04:30:54.244826Z",
+  "total": 314,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4264,19 +4264,6 @@
       "fecha": "2026-08-26T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-26T05:10:28.672787"
-    },
-    {
-      "id": "fc8f0200e58280d2",
-      "titulo": "Verano loco en la portería del Barça: cinco salidas y Eder e Iker, a la expectativa por Livakovic",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219783/verano-loco-porteria-barca-cinco-salidas-eder-e-iker-expectativa-livakovic.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-26T04:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T04:40:28.540846"
     }
   ]
 }
