@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-25T09:40:42.512290Z",
-  "total": 313,
+  "actualizado": "2026-09-25T10:50:43.403521Z",
+  "total": 312,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4239,19 +4239,6 @@
       "fecha": "2026-08-26T11:02:44",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-26T11:40:32.038840"
-    },
-    {
-      "id": "11c25e7648ad22c9",
-      "titulo": "Flick, sobre Julián y el '9': \"Deco y yo estamos de acuerdo con Laporta\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219937/flick-sobre-julian-9-deco-acuerdo-laporta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-26T10:50:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T11:10:29.540394"
     }
   ]
 }
