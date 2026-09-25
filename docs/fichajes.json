@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-25T11:10:44.707288Z",
-  "total": 311,
+  "actualizado": "2026-09-25T11:50:39.640151Z",
+  "total": 310,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4213,19 +4213,6 @@
       "fecha": "2026-08-26T12:22:46",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-26T12:40:27.552787"
-    },
-    {
-      "id": "5ae4c949bf911405",
-      "titulo": "Flick deja en el aire la permanencia de Livakovic",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219959/flick-deja-aire-permanencia-livakovic.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-26T11:43:12",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T12:10:28.405053"
     }
   ]
 }
