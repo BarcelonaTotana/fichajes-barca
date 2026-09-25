@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-25T11:50:39.640151Z",
-  "total": 310,
+  "actualizado": "2026-09-25T12:30:57.865471Z",
+  "total": 305,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4148,71 +4148,6 @@
       "fecha": "2026-08-26T13:08:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-26T13:40:29.968653"
-    },
-    {
-      "id": "036a089f4cebe30a",
-      "titulo": "Joan Laporta insiste en el fichaje de Julián y estrecha la mano al Atlético",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219974/joan-laporta-julian-alvarez-operacion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-26T12:30:24",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T12:40:27.552653"
-    },
-    {
-      "id": "826836bd8eae4906",
-      "titulo": "Laporta insiste en fichar a Julián y estrecha la mano al Atlético",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219974/joan-laporta-julian-alvarez-operacion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-26T12:30:24",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T13:40:29.968818"
-    },
-    {
-      "id": "e2cf26e18865c10e",
-      "titulo": "Laporta insiste en fichar a Julián y tiende la mano al Atlético",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219974/joan-laporta-julian-alvarez-operacion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-26T12:30:24",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T14:30:45.531603"
-    },
-    {
-      "id": "4926501ff6227e33",
-      "titulo": "Joan Laporta insiste en el fichaje de Julián y tiende la mano al Atlético",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219974/joan-laporta-julian-alvarez-operacion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-26T12:30:24",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T18:10:29.430746"
-    },
-    {
-      "id": "fcf3c9c0caac81fe",
-      "titulo": "El RB Leipzig se suma a la puja por Casadó",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219973/rb-leipzig-suma-puja-casado.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-26T12:22:46",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-26T12:40:27.552787"
     }
   ]
 }
