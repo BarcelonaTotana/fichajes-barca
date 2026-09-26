@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-26T17:50:40.215750Z",
-  "total": 290,
+  "actualizado": "2026-09-26T18:30:55.395025Z",
+  "total": 289,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3941,19 +3941,6 @@
       "fecha": "2026-08-27T19:11:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-27T19:40:27.266659"
-    },
-    {
-      "id": "a1a1f9c6db0ca72c",
-      "titulo": "El morbo de los 'ex' en 5 de los 8 rivales del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220413/morbo-ex-5-8-rivales-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-27T18:30:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-27T19:10:28.540642"
     }
   ]
 }
