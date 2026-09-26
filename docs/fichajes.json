@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-26T17:01:10.172092Z",
-  "total": 292,
+  "actualizado": "2026-09-26T17:50:40.215750Z",
+  "total": 290,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3954,32 +3954,6 @@
       "fecha": "2026-08-27T18:30:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-27T19:10:28.540642"
-    },
-    {
-      "id": "be4c67405ca2fd69",
-      "titulo": "Cubarsí, Pedri y Gordon, quizá de '9', en el once del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220424/cubarsi-pedri-gordon-quiza-9-once-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-27T17:46:22",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-27T18:10:26.859846"
-    },
-    {
-      "id": "ac7a16606eff035b",
-      "titulo": "Cubarsí, Pedri y Gordon, en el once y Rodri, en el banquillo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220424/cubarsi-pedri-gordon-quiza-9-once-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-27T17:46:22",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-27T18:40:46.292194"
     }
   ]
 }
