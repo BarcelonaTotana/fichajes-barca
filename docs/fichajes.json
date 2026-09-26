@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-26T11:10:31.831448Z",
-  "total": 294,
+  "actualizado": "2026-09-26T11:30:54.265615Z",
+  "total": 293,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3993,19 +3993,6 @@
       "fecha": "2026-08-27T16:56:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-27T17:12:17.080760"
-    },
-    {
-      "id": "01ed8a3f0ba4569c",
-      "titulo": "Álvaro Cortés, rumbo a Bélgica",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220297/alvaro-cortes-rumbo-belgica.html",
-      "medio": "mundodeportivo.com",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-27T11:27:51",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-27T11:40:27.651874"
     }
   ]
 }
