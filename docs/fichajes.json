@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-26T19:20:45.869587Z",
-  "total": 287,
+  "actualizado": "2026-09-26T20:01:04.016866Z",
+  "total": 286,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3902,19 +3902,6 @@
       "fecha": "2026-08-27T21:18:10",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-27T21:40:29.072409"
-    },
-    {
-      "id": "93ea0ff26923aaf9",
-      "titulo": "Raphinha se empeña en ser el '9' y abre el marcador",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220468/raphinha-empena-9-abre-marcador.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-27T19:56:04",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-27T20:10:27.299271"
     }
   ]
 }
