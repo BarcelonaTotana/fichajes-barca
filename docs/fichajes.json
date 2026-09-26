@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-26T20:01:04.016866Z",
-  "total": 286,
+  "actualizado": "2026-09-26T21:20:39.728724Z",
+  "total": 285,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3889,19 +3889,6 @@
       "fecha": "2026-08-27T21:26:16",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-27T21:40:29.072110"
-    },
-    {
-      "id": "b2679a5d5a6d230f",
-      "titulo": "Rodri ya ejerce de líder: \"Hemos intentado levantar a Lamine\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220489/rodri-ejerce-lider-hemos-intentado-levantar-lamine.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-27T21:18:10",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-27T21:40:29.072409"
     }
   ]
 }
