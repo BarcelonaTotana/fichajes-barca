@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-26T18:30:55.395025Z",
-  "total": 289,
+  "actualizado": "2026-09-26T19:20:45.869587Z",
+  "total": 287,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3915,32 +3915,6 @@
       "fecha": "2026-08-27T19:56:04",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-27T20:10:27.299271"
-    },
-    {
-      "id": "fbf6efcb891b3b4f",
-      "titulo": "En Holanda vinculan a Nijstad para el central zurdo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220459/holanda-vinculan-nijstad-central-zurdo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-27T19:16:40",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-27T19:40:27.266334"
-    },
-    {
-      "id": "445c3086486eb7a4",
-      "titulo": "El Barça se estrenará en Azerbaiyán ante el increíble Sabah FK, de 9 años de vida",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220425/barca-estrenara-azerbaiyan-increible-sabah-fk-9-anos-vida.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-27T19:11:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-27T19:40:27.266659"
     }
   ]
 }
