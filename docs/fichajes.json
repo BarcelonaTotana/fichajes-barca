@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-26T21:20:39.728724Z",
-  "total": 285,
+  "actualizado": "2026-09-26T21:30:54.644846Z",
+  "total": 284,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3876,19 +3876,6 @@
       "fecha": "2026-08-28T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-28T05:10:27.239440"
-    },
-    {
-      "id": "544e8d89d55c49c5",
-      "titulo": "Raphinha y Fermín, dos Pichichi para Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220497/raphinha-fermin-dos-pichichi-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-27T21:26:16",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-27T21:40:29.072110"
     }
   ]
 }
