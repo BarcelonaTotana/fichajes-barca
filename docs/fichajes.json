@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-26T09:31:26.561442Z",
-  "total": 297,
+  "actualizado": "2026-09-26T09:50:57.382430Z",
+  "total": 296,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -4032,19 +4032,6 @@
       "fecha": "2026-08-27T10:11:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-27T10:36:45.090461"
-    },
-    {
-      "id": "b3719da09d156cc6",
-      "titulo": "Oficial: Livakovic ya es del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220253/oficial-livakovic-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-27T09:46:08",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-27T10:10:28.797673"
     }
   ]
 }
