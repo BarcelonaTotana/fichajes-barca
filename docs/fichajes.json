@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-27T16:50:44.003866Z",
-  "total": 280,
+  "actualizado": "2026-09-27T22:10:41.472219Z",
+  "total": 281,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -186,6 +186,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "6d4423b0445883e6",
+      "titulo": "El detallazo de Lamine con Declan Rice y el elogio del inglés: \"Eres el mejor\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004231947/detallazo-lamine-declan-rice-elogio-ingles-mejor.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-27T22:01:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-27T22:10:27.048161"
+    },
     {
       "id": "fe35c0498995f2d9",
       "titulo": "La Juventus, a punto de fichar a un exportero del Barça",
