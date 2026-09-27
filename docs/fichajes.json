@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-27T11:01:04.464992Z",
-  "total": 283,
+  "actualizado": "2026-09-27T15:20:39.484676Z",
+  "total": 284,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -182,9 +182,23 @@
     "f75c3f69b1a7e1a2",
     "f7bd0b5b8e22028e",
     "fa8e9a7abfd2ddc7",
-    "faad9cff51be995d"
+    "faad9cff51be995d",
+    "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "fe35c0498995f2d9",
+      "titulo": "La Juventus, a punto de fichar a un exportero del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260927/1004231793/juventus-punto-fichar-exportero-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-27T14:34:15",
+      "fuente_feed": "Mundo Deportivo · Fichajes",
+      "visto_por_primera_vez": "2026-09-27T15:20:26.318691"
+    },
     {
       "id": "18def58c814ba461",
       "titulo": "Reverencia mundial a Lamine: hasta en Madrid le elogian",
