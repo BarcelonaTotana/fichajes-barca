@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-27T05:01:04.498597Z",
-  "total": 284,
+  "actualizado": "2026-09-27T08:40:41.717693Z",
+  "total": 285,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -185,6 +185,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "18def58c814ba461",
+      "titulo": "Reverencia mundial a Lamine: hasta en Madrid le elogian",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260927/1004231689/reverencia-mundial-lamine-madrid-le-elogian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-27T08:02:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-27T08:40:27.624823"
+    },
     {
       "id": "c47768057f357b29",
       "titulo": "LaLiga tira de los ex del Barça: solo dos equipos sin pasado culé",
