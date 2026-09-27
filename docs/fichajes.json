@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-27T16:20:41.718262Z",
-  "total": 283,
+  "actualizado": "2026-09-27T16:50:44.003866Z",
+  "total": 280,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3825,45 +3825,6 @@
       "fecha": "2026-08-29T07:00:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-09-12T15:40:33.227731"
-    },
-    {
-      "id": "495d16114943188a",
-      "titulo": "Toni Fernández encarrila su fichaje por el Venezia",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220727/toni-fernandez-encarrila-fichaje-venezia.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-28T16:45:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-28T17:10:28.217321"
-    },
-    {
-      "id": "783821ca0243dc32",
-      "titulo": "Toni Fernández encarrila su fichaje por el Venezia y Fort viaja mañana a San Sebastián",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220727/toni-fernandez-encarrila-fichaje-venezia.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-28T16:45:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-28T19:40:27.175244"
-    },
-    {
-      "id": "d248be7ef64d6cc3",
-      "titulo": "Toni Fernández encarrila su fichaje por el Venezia y Fort viaja este sábado a Donostia",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220727/toni-fernandez-encarrila-fichaje-venezia.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-28T16:45:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-29T09:40:27.954434"
     }
   ]
 }
