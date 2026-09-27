@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-26T21:30:54.644846Z",
-  "total": 284,
+  "actualizado": "2026-09-27T02:10:42.688235Z",
+  "total": 285,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -185,6 +185,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "c08f1d90a67a0306",
+      "titulo": "Cuando no haya medios del Barça lesionados, no caben todos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260927/1004231569/no-haya-medios-barca-lesionados-no-caben-todos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-27T01:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-27T02:10:28.260490"
+    },
     {
       "id": "ec603b1bd31db26a",
       "titulo": "El mes de enero puede ser decisivo para Alejandro Balde",
