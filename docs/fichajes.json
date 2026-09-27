@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-27T08:40:41.717693Z",
-  "total": 285,
+  "actualizado": "2026-09-27T08:50:38.858012Z",
+  "total": 284,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3876,19 +3876,6 @@
       "fecha": "2026-08-28T10:55:19",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-28T11:10:31.678130"
-    },
-    {
-      "id": "d66b80db93f3d07f",
-      "titulo": "La única salida que le queda a Julián Alvarez para irse al Barcelona",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220589/unica-salida-le-queda-julian-alvarez-irse-barcelona.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-28T08:49:56",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-28T09:10:26.864383"
     }
   ]
 }
