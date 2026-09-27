@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-27T02:10:42.688235Z",
-  "total": 285,
+  "actualizado": "2026-09-27T05:01:04.498597Z",
+  "total": 284,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -185,6 +185,19 @@
     "faad9cff51be995d"
   ],
   "noticias": [
+    {
+      "id": "c47768057f357b29",
+      "titulo": "LaLiga tira de los ex del Barça: solo dos equipos sin pasado culé",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260927/1004230965/laliga-tira-ex-barca-dos-equipos-pasado-cule.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-27T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-27T05:00:50.325620"
+    },
     {
       "id": "c08f1d90a67a0306",
       "titulo": "Cuando no haya medios del Barça lesionados, no caben todos",
@@ -3863,32 +3876,6 @@
       "fecha": "2026-08-28T08:49:56",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-28T09:10:26.864383"
-    },
-    {
-      "id": "9aa3601a3db585da",
-      "titulo": "El tiro por la culata",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220452/tiro-culata.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-28T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-28T05:10:27.239080"
-    },
-    {
-      "id": "5509287a5656e6ce",
-      "titulo": "Rodri por Julián",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220329/rodri-julian.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-28T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-28T05:10:27.239440"
     }
   ]
 }
