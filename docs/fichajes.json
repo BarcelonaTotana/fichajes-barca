@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-27T08:50:38.858012Z",
-  "total": 284,
+  "actualizado": "2026-09-27T11:01:04.464992Z",
+  "total": 283,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3863,19 +3863,6 @@
       "fecha": "2026-08-28T16:18:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-28T16:40:37.233491"
-    },
-    {
-      "id": "fd3dcbafa6a75158",
-      "titulo": "Xavi Espart, 'fichaje' inesperado para Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260828/1004220631/xavi-espart-fichaje-inesperado-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-28T10:55:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-28T11:10:31.678130"
     }
   ]
 }
