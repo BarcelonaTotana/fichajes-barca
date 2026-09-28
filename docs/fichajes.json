@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-27T22:10:41.472219Z",
-  "total": 281,
+  "actualizado": "2026-09-28T05:10:39.297018Z",
+  "total": 282,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -186,6 +186,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "e0d8b5625bd5056d",
+      "titulo": "El nuevo concepto de financiación del Palau Blaugrana, con referentes en Europa",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004231756/nuevo-concepto-financiacion-palau-blaugrana-referentes-europa.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-28T04:50:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-28T05:10:25.420428"
+    },
     {
       "id": "6d4423b0445883e6",
       "titulo": "El detallazo de Lamine con Declan Rice y el elogio del inglés: \"Eres el mejor\"",
