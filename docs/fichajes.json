@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-28T16:30:57.369065Z",
-  "total": 277,
+  "actualizado": "2026-09-28T17:10:46.498666Z",
+  "total": 279,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -187,6 +187,19 @@
   ],
   "noticias": [
     {
+      "id": "5dd0bcdac6d5b1b7",
+      "titulo": "Pedro Villar estará varias semanas de baja",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004232024/pedro-villar-xx-semanas-baja.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-28T16:53:45",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-28T17:10:28.403450"
+    },
+    {
       "id": "e0d8b5625bd5056d",
       "titulo": "El nuevo concepto de financiación del Palau Blaugrana, con referentes en Europa",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004231756/nuevo-concepto-financiacion-palau-blaugrana-referentes-europa.html",
@@ -198,6 +211,19 @@
       "fecha": "2026-09-28T04:50:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-28T05:10:25.420428"
+    },
+    {
+      "id": "769bb1c4d15a4b7e",
+      "titulo": "El nuevo concepto de financiación del Palau, con referentes en Europa",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004231756/nuevo-concepto-financiacion-palau-blaugrana-referentes-europa.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-28T04:50:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-28T17:10:28.404653"
     },
     {
       "id": "6d4423b0445883e6",
