@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-28T07:01:10.980616Z",
-  "total": 281,
+  "actualizado": "2026-09-28T09:20:41.734217Z",
+  "total": 280,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3825,19 +3825,6 @@
       "fecha": "2026-08-29T09:59:27",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-29T10:10:27.338763"
-    },
-    {
-      "id": "f417e84d096ca8e6",
-      "titulo": "Bisiwu revela los secretos de su estancia en el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220875/bisiwu-revela-secretos-estancia-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-29T09:11:21",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-29T09:40:27.953254"
     }
   ]
 }
