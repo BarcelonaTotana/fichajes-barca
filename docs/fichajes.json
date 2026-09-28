@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-28T20:10:43.746880Z",
-  "total": 278,
+  "actualizado": "2026-09-28T20:40:40.719319Z",
+  "total": 277,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3786,19 +3786,6 @@
       "fecha": "2026-08-30T01:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T01:10:25.681928"
-    },
-    {
-      "id": "c3ca927bd490503b",
-      "titulo": "Héctor Fort cierra su último capítulo con el Barça tras 13 temporadas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220930/hector-fort-cierra-ultimo-capitulo-barca-13-temporadas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-29T20:32:10",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-29T21:10:25.076390"
     }
   ]
 }
