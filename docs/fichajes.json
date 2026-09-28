@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-28T10:01:08.314602Z",
-  "total": 279,
+  "actualizado": "2026-09-28T10:20:40.520095Z",
+  "total": 278,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3799,19 +3799,6 @@
       "fecha": "2026-08-29T16:22:04",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-08-29T17:40:26.348322"
-    },
-    {
-      "id": "d0d39b0c83862c84",
-      "titulo": "Gordon ya tiene la afición del Barça en el bolsillo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220888/gordon-aficion-barca-bolsillo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-29T10:14:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-29T10:40:23.298346"
     }
   ]
 }
