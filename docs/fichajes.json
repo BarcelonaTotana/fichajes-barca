@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-28T17:10:46.498666Z",
-  "total": 279,
+  "actualizado": "2026-09-28T20:10:43.746880Z",
+  "total": 278,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3799,19 +3799,6 @@
       "fecha": "2026-08-29T20:32:10",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-29T21:10:25.076390"
-    },
-    {
-      "id": "9f865b4dc332bdb6",
-      "titulo": "Oficial: Héctor Fort ficha por la Real Sociedad",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220946/oficial-hector-fort-ficha-real-sociedad.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-29T20:03:24",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-29T20:40:24.804638"
     }
   ]
 }
