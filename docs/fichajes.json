@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T05:30:54.814083Z",
-  "total": 275,
+  "actualizado": "2026-09-29T05:40:40.372444Z",
+  "total": 278,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -186,6 +186,45 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "de058b8bfc4a572f",
+      "titulo": "El Barça de los extremos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232327/barca-extremos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-29T05:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-29T05:40:26.566061"
+    },
+    {
+      "id": "af6b9ca05565fad4",
+      "titulo": "Los 10 traspasos del Barça: así están rindiendo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232317/10-traspasos-barca-asi-rindiendo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-29T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-29T05:40:26.566508"
+    },
+    {
+      "id": "7763e293fbb77b61",
+      "titulo": "El 'clásico' de los fichajes 2026-2027, para el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232269/clasico-fichajes-2026-2027-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-29T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-29T05:40:26.566790"
+    },
     {
       "id": "372f8f2a40a44178",
       "titulo": "Imágenes que marcan",
