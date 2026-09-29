@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T18:40:45.610762Z",
-  "total": 269,
+  "actualizado": "2026-09-29T19:10:46.532861Z",
+  "total": 271,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -186,6 +186,32 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "3344c539546b7b5d",
+      "titulo": "Laporta: \"Gil Marín y yo hemos limado asperezas y hemos retomado la relación\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232719/laporta-gil-marin-hemos-limado-asperezas-hemos-retomado-relacion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-29T18:59:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-29T19:10:32.367845"
+    },
+    {
+      "id": "526e1654a4801bf8",
+      "titulo": "Gesto tranquilizador de Raphinha",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232710/gesto-tranquilizador-raphinha.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-29T18:51:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-29T19:10:32.368245"
+    },
     {
       "id": "62ac3ddd67201033",
       "titulo": "Laporta: \"Espero que el Real Madrid rectifique\"",
