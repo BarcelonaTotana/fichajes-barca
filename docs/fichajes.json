@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T16:01:05.655278Z",
-  "total": 270,
+  "actualizado": "2026-09-29T17:01:06.533917Z",
+  "total": 268,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3669,32 +3669,6 @@
       "fecha": "2026-08-30T18:20:47",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T18:40:25.136881"
-    },
-    {
-      "id": "e8c6b207486fee0f",
-      "titulo": "El \"mejor delantero-defensa\" de Guardiola con muy buenas cifras de goles",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221353/gabriel-jesus-mejor-delantero-defensa-guardiola-buenas-cifras-goles.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-30T16:51:53",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T17:10:28.218345"
-    },
-    {
-      "id": "be1b62173e8fba84",
-      "titulo": "Gabriel Jesus, el \"mejor delantero-defensa\" de Guardiola con muy buenas cifras de goles",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221353/gabriel-jesus-mejor-delantero-defensa-guardiola-buenas-cifras-goles.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-30T16:51:53",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-31T08:10:27.165196"
     }
   ]
 }
