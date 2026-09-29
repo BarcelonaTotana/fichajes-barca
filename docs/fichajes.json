@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T10:10:41.873907Z",
-  "total": 276,
+  "actualizado": "2026-09-29T10:40:41.827735Z",
+  "total": 277,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -186,6 +186,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "e65120df2cef2306",
+      "titulo": "El director general del Barça deja el club",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232482/director-general-barca-deja-club.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-29T10:26:16",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-29T10:40:26.961474"
+    },
     {
       "id": "de058b8bfc4a572f",
       "titulo": "El Barça de los extremos",
