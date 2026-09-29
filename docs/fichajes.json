@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T19:10:46.532861Z",
-  "total": 271,
+  "actualizado": "2026-09-29T21:20:39.714925Z",
+  "total": 270,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3695,19 +3695,6 @@
       "fecha": "2026-08-31T04:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T04:40:26.595150"
-    },
-    {
-      "id": "e77d59246f3e9212",
-      "titulo": "Golazo de la perla que sigue el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221437/golazo-perla-sigue-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-30T21:16:24",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T21:40:26.654463"
     }
   ]
 }
