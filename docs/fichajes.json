@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T11:50:48.906193Z",
-  "total": 276,
+  "actualizado": "2026-09-29T12:10:44.672821Z",
+  "total": 277,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -198,6 +198,19 @@
       "fecha": "2026-09-29T10:44:41",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-29T11:10:27.688256"
+    },
+    {
+      "id": "f8725574a40fc217",
+      "titulo": "A la venta las entradas del Clásico para socios con precios de vértigo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232464/venta-entradas-barca-madrid-socios.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-29T10:44:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-29T12:10:30.137869"
     },
     {
       "id": "e65120df2cef2306",
