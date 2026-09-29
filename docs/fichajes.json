@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T10:40:41.827735Z",
-  "total": 277,
+  "actualizado": "2026-09-29T11:10:41.788521Z",
+  "total": 278,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -186,6 +186,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "7280e9b2d9d5046a",
+      "titulo": "A la venta las entradas del Clásico para socios",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232464/venta-entradas-barca-madrid-socios.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-29T10:44:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-29T11:10:27.688256"
+    },
     {
       "id": "e65120df2cef2306",
       "titulo": "El director general del Barça deja el club",
