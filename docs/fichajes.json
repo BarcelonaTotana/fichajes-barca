@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T14:50:54.496131Z",
-  "total": 271,
+  "actualizado": "2026-09-29T16:01:05.655278Z",
+  "total": 270,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3695,19 +3695,6 @@
       "fecha": "2026-08-30T16:51:53",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T08:10:27.165196"
-    },
-    {
-      "id": "0f64cf370f746294",
-      "titulo": "El Feyenoord cede otro empate a 10 días de visitar al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221330/feyenoord-cede-empate-10-dias-visitar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-30T15:52:27",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T16:10:27.728670"
     }
   ]
 }
