@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T05:01:07.648244Z",
-  "total": 275,
+  "actualizado": "2026-09-29T05:20:40.469849Z",
+  "total": 274,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3747,19 +3747,6 @@
       "fecha": "2026-08-30T06:22:18",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T06:40:28.639721"
-    },
-    {
-      "id": "0eee09cc592d44dc",
-      "titulo": "El Barça ficha a Catovic para el filial y a Baza para el juvenil",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMV9FVHZwaUZ0eG5QVFVObzh0bUs2NVljbzBHVVYyVnJqWURJVGpTTy1wZ09EOXVrVVVoenFaOGtoXzBDQlFKa0tjaEdBTFJKeEp4YkJxdHliOU5lU0hwOWZrZ3Zidktud1U5cndiR0FkcHVJcjNpNUp6ZXZNcGNEUC0wZ3V5U01oaGJvQzdLbUZHWkotc2Y1Vk5n?oc=5",
-      "medio": "ahora.com.pe",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-30T05:14:58",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-09-03T05:20:29.463688"
     }
   ]
 }
