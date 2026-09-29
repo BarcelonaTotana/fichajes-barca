@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T17:10:39.958985Z",
-  "total": 269,
+  "actualizado": "2026-09-29T18:31:02.989434Z",
+  "total": 268,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3669,19 +3669,6 @@
       "fecha": "2026-08-30T21:16:24",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T21:40:26.654463"
-    },
-    {
-      "id": "44d7db752909b453",
-      "titulo": "La agenda prevista con Gabriel Jesus",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221387/agenda-prevista-gabriel-jesus.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-30T18:20:47",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T18:40:25.136881"
     }
   ]
 }
