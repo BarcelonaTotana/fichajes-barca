@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T02:40:39.817511Z",
-  "total": 277,
+  "actualizado": "2026-09-29T03:01:07.293206Z",
+  "total": 276,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3773,19 +3773,6 @@
       "fecha": "2026-08-30T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T05:10:28.299757"
-    },
-    {
-      "id": "983b167a4ae0a0d5",
-      "titulo": "\"Este año, sí\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221035/ano.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-30T03:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T03:10:25.617008"
     }
   ]
 }
