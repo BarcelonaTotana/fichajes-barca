@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T14:01:05.688671Z",
-  "total": 272,
+  "actualizado": "2026-09-29T14:50:54.496131Z",
+  "total": 271,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3708,19 +3708,6 @@
       "fecha": "2026-08-30T15:52:27",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T16:10:27.728670"
-    },
-    {
-      "id": "1b28df223d8dd4ff",
-      "titulo": "El fichaje 'low cost' de Gabriel Jesús activará la inscripción de Livakovic",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221313/fichaje-low-cost-gabriel-jesus-activara-inscripcion-livakovic.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-30T14:50:40",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T15:10:25.968908"
     }
   ]
 }
