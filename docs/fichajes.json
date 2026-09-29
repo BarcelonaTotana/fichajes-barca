@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T03:01:07.293206Z",
-  "total": 276,
+  "actualizado": "2026-09-29T05:01:07.648244Z",
+  "total": 275,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3760,19 +3760,6 @@
       "fecha": "2026-08-30T05:14:58",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-09-03T05:20:29.463688"
-    },
-    {
-      "id": "a0ad9ea2400e48f3",
-      "titulo": "Descartar a Julián",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221122/descartar-julian.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-30T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T05:10:28.299757"
     }
   ]
 }
