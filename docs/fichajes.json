@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T01:01:06.010217Z",
-  "total": 276,
+  "actualizado": "2026-09-29T02:40:39.817511Z",
+  "total": 277,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -186,6 +186,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "372f8f2a40a44178",
+      "titulo": "Imágenes que marcan",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232283/imagenes-marcan.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-09-29T02:25:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-29T02:40:25.704645"
+    },
     {
       "id": "5dd0bcdac6d5b1b7",
       "titulo": "Pedro Villar estará varias semanas de baja",
