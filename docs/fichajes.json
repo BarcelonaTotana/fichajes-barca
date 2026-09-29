@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T12:20:40.073583Z",
-  "total": 275,
+  "actualizado": "2026-09-29T12:40:43.202771Z",
+  "total": 273,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3734,32 +3734,6 @@
       "fecha": "2026-08-30T13:59:34",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T14:10:27.860837"
-    },
-    {
-      "id": "ec2ad5ac04ad89bb",
-      "titulo": "Lo que le ofrece el Barça a Gabriel Jesús",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221276/le-ofrece-barca-gabriel-jesus.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-30T12:36:40",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T13:10:30.396468"
-    },
-    {
-      "id": "459cddd6c66ef67b",
-      "titulo": "Flick da las claves de Brian Fariñas, Hamza y Bisiwu",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221271/flick-da-claves-brian-farinas-hamza-bisiwu.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-30T12:34:48",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T13:10:30.396631"
     }
   ]
 }
