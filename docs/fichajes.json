@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T11:10:41.788521Z",
-  "total": 278,
+  "actualizado": "2026-09-29T11:50:48.906193Z",
+  "total": 276,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3773,32 +3773,6 @@
       "fecha": "2026-08-30T12:18:26",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T16:40:31.084104"
-    },
-    {
-      "id": "743bd71f231edf76",
-      "titulo": "Flick admite que espera algún refuerzo más",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221243/flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-30T11:42:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T14:40:27.204151"
-    },
-    {
-      "id": "3e028f7a857defa9",
-      "titulo": "Flick admite que espera algún fichaje más",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221243/flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-30T11:42:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T15:10:25.970042"
     }
   ]
 }
