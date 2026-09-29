@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T18:31:02.989434Z",
-  "total": 268,
+  "actualizado": "2026-09-29T18:40:45.610762Z",
+  "total": 269,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -186,6 +186,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "62ac3ddd67201033",
+      "titulo": "Laporta: \"Espero que el Real Madrid rectifique\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232696/laporta-esperamos-real-madrid-rectifique.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-29T18:04:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-29T18:40:30.645670"
+    },
     {
       "id": "f9d533f29088e0fc",
       "titulo": "Un canterano del Madrid sueña con debutar \"en la España de Yamal\"",
