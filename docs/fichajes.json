@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T12:10:44.672821Z",
-  "total": 277,
+  "actualizado": "2026-09-29T12:20:40.073583Z",
+  "total": 275,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3760,32 +3760,6 @@
       "fecha": "2026-08-30T12:34:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-30T13:10:30.396631"
-    },
-    {
-      "id": "b4ece69d76d0ad95",
-      "titulo": "¡El Barça se lanza a por Gabriel Jesús para ficharlo ya!",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221269/barca-lanza-gabriel-jesus-ficharlo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-30T12:18:26",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T12:40:27.200909"
-    },
-    {
-      "id": "fe9ffec425239c0e",
-      "titulo": "¡El Barça ata a Gabriel Jesús!",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221269/barca-lanza-gabriel-jesus-ficharlo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-30T12:18:26",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-30T16:40:31.084104"
     }
   ]
 }
