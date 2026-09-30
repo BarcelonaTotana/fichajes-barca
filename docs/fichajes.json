@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T08:40:50.565804Z",
-  "total": 270,
+  "actualizado": "2026-09-30T09:40:43.198376Z",
+  "total": 271,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -119,6 +119,7 @@
     "8a5e264faba0e09b",
     "8b4dc1648da51d1b",
     "8f35aa9144d84d17",
+    "92a0a0176f27056f",
     "942698cb9b788434",
     "980fabf715d87dfb",
     "98d0679f06dc8a35",
@@ -186,6 +187,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "92a0a0176f27056f",
+      "titulo": "En Portugal sitúan otra vez a Fresneda en la órbita del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232893/portugal-situan-vez-fresneda-orbita-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-30T09:17:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-30T09:40:28.787637"
+    },
     {
       "id": "ff60adce7f3a7bc4",
       "titulo": "Una ex estrella de Países Bajos recomienda al Bayern el fichaje de De Jong",
