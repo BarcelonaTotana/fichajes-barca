@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T09:40:43.198376Z",
-  "total": 271,
+  "actualizado": "2026-09-30T10:01:06.755559Z",
+  "total": 270,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3696,19 +3696,6 @@
       "fecha": "2026-08-31T10:48:23",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T11:10:35.344377"
-    },
-    {
-      "id": "bb1c73e8c45a539c",
-      "titulo": "Flick pide expresamente a Mikael Baza del Hamburgo para el Barça Atlètic y el club negocia 250.000 euros",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR1VaQjdMVFhsSEx6NDhTMmpyR2JxZ0ZrbG8xazF4dXV3Y0FJQXZLYk56eURySEFsS0ZJRGRrbmktb3hDYldQX0Y4X2Fnc3ZDSWRENXRnckdvTk5KSnJVal9uVklKQVB2VEQ0RHVwUWJHVjZFcUotc0lHRHFSS0FNSXphSVg3elVkZXFmRjdQdU82TzRFMFZ0bFB2cmNUWUFwdlNwajlvd3pYNVd4?oc=5",
-      "medio": "elgoldigital",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-31T10:00:00",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-08-31T10:10:29.186347"
     }
   ]
 }
