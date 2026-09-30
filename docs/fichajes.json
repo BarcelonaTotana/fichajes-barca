@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T05:03:45.224850Z",
-  "total": 269,
+  "actualizado": "2026-09-30T05:43:08.673763Z",
+  "total": 270,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -186,6 +186,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "5a65559fa8c933f5",
+      "titulo": "En Inglaterra ven a Gordon como \"el nuevo ídolo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232783/inglaterra-ven-gordon-nuevo-idolo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-09-30T05:05:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-30T05:42:06.823012"
+    },
     {
       "id": "24e55ad2ad958081",
       "titulo": "Lluvia de refuerzos en el Barça para asaltar Roma",
