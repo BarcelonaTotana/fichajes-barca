@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T07:01:05.270177Z",
-  "total": 268,
+  "actualizado": "2026-09-30T08:10:40.562410Z",
+  "total": 269,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -186,6 +186,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "aaacf2f8da042529",
+      "titulo": "Laporta: \"Queríamos a Lautaro pero respeto a Marotta\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232837/laporta-queriamos-lautaro-respeto-marotta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-30T07:55:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-30T08:10:26.482106"
+    },
     {
       "id": "5a65559fa8c933f5",
       "titulo": "En Inglaterra ven a Gordon como \"el nuevo ídolo\"",
