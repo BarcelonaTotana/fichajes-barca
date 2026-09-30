@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T16:40:42.310812Z",
-  "total": 261,
+  "actualizado": "2026-09-30T21:50:42.600275Z",
+  "total": 260,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3566,19 +3566,6 @@
       "fecha": "2026-08-31T22:55:32",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T23:10:29.214819"
-    },
-    {
-      "id": "001d204af0d0392f",
-      "titulo": "De nueve, Raphinha",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221857/nueve-raphinha.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-31T21:50:41",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-31T22:10:27.020061"
     }
   ]
 }
