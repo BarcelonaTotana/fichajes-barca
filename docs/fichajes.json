@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T13:31:11.088673Z",
-  "total": 266,
+  "actualizado": "2026-09-30T14:01:08.421620Z",
+  "total": 264,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3618,32 +3618,6 @@
       "fecha": "2026-08-31T14:03:07",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-09-02T22:20:28.340122"
-    },
-    {
-      "id": "7355007c43f2479b",
-      "titulo": "Gabriel Jesus ya está en Barcelona cargado de ilusión: \"Estoy muy contento\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221619/gabriel-jesus-llega-barcelona-cargado-ilusion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-31T13:58:13",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-31T14:10:31.412693"
-    },
-    {
-      "id": "b8a86eff44d96f7c",
-      "titulo": "Gabriel Jesus ya está en Barcelona cargado de ilusión",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221619/gabriel-jesus-llega-barcelona-cargado-ilusion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-31T13:58:13",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-31T20:10:26.424761"
     }
   ]
 }
