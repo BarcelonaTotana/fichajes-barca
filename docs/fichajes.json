@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T21:50:42.600275Z",
+  "actualizado": "2026-09-30T23:01:06.037665Z",
   "total": 260,
   "cerradas": [
     "alex campos",
@@ -187,6 +187,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "25383f2ef1519b02",
+      "titulo": "Bardghji, inscrito a lo Mastantuono: tendrá ficha en 2ª RFEF",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDh0SENDdjF0UUd0Vk05Z0ZIcC1xUGpJLVdGQWdfU2xJTFN6TnFIQVdabkJnSUlnVGlkSmlNWWViZ3NCeFBjNnRldmRXODU1T0RGUHh0b1UxZmFCYm1RanhUbFpWSWRMZzBiZGtvR3c3T09CMno1cVVZVE5jZjhnVldSUm1yUmk1WFZxT2EwSTRqcktXSmfSAZYBQVVfeXFMTng4dEhDQ3YxdFFHdFZNOWdGSHAtcVBqSS1XRkFnX1NsSUxTek5xSEFXWm5CZ0lJZ1RpZEppTVllYmdzQnhQYzZ0ZXZkVzg1NU9ERlB4dG9VMWZhQmJtUWp4VGxaVklkTGcwYmRrb0d3N09PQjJ6NXFVWVROY2Y4Z1ZXUlJtclJpNVhWcU9hMEk0anJLV0pn?oc=5",
+      "medio": "BeSoccer ES",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-30T12:33:33",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-09-30T23:01:05.021984"
+    },
     {
       "id": "92a0a0176f27056f",
       "titulo": "En Portugal sitúan otra vez a Fresneda en la órbita del Barça",
@@ -3553,19 +3566,6 @@
       "fecha": "2026-09-01T03:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T03:00:53.395527"
-    },
-    {
-      "id": "00393bca9ff53eb9",
-      "titulo": "Un nuevo ídolo en el Camp Nou",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221915/nuevo-idolo-camp-nou.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-31T22:55:32",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-31T23:10:29.214819"
     }
   ]
 }
