@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T04:30:59.718418Z",
-  "total": 270,
+  "actualizado": "2026-09-30T05:03:45.224850Z",
+  "total": 269,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3682,19 +3682,6 @@
       "fecha": "2026-08-31T07:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T09:40:29.444452"
-    },
-    {
-      "id": "49622b5b4ce94905",
-      "titulo": "Sacudir la sombra de Haaland",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221475/sacudir-sombra-haaland.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-31T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-31T05:10:25.782932"
     }
   ]
 }
