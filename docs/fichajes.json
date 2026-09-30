@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T08:10:40.562410Z",
-  "total": 269,
+  "actualizado": "2026-09-30T08:40:50.565804Z",
+  "total": 270,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -186,6 +186,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "ff60adce7f3a7bc4",
+      "titulo": "Una ex estrella de Países Bajos recomienda al Bayern el fichaje de De Jong",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232849/ex-estrella-paises-bajos-recomienda-bayern-fichaje-jong.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-30T08:18:09",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-30T08:40:35.640820"
+    },
     {
       "id": "aaacf2f8da042529",
       "titulo": "Laporta: \"Queríamos a Lautaro pero respeto a Marotta\"",
