@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T05:43:08.673763Z",
-  "total": 270,
+  "actualizado": "2026-09-30T07:01:05.270177Z",
+  "total": 268,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3669,32 +3669,6 @@
       "fecha": "2026-08-31T10:00:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-31T10:10:29.186347"
-    },
-    {
-      "id": "24beec484966191f",
-      "titulo": "El Barça aún no renuncia al central del futuro que avala Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221487/barca-aun-no-renuncia-central-futuro-avala-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-08-31T07:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-31T07:10:28.112525"
-    },
-    {
-      "id": "df1b7a890d69856c",
-      "titulo": "El Barça ata el fichaje de Mikael Baza, un central de futuro",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221487/barca-aun-no-renuncia-central-futuro-avala-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "avanzado",
-      "fecha": "2026-08-31T07:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-31T09:40:29.444452"
     }
   ]
 }
