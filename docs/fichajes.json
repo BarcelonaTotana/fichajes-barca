@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T21:20:39.714925Z",
-  "total": 270,
+  "actualizado": "2026-09-30T03:40:40.562796Z",
+  "total": 271,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -186,6 +186,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "24e55ad2ad958081",
+      "titulo": "Lluvia de refuerzos en el Barça para asaltar Roma",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232577/lluvia-refuerzos-asaltar-roma.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-30T03:05:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-09-30T03:40:26.141915"
+    },
     {
       "id": "3344c539546b7b5d",
       "titulo": "Laporta: \"Gil Marín y yo hemos limado asperezas y hemos retomado la relación\"",
