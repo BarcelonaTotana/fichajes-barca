@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T10:50:38.932168Z",
-  "total": 269,
+  "actualizado": "2026-09-30T11:01:06.603923Z",
+  "total": 268,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3670,19 +3670,6 @@
       "fecha": "2026-08-31T12:25:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T12:40:39.115383"
-    },
-    {
-      "id": "7fc57e0e098803fd",
-      "titulo": "Rayo Vallecano: El objetivo es seguir ganando",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkhWdWZvRktCNzEyRE9EZ19MT2hvN3M1NkJadnhicFVtTmZuOG50Q19ZZ2lkLUIxX1hhUVF3ZHlQQmNmVlNYMDRnWWtDdFhqQi1jY2hhT1VQSXBiU3dyU0UwSExWTTFzd0RINGx5SVFSaW9kZmhOaHNwWHEwVXJQOS1MdnRFNDBWOHpocC1BR1RpeXRteFBsWUFiSVJHczF0NXpyMll0UDFoaWNIc0d0bkVNbnNieXc?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-08-31T10:57:26",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-04T12:50:26.902257"
     }
   ]
 }
