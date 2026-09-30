@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T11:01:06.603923Z",
-  "total": 268,
+  "actualizado": "2026-09-30T12:31:01.629906Z",
+  "total": 267,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3657,19 +3657,6 @@
       "fecha": "2026-08-31T13:29:58",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-08-31T13:30:45.113470"
-    },
-    {
-      "id": "9510683ed5fc2bba",
-      "titulo": "La Asamblea del Barça apunta al domingo 20 de septiembre",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221657/asamblea-barca-apunta-domingo-20-septiembre.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-08-31T12:25:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-31T12:40:39.115383"
     }
   ]
 }
