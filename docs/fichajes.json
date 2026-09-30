@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T03:40:40.562796Z",
-  "total": 271,
+  "actualizado": "2026-09-30T04:30:59.718418Z",
+  "total": 270,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3695,19 +3695,6 @@
       "fecha": "2026-08-31T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-08-31T05:10:25.782932"
-    },
-    {
-      "id": "abade679119bbefd",
-      "titulo": "El posible once del Barça ante el Rayo Vallecano",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221483/posible-once-barca-rayo-vallecano.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-08-31T04:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-08-31T04:40:26.595150"
     }
   ]
 }
