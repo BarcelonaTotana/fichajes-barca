@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T17:01:10.230307Z",
-  "total": 238,
+  "actualizado": "2026-10-01T17:10:41.031490Z",
+  "total": 239,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -199,6 +199,19 @@
       "fecha": "2026-10-01T15:53:11",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-01T16:10:30.092606"
+    },
+    {
+      "id": "52171b8ff0221946",
+      "titulo": "Comunicado del Barça tras el anuncio de la UEFA",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233470/comunicado-barca-no-apertura-reapertura-reactivacion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-01T15:53:11",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-01T17:10:26.978101"
     },
     {
       "id": "4a099eb77b4c373a",
