@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T13:40:43.251375Z",
-  "total": 250,
+  "actualizado": "2026-10-01T14:01:11.333558Z",
+  "total": 245,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3371,71 +3371,6 @@
       "fecha": "2026-09-01T14:25:09",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T14:40:30.076220"
-    },
-    {
-      "id": "25a6cbbd5a5db371",
-      "titulo": "Gabriel Jesus se bajó \"significativamente\" el sueldo para jugar en el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222136/gabriel-jesus-significativamente-sueldo-jugar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-01T13:59:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T14:00:54.417969"
-    },
-    {
-      "id": "a2fd46509c34bcda",
-      "titulo": "Gabriel Jesus admite que se bajó el sueldo para jugar en el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222136/gabriel-jesus-significativamente-sueldo-jugar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-01T13:59:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T14:40:30.076390"
-    },
-    {
-      "id": "431aba52a437a4ad",
-      "titulo": "Gabriel Jesus accedió a bajarse el sueldo para jugar en el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222136/gabriel-jesus-significativamente-sueldo-jugar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-01T13:59:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T15:40:26.772569"
-    },
-    {
-      "id": "77221e8ab6a8c61e",
-      "titulo": "Gabriel Jesus se bajó significativamenteel sueldo para jugar en el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222136/gabriel-jesus-significativamente-sueldo-jugar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-01T13:59:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T21:40:28.088380"
-    },
-    {
-      "id": "8c6edb8683ff157b",
-      "titulo": "Gabriel Jesus hereda el dorsal '9' de Lewandowski",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222134/gabriel-jesus-hereda-dorsal-9-lewandowski.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T13:58:21",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T14:00:54.418129"
     }
   ]
 }
