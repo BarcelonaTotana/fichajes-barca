@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T22:50:39.470958Z",
-  "total": 229,
+  "actualizado": "2026-10-01T23:30:53.573205Z",
+  "total": 228,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3150,19 +3150,6 @@
       "fecha": "2026-09-02T04:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T04:40:29.307430"
-    },
-    {
-      "id": "5e8779a71534e8cf",
-      "titulo": "El FC Barcelona apuesta por dos perlas",
-      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQW1rdXZPVWotd3pNYm4tcUU3MVdkQmVDTUhxVF9IQ1hNVTB3WEN3MVBHQnhjcW95ZlFaVHFWeENmNGpLdUE1SWZmNUl2ZkpDNDJENlBtWWFfSDdBUFBJQlRpOHFocTh1b0E1dXJYOFZIZmNWOENIaVFCSm0zMkZ6MW9xdVNsdG9FVmdNQg?oc=5",
-      "medio": "Fichajes.com",
-      "tier": 5,
-      "tier_etiqueta": "Ruido / clickbait",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T23:24:09",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-09-03T11:30:51.232479"
     }
   ]
 }
