@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T22:10:42.296917Z",
-  "total": 229,
+  "actualizado": "2026-10-01T22:40:41.473465Z",
+  "total": 230,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -511,6 +511,19 @@
       "fecha": "2026-09-29T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-29T05:40:26.566790"
+    },
+    {
+      "id": "3e01245a4d0877d7",
+      "titulo": "Los fichajes del Barça funcionan mejor que los del Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232269/clasico-fichajes-2026-2027-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-09-29T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-01T22:40:26.757089"
     },
     {
       "id": "372f8f2a40a44178",
