@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T19:01:09.585979Z",
-  "total": 235,
+  "actualizado": "2026-10-01T19:10:43.046765Z",
+  "total": 232,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3202,45 +3202,6 @@
       "fecha": "2026-09-01T20:59:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T21:10:27.633011"
-    },
-    {
-      "id": "8b989eda53c8a737",
-      "titulo": "Oficial: Toni Fernández, al Venecia con diferencias en los comunicados",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222286/oficial-toni-fernandez-venecia-diferencias-comunicados.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-01T19:07:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T19:40:29.330534"
-    },
-    {
-      "id": "c93b488c271caa8b",
-      "titulo": "Oficial: Toni Fernández, al Venezia con una fórmula diferente",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222286/oficial-toni-fernandez-venecia-diferencias-comunicados.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-01T19:07:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T20:40:31.581269"
-    },
-    {
-      "id": "a4babbefd00c8a2d",
-      "titulo": "El ex culé Alan Godoy ya tiene equipo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222284/ex-cule-alan-godoy-equipo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-01T19:04:06",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T19:40:29.330681"
     }
   ]
 }
