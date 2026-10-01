@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T11:20:46.654796Z",
-  "total": 256,
+  "actualizado": "2026-10-01T12:01:15.881329Z",
+  "total": 254,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3488,32 +3488,6 @@
       "fecha": "2026-09-01T12:12:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-09-01T17:40:32.824453"
-    },
-    {
-      "id": "fd0024a574374387",
-      "titulo": "Presentación de Gabriel Jesus con el Barça, en directo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222079/presentacion-gabriel-jesus-barca-directo-ultima-hora-fc-barcelona-mercado-fichajes-azulgrana.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-01T11:56:07",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T12:40:29.014418"
-    },
-    {
-      "id": "15e9b6c07313768f",
-      "titulo": "Presentación de Gabriel Jesus con el Barça, en directo: última hora del FC Barcelona y del mercado de fichajes azulgrana",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222079/presentacion-gabriel-jesus-barca-directo-ultima-hora-fc-barcelona-mercado-fichajes-azulgrana.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-01T11:56:07",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T14:00:54.418731"
     }
   ]
 }
