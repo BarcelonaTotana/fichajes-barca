@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T12:20:43.111657Z",
-  "total": 253,
+  "actualizado": "2026-10-01T12:50:48.820575Z",
+  "total": 252,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3462,19 +3462,6 @@
       "fecha": "2026-09-01T13:34:54",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T21:40:28.088749"
-    },
-    {
-      "id": "3a4e296039b2c79a",
-      "titulo": "Oficial: Gabriel Jesus firma por el Barça hasta 2029",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222085/oficial-gabriel-jesus-firma-barca-2029.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-01T12:49:06",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T13:10:27.912500"
     }
   ]
 }
