@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T12:50:48.820575Z",
-  "total": 252,
+  "actualizado": "2026-10-01T13:40:43.251375Z",
+  "total": 250,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3436,32 +3436,6 @@
       "fecha": "2026-09-01T13:58:21",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T14:00:54.418129"
-    },
-    {
-      "id": "01f230dffc67d785",
-      "titulo": "Gabriel Jesus: \"No me ofende ser el plan B a Julián\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222121/gabriel-jesus-no-me-ofende-plan-b-julian.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T13:34:54",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T14:00:54.418397"
-    },
-    {
-      "id": "80b7eb60318d66f2",
-      "titulo": "\"No me ofende ser el plan B a Julián\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222121/gabriel-jesus-no-me-ofende-plan-b-julian.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T13:34:54",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T21:40:28.088749"
     }
   ]
 }
