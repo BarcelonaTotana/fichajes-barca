@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T14:01:11.333558Z",
-  "total": 245,
+  "actualizado": "2026-10-01T14:10:45.481050Z",
+  "total": 246,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -187,6 +187,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "0e1e9eda5ae88711",
+      "titulo": "Joao Cancelo sólo marca golazos: tres años después vuelve a ganar el premio al Mejor Gol del mes",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233402/gol-joao-cancelo-racing-elegido-laliga-mejor-septiembre.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-01T13:43:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-01T14:10:31.392425"
+    },
     {
       "id": "0bc77d73adc80a71",
       "titulo": "En el Barça esperan hoy a Raphinha para hacerle pruebas médicas",
