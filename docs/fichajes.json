@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T22:40:41.473465Z",
-  "total": 230,
+  "actualizado": "2026-10-01T22:50:39.470958Z",
+  "total": 229,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3163,19 +3163,6 @@
       "fecha": "2026-09-01T23:24:09",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-09-03T11:30:51.232479"
-    },
-    {
-      "id": "2c7bbc86ee6c78b3",
-      "titulo": "El Barça anuncia a Mirza Catovic para el filial y a Mikael Baza para el juvenil",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222380/barca-anuncia-mirza-catovic-filial-mikael-baza-juvenil.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-01T22:44:18",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T23:10:25.179399"
     }
   ]
 }
