@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T07:01:07.948815Z",
-  "total": 257,
+  "actualizado": "2026-10-01T08:40:41.184662Z",
+  "total": 256,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3514,19 +3514,6 @@
       "fecha": "2026-09-01T11:12:53",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T11:40:32.104988"
-    },
-    {
-      "id": "9d6396474e8e135b",
-      "titulo": "El contrato de Gabriel Jesus es de tres años fijos",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221993/contrato-gabriel-jesus-tres-anos-fijos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-01T08:39:15",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T09:10:28.684604"
     }
   ]
 }
