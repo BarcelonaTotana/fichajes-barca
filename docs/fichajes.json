@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T19:10:43.046765Z",
-  "total": 232,
+  "actualizado": "2026-10-01T21:01:09.220561Z",
+  "total": 231,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3189,19 +3189,6 @@
       "fecha": "2026-09-01T22:07:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T14:40:34.721684"
-    },
-    {
-      "id": "b3ef2a28079b3b8f",
-      "titulo": "Las cifras del traspaso de Álvaro Cortés al Amberes",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222313/oficial-traspaso-alvaro-cortes-amberes.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-01T20:59:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T21:10:27.633011"
     }
   ]
 }
