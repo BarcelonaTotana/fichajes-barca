@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T04:30:56.773589Z",
+  "actualizado": "2026-10-01T05:01:02.519523Z",
   "total": 256,
   "cerradas": [
     "alex campos",
@@ -187,6 +187,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "8449857fabc5cc69",
+      "titulo": "El sinsentido del culebrón de Cesc como entrenador del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233077/sinsentido-culebron-cesc-entrenador-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-01T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-01T05:00:48.530562"
+    },
     {
       "id": "25383f2ef1519b02",
       "titulo": "Bardghji, inscrito a lo Mastantuono: tendrá ficha en 2ª RFEF",
@@ -3501,19 +3514,6 @@
       "fecha": "2026-09-01T07:00:00",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-09-05T12:00:46.922184"
-    },
-    {
-      "id": "4828430f490a7919",
-      "titulo": "A Casadó le toca elegir: estas son sus principales opciones",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221916/casado-le-toca-elegir-son-opciones.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T05:02:33.333807"
     }
   ]
 }
