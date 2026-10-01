@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T03:01:05.983222Z",
-  "total": 259,
+  "actualizado": "2026-10-01T04:30:56.773589Z",
+  "total": 256,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3514,45 +3514,6 @@
       "fecha": "2026-09-01T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T05:02:33.333807"
-    },
-    {
-      "id": "e026b13e83e6b182",
-      "titulo": "Nijstad aprieta para ir al Barça y Balde sigue sin contar para Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221918/nijstad-aprieta-barca-balde-sigue-contar-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T04:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T04:40:26.252919"
-    },
-    {
-      "id": "a8d6bc86be72ce4a",
-      "titulo": "El plan C de Gabriel Jesus ilusiona más que el plan Julián",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221795/plan-c-gabriel-jesus-ilusiona-plan-julian.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T04:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T04:40:26.253094"
-    },
-    {
-      "id": "757b87b508487909",
-      "titulo": "El plan C ilusiona más que el plan Julián",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221795/plan-c-gabriel-jesus-ilusiona-plan-julian.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T04:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T06:10:26.965460"
     }
   ]
 }
