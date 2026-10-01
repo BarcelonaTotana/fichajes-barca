@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T17:10:41.031490Z",
-  "total": 239,
+  "actualizado": "2026-10-01T17:20:41.625068Z",
+  "total": 238,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3280,19 +3280,6 @@
       "fecha": "2026-09-01T17:47:17",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T18:10:38.056573"
-    },
-    {
-      "id": "8ad89f66353a4f4c",
-      "titulo": "Locura culé con Gabriel Jesus",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222251/locura-cule-gabriel-jesus.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-01T17:17:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T17:40:28.771297"
     }
   ]
 }
