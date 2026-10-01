@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T09:10:42.869802Z",
-  "total": 257,
+  "actualizado": "2026-10-01T11:20:46.654796Z",
+  "total": 256,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3514,19 +3514,6 @@
       "fecha": "2026-09-01T11:56:07",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T14:00:54.418731"
-    },
-    {
-      "id": "009b4ae2cfd0bbe9",
-      "titulo": "El traspaso de Marc Guiu deja un dinero extra al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222059/traspaso-guiu-deja-dinero-extra-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T11:12:53",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T11:40:32.104988"
     }
   ]
 }
