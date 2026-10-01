@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T15:50:44.416781Z",
-  "total": 239,
+  "actualizado": "2026-10-01T16:10:44.435020Z",
+  "total": 240,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -187,6 +187,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "9764994f907415bd",
+      "titulo": "Comunicado del Barça: \"Ni apertura, ni reapertura ni reactivación",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233470/comunicado-barca-no-apertura-reapertura-reactivacion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-01T15:53:11",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-01T16:10:30.092606"
+    },
     {
       "id": "4a099eb77b4c373a",
       "titulo": "La UEFA confirma que ha recibido el informe del Madrid sobre el 'caso Negreira'",
