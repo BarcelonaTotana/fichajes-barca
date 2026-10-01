@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T05:01:02.519523Z",
-  "total": 256,
+  "actualizado": "2026-10-01T05:40:39.494880Z",
+  "total": 257,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -199,6 +199,19 @@
       "fecha": "2026-10-01T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-01T05:00:48.530562"
+    },
+    {
+      "id": "4e4b342713b0ca44",
+      "titulo": "Los motivos del club para los precios de las entradas del Clásico",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233165/motivos-club-precios-entradas-clasico.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-01T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-01T05:40:25.548123"
     },
     {
       "id": "25383f2ef1519b02",
