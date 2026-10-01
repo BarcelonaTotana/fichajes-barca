@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T14:10:45.481050Z",
-  "total": 246,
+  "actualizado": "2026-10-01T14:30:58.684587Z",
+  "total": 245,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3371,19 +3371,6 @@
       "fecha": "2026-09-01T15:20:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T10:10:28.437180"
-    },
-    {
-      "id": "2155379b3b5c13bd",
-      "titulo": "Confirmada la fecha y horario del primer Clásico",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222164/confirmada-fecha-horario-primer-clasico.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T14:25:09",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T14:40:30.076220"
     }
   ]
 }
