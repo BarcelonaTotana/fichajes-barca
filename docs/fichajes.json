@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T06:40:40.491581Z",
-  "total": 258,
+  "actualizado": "2026-10-01T07:01:07.948815Z",
+  "total": 257,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3527,19 +3527,6 @@
       "fecha": "2026-09-01T08:39:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T09:10:28.684604"
-    },
-    {
-      "id": "5198790d48f9978b",
-      "titulo": "Acuerdo con el Amberes para el traspaso de Álvaro Cortés",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0tiQy1Za1pNWEN5WUZSbmJ2WmVkbnNYa3JfOENlWFg0bFNKSDJudVdDOUZfRC1UbEN6aXNfZ3lfX2YtQXJMTU04VGxJY0g0WEhpQ0Z2M3kwTjY2WE1ralFmSDRsMHFFSlVydHZvTlk0X0lkQmg2ajRDb01rVGp1bVMwZTZSVnVrM2lXLXREd1RjOEdodmd2c0c4VjFULUwyUEx4RGhOTEZsQ1k?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-01T07:00:00",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-05T12:00:46.922184"
     }
   ]
 }
