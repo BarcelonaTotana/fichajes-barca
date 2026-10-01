@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T21:01:09.220561Z",
-  "total": 231,
+  "actualizado": "2026-10-01T22:10:42.296917Z",
+  "total": 229,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3163,32 +3163,6 @@
       "fecha": "2026-09-01T22:44:18",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T23:10:25.179399"
-    },
-    {
-      "id": "8e7fd5061736d3d8",
-      "titulo": "Gabriel Jesus, inscrito con el '9' a un cuarto de hora del cierre",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222374/gabriel-jesus-inscrito-cuarto-hora-cierre.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T22:07:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T22:40:24.793440"
-    },
-    {
-      "id": "075820cf01b06c9e",
-      "titulo": "Gabriel Jesus, inscrito a un cuarto de hora del cierre",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222374/gabriel-jesus-inscrito-cuarto-hora-cierre.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T22:07:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-02T14:40:34.721684"
     }
   ]
 }
