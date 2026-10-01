@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T15:31:12.656429Z",
-  "total": 241,
+  "actualizado": "2026-10-01T15:40:46.436374Z",
+  "total": 240,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3306,19 +3306,6 @@
       "fecha": "2026-09-01T15:44:34",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-09-10T23:51:05.358154"
-    },
-    {
-      "id": "ed73a9ca30048c22",
-      "titulo": "Guille, en Mallorca para firmar y con hambre de ascenso",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222196/guille-mallorca-firmar-hambre-ascenso.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T15:39:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T16:10:30.903689"
     }
   ]
 }
