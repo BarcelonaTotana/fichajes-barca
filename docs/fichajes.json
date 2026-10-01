@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T16:50:43.085781Z",
-  "total": 239,
+  "actualizado": "2026-10-01T17:01:10.230307Z",
+  "total": 238,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3280,19 +3280,6 @@
       "fecha": "2026-09-01T17:17:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-01T17:40:28.771297"
-    },
-    {
-      "id": "d82b4e468baa79fc",
-      "titulo": "El Twente se cierra en banda ante el Barça por Nijstad",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222232/twente-cierra-banda-barca-nijstad.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-01T16:50:53",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-01T17:10:26.329320"
     }
   ]
 }
