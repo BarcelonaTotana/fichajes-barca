@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T14:30:58.684587Z",
-  "total": 245,
+  "actualizado": "2026-10-01T14:40:43.272075Z",
+  "total": 247,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -188,6 +188,19 @@
   ],
   "noticias": [
     {
+      "id": "4a099eb77b4c373a",
+      "titulo": "La UEFA confirma que ha recibido el informe del Madrid sobre el 'caso Negreira'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233430/uefa-confirma-recibido-informe-madrid-sobre-caso-negreira.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-01T14:17:34",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-01T14:40:29.111099"
+    },
+    {
       "id": "0e1e9eda5ae88711",
       "titulo": "Joao Cancelo sólo marca golazos: tres años después vuelve a ganar el premio al Mejor Gol del mes",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233402/gol-joao-cancelo-racing-elegido-laliga-mejor-septiembre.html",
@@ -212,6 +225,19 @@
       "fecha": "2026-10-01T06:02:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-01T06:40:26.108112"
+    },
+    {
+      "id": "a7a62ec32a9acddf",
+      "titulo": "Raphinha, ya en Barcelona a la espera de las pruebas médicas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233205/barca-esperan-hoy-raphinha-hacerle-pruebas-medicas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-01T06:02:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-01T14:40:29.112485"
     },
     {
       "id": "8449857fabc5cc69",
