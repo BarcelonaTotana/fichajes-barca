@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T08:40:41.184662Z",
-  "total": 256,
+  "actualizado": "2026-10-01T09:10:42.869802Z",
+  "total": 257,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -225,6 +225,19 @@
       "fecha": "2026-10-01T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-01T05:40:25.548123"
+    },
+    {
+      "id": "31f9cf981bf3ed8a",
+      "titulo": "Veni, vidi, vici: el Barça arrasa en Roma",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004233124/veni-vidi-vici-barca-arrasa-roma.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-09-30T18:37:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-01T09:10:28.977702"
     },
     {
       "id": "25383f2ef1519b02",
