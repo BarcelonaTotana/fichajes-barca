@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T15:10:41.669590Z",
-  "total": 225,
+  "actualizado": "2026-10-02T15:50:42.486181Z",
+  "total": 224,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3098,19 +3098,6 @@
       "fecha": "2026-09-02T18:02:52",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-09-02T21:30:39.600444"
-    },
-    {
-      "id": "537990b2e685133f",
-      "titulo": "Olmo: \"No entiendo lo del Atleti con Julián\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222660/olmo-no-entiendo-atleti-julian.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-02T15:44:01",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-02T16:10:31.745527"
     }
   ]
 }
