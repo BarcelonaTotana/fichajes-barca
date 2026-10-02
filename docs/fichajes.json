@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T19:50:39.138279Z",
-  "total": 220,
+  "actualizado": "2026-10-02T20:50:43.631745Z",
+  "total": 219,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3035,19 +3035,6 @@
       "fecha": "2026-09-03T01:40:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T02:12:07.167366"
-    },
-    {
-      "id": "e70545acba1d7aa2",
-      "titulo": "Lautaro: \"Lo que se decía del Barça era verdad\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222763/lautaro-decia-barca-verdad.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-02T20:45:18",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-02T21:10:30.467903"
     }
   ]
 }
