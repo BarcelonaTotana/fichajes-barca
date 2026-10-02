@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T13:40:41.070858Z",
-  "total": 224,
+  "actualizado": "2026-10-02T15:10:41.669590Z",
+  "total": 225,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -187,6 +187,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "bd63777d7f90aaa7",
+      "titulo": "'Som un Clam' pide a la junta del Barça que aplique seis medidas para los socios",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233793/som-clam-pide-junta-barca-aplique-seis-medidas-socios.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-02T14:37:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-02T15:10:27.742230"
+    },
     {
       "id": "8b73a5b0f73d71ba",
       "titulo": "Andy Bara: \"Livakovic puede jugar cinco o diez partidos esta temporada\"",
