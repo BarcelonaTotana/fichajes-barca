@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T12:01:05.117905Z",
-  "total": 223,
+  "actualizado": "2026-10-02T13:40:41.070858Z",
+  "total": 224,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -187,6 +187,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "8b73a5b0f73d71ba",
+      "titulo": "Andy Bara: \"Livakovic puede jugar cinco o diez partidos esta temporada\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233780/andy-bara-livakovic-jugar-cinco-diez-partidos-temporada.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-02T13:09:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-02T13:40:26.863434"
+    },
     {
       "id": "2d5cd8a84c1651ee",
       "titulo": "Vinculan al central alemán Jeltsch con Barça y Madrid",
