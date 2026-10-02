@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T08:40:55.750861Z",
-  "total": 229,
+  "actualizado": "2026-10-02T09:20:40.293064Z",
+  "total": 228,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3150,19 +3150,6 @@
       "fecha": "2026-09-02T09:49:41",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T10:10:28.434063"
-    },
-    {
-      "id": "2cc0021d6de2e337",
-      "titulo": "Cómo ha convencido Fariñas a Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222461/convencido-farinas-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-02T09:11:03",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-02T09:40:26.166813"
     }
   ]
 }
