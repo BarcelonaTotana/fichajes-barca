@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T17:10:42.672015Z",
-  "total": 225,
+  "actualizado": "2026-10-02T18:10:44.292815Z",
+  "total": 222,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3074,45 +3074,6 @@
       "fecha": "2026-09-02T18:49:16",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T19:10:27.820106"
-    },
-    {
-      "id": "053d70e4f90d8c86",
-      "titulo": "Oficial: estos son los dorsales del Barça para la temporada 2026-2027",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222723/dorsales-barca-temporada-2026-2027.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-02T18:03:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-02T18:40:29.859570"
-    },
-    {
-      "id": "9ff5c00d853375c6",
-      "titulo": "Los dorsales del Barça para la temporada 2026-2027",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222723/dorsales-barca-temporada-2026-2027.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-02T18:03:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-03T01:09:41.729979"
-    },
-    {
-      "id": "7f1dc4dc5e4becf8",
-      "titulo": "Los dorsales del primer equipo 2026/27, confirmados",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWlhc25fbjZsS2N2UFVqQ08tdFNnSl9pODAtaE9WMEhaNjBpOE5ZTXJQdG5xbDFQbGZkQjJ3ZnZyemt3TzdzRlNFZFJDMC10WHE2S1BxM3hYZUN2V1htYlVEd3NGVlpVQTFxN2dRUmZmRTVTT3lsQzdxSlFKbmIzWEFVVVlZVWhBbWxseTg1OWVrd1BmbFY0eENJVV84TUk4NGxhZ21NSQ?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-02T18:02:52",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-02T21:30:39.600444"
     }
   ]
 }
