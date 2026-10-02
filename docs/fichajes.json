@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T23:30:53.573205Z",
-  "total": 228,
+  "actualizado": "2026-10-02T04:01:03.909518Z",
+  "total": 229,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -187,6 +187,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "a906ab6f5ef3ffc9",
+      "titulo": "Kerolin: \"Quiero ser feliz en Barcelona y hacer muchos goles, como Ronaldinho o Neymar\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233215/kerolin-quiero-feliz-barcelona-goles-ronaldinho-neymar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-02T03:35:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-02T04:00:49.665229"
+    },
     {
       "id": "9764994f907415bd",
       "titulo": "Comunicado del Barça: \"Ni apertura, ni reapertura ni reactivación",
