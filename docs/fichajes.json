@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T09:50:39.515704Z",
-  "total": 227,
+  "actualizado": "2026-10-02T10:40:41.012793Z",
+  "total": 226,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3124,19 +3124,6 @@
       "fecha": "2026-09-02T11:04:39",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T11:40:31.933240"
-    },
-    {
-      "id": "d4ad741fa4b08ac1",
-      "titulo": "Lewandowski: \"La Champions es el sueño del Barça y ahora tiene 8 campeones del mundo\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222531/lewandowski-champions-sueno-barca-8-campeones-mundo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-02T10:32:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-02T11:10:27.824657"
     }
   ]
 }
