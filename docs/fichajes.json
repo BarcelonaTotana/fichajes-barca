@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T11:30:55.331498Z",
-  "total": 224,
+  "actualizado": "2026-10-02T12:01:05.117905Z",
+  "total": 223,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3085,19 +3085,6 @@
       "fecha": "2026-09-02T15:44:01",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T16:10:31.745527"
-    },
-    {
-      "id": "ac55538c25bf2ff0",
-      "titulo": "Oficial: un clásico del fútbol europeo jugará junto a Ter Stegen",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260902/1004222570/oficial-clasico-futbol-europeo-jugara-ter-stegen.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-02T11:51:23",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-09-02T12:10:32.278590"
     }
   ]
 }
