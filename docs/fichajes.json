@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T11:10:44.111029Z",
-  "total": 225,
+  "actualizado": "2026-10-02T11:30:55.331498Z",
+  "total": 224,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3098,19 +3098,6 @@
       "fecha": "2026-09-02T11:51:23",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-09-02T12:10:32.278590"
-    },
-    {
-      "id": "37a3ba3c3195ac11",
-      "titulo": "Las cifras de Gabriel Jesus en la Champions que sorprenderán",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222556/cifras-gabriel-jesus-champions-sorprenderan.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-02T11:26:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-02T11:40:31.933062"
     }
   ]
 }
