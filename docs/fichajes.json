@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T18:10:44.292815Z",
-  "total": 222,
+  "actualizado": "2026-10-02T18:50:45.200587Z",
+  "total": 221,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3061,19 +3061,6 @@
       "fecha": "2026-09-02T19:46:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-09-03T14:40:36.061193"
-    },
-    {
-      "id": "f808ca2b963a2590",
-      "titulo": "Alarma Jesse Bisiwu: ¡deja lesionado la final de la Copa Catalunya!",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222739/alarma-jesse-bisiwu-deja-lesionado-final-copa-catalunya.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-02T18:49:16",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-02T19:10:27.820106"
     }
   ]
 }
