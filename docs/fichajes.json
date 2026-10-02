@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T04:30:51.216014Z",
-  "total": 228,
+  "actualizado": "2026-10-02T08:40:55.750861Z",
+  "total": 229,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -187,6 +187,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "2d5cd8a84c1651ee",
+      "titulo": "Vinculan al central alemán Jeltsch con Barça y Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233662/vinculan-central-aleman-jeltsch-barca-madrid.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-02T08:21:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-02T08:40:41.305491"
+    },
     {
       "id": "a906ab6f5ef3ffc9",
       "titulo": "Kerolin: \"Quiero ser feliz en Barcelona y hacer muchos goles, como Ronaldinho o Neymar\"",
