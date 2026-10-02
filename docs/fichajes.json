@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T15:50:42.486181Z",
-  "total": 224,
+  "actualizado": "2026-10-02T17:10:42.672015Z",
+  "total": 225,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -15,6 +15,7 @@
     "martina fernandez",
     "nico gonzalez",
     "olivier nkamhoua",
+    "paloma mikadze",
     "ruben iranzo",
     "ter stegen",
     "van asten"
@@ -83,6 +84,7 @@
     "4eb73016b6efb218",
     "50d1a01ff4dc6c9f",
     "5198790d48f9978b",
+    "5372c077e769cf61",
     "56fdc33f742463d4",
     "574088e5f6764851",
     "592788f78b2f9daf",
@@ -187,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "5372c077e769cf61",
+      "titulo": "Paloma Mikadze: \"El objetivo es que Barça Play sea una línea relevante de ingresos\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233835/paloma.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-02T16:37:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-02T17:10:28.100228"
+    },
     {
       "id": "bd63777d7f90aaa7",
       "titulo": "'Som un Clam' pide a la junta del Barça que aplique seis medidas para los socios",
