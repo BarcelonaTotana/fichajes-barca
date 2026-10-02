@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T09:20:40.293064Z",
-  "total": 228,
+  "actualizado": "2026-10-02T09:50:39.515704Z",
+  "total": 227,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3137,19 +3137,6 @@
       "fecha": "2026-09-02T10:32:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-02T11:10:27.824657"
-    },
-    {
-      "id": "192f22855f42f1f2",
-      "titulo": "Kochen ya se luce en Dinamarca",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222489/kochen-luce-dinamarca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-02T09:49:41",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-02T10:10:28.434063"
     }
   ]
 }
