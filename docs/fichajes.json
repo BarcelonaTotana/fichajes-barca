@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T15:20:42.588086Z",
-  "total": 214,
+  "actualizado": "2026-10-03T17:01:05.334867Z",
+  "total": 213,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -2957,19 +2957,6 @@
       "fecha": "2026-09-03T18:54:11",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T19:10:30.770915"
-    },
-    {
-      "id": "240b35d3cb2eb575",
-      "titulo": "Digne entra en la comparación del actual PSG con el Barça de Luis Enrique",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223036/digne-compara-actual-psg-barca-luis-enrique.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-03T16:58:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-03T17:10:29.639599"
     }
   ]
 }
