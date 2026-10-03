@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T20:50:43.631745Z",
-  "total": 219,
+  "actualizado": "2026-10-03T00:40:41.257102Z",
+  "total": 220,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "9d5baf3563675f17",
+      "titulo": "El plan B",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004233678/plan-b.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-03T00:10:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-03T00:40:27.396629"
+    },
     {
       "id": "5372c077e769cf61",
       "titulo": "Paloma Mikadze: \"El objetivo es que Barça Play sea una línea relevante de ingresos\"",
