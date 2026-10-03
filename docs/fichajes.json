@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T02:01:02.169634Z",
-  "total": 218,
+  "actualizado": "2026-10-03T02:20:43.614087Z",
+  "total": 217,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3009,19 +3009,6 @@
       "fecha": "2026-09-03T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T05:40:25.659811"
-    },
-    {
-      "id": "faffd0d67567f7ca",
-      "titulo": "Hoy, reunión de junta clave para la Asamblea del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222706/hoy-reunion-junta-clave-asamblea-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-03T02:15:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-03T02:40:26.914353"
     }
   ]
 }
