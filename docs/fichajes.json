@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T17:01:05.334867Z",
-  "total": 213,
+  "actualizado": "2026-10-03T19:01:02.243704Z",
+  "total": 212,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -2944,19 +2944,6 @@
       "fecha": "2026-09-03T19:04:02",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T19:40:29.648127"
-    },
-    {
-      "id": "776eded9f0c87f21",
-      "titulo": "Como el Barça, el Feyenoord también cierra su mercado fichando en el Arsenal",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223081/barca-feyenoord-cierra-mercado-fichando-arsenal.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-03T18:54:11",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-03T19:10:30.770915"
     }
   ]
 }
