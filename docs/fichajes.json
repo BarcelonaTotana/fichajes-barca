@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T05:01:02.896174Z",
-  "total": 217,
+  "actualizado": "2026-10-03T09:10:41.423707Z",
+  "total": 216,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -2996,19 +2996,6 @@
       "fecha": "2026-09-03T10:09:44",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T10:40:27.235666"
-    },
-    {
-      "id": "958d95205629c366",
-      "titulo": "\"Siempre es agradable que te vinculen con los grandes\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222854/siempre-agradable-te-vinculen-grandes.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-03T09:10:03",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-03T09:40:25.916559"
     }
   ]
 }
