@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T12:40:40.599065Z",
-  "total": 216,
+  "actualizado": "2026-10-03T13:10:40.507743Z",
+  "total": 215,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -2983,19 +2983,6 @@
       "fecha": "2026-09-03T15:17:41",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T15:40:34.520428"
-    },
-    {
-      "id": "d5335299b5f0b59c",
-      "titulo": "Cuatro ilustres exazulgranas que continúan sin equipo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222699/exazulgranas-continuan-equipo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-03T13:08:39",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-03T13:40:30.111231"
     }
   ]
 }
