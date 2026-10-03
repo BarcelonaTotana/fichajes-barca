@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T04:40:38.157275Z",
-  "total": 218,
+  "actualizado": "2026-10-03T05:01:02.896174Z",
+  "total": 217,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3009,19 +3009,6 @@
       "fecha": "2026-09-03T09:10:03",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T09:40:25.916559"
-    },
-    {
-      "id": "643d5176f36e29d4",
-      "titulo": "Frustración en el Barça por la no venta de Abde",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222687/abd.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-03T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-03T05:40:25.659811"
     }
   ]
 }
