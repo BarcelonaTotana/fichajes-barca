@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T09:10:41.423707Z",
-  "total": 216,
+  "actualizado": "2026-10-03T10:10:39.453716Z",
+  "total": 215,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -2983,19 +2983,6 @@
       "fecha": "2026-09-03T13:08:39",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T13:40:30.111231"
-    },
-    {
-      "id": "c8677372d7bc9d00",
-      "titulo": "Roger Martínez deja el Barça Atlètic y se va al Al-Markhiya de Qatar",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222881/roger-martinez-deja-barca-atletic-markhiya-qatar.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-03T10:09:44",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-03T10:40:27.235666"
     }
   ]
 }
