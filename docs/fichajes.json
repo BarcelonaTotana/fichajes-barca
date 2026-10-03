@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T19:01:02.243704Z",
-  "total": 212,
+  "actualizado": "2026-10-03T19:10:39.554196Z",
+  "total": 211,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -2931,19 +2931,6 @@
       "fecha": "2026-09-03T22:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-04T17:40:26.207202"
-    },
-    {
-      "id": "9f86d915a5dc464e",
-      "titulo": "El Barça, con Hamza y Bisiwu en la lista A de la Champions y Fariñas, en la B",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223091/barca-hamza-bisiwu-lista-champions-farinas-b.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-03T19:04:02",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-03T19:40:29.648127"
     }
   ]
 }
