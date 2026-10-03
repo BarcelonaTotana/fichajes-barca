@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T13:10:40.507743Z",
-  "total": 215,
+  "actualizado": "2026-10-03T15:20:42.588086Z",
+  "total": 214,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -2970,19 +2970,6 @@
       "fecha": "2026-09-03T16:58:23",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T17:10:29.639599"
-    },
-    {
-      "id": "baebdbca8de3bc0e",
-      "titulo": "Entradas a la venta para la exposición 'Iniesta Experience: (El Juego Interior)'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222997/entradas-venta-exposicion-iniesta-experience-juego-interior.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-03T15:17:41",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-03T15:40:34.520428"
     }
   ]
 }
