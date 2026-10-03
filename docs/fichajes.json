@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T02:20:43.614087Z",
-  "total": 217,
+  "actualizado": "2026-10-03T04:40:38.157275Z",
+  "total": 218,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "08878e5f74c47cde",
+      "titulo": "Pedro Rodríguez: renovación cerrada y paciencia",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004233928/pedro-rodriguez-renovacion-cerrada-paciencia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-03T04:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-03T04:40:24.269422"
+    },
     {
       "id": "9d5baf3563675f17",
       "titulo": "El plan B",
