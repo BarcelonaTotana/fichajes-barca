@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T01:40:38.543098Z",
-  "total": 219,
+  "actualizado": "2026-10-03T02:01:02.169634Z",
+  "total": 218,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -3022,19 +3022,6 @@
       "fecha": "2026-09-03T02:15:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-03T02:40:26.914353"
-    },
-    {
-      "id": "b91f4cffcc0b8385",
-      "titulo": "Pau Cubarsí era el bueno",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222682/pau-cubarsi-bueno.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-03T02:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-03T02:12:07.167109"
     }
   ]
 }
