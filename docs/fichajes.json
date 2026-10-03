@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T19:10:39.554196Z",
-  "total": 211,
+  "actualizado": "2026-10-03T22:30:50.403816Z",
+  "total": 209,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -2905,32 +2905,6 @@
       "fecha": "2026-09-04T03:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-04T03:10:34.804043"
-    },
-    {
-      "id": "d8130ddd4017d554",
-      "titulo": "Las claves del fichaje de consenso de Gabriel Jesus por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223117/claves-fichaje-consenso-gabriel-jesus-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-03T22:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-03T22:40:26.534382"
-    },
-    {
-      "id": "8346377c616ea0ca",
-      "titulo": "Las claves del fichaje de Gabriel Jesus por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223117/claves-fichaje-consenso-gabriel-jesus-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-03T22:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-04T17:40:26.207202"
     }
   ]
 }
