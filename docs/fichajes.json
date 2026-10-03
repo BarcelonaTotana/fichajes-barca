@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T10:10:39.453716Z",
-  "total": 215,
+  "actualizado": "2026-10-03T12:40:40.599065Z",
+  "total": 216,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "bb2959224ecf5ffd",
+      "titulo": "Pere Romeu: \"La lluvia da partido enérgicos\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004234106/pere-romeu-lluvia-da-partido-energicos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-03T12:06:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-03T12:40:26.461884"
+    },
     {
       "id": "08878e5f74c47cde",
       "titulo": "Pedro Rodríguez: renovación cerrada y paciencia",
