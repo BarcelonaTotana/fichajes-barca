@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-04T04:00:59.545192Z",
-  "total": 207,
+  "actualizado": "2026-10-04T05:40:41.172599Z",
+  "total": 208,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "983114d1151e6b6f",
+      "titulo": "El Barça gana poder institucional",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234195/barca-gana-institucional.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-04T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-04T05:40:27.106716"
+    },
     {
       "id": "bb2959224ecf5ffd",
       "titulo": "Pere Romeu: \"La lluvia da partido enérgicos\"",
