@@ -1,3 +1,7 @@
+> **Nota (2026-10-05):** este es el diario original del proyecto (antes `Memoria.md`). Se
+> conserva por las decisiones y su contexto, pero partes están desfasadas (rutas, "cada 20 min",
+> alcance de cantera). La referencia actual está en `README.md` y en el resto de `documentacion/`.
+
 # Memoria del Proyecto — Monitor de Fichajes FC Barcelona (Fútbol Masculino)
 
 > **Propósito de este archivo:** documento de continuidad. Permite cerrar la terminal y

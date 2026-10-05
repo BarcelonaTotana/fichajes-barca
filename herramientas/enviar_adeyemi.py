@@ -3,8 +3,8 @@
 usando el mismo formato del sistema. Herramienta puntual, a petición."""
 import sys, os, json
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-import telegram_alertas
-import analisis as A
+from bot import telegram_alertas
+from bot import analisis as A
 
 RUTA = os.path.join("docs", "fichajes.json")
 noticias = json.load(open(RUTA, encoding="utf-8")).get("noticias", [])

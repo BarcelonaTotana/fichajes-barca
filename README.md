@@ -1,44 +1,39 @@
 # Monitor de Fichajes · FC Barcelona (fútbol masculino)
 
 Sistema **gratuito y automático** que vigila el mercado de fichajes del FC Barcelona
-(primer equipo + todas las categorías inferiores), clasifica cada noticia por
-**fiabilidad de la fuente**, y lo muestra en una web accesible desde móvil y ordenador.
-Además envía **alertas a Telegram** cuando hay noticias de fuentes fiables.
+(**primer equipo** y **Barça Atlètic**), clasifica cada noticia por fiabilidad de la fuente
+y estado de la operación, la publica en una web y avisa por **Telegram** de los movimientos
+de fuentes fiables.
 
-- **Recolector** (`recolector.py`): lee Google News RSS, filtra fichajes del Barça,
-  clasifica (fiabilidad / categoría / estado), deduplica y guarda `docs/fichajes.json`.
-- **Panel** (`docs/index.html`): web responsive que lee ese JSON. La sirve GitHub Pages.
-- **Automatización** (`.github/workflows/actualizar.yml`): GitHub Actions lo ejecuta
-  cada 20 min en la nube (sin ordenador encendido) y publica los cambios.
-- **Alertas** (`telegram_alertas.py`): avisos push al móvil vía bot de Telegram.
+- **Web:** https://barcelonatotana.github.io/fichajes-barca/
+- **Telegram:** @fichajes_barca_bot
+- **Ejecución:** GitHub Actions cada 10 min (lo dispara cron-job.org).
 
-## Cómo se pone en marcha (resumen)
+## Estructura
 
-1. **Subir este proyecto a un repo de GitHub** (rama `main`).
-2. **Activar GitHub Pages**: Settings → Pages → "Deploy from a branch" → rama `main`, carpeta `/docs`.
-   La web quedará en `https://TU_USUARIO.github.io/NOMBRE_REPO/`.
-3. **Añadir los secretos de Telegram**: Settings → Secrets and variables → Actions → New secret:
-   - `TELEGRAM_TOKEN` = token del bot (de @BotFather)
-   - `TELEGRAM_CHAT_ID` = tu chat id (de @userinfobot)
-4. **Actions** ejecutará el recolector cada 20 min. También puedes lanzarlo a mano
-   desde la pestaña **Actions → Actualizar fichajes → Run workflow**.
+| Carpeta | Contenido |
+|---|---|
+| `bot/` | Código del bot: `recolector.py` (principal), `fuentes.py` (configuración), `analisis.py`, `telegram_alertas.py` |
+| `docs/` | La web publicada por GitHub Pages (`index.html` + `fichajes.json`). **No es documentación.** |
+| `documentacion/` | Manuales y referencia (ver abajo) |
+| `herramientas/` | Utilidades manuales: informe de ejecuciones, prueba de alerta, chat id |
+| `tests/` | Pruebas de los filtros con titulares reales |
+| `.github/workflows/` | Automatizaciones de GitHub Actions |
 
-## Probar en local
+## Documentación
+
+- [Manual de uso](documentacion/MANUAL.md): uso diario, tareas de mantenimiento y qué hacer si algo falla.
+- [Arquitectura](documentacion/ARQUITECTURA.md): cómo funciona por dentro, paso a paso.
+- [Datos](documentacion/DATOS.md): formato de `fichajes.json` y del registro de cada ejecución.
+- [Fuentes](documentacion/FUENTES.md): fuentes activas, su rendimiento y las descartadas.
+- [Patrones](documentacion/PATRONES.md): comportamiento observado, qué es normal y qué no.
+- [Historial](documentacion/HISTORIAL.md): diario original del proyecto (decisiones de julio 2026).
+
+## Comandos rápidos (desde la raíz del repo)
 
 ```bash
 pip install -r requirements.txt
-python recolector.py           # genera docs/fichajes.json
+python -m unittest discover -s tests          # tests
+python herramientas/informe_ejecuciones.py    # estado de las últimas 100 ejecuciones
+SSL_NO_VERIFY=1 python -m bot.recolector      # ejecutar en local (modifica docs/fichajes.json)
 ```
-
-> Si tu Python local da error de certificados SSL, ejecuta con `SSL_NO_VERIFY=1`
-> (solo para pruebas locales; en GitHub Actions no hace falta).
-
-Para ver el panel en local, abre `docs/index.html` con un servidor simple:
-```bash
-python -m http.server -d docs 8000   # y abre http://localhost:8000
-```
-
-## Ajustar fuentes y fiabilidad
-
-Todo está en `config/fuentes.py`: búsquedas de Google News, tabla de tiers por medio,
-palabras clave de estado y de categoría (cantera). Ver `Memoria.md` para el contexto completo.

@@ -1,0 +1,20 @@
+name: Tests
+
+# Comprueba los filtros y el formato de las alertas al subir cambios de código.
+# Va aparte de "Actualizar fichajes": si un test falla, el bot sigue funcionando.
+on:
+  push:
+    branches: [ main ]
+    paths: [ "bot/**", "tests/**", "herramientas/**", "requirements.txt" ]
+  workflow_dispatch: {}
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v

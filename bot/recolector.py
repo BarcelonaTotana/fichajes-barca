@@ -10,7 +10,8 @@ Flujo:
 4. Deduplica y guarda docs/fichajes.json.
 5. Envía alertas a Telegram de las noticias NUEVAS de fuentes fiables (tier 0 ó 1).
 
-Uso:  python recolector.py   (en local: SSL_NO_VERIFY=1 python recolector.py)
+Uso (desde la raíz del repo):  python -m bot.recolector
+      (en local: SSL_NO_VERIFY=1 python -m bot.recolector)
 """
 import os
 import re
@@ -25,9 +26,9 @@ import feedparser
 import requests
 import urllib3
 
-import config.fuentes as F
-import telegram_alertas
-import analisis
+from bot import fuentes as F
+from bot import telegram_alertas
+from bot import analisis
 
 # Fiabilidad mínima para avisar por Telegram (0=oficial,1=fiable,2=bastante fiable).
 TIER_ALERTA = 2
@@ -44,7 +45,14 @@ ANTIGUEDAD_DIAS = 30
 VERIFICAR_SSL = os.environ.get("SSL_NO_VERIFY", "").strip() != "1"
 if not VERIFICAR_SSL:
     urllib3.disable_warnings()
-CABECERAS = {"User-Agent": "Mozilla/5.0 (compatible; MonitorFichajesBarca/1.0)"}
+# User-Agent de navegador: el cortafuegos de sport.es responde 406 a los que no lo parecen.
+CABECERAS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                           "(KHTML, like Gecko) Chrome/128.0 Safari/537.36"}
+
+
+def _ahora():
+    """Hora UTC sin zona (mismo formato que siempre en el JSON)."""
+    return dt.datetime.now(dt.timezone.utc).replace(tzinfo=None)
 
 
 def _descargar(url):
@@ -107,6 +115,9 @@ def _patron_nombres(nombres):
 
 _RE_PRIMER_EQUIPO = _patron_nombres(F.JUGADORES_PRIMER_EQUIPO)
 _RE_BARCA_ATLETIC = _patron_nombres(F.JUGADORES_BARCA_ATLETIC)
+# Expresión de referencia + hasta dos palabras (el nombre que la sigue).
+_RE_CONTEXTO_AJENO = re.compile(r"\b(?:" + "|".join(re.escape(c) for c in F.CONTEXTO_AJENO)
+                                + r")\s+\S+(?:\s+\S+)?")
 
 
 def _nombra_jugador(texto):
@@ -162,6 +173,8 @@ def _apto_feed_general(feed, titulo):
     t = titulo.lower()
     for m in F.MENCIONES_BARSA_AJENAS:
         t = t.replace(m, " ")
+    # 'jugará junto a Ter Stegen', 'a falta de Gordon': el jugador es solo referencia.
+    t = _RE_CONTEXTO_AJENO.sub(" ", t)
     # Palabra completa: 'cule' no debe casar con 'culebrón'.
     if (not any(re.search(r"\b" + re.escape(b) + r"\b", t) for b in F.PALABRAS_BARSA)
             and not _nombra_jugador(t)):
@@ -248,9 +261,10 @@ def _id_noticia(titulo):
     return hashlib.sha1(s.encode("utf-8", "ignore")).hexdigest()[:16]
 
 
-def _limpia_titulo(titulo):
-    # Google News añade " - Medio" al final del título.
-    if " - " in titulo:
+def _limpia_titulo(titulo, url_feed):
+    # Google News añade " - Medio" al final del título. En los RSS directos no se
+    # toca: 'Barça - Madrid: ...' partiría el titular.
+    if "news.google.com" in url_feed and " - " in titulo:
         cuerpo, medio = titulo.rsplit(" - ", 1)
         return cuerpo.strip(), medio.strip()
     return titulo.strip(), ""
@@ -261,12 +275,16 @@ def _fecha_iso(entrada):
         val = entrada.get(campo)
         if val:
             return dt.datetime(*val[:6]).isoformat()
-    return dt.datetime.utcnow().isoformat()
+    return _ahora().isoformat()
 
 
 # ---------------------------------------------------------------------------
 # Recolección
 # ---------------------------------------------------------------------------
+# Rendimiento de cada fuente en esta ejecución (va a la línea RESUMEN del log).
+ESTADISTICAS = {}
+
+
 def recolectar_feed(nombre, tier_forzado, url):
     """tier_forzado=int -> todas las noticias son de ese medio/tier (búsqueda por medio).
        tier_forzado=None -> se deduce el medio y el tier de cada noticia."""
@@ -275,13 +293,17 @@ def recolectar_feed(nombre, tier_forzado, url):
         feed = feedparser.parse(_descargar(url))
     except Exception as e:
         print(f"  [ERROR] {nombre}: {repr(e)[:150]}")
+        ESTADISTICAS[nombre] = {"error": repr(e)[:80]}
         return noticias
 
+    filtro_enlace = F.FILTRO_ENLACE.get(nombre)
     for entrada in feed.entries:
         titulo_bruto = entrada.get("title", "").strip()
         if not titulo_bruto:
             continue
         enlace = entrada.get("link", "")
+        if filtro_enlace and filtro_enlace not in enlace:
+            continue   # feed mixto: solo la sección indicada (p.ej. /noticias/barca/)
         resumen = re.sub("<[^>]+>", " ", entrada.get("summary", ""))
         texto = titulo_bruto + " " + resumen
 
@@ -293,7 +315,7 @@ def recolectar_feed(nombre, tier_forzado, url):
         if categoria is None:      # cantera inferior o renovación del Atlètic -> fuera
             continue
 
-        titulo, medio_en_titulo = _limpia_titulo(titulo_bruto)
+        titulo, medio_en_titulo = _limpia_titulo(titulo_bruto, url)
 
         if tier_forzado is not None:
             medio = nombre
@@ -317,9 +339,10 @@ def recolectar_feed(nombre, tier_forzado, url):
             "estado": _estado(texto),
             "fecha": _fecha_iso(entrada),
             "fuente_feed": nombre,
-            "visto_por_primera_vez": dt.datetime.utcnow().isoformat(),
+            "visto_por_primera_vez": _ahora().isoformat(),
         })
-    print(f"  {nombre}: {len(noticias)} relevantes")
+    print(f"  {nombre}: {len(noticias)} relevantes (de {len(feed.entries)} entradas)")
+    ESTADISTICAS[nombre] = {"entradas": len(feed.entries), "relevantes": len(noticias)}
     return noticias
 
 
@@ -343,7 +366,7 @@ def guardar(noticias, cerradas, alertadas):
     (así el workflow no hace un commit en cada ejecución). Devuelve True si guardó."""
     os.makedirs("docs", exist_ok=True)
     salida = {
-        "actualizado": dt.datetime.utcnow().isoformat() + "Z",
+        "actualizado": _ahora().isoformat() + "Z",
         "total": len(noticias),
         "cerradas": sorted(cerradas),          # operaciones oficiales (no re-alertar por jugador)
         "alertadas": sorted(alertadas)[-5000:],  # ids ya avisados (tope para no crecer sin fin)
@@ -365,6 +388,10 @@ def guardar(noticias, cerradas, alertadas):
 def main():
     print("== Recolector de fichajes FC Barcelona ==")
     noticias_previas, cerradas, alertadas = cargar_datos()
+    # Claves de 'cerradas' que en realidad son clubes ('aston villa'): bloquearían
+    # cualquier alerta futura cuyo "jugador" se extraiga igual.
+    cerradas = {c for c in cerradas
+                if not any(p in analisis.NO_JUGADOR for p in c.split())}
     existentes = {n["id"]: n for n in noticias_previas}
     arranque_en_frio = len(existentes) == 0 and not alertadas  # reinicio real -> no alertar
     print(f"Noticias previas: {len(existentes)} · Cerradas: {len(cerradas)} · Alertadas: {len(alertadas)}")
@@ -382,6 +409,7 @@ def main():
     if not recolectadas:
         print("Todas las fuentes fallaron (posible rate-limit de Google News). "
               "Se conserva lo anterior y no se envía nada.")
+        _resumen(nuevas=0, guardadas=len(existentes), alertas=0, guardado=False)
         return
 
     nuevas = []
@@ -390,13 +418,13 @@ def main():
             existentes[n["id"]] = n
             nuevas.append(n)
 
-    limite = dt.datetime.utcnow() - dt.timedelta(days=ANTIGUEDAD_DIAS)
+    limite = _ahora() - dt.timedelta(days=ANTIGUEDAD_DIAS)
     todas = []
     for n in existentes.values():
         try:
             f = dt.datetime.fromisoformat(n["fecha"].replace("Z", ""))
         except Exception:
-            f = dt.datetime.utcnow()
+            f = _ahora()
         if f >= limite:
             todas.append((f, n))
     todas.sort(key=lambda x: x[0], reverse=True)
@@ -425,26 +453,57 @@ def main():
             continue
         enviables.append((n, clave))
 
+    alertas_enviadas = 0
     if arranque_en_frio:
         for n, _ in enviables:
             alertadas.add(n["id"])   # tras un reinicio: se registran pero NO se envían
         print(f"Arranque en frío: se omiten {len(enviables)} alertas (evita ráfaga).")
     else:
         lote = enviables[:MAX_ALERTAS_POR_EJECUCION]
-        for n, clave in lote:
-            alertadas.add(n["id"])
-            if n["estado"] in ESTADOS_CIERRE and clave:
-                cerradas.add(clave)  # ese jugador queda cerrado para Telegram
         if len(enviables) > MAX_ALERTAS_POR_EJECUCION:
             print(f"AVISO: {len(enviables)} candidatas; se envían {MAX_ALERTAS_POR_EJECUCION} "
                   f"(el resto, en próximas ejecuciones).")
         if lote:
             print(f"Enviando {len(lote)} alertas a Telegram…")
-            telegram_alertas.enviar_alertas([n for n, _ in lote])
+            # Solo se registran las que Telegram aceptó (o rechazó para siempre):
+            # si falla la red o hay rate-limit, se reintentan en la próxima ejecución.
+            consumidas = telegram_alertas.enviar_alertas([n for n, _ in lote])
+            for n, clave in lote:
+                if n["id"] not in consumidas:
+                    continue
+                alertadas.add(n["id"])
+                if n["estado"] in ESTADOS_CIERRE and clave:
+                    cerradas.add(clave)  # ese jugador queda cerrado para Telegram
+            alertas_enviadas = len(consumidas)
 
     guardado = guardar(todas, cerradas, alertadas)
+    # 'nuevas' solo cuenta las que llegan a guardarse (las de >30 días o que ya no
+    # pasan los filtros reaparecen en cada ejecución y no son novedad).
+    ids_guardadas = {n["id"] for n in todas}
+    nuevas = [n for n in nuevas if n["id"] in ids_guardadas]
     print(f"Noticias nuevas: {len(nuevas)} · Total guardadas: {len(todas)}"
           + ("" if guardado else " · Sin cambios (JSON intacto)"))
+    _resumen(nuevas=len(nuevas), guardadas=len(todas), alertas=alertas_enviadas,
+             guardado=guardado)
+
+
+def _resumen(**datos):
+    """Línea RESUMEN en JSON (una por ejecución) para analizar patrones desde los logs
+    de Actions (herramientas/informe_ejecuciones.py). En Actions, también una tabla en
+    la página de la ejecución."""
+    datos["fuentes"] = ESTADISTICAS
+    print("RESUMEN " + json.dumps(datos, ensure_ascii=False))
+    ruta = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not ruta:
+        return
+    filas = []
+    for fuente, e in ESTADISTICAS.items():
+        estado = e["error"] if "error" in e else f'{e["relevantes"]} de {e["entradas"]}'
+        filas.append(f"| {fuente} | {estado} |")
+    with open(ruta, "a", encoding="utf-8") as f:
+        f.write(f"### Fichajes: {datos['nuevas']} nuevas · {datos['alertas']} alertas · "
+                f"{datos['guardadas']} guardadas\n\n| Fuente | Relevantes |\n|---|---|\n"
+                + "\n".join(filas) + "\n")
 
 
 if __name__ == "__main__":

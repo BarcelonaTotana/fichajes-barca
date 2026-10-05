@@ -2,7 +2,7 @@
 """Envía una alerta de prueba a Telegram para confirmar que el circuito funciona."""
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-import telegram_alertas
+from bot import telegram_alertas
 
 telegram_alertas.enviar_alertas([{
     "tier": 0,

@@ -10,7 +10,8 @@ Estrategia 100% gratuita, con clasificación mejorada:
 - FILTRO DE RELEVANCIA: descarta lo que no es un fichaje del Barça (ruido).
 - CANTERA por contenido: solo si hay una palabra de cantera de peso.
 
-Ver Memoria.md, sección 4, para el contexto de la fiabilidad de cada fuente.
+Ver documentacion/FUENTES.md (estado de cada fuente) y documentacion/HISTORIAL.md
+(sección 4) para el contexto de la fiabilidad de cada medio.
 """
 from urllib.parse import quote
 
@@ -68,6 +69,10 @@ BUSQUEDAS_GENERALES = [
      "https://www.mundodeportivo.com/rss/futbol/fichajes"),
     ("SPORT · Fútbol", None, "auto",
      "https://www.sport.es/es/rss/futbol/rss.xml"),
+    # SPORT no tiene RSS del Barça que funcione (/rss/barca/ sale vacío): se usa el de
+    # últimas noticias y se filtra por sección con FILTRO_ENLACE.
+    ("SPORT · Barça", None, "auto",
+     "https://www.sport.es/es/rss/last-news/news.xml"),
 
     # Barça Atlètic (filial, fútbol): sigue por Google News, es coto limpio.
     ("Barça Atlètic", None, "auto",
@@ -81,6 +86,10 @@ BUSQUEDAS_GENERALES = [
 # equipo (City, Depor, Zaragoza…) o una opinión / clasificación.
 FEEDS_BARSA_EN_TITULO = ["Mundo Deportivo · Fichajes", "SPORT · Fútbol"]
 
+# Feeds mixtos (todas las secciones): solo se aceptan las entradas cuyo enlace contenga
+# este fragmento. '/noticias/barca/' excluye '/noticias/futbol-femenino-barca/'.
+FILTRO_ENLACE = {"SPORT · Barça": "/noticias/barca/"}
+
 # Menciones del Barça que NO lo hacen protagonista ("el ex del Barça X firma por el
 # Cádiz"). En esos feeds no cuentan como mención del Barça.
 MENCIONES_BARSA_AJENAS = [
@@ -88,6 +97,11 @@ MENCIONES_BARSA_AJENAS = [
     "ex azulgrana", "exazulgrana", "ex blaugrana", "exblaugrana", "exbarcelonista",
     "rival del barça", "rival del barcelona",
 ]
+
+# Expresiones que convierten al jugador del Barça que las sigue en simple referencia
+# ("jugará junto a Ter Stegen", "a falta de Gordon, el Newcastle anuncia…"). En esos
+# feeds se quita la expresión y las dos palabras siguientes antes de buscar al Barça.
+CONTEXTO_AJENO = ["junto a", "a falta de", "recambio de", "sustituto de", "en lugar de"]
 
 # ---------------------------------------------------------------------------
 # 3. TIER por dominio (para RSS directos, si algún día se usan).
@@ -190,6 +204,9 @@ PALABRAS_BLOQUEO = [
     "circuit", "circuito", "ajuntament", "ayuntamiento", "fórmula 1", "formula 1",
     "motogp", "moto gp", "como ceo", "nuevo ceo", "elecciones", "eurolliga", "euroliga",
     "presupuesto municipal",
+    # vida institucional del club / taquilla (se colaba como OFICIAL, tier 0)
+    "preventa", "venta de entradas", "asamblea", "compromisari", "socio o socia",
+    "parón internacional",
     # merchandising de la tienda oficial (se colaba como tier 0)
     "camiseta", "official store", "megastore", "sudadera", "bufanda", "firmada por",
     "summer camp", "summer cump",
@@ -251,7 +268,8 @@ PALABRAS_ALTA_BAJA = ["ficha", "fichaje", "fichado", "fichar", "cesión", "cesio
 #     Femení (para cazar las noticias que no dicen "femenino" explícitamente).
 # ---------------------------------------------------------------------------
 MARCAS_FEMENINO = ["femen", "femení", "women", "womens", "wsl", "liga f",
-                   "uwcl", "champions femenina", "barça femen"]
+                   "uwcl", "champions femenina", "barça femen",
+                   "jugadora", "la delantera", "la portera", "la centrocampista"]
 
 JUGADORAS_FEMENINO = [
     "aitana", "bonmatí", "bonmati", "alexia", "putellas", "paralluelo", "salma",
