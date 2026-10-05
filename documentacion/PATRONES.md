@@ -54,5 +54,5 @@ En mercado (enero, julio–agosto) hay que volver a medir: se esperan muchas má
 - `cerradas` contiene nombres de jugadoras y de baloncesto de antes de los filtros (inofensivo).
 - `alertadas` se recorta a 5000 por orden alfabético, no por antigüedad. Al ritmo actual
   (~1/día) no llega al tope en años; si algún día se acerca, guardar el orden de inserción.
-- SPORT · Fútbol, RAC1 y la búsqueda oficial aportan ~0 fuera de mercado: decidir en febrero
-  2027, con datos de enero, si se quitan.
+- SPORT · Fútbol, RAC1 y la búsqueda oficial aportan ~0 fuera de mercado. Decisión del usuario
+  (2026-10-05): **se mantienen mientras no estorben** (no meten ruido ni fallan).

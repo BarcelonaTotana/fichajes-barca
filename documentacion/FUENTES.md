@@ -10,7 +10,7 @@ las 300 ejecuciones anteriores). Actualiza esta tabla cuando cambie algo.
 | Mundo Deportivo · Barça | RSS sección Barça | 100 | ~11–16 | **La fuente principal**: el 93 % de lo guardado (188 de 203). |
 | Mundo Deportivo · Fichajes | RSS mercado general | 100 | ~1–3 | Exige Barça en el titular. Mucho ruido de otros clubes. |
 | SPORT · Barça | RSS últimas noticias + filtro `/noticias/barca/` | 50 | ~2 | Nuevo (2026-10-05). El RSS `/rss/barca/` de SPORT sale vacío. |
-| SPORT · Fútbol | RSS fútbol general | ~49 | 0 | Exige Barça en el titular. Aporta poco; candidato a quitar si sigue en 0. |
+| SPORT · Fútbol | RSS fútbol general | ~49 | 0 | Exige Barça en el titular. Aporta poco; se mantiene mientras no estorbe. |
 | FC Barcelona (oficial) | Google News `site:fcbarcelona.com` | 100 | 0 | Casi todo es tienda, peñas y entradas. Las 11 "oficiales" guardadas eran ruido (ya filtrado). Útil en mercado (anuncios oficiales). |
 | RAC1 | Google News `site:rac1.cat` | 2 | 0 | Google News apenas indexa rac1.cat. Prácticamente muerta. |
 | Barça Atlètic | Google News búsqueda | ~65 | 0 | 3 noticias en 30 días. Fuera de mercado casi no hay nada. |

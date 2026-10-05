@@ -11,6 +11,11 @@
 
 ---
 
+## Herramienta retirada: "Enviar noticia Adeyemi" (julio 2026 → retirada 2026-10-05)
+Workflow manual (`enviar-adeyemi.yml` + `herramientas/enviar_adeyemi.py`) que mandó a Telegram, a
+petición, la noticia del fichaje de Adeyemi con el formato del sistema. Cumplió su función y se
+borró el 2026-10-05. El código sigue en git: `git show 6f846e08:herramientas/enviar_adeyemi.py`.
+
 ## 0-TER. DESCARTADO Transfermarkt en la nube (2026-07-11)
 Se intentó usar Transfermarkt como fuente única (rumores con % REAL). Funciona desde una IP
 doméstica, pero **Transfermarkt bloquea con 403 (Cloudflare) las IPs de GitHub Actions**, incluso

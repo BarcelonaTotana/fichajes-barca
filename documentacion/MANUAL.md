@@ -25,7 +25,6 @@
 | Probar alerta Telegram | Envía un mensaje de prueba: confirma que token y chat id funcionan. |
 | Obtener Chat ID | Muestra el chat id si hubiera que reconfigurarlo (escribe antes algo al bot). |
 | Tests | Pasa las pruebas de los filtros (también se lanza solo al subir código). |
-| Enviar noticia Adeyemi | Herramienta puntual de julio 2026. Ya no hace falta; se puede borrar. |
 
 ## 3. Tareas de mantenimiento
 
