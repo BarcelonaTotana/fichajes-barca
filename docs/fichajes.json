@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T09:57:26.041365Z",
-  "total": 193,
+  "actualizado": "2026-10-05T10:20:37.665194Z",
+  "total": 194,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -188,6 +188,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "4357552da354fcfd",
+      "titulo": "Iniesta: \"Cuando no pude más, pedí ayuda\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/iniesta-pude-pedi-ayuda-135011699",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-05T10:20:35.177888",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-05T10:20:35.177903"
+    },
     {
       "id": "5f1e46c4a1588b25",
       "titulo": "Cinco grandes de la Premier, atentos al futuro de Koundé",
