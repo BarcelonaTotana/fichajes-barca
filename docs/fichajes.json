@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T11:10:34.110866Z",
-  "total": 195,
+  "actualizado": "2026-10-05T11:30:49.124955Z",
+  "total": 196,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -188,6 +188,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "cba44877b0a9a910",
+      "titulo": "Gabriel Jesus, una apuesta sin riesgo del Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/gabriel-jesus-apuesta-riesgo-barca-134974330",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-05T11:30:46.719374",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-05T11:30:46.719387"
+    },
     {
       "id": "2ec0a24684cc0f5d",
       "titulo": "Paso importante para Diego Kochen",
