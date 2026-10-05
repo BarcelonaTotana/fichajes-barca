@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T04:30:51.985111Z",
-  "total": 204,
+  "actualizado": "2026-10-05T06:40:39.396281Z",
+  "total": 203,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -2827,19 +2827,6 @@
       "fecha": "2026-09-05T09:30:00",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-09-05T10:00:54.183884"
-    },
-    {
-      "id": "724a96f35d9ebf37",
-      "titulo": "‘Mou’ y Flick, tal como son",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223502/mou-flick-son.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-05T06:35:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-05T07:10:26.765439"
     }
   ]
 }
