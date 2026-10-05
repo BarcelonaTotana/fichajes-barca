@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T06:40:39.396281Z",
-  "total": 203,
+  "actualizado": "2026-10-05T08:40:41.205371Z",
+  "total": 204,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "53dffb3b0047fd23",
+      "titulo": "El gran salto del Barça Atlètic",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004234668/gran-salto-barca-atletic.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-05T08:27:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-05T08:40:27.095086"
+    },
     {
       "id": "983114d1151e6b6f",
       "titulo": "El Barça gana poder institucional",
