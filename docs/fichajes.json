@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T01:20:41.432543Z",
-  "total": 205,
+  "actualizado": "2026-10-05T04:30:51.985111Z",
+  "total": 204,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -2840,19 +2840,6 @@
       "fecha": "2026-09-05T06:35:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-05T07:10:26.765439"
-    },
-    {
-      "id": "563e4ce5e9595fca",
-      "titulo": "Una plantilla convincente",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223404/plantilla-convincente.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-05T04:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-05T04:40:25.490432"
     }
   ]
 }
