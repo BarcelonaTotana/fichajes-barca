@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T11:30:49.124955Z",
-  "total": 196,
+  "actualizado": "2026-10-05T12:40:34.973327Z",
+  "total": 197,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -188,6 +188,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "5cfed269f0a4a785",
+      "titulo": "El valor de Julián Álvarez se desmorona",
+      "enlace": "https://www.sport.es/es/noticias/barca/julian-alvarez-desmorona-135017217",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-05T12:40:32.429449",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-05T12:40:32.429462"
+    },
     {
       "id": "cba44877b0a9a910",
       "titulo": "Gabriel Jesus, una apuesta sin riesgo del Barça",
