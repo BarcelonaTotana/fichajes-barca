@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T20:01:13.551351Z",
-  "total": 200,
+  "actualizado": "2026-10-05T21:10:55.356193Z",
+  "total": 201,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "e0b5cd1967e5680a",
+      "titulo": "Dani Olmo, emocionado al hablar de su ayuda a Vukovar: \"Ha estado donando el 2% de su salario bruto anual\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/dani-olmo-emocionado-hablar-ayuda-croacia-dinero-2-sueldo-donacion-135039953",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-05T21:10:52.908598",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-05T21:10:52.908607"
+    },
     {
       "id": "6737c861b30f1cf9",
       "titulo": "Rodri (30 años): \"De discreto y silencioso nada. Le gusta imitar a la gente, contar chistes. Es uno de sus hobbies\"",
