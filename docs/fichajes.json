@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T10:20:37.665194Z",
-  "total": 194,
+  "actualizado": "2026-10-05T11:10:34.110866Z",
+  "total": 195,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -188,6 +188,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "2ec0a24684cc0f5d",
+      "titulo": "Paso importante para Diego Kochen",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004234753/paso-importante-diego-kochen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-05T10:42:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-05T11:10:26.679531"
+    },
     {
       "id": "4357552da354fcfd",
       "titulo": "Iniesta: \"Cuando no pude más, pedí ayuda\"",
