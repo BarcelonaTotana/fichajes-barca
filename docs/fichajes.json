@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T16:40:36.314543Z",
-  "total": 201,
+  "actualizado": "2026-10-05T20:01:13.551351Z",
+  "total": 200,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -2788,19 +2788,6 @@
       "fecha": "2026-09-06T04:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-06T05:00:47.307073"
-    },
-    {
-      "id": "9ac850f49d6136a2",
-      "titulo": "Lío en el Feyenoord con Anis Hadj Moussa, que se declara en rebeldía antes de visitar al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223764/lio-feyenoord-anis-hadj-moussa-declara-rebeldia-visitar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-05T19:57:49",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-05T20:10:23.927823"
     }
   ]
 }
