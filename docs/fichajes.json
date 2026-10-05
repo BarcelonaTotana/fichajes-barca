@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T14:40:34.223084Z",
-  "total": 199,
+  "actualizado": "2026-10-05T16:40:36.314543Z",
+  "total": 201,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -94,6 +94,7 @@
     "62e748acf1dcaf9c",
     "643d5176f36e29d4",
     "6603845fea51b1fa",
+    "6737c861b30f1cf9",
     "69e2532d04071127",
     "6b36dc75b6b0623c",
     "6c00ed9273b001ec",
@@ -188,6 +189,32 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "6737c861b30f1cf9",
+      "titulo": "Rodri (30 años): \"De discreto y silencioso nada. Le gusta imitar a la gente, contar chistes. Es uno de sus hobbies\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/rodri-hernandez-caracter-discreto-silencioso-amigos-familia-humor-barca-seleccion-espanola-135031679",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-05T16:40:33.190121",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-05T16:40:33.190123"
+    },
+    {
+      "id": "ffdc335aad2c3759",
+      "titulo": "Los jóvenes del Barça revientan el mercado",
+      "enlace": "https://www.sport.es/es/noticias/barca/jovenes-barca-revientan-mercado-135025123",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-05T16:40:33.188968",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-05T16:40:33.188981"
+    },
     {
       "id": "79a894f80ebf7258",
       "titulo": "Pau Cubarsí reafirma su cartel de favorito entre los finalistas del Golden Boy",
