@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T12:40:34.973327Z",
-  "total": 197,
+  "actualizado": "2026-10-05T13:20:35.716982Z",
+  "total": 198,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -188,6 +188,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "3daf9c87f48f62e0",
+      "titulo": "El caso JJ Gabriel entra en una nueva dimensión",
+      "enlace": "https://www.sport.es/es/noticias/barca/caso-jj-gabriel-entra-nueva-dimension-135013611",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-05T13:20:33.101839",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-05T13:20:33.101852"
+    },
     {
       "id": "5cfed269f0a4a785",
       "titulo": "El valor de Julián Álvarez se desmorona",
