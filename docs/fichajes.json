@@ -1,9 +1,8 @@
 {
-  "actualizado": "2026-10-05T09:30:59.163118Z",
-  "total": 203,
+  "actualizado": "2026-10-05T09:57:26.041365Z",
+  "total": 193,
   "cerradas": [
     "alex campos",
-    "aston villa",
     "carla julia",
     "celia segura",
     "gabriel jesus",
@@ -189,6 +188,32 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "5f1e46c4a1588b25",
+      "titulo": "Cinco grandes de la Premier, atentos al futuro de Koundé",
+      "enlace": "https://www.sport.es/es/noticias/barca/cinco-grandes-premier-atentos-futuro-135005093",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-05T09:57:23.653239",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-05T09:57:23.653245"
+    },
+    {
+      "id": "0d3f2b296701d32b",
+      "titulo": "Bierhoff coloca a Florian Wirtz en el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/bierhoff-coloca-florian-wirtz-barca-135009000",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-05T09:57:23.651761",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-05T09:57:23.651773"
+    },
     {
       "id": "53dffb3b0047fd23",
       "titulo": "El gran salto del Barça Atlètic",
@@ -1256,19 +1281,6 @@
       "visto_por_primera_vez": "2026-09-19T17:40:24.334963"
     },
     {
-      "id": "3fcadf057165da96",
-      "titulo": "La Asamblea ratifica los acuerdos con Ohana Development y Babylon Park",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRjM1N0ZERkF6bG9vMmFxVExpaVgxRnFKa1hkVGtrenVKUkw0eHpCY2Nxd05ZZ1ZNX2N2dGg0SjczOFJMVVJUY1A5ZVE2QzFERVdrVnN3R3RCQzFqaTl2eVZtSWZwaEpZT3hNU2tfUHN5SkN6YklwS080MWZyd3AxcVF1MWlOV0ttRGRhejF4TE80RE5TLUk1bG5BRXBhTGJ4bE5uZTRwOHI3Um1VWmR6b3p5NExpTXU3d0toamRNUDFzUU0?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-19T16:04:19",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-19T21:20:24.198599"
-    },
-    {
       "id": "bfe5b65602ce57aa",
       "titulo": "Luz verde a los acuerdos con Ohana y Babylon Park",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229118/luz-verde-acuerdos-ohana-babylon-park.html",
@@ -1360,19 +1372,6 @@
       "visto_por_primera_vez": "2026-09-19T19:10:23.981036"
     },
     {
-      "id": "7813402cc686e17c",
-      "titulo": "La Asamblea avala unas cuentas de récord que confirman la recuperación económica del Club",
-      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRGlQakZvWDZPNUI2ZTlVT2pxbVNaMTJ4cWNmMzZuY0k5SVBDenRGLThCNVZfLUJoRm83aENHQTdQYkJjOUc3YTBsdTJuU3NlX085NXczTWd4R1BRb2tkSy1CcENONi1CTHZwZTFqSHhUME5Ub3Zsay1sWk1KMTZrMWEySHU4MGdFaW9NaWF3OTBKajZKUk1YTmU3TllpRzNWQUN6Mlp2ZWpxb3FWN1ozZkNpeS1nVlRmbnpYVnh4Mmlsay1ZVGJsR1B1TlRXa2FSMXBvRXpjNkhVQQ?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T11:10:53",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-19T17:50:25.883105"
-    },
-    {
       "id": "fe6e45aac48c9a8d",
       "titulo": "La partida prevista de traspasos del Barça 2026-27, garantizada",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004228987/partida-prevista-traspasos-barca-2026-27-garantizada.html",
@@ -1397,32 +1396,6 @@
       "fecha": "2026-09-19T09:54:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-19T10:00:49.486125"
-    },
-    {
-      "id": "5331a344593a4782",
-      "titulo": "Si eres socio o socia compromisario, ¡accede y vota!",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnBtX1lFVXduaHFmNmdMdzg3aWRCNGpCMUVxNmR1R29xV1VaZnpkRHdDZmxxZ3NRbTdkUWVOQ09FWVRBNWNOX3h1Qmc1OGFnWWI5b0dNQlpMWXdHOFVGVUV6eU81Mm1ZbTYzNTZjWlRhS3RtM3lKVUZQam00el9YQ1BFcU9RSVByazl0WExMWkhaY2dQdDFyWVVfZUZ4ekNlTmQzUXQ0Yw?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T07:41:20",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-19T17:50:25.884199"
-    },
-    {
-      "id": "7a39c25212cccd68",
-      "titulo": "La representación azulgrana en el parón internacional",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUJsb3FoMUQ5NGtGTnBWbW1pS0NoSVVlS3FRNnZoLThoSVQ3MTVOOUhUY3VtY3F2Mml5TkZlemtUMXF5VGZQMjh5ckZwSkJJWVBmdmNCUUwxRElKc0lHNGlJeW9JVVk4NzJkMFdQQ1RhSldhcHhjcXBZUjQxNzNrNUVzMk82STd5YTJkT2JmQ1JONENwaVpaWDUxTWYtZE5MMEE5VTNHTVRldUJFTkhrOWljYWF4TkxYNW0yd2JueVhkS1FoWFgtQ2tnemw?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-18T19:50:37",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-19T07:40:27.667843"
     },
     {
       "id": "81f8bc78b1bdd021",
@@ -1633,32 +1606,6 @@
       "visto_por_primera_vez": "2026-09-16T21:31:48.723687"
     },
     {
-      "id": "60f0214f63747f28",
-      "titulo": "Preventa Entradas FC BARCELONA - COMO 1907 - UEFA Champions League - fútbol masculino",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXIwdnZleUQ5b2N0bUlwdE1qRHlHd3BMbWJ3QXNZNnhmMkVrN0RhU193NFpDcnZKNjN1TjNMcUplcEpZanJrbGp4MDJUQUl2NDNvbnlsdVZVSzRiVVBOUXRoNHJ5R09ycVpOVEVESmpzSVVrTTJpd3EyTmNQbFdwRzB5ZDdDelVnamlJOVRYRXYyamxMcDZJeG1WejU0QnhZZ1NwNm1iTkRIYW1XQXc?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T19:08:31",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-16T19:10:26.679347"
-    },
-    {
-      "id": "c2a8990c6d4779f4",
-      "titulo": "Preventa Entradas FC BARCELONA - ASTON VILLA FC - UEFA Champions League - fútbol masculino",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWU3dGtkajVtVXlOVjRhcGtPWVFyUXp3Y1Z2djFiSkQyb3IyWVpPajdnbGFJd3ZuUFpJdHplNXhScmpWM1J1dUNzdUtfelpqNnVJY2tORktjVFU1dGFPSWdUdWZsQVU0UDlrMFFRTFQtR2lqUGEyQnBsYjliTjdMZk8ybHlsRG1CR3IybHJCRlR5Y3B1WEQ2azZrb2JQMk9JTDBadEIzb1RnXzFYM3c?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T18:52:27",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-16T19:00:53.212685"
-    },
-    {
       "id": "ed929a5b87d32d61",
       "titulo": "Cuatro cambios, alguno sorprendente, en el once del Barça",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228103/rotaciones.html",
@@ -1696,71 +1643,6 @@
       "fecha": "2026-09-16T17:01:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-17T07:10:27.247322"
-    },
-    {
-      "id": "0e8283f61013ed74",
-      "titulo": "Preventa Entradas FC BARCELONA - RC CELTA - LALIGA EA Sports - fútbol masculino",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGtRbmlpLTFMYTRLWmluaUZtYUw0TjhTWmdNeEg5bzlMMFdlWGNUWm0yXy1WYS05RjdwcG9UQlVlSHVGck9NZnhPNU9mYXJGMlh6T3BPZkdVX3l1YTJ6dXZodTcydGlzY0FGcW5mcUprcmltb2VjZWRjci1lblVjUmpQd3ZEVlRuTFpxVWxGV2tpSDJqcG1EVWtUYXF2Z05Bc2ttVlFGbXBkUXEwLXc?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T16:15:47",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-16T19:10:26.679849"
-    },
-    {
-      "id": "8df0c58730b27c75",
-      "titulo": "Preventa Entradas FC BARCELONA - DEPORTIVO ALAVÉS - LALIGA EA Sports - fútbol masculino",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSm5YamhCZWYzVjdKNXRHWmx4UHE4cHh1anpfWHVCaVFuZ2pVZDdKUmEzY293Y2psdVJ3R2VaVmpJUUs5VDI5NURrQldMcTMzMU1HLU9mSUNZVGpsU1RjM0FvQlFyRWtUQUxTWURzWkE0OXZWbGZnT3JXc2hYbVpwQVh0U2MxbDA0ci1pQWItVV9aejJBQkdIQ3k1WmZab0ZwQ1hZcXdvY3JwVmlUSUE?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T15:53:40",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-16T16:00:53.315534"
-    },
-    {
-      "id": "72b9c4633bab78a2",
-      "titulo": "Preventa Entradas FC BARCELONA - REAL SOCIEDAD - LALIGA EA Sports - fútbol masculino",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEQ4T19XUnN3TWpDVHQyd3NGSW81Q2taeHE3WU1QSjQ0cEczRExrX2hGNmtyT0hZeXduRmdVMS1LM1BvVGFTRm9OWjRMazRSSHhfamNYOEI1NkNHNWtqOV9yVFdRWVY2RjBzZVNKUmpxaDhNSXR4RUU5WkRDUUl1U3hXUHhualBBanV4aWhhenpPOW5vQUdRUHdiQThQelcyWWJmZ25nUzNJRXNNLUE?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T13:08:13",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-16T16:20:25.574565"
-    },
-    {
-      "id": "720063a7b8f7295f",
-      "titulo": "Preventa Entradas FC BARCELONA - VILLARREAL CF - LALIGA EA Sports - fútbol masculino",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUTZaa3E0N25RRFpQYXU2RUl4UEtKZy1fNVoxQnRlYUgzOHZsU2t2WVpGQWNkRTJmREo5TE9jOXVUd3lKZndPZnZETGdYNk5jNkp5QnJKakMxb2lMOWI3a3ZSSy01a0FQREpmc3puVmpra1FOb29NSUc0dWRyMTJJTV80U3pwdlJkYTA2b2tsdzN1Wm9LSzN6cmZGb3pZNlZwMnpzdGRfY3Vsb2E3M0E?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T13:02:09",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-16T16:10:25.127881"
-    },
-    {
-      "id": "868f4a552aff20c2",
-      "titulo": "Preventa Entradas FC BARCELONA - VILLARREAL CF - LALIGA EA Sports",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUTZaa3E0N25RRFpQYXU2RUl4UEtKZy1fNVoxQnRlYUgzOHZsU2t2WVpGQWNkRTJmREo5TE9jOXVUd3lKZndPZnZETGdYNk5jNkp5QnJKakMxb2lMOWI3a3ZSSy01a0FQREpmc3puVmpra1FOb29NSUc0dWRyMTJJTV80U3pwdlJkYTA2b2tsdzN1Wm9LSzN6cmZGb3pZNlZwMnpzdGRfY3Vsb2E3M0E?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T13:02:09",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-09-17T23:10:24.931667"
     },
     {
       "id": "aae0c9df6a66cbe7",
@@ -2814,19 +2696,6 @@
       "fecha": "2026-09-05T19:57:49",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-05T20:10:23.927823"
-    },
-    {
-      "id": "989813f81b1ab964",
-      "titulo": "El Barça incorpora a la delantera italiana Giulia Galli hasta 2030, con ficha del filial",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNellXeUtuVVZOYVNhcTMzNDRTSTlXcllScWpMNHdZRk1WclJCM1dFOF8wWnRzSmNSN3FJdjFobTVBR2ptc21BdkNrSE5kUF9oR2JpcGhkN0VmWGFKOWt1dmFzTlVTMDVFVGxhMUw3RXB3WVFIQ0c3b2l5WjN2X0tZbDMyNklPTjVXMjdTenhmUWYwcTBWeEIwQVVuOHJtWnFNcTJlUGVCTWtmaGxvb1lXeGdyR0ZIQVhyUjFESFROeFFIZG9OVWV0czRaNEI5dktpZmdZa0ZB0gHwAUFVX3lxTE9wWTI2ODZXTTJqbVJWMFd2M284aFhRbHE3Z1VLa0RReWtuUmNvMV9WdjJFcG56eE9NdFhoaXE3WnRzaVNyb2ZUbnRBYlJGR3d3MXptUnRvWHlBVHYyUU9TbUZtdFFwLVJmVFNLdFllNElZa2xXZnVLY25tRFRWS2YtME9UU0sxb0Rhc0tUblR2MTExWlZqeEVzV0FCTl90eFpWWlE1Ri1Hejh4OVJjakdXYzhKMmRVSUh1SFc1dDh6WC1nZ1NrdUdJNnFOelM3dHpPU2RhcUVISHMyS2t3OTN2M2FNTHdXVWFBbkp6dDlpZA?oc=5",
-      "medio": "Infobae",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-05T11:06:04",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-09-05T11:10:34.643850"
     }
   ]
 }
