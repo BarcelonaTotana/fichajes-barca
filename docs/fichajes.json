@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T13:20:35.716982Z",
-  "total": 198,
+  "actualizado": "2026-10-05T14:40:34.223084Z",
+  "total": 199,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -188,6 +188,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "79a894f80ebf7258",
+      "titulo": "Pau Cubarsí reafirma su cartel de favorito entre los finalistas del Golden Boy",
+      "enlace": "https://www.sport.es/es/noticias/barca/pau-cubarsi-reafirma-cartel-favorito-135015215",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-05T14:40:31.726222",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-05T14:40:31.726234"
+    },
     {
       "id": "3daf9c87f48f62e0",
       "titulo": "El caso JJ Gabriel entra en una nueva dimensión",
