@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-04T19:41:16.290811Z",
-  "total": 206,
+  "actualizado": "2026-10-05T01:20:41.432543Z",
+  "total": 205,
   "cerradas": [
     "alex campos",
     "aston villa",
@@ -2853,19 +2853,6 @@
       "fecha": "2026-09-05T04:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-05T04:40:25.490432"
-    },
-    {
-      "id": "029f9e8ef0d89ea4",
-      "titulo": "Cubarsí y Asencio, comparaciones odiosas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223219/cubarsi-asencio-comparaciones-odiosas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-05T01:15:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-05T01:40:27.200290"
     }
   ]
 }
