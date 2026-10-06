@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T15:10:38.865098Z",
-  "total": 213,
+  "actualizado": "2026-10-06T15:50:37.153877Z",
+  "total": 214,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "e101897a9626ec19",
+      "titulo": "Roony Bardghji sigue avanzando en su recuperación",
+      "enlace": "https://www.sport.es/es/noticias/barca/roony-bardghji-sigue-avanzando-recuperacion-135068870",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-06T15:50:34.617705",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-06T15:50:34.617714"
+    },
     {
       "id": "c9739d5ee4385200",
       "titulo": "Vinculan al Barça y a otros grandes con el talento de 15 años Ilicevic",
