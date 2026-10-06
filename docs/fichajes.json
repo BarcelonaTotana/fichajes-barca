@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T12:50:36.055153Z",
-  "total": 210,
+  "actualizado": "2026-10-06T13:40:34.531673Z",
+  "total": 212,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -189,6 +189,32 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "f724902da9ea82c9",
+      "titulo": "El ruido Barça-JJ Gabriel no cesa al cumplir 16 años",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235366/ruido-barca-jj-gabriel-no-cesa-cumplir-16-anos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-06T13:11:07",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-06T13:40:27.839194"
+    },
+    {
+      "id": "30484830f7cb38f7",
+      "titulo": "La prensa internacional también ve favorito a Cubarsí para el Golden Boy",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235356/prensa-internacional-ve-favorito-cubarsi-golden-boy.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-06T13:04:38",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-06T13:40:27.839534"
+    },
     {
       "id": "73eff3d81895cc00",
       "titulo": "De Jong: razones para el optimismo",
