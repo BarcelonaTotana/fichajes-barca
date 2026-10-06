@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T07:20:36.517886Z",
-  "total": 205,
+  "actualizado": "2026-10-06T08:30:46.733753Z",
+  "total": 206,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "bba9a7ff08357457",
+      "titulo": "Tebas raja contra el Madrid por el Caso Negreira",
+      "enlace": "https://www.sport.es/es/noticias/barca/tebas-raja-madrid-caso-negreira-135047633",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-06T08:30:44.315004",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-06T08:30:44.315017"
+    },
     {
       "id": "848ae657819c41e7",
       "titulo": "¡El Barça blinda a Raphinha hasta el 2030 esta semana!",
