@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T04:40:35.006133Z",
-  "total": 202,
+  "actualizado": "2026-10-06T05:03:28.425197Z",
+  "total": 203,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -190,6 +190,32 @@
   ],
   "noticias": [
     {
+      "id": "de3d68c0ee6cf187",
+      "titulo": "Kahn se alinea con Ter Stegen como portero de Alemania",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235155/kahn-alinea-ter-stegen-portero-alemania.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-06T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-06T05:02:28.542862"
+    },
+    {
+      "id": "8ffcdc5007d64e76",
+      "titulo": "Fresneda o Porro: el cásting ante un Koundé en horas bajas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235083/fresneda-porro-casting-kounde-horas-bajas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-06T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-06T05:02:28.543066"
+    },
+    {
       "id": "03af444e7602d285",
       "titulo": "Lamine y Cubarsí, la envidia del mundo: ¿Cómo pueden ser tan maduros y diferenciales con 19 años?",
       "enlace": "https://www.sport.es/es/noticias/barca/lamine-cubarsi-envidia-mundo-maduros-135035108",
@@ -201,6 +227,19 @@
       "fecha": "2026-10-06T04:40:32.436753",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-06T04:40:32.436764"
+    },
+    {
+      "id": "e00770930c4443a7",
+      "titulo": "Gerard Martín y Fariñas, los siguientes en renovar",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004234816/gerard-martin-farinas-siguientes-renovar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-06T04:40:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-06T05:02:28.543436"
     },
     {
       "id": "697f3b258f684a0c",
@@ -2788,32 +2827,6 @@
       "fecha": "2026-09-06T07:06:59",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-06T07:42:16.355698"
-    },
-    {
-      "id": "be8285482adbcd4f",
-      "titulo": "El Barça Atlètic inicia su camino hacia el ascenso",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004223793/barca-atletic-inicia-camino-ascenso.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-06T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-06T05:00:47.306057"
-    },
-    {
-      "id": "d74aee5fb5e75a92",
-      "titulo": "El Barça se las verá con un Javi Guerra al que tanteó",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004223684/barca-vera-javi-guerra.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-06T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-06T05:00:47.306453"
     }
   ]
 }
