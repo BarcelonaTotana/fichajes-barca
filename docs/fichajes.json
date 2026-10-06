@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T10:10:02.660114Z",
-  "total": 207,
+  "actualizado": "2026-10-06T11:40:40.181631Z",
+  "total": 208,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "d86ca321f0350156",
+      "titulo": "Gordon da las claves de su flechazo con el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235314/gordon-da-claves-flechazo-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-06T11:24:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-06T11:40:32.826171"
+    },
     {
       "id": "37622d1577baaf3c",
       "titulo": "Diego Kochen lanza un guiño al Barça: \"Volver sería un sueño. Quiero tener una oportunidad\"",
