@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T08:30:46.733753Z",
-  "total": 206,
+  "actualizado": "2026-10-06T10:10:02.660114Z",
+  "total": 207,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "37622d1577baaf3c",
+      "titulo": "Diego Kochen lanza un guiño al Barça: \"Volver sería un sueño. Quiero tener una oportunidad\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/diego-kochen-lanza-guino-barca-135052171",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-06T10:10:00.111692",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-06T10:10:00.111704"
+    },
     {
       "id": "bba9a7ff08357457",
       "titulo": "Tebas raja contra el Madrid por el Caso Negreira",
