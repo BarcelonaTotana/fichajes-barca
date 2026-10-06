@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T11:40:40.181631Z",
-  "total": 208,
+  "actualizado": "2026-10-06T12:40:35.208441Z",
+  "total": 209,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "59cb986469161c5a",
+      "titulo": "El Galatasaray aclara el 'caso Icardi' antes del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235343/galatasaray-aclara-caso-icardi-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-06T12:07:02",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-06T12:40:28.383946"
+    },
     {
       "id": "d86ca321f0350156",
       "titulo": "Gordon da las claves de su flechazo con el Barça",
