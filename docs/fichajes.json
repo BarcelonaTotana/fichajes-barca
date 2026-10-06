@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T21:10:55.356193Z",
-  "total": 201,
+  "actualizado": "2026-10-06T04:30:48.029734Z",
+  "total": 200,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -2788,19 +2788,6 @@
       "fecha": "2026-09-06T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-06T05:00:47.306453"
-    },
-    {
-      "id": "a17b1b89a1a4edca",
-      "titulo": "Oportunidad en un aniversario de oro",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004223745/oportunidad-aniversario-oro.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-06T04:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-06T05:00:47.307073"
     }
   ]
 }
