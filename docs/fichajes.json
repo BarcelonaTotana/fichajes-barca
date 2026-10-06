@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T13:40:34.531673Z",
-  "total": 212,
+  "actualizado": "2026-10-06T15:10:38.865098Z",
+  "total": 213,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "c9739d5ee4385200",
+      "titulo": "Vinculan al Barça y a otros grandes con el talento de 15 años Ilicevic",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235419/vinculan-barca-otros-grandes-talento-15-anos-ilicevic.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-06T14:49:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-06T15:10:31.606380"
+    },
     {
       "id": "f724902da9ea82c9",
       "titulo": "El ruido Barça-JJ Gabriel no cesa al cumplir 16 años",
