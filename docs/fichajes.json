@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T07:10:32.874938Z",
-  "total": 203,
+  "actualizado": "2026-10-06T07:20:36.517886Z",
+  "total": 205,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -189,6 +189,32 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "848ae657819c41e7",
+      "titulo": "¡El Barça blinda a Raphinha hasta el 2030 esta semana!",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-blinda-raphinha-2030-semana-135045229",
+      "medio": "sport.es",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-10-06T07:20:34.002924",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-06T07:20:34.002926"
+    },
+    {
+      "id": "a7dfc305e711c1ff",
+      "titulo": "Lamine Yamal y Pau Cubarsí, la envidia del mundo: ¿Cómo pueden ser tan maduros y diferenciales con 19 años?",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-cubarsi-envidia-mundo-maduros-135035108",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "avanzado",
+      "fecha": "2026-10-06T07:20:34.002290",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-06T07:20:34.002302"
+    },
     {
       "id": "c05f37da4cc1a79b",
       "titulo": "Lamine Yamal (19 años): \"Mi barrio, Rocafonda, es todo porque lo tengo todo ahí. Mi padre, mi abuela, mis amigos... De allí han sido mis valores y mi educación\"",
