@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T04:30:48.029734Z",
-  "total": 200,
+  "actualizado": "2026-10-06T04:40:35.006133Z",
+  "total": 202,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -189,6 +189,32 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "03af444e7602d285",
+      "titulo": "Lamine y Cubarsí, la envidia del mundo: ¿Cómo pueden ser tan maduros y diferenciales con 19 años?",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-cubarsi-envidia-mundo-maduros-135035108",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "avanzado",
+      "fecha": "2026-10-06T04:40:32.436753",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-06T04:40:32.436764"
+    },
+    {
+      "id": "697f3b258f684a0c",
+      "titulo": "Balde, la incógnita para el mes de enero",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235153/balde-incognita-mes-enero.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-06T04:10:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-06T04:40:28.039625"
+    },
     {
       "id": "e0b5cd1967e5680a",
       "titulo": "Dani Olmo, emocionado al hablar de su ayuda a Vukovar: \"Ha estado donando el 2% de su salario bruto anual\"",
