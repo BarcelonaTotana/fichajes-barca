@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T12:40:35.208441Z",
-  "total": 209,
+  "actualizado": "2026-10-06T12:50:36.055153Z",
+  "total": 210,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "73eff3d81895cc00",
+      "titulo": "De Jong: razones para el optimismo",
+      "enlace": "https://www.sport.es/es/noticias/barca/jong-razones-optimismo-135059203",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-06T12:50:33.558795",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-06T12:50:33.558809"
+    },
     {
       "id": "59cb986469161c5a",
       "titulo": "El Galatasaray aclara el 'caso Icardi' antes del Barça",
