@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T16:00:59.537247Z",
-  "total": 212,
+  "actualizado": "2026-10-07T16:40:36.753689Z",
+  "total": 214,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -145,6 +145,7 @@
     "b81a8a239b9fc848",
     "ba812cf40b662f4a",
     "beadcf55619bf472",
+    "bf4fab6e0276ea9d",
     "c034fcc3f6c493f7",
     "c170708f840cd195",
     "c383845699e845be",
@@ -192,6 +193,19 @@
   ],
   "noticias": [
     {
+      "id": "99869f75463d2259",
+      "titulo": "Colocan al Barça en la lista por Josh King",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261007/1004235889/colocan-barca-lista-josh-king.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-07T16:00:30",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-07T16:40:30.096674"
+    },
+    {
       "id": "6f7dede2cf21dbd7",
       "titulo": "En Alemania dicen que el Bayern prepara un ofertón por Dani Olmo",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261007/1004235878/alemania-dicen-bayern-prepara-oferton-dani-olmo.html",
@@ -203,6 +217,19 @@
       "fecha": "2026-10-07T15:19:17",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-07T15:40:30.559407"
+    },
+    {
+      "id": "bf4fab6e0276ea9d",
+      "titulo": "Olmo conoce el interés del Bayern, pero no hay oferta por él",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261007/1004235878/alemania-dicen-bayern-prepara-oferton-dani-olmo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-07T15:19:17",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-07T16:40:30.096886"
     },
     {
       "id": "5d62205c4bcbc074",
