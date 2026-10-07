@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T07:30:46.864239Z",
-  "total": 213,
+  "actualizado": "2026-10-07T07:40:35.867808Z",
+  "total": 214,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -191,6 +191,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "2b2f2475bbf6f936",
+      "titulo": "Giro radical en el caso JJ Gabriel: el Bayern acelera y el Barça mantiene el pulso",
+      "enlace": "https://www.sport.es/es/noticias/barca/giro-radical-caso-jj-gabriel-135085598",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-07T07:40:33.279380",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-07T07:40:33.279394"
+    },
     {
       "id": "c5be5a918036df8d",
       "titulo": "El Barça pudo fichar a Marc Pubill por cinco millones de euros",
