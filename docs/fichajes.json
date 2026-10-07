@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T07:40:35.867808Z",
-  "total": 214,
+  "actualizado": "2026-10-07T08:30:48.631102Z",
+  "total": 212,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -2946,32 +2946,6 @@
       "fecha": "2026-09-07T12:07:59",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-07T12:40:26.494754"
-    },
-    {
-      "id": "0bc4245a00bf829f",
-      "titulo": "El Barça explica al detalle los acuerdos con Ohana y Babylon Park",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224216/barca-explica-detalle-acuerdos-ohana-babylon-park.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-07T08:25:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-07T08:40:27.222413"
-    },
-    {
-      "id": "504c7cfdcd7cd3aa",
-      "titulo": "El Barça explica los acuerdos con Ohana y Babylon Park",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224216/barca-explica-detalle-acuerdos-ohana-babylon-park.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-07T08:25:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-07T11:40:26.087567"
     }
   ]
 }
