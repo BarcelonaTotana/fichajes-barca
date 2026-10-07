@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T04:30:49.408995Z",
-  "total": 212,
+  "actualizado": "2026-10-07T06:30:44.194660Z",
+  "total": 213,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -189,6 +189,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "2caf4c839a8cfe2f",
+      "titulo": "El Bayern prepara la era post-Neuer: ¿hay sitio para Ter Stegen?",
+      "enlace": "https://www.sport.es/es/noticias/barca/bayern-prepara-post-neuer-hay-135084117",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-07T06:30:41.725824",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-07T06:30:41.725836"
+    },
     {
       "id": "2c8639ff805c8716",
       "titulo": "La cuesta de octubre",
