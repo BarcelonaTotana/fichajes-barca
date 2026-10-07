@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T06:50:32.781903Z",
-  "total": 212,
+  "actualizado": "2026-10-07T07:30:46.864239Z",
+  "total": 213,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -11,6 +11,7 @@
     "jorge salinas",
     "josue caicedo",
     "juan ybarra",
+    "marc pubill",
     "martina fernandez",
     "nico gonzalez",
     "olivier nkamhoua",
@@ -149,6 +150,7 @@
     "c383845699e845be",
     "c3cf6b9a5c607006",
     "c4e9378d7e1652b2",
+    "c5be5a918036df8d",
     "c7770ea441e9cd96",
     "c7af98a5293e1671",
     "c9365068ea68e649",
@@ -189,6 +191,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "c5be5a918036df8d",
+      "titulo": "El Barça pudo fichar a Marc Pubill por cinco millones de euros",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-pudo-fichar-marc-pubill-135085073",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-07T07:30:43.964785",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-07T07:30:43.964797"
+    },
     {
       "id": "2caf4c839a8cfe2f",
       "titulo": "El Bayern prepara la era post-Neuer: ¿hay sitio para Ter Stegen?",
