@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T16:40:36.753689Z",
-  "total": 214,
+  "actualizado": "2026-10-07T17:50:34.138837Z",
+  "total": 215,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -192,6 +192,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "727280054e9b5f5f",
+      "titulo": "En Alemania apuntan a un nuevo ofertón de 90 millones del Bayern por Dani Olmo",
+      "enlace": "https://www.sport.es/es/noticias/barca/alemania-apuntan-nuevo-oferton-90-135108772",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-07T17:50:31.619330",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-07T17:50:31.619342"
+    },
     {
       "id": "99869f75463d2259",
       "titulo": "Colocan al Barça en la lista por Josh King",
