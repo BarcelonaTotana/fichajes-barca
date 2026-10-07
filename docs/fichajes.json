@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T15:40:37.185034Z",
-  "total": 214,
+  "actualizado": "2026-10-07T16:00:59.537247Z",
+  "total": 212,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -2946,32 +2946,6 @@
       "fecha": "2026-09-07T18:39:42",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-07T19:10:28.268577"
-    },
-    {
-      "id": "92060922819776b4",
-      "titulo": "Croacia llama a Livakovic con elogios de su seleccionador por estar en el Barça aunque sea suplente",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224413/croacia-llama-livakovic-elogios-seleccionador-barca-sea-suplente.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-07T15:58:45",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-07T16:10:25.475760"
-    },
-    {
-      "id": "758a46b9b55f73ca",
-      "titulo": "Croacia llama a Livakovic con elogios de su seleccionador por estar en el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224413/croacia-llama-livakovic-elogios-seleccionador-barca-sea-suplente.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-07T15:58:45",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-07T16:40:27.808904"
     }
   ]
 }
