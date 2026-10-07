@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T12:10:32.442912Z",
-  "total": 213,
+  "actualizado": "2026-10-07T15:40:37.185034Z",
+  "total": 214,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -191,6 +191,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "6f7dede2cf21dbd7",
+      "titulo": "En Alemania dicen que el Bayern prepara un ofertón por Dani Olmo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261007/1004235878/alemania-dicen-bayern-prepara-oferton-dani-olmo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-07T15:19:17",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-07T15:40:30.559407"
+    },
     {
       "id": "5d62205c4bcbc074",
       "titulo": "La última oportunidad de Balde en el Barça",
