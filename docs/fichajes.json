@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T09:00:58.443094Z",
-  "total": 213,
+  "actualizado": "2026-10-07T09:10:32.913735Z",
+  "total": 214,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -191,6 +191,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "5d62205c4bcbc074",
+      "titulo": "La última oportunidad de Balde en el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/ultima-oportunidad-balde-barca-135088558",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-07T09:10:30.350707",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-07T09:10:30.350720"
+    },
     {
       "id": "e9a96a6c7fb9f496",
       "titulo": "Arnau Tenas: \"Si te digo que no querría volver al Barça estaría mintiendo, sería como volver a casa\"",
