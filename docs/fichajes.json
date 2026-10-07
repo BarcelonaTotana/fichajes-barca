@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T08:30:48.631102Z",
-  "total": 212,
+  "actualizado": "2026-10-07T09:00:58.443094Z",
+  "total": 213,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -191,6 +191,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "e9a96a6c7fb9f496",
+      "titulo": "Arnau Tenas: \"Si te digo que no querría volver al Barça estaría mintiendo, sería como volver a casa\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/arnau-tenas-digo-querria-volver-135070646",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-07T09:00:55.926972",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-07T09:00:55.926983"
+    },
     {
       "id": "2b2f2475bbf6f936",
       "titulo": "Giro radical en el caso JJ Gabriel: el Bayern acelera y el Barça mantiene el pulso",
