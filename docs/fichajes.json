@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T09:10:32.913735Z",
-  "total": 214,
+  "actualizado": "2026-10-07T12:10:32.442912Z",
+  "total": 213,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -2959,19 +2959,6 @@
       "fecha": "2026-09-07T15:58:45",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-07T16:40:27.808904"
-    },
-    {
-      "id": "d4cc19fff14a3c42",
-      "titulo": "'Galifardeu' y otras palabras que hablan catalán en el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224289/barca-vuelca-lengua-catalana.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-07T12:07:59",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-07T12:40:26.494754"
     }
   ]
 }
