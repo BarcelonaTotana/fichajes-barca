@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T06:10:32.193046Z",
-  "total": 218,
+  "actualizado": "2026-10-08T06:30:50.059249Z",
+  "total": 219,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -192,6 +192,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "b54b0826d8b1bdef",
+      "titulo": "Koundé toma una decisión sobre su futuro en el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/kounde-toma-decision-futuro-barca-135122884",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-08T06:30:47.603134",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-08T06:30:47.603145"
+    },
     {
       "id": "d9e66b2fbbb7e862",
       "titulo": "El Barça ya sabe el precio de JJ Gabriel",
