@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T15:40:36.045740Z",
-  "total": 224,
+  "actualizado": "2026-10-08T17:30:46.217461Z",
+  "total": 225,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -194,6 +194,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "1143f0cc83cd9948",
+      "titulo": "Julián Álvarez pone fin a su relación con su agente",
+      "enlace": "https://www.sport.es/es/noticias/barca/julian-alvarez-pone-relacion-agente-135147242",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-08T17:30:43.780122",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-08T17:30:43.780134"
+    },
     {
       "id": "c2ff815204a5d6b5",
       "titulo": "Ver a Iniesta es más barato con el Barça",
