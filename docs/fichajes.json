@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T10:01:00.436914Z",
-  "total": 219,
+  "actualizado": "2026-10-08T10:20:33.366217Z",
+  "total": 220,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -193,6 +193,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "9a6ff0ade8b860db",
+      "titulo": "¡Entradas a 7,50 euros para ver al Barça en la Champions en un estadio de 70.000 espectadores!",
+      "enlace": "https://www.sport.es/es/noticias/barca/entradas-7-50-euros-ver-135125812",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-08T10:20:30.917174",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-08T10:20:30.917182"
+    },
     {
       "id": "d3012b51aa7535a1",
       "titulo": "El Manchester City descartó a De Jong tras consultar su informe médico",
