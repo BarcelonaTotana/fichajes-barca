@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T10:40:35.405587Z",
-  "total": 221,
+  "actualizado": "2026-10-08T14:50:34.055987Z",
+  "total": 222,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -193,6 +193,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "2a3e2d3303eec9c6",
+      "titulo": "Héctor Fort, sobre Lamine Yamal: \"Es difícil juzgar a una persona por la imagen que vemos en una pantalla. Hay muchas cosas alrededor de él, pero es el mismo de siempre\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/hector-fort-lamine-yamal-dificil-135142613",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-08T14:50:31.541857",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-08T14:50:31.541870"
+    },
     {
       "id": "9a6ff0ade8b860db",
       "titulo": "¡Entradas a 7,50 euros para ver al Barça en la Champions en un estadio de 70.000 espectadores!",
