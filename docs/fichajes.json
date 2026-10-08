@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T08:00:58.102395Z",
-  "total": 218,
+  "actualizado": "2026-10-08T08:10:34.751667Z",
+  "total": 219,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -192,6 +192,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "d3012b51aa7535a1",
+      "titulo": "El Manchester City descartó a De Jong tras consultar su informe médico",
+      "enlace": "https://www.sport.es/es/noticias/barca/city-descarto-jong-consultar-informe-135124757",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-08T08:10:32.332547",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-08T08:10:32.332558"
+    },
     {
       "id": "b54b0826d8b1bdef",
       "titulo": "Koundé toma una decisión sobre su futuro en el Barça",
