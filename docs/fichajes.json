@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T06:30:50.059249Z",
-  "total": 219,
+  "actualizado": "2026-10-08T08:00:58.102395Z",
+  "total": 218,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -3025,19 +3025,6 @@
       "fecha": "2026-09-08T10:00:40",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-08T10:10:27.753722"
-    },
-    {
-      "id": "e5a83241dd17d5bd",
-      "titulo": "El Barça cierra finalmente la operación de Can Rigalt por 30 millones",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260908/1004224631/barca-cierra-finalmente-operacion-can-rigalt-30-millones.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-08T07:51:46",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-08T08:10:36.935264"
     }
   ]
 }
