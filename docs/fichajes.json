@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T15:01:10.425929Z",
-  "total": 221,
+  "actualizado": "2026-10-08T15:40:36.045740Z",
+  "total": 224,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -96,6 +96,7 @@
     "643d5176f36e29d4",
     "6603845fea51b1fa",
     "6737c861b30f1cf9",
+    "67436981ef6cda5a",
     "69e2532d04071127",
     "6b36dc75b6b0623c",
     "6c00ed9273b001ec",
@@ -193,6 +194,45 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "c2ff815204a5d6b5",
+      "titulo": "Ver a Iniesta es más barato con el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/ver-iniesta-barato-barca-135146668",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-08T15:40:33.219226",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-08T15:40:33.219238"
+    },
+    {
+      "id": "48b8606a2688fcfd",
+      "titulo": "El Barça Atlètic comienza a vaciar la enfermería",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004236220/barca-atletic-comienza-vaciar-enfermeria.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-08T15:08:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-08T15:40:28.967357"
+    },
+    {
+      "id": "67436981ef6cda5a",
+      "titulo": "Kees Smit, en la órbita de Barça y Madrid, más cerca de renovar con el AZ",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004236234/kees-smit-orbita-barca-madrid-cerca-renovar-az.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-08T15:01:51",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-08T15:40:28.967714"
+    },
     {
       "id": "2a3e2d3303eec9c6",
       "titulo": "Héctor Fort, sobre Lamine Yamal: \"Es difícil juzgar a una persona por la imagen que vemos en una pantalla. Hay muchas cosas alrededor de él, pero es el mismo de siempre\"",
