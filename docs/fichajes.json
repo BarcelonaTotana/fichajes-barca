@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T04:01:00.702493Z",
-  "total": 217,
+  "actualizado": "2026-10-08T06:10:32.193046Z",
+  "total": 218,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -192,6 +192,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "d9e66b2fbbb7e862",
+      "titulo": "El Barça ya sabe el precio de JJ Gabriel",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-precio-jj-gabriel-135122626",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "here_we_go",
+      "fecha": "2026-10-08T06:10:29.762952",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-08T06:10:29.762964"
+    },
     {
       "id": "437134c8a6a6a5d5",
       "titulo": "Un Gordon de récord pide paso",
