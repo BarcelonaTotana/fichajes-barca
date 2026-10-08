@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T18:40:33.953137Z",
-  "total": 215,
+  "actualizado": "2026-10-08T02:10:36.937827Z",
+  "total": 216,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -192,6 +192,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "3fd865c0f5b5ec9d",
+      "titulo": "Lacueva, la servilleta y Puyal",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004235869/lacueva-servilleta-puyal.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-08T01:45:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-08T02:10:30.201915"
+    },
     {
       "id": "a590ca2448659b15",
       "titulo": "El Barça, atento a Josh King, una pieza imprescindible en el Fulham de Arbeloa",
