@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T19:01:04.545817Z",
-  "total": 228,
+  "actualizado": "2026-10-08T19:20:37.042824Z",
+  "total": 227,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -3144,19 +3144,6 @@
       "fecha": "2026-09-09T04:40:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-09T05:10:26.149805"
-    },
-    {
-      "id": "63d1a4686c2b4be7",
-      "titulo": "Marotta: \"Lautaro se negó a negociar con el Barcelona\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260908/1004224949/marotta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-08T19:19:56",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-08T19:40:26.579959"
     }
   ]
 }
