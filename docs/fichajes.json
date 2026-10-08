@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T02:10:36.937827Z",
-  "total": 216,
+  "actualizado": "2026-10-08T04:01:00.702493Z",
+  "total": 217,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -192,6 +192,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "437134c8a6a6a5d5",
+      "titulo": "Un Gordon de récord pide paso",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004235961/gordon-record-pide-paso.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-08T03:50:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-08T04:00:54.338764"
+    },
     {
       "id": "3fd865c0f5b5ec9d",
       "titulo": "Lacueva, la servilleta y Puyal",
