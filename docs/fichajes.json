@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T19:20:37.042824Z",
-  "total": 227,
+  "actualizado": "2026-10-08T21:20:35.232920Z",
+  "total": 228,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -194,6 +194,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "d67bfda3706758ab",
+      "titulo": "Pau Victor: \"Flick es muy intenso, yo salía mareado de sus entrenamientos\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/pau-victor-flick-intenso-salia-135149085",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-08T21:20:32.740467",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-08T21:20:32.740480"
+    },
     {
       "id": "8119b2ff91ac5618",
       "titulo": "Haaland puede ser una realidad para el Barça",
