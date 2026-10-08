@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T08:10:34.751667Z",
+  "actualizado": "2026-10-08T10:01:00.436914Z",
   "total": 219,
   "cerradas": [
     "alex campos",
@@ -106,6 +106,7 @@
     "6f0a75f24ee3a1d2",
     "6f8e5dad1468ccc2",
     "725b7caed2f22a15",
+    "72cfb7bbe5ecf607",
     "7311a4fc282f6a99",
     "735ae30c907ad06a",
     "73e6b94e0f4d61a3",
@@ -321,6 +322,19 @@
       "fecha": "2026-10-07T15:19:17",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-07T16:40:30.096886"
+    },
+    {
+      "id": "72cfb7bbe5ecf607",
+      "titulo": "El Bayern sigue muy atento a Olmo, pero no hay oferta por él",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261007/1004235878/alemania-dicen-bayern-prepara-oferton-dani-olmo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-07T15:19:17",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-08T10:00:53.537829"
     },
     {
       "id": "5d62205c4bcbc074",
@@ -3025,19 +3039,6 @@
       "fecha": "2026-09-08T15:00:58",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-08T15:40:25.232500"
-    },
-    {
-      "id": "fe7a74349129b379",
-      "titulo": "Nijstad: \"El Barça es el más grande del mundo y que te quiera es maravilloso\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260908/1004224705/nijstad-barca-grande-mundo-te-quiera-maravilloso.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-08T10:00:40",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-08T10:10:27.753722"
     }
   ]
 }
