@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T17:30:46.217461Z",
-  "total": 225,
+  "actualizado": "2026-10-08T19:01:04.545817Z",
+  "total": 228,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -194,6 +194,45 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "8119b2ff91ac5618",
+      "titulo": "Haaland puede ser una realidad para el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/haaland-realidad-barca-135153037",
+      "medio": "sport.es",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-08T19:01:01.943208",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-08T19:01:01.943212"
+    },
+    {
+      "id": "6b847084b8f9c58b",
+      "titulo": "Osimhen reaparece con el Barça en el horizonte",
+      "enlace": "https://www.sport.es/es/noticias/barca/osimhen-reaparece-barca-horizonte-135134149",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-08T19:01:01.942163",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-08T19:01:01.942168"
+    },
+    {
+      "id": "5bed0d7a1ac4c613",
+      "titulo": "Cristian Tello: \"Creo que Lamine no sería titular en el Barça de 2012\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/cristian-tello-creo-lamine-seria-135071439",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-08T19:01:01.940770",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-08T19:01:01.940781"
+    },
     {
       "id": "1143f0cc83cd9948",
       "titulo": "Julián Álvarez pone fin a su relación con su agente",
