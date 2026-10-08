@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T10:20:33.366217Z",
-  "total": 220,
+  "actualizado": "2026-10-08T10:40:35.405587Z",
+  "total": 221,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -205,6 +205,19 @@
       "fecha": "2026-10-08T10:20:30.917174",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-08T10:20:30.917182"
+    },
+    {
+      "id": "bf9dbb6ae77fce28",
+      "titulo": "La nueva vida de Jan Virgili en Brujas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004236101/nueva-vida-jan-virgili-brujas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-08T10:10:53",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-08T10:40:29.005873"
     },
     {
       "id": "d3012b51aa7535a1",
