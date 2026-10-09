@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T06:11:11.135376Z",
-  "total": 230,
+  "actualizado": "2026-10-09T06:31:29.751325Z",
+  "total": 229,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -3170,19 +3170,6 @@
       "fecha": "2026-09-09T07:01:12",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-09T07:40:29.982651"
-    },
-    {
-      "id": "119dac5b90f9066f",
-      "titulo": "El Barça conocerá mañana su nuevo límite de coste de plantilla",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225075/barca-conocera-manana-nuevo-limite-coste-plantilla.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-09T06:26:12",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-09T06:40:27.483339"
     }
   ]
 }
