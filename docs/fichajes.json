@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T12:10:34.967244Z",
-  "total": 231,
+  "actualizado": "2026-10-09T14:10:36.772503Z",
+  "total": 233,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -59,6 +59,7 @@
     "30f4eae64d270777",
     "345b79d8299bd2ab",
     "352f8451dd4e256b",
+    "38d94eef9ebd60b6",
     "38fbf5c51499ae05",
     "3903d499d73904bd",
     "3916dd3ee8186767",
@@ -103,6 +104,7 @@
     "6c00ed9273b001ec",
     "6c872010888cca54",
     "6c8f00b103dc3566",
+    "6cbe17c99683c482",
     "6e71035cd811a191",
     "6efc28f91572845d",
     "6f0a75f24ee3a1d2",
@@ -196,6 +198,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "38d94eef9ebd60b6",
+      "titulo": "Bild lo confirma: el Bayern va a por Koundé",
+      "enlace": "https://www.sport.es/es/noticias/barca/bild-confirma-bayern-kounde-135180443",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-09T14:10:33.502741",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-09T14:10:33.502750"
+    },
     {
       "id": "ffe52c75b47c4908",
       "titulo": "El United hace una última oferta a JJ Gabriel para protegerse de Barça y Madrid",
@@ -325,6 +340,19 @@
       "fecha": "2026-10-09T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-09T05:40:25.943775"
+    },
+    {
+      "id": "6cbe17c99683c482",
+      "titulo": "Xavi Espart renueva hasta 2030",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcE5DdEliVmZ5YlpFWUlIYmZHcTlhQTJmTXYwSUJkYXV5OGYyWjN0Vkt2Zy1NSDRocGJyaFlNay14WWxySHBWOW50R2M1RXVvN3dCbWFJYUtJelFRU1pvMDVucjV3Sk96dVRvSDdSS3RwNlhoZlYtaVhSNU01c2Qya2lCdzV1bWJzTUdZMXBsNDlnUjFvcDYyX2hQNmRmcjk2Z3M5MWxzTU44SU1W?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-09T03:18:48",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-10-09T14:10:27.774490"
     },
     {
       "id": "d67bfda3706758ab",
