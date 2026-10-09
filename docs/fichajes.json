@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T11:10:34.974110Z",
-  "total": 226,
+  "actualizado": "2026-10-09T11:30:52.169420Z",
+  "total": 227,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -195,6 +195,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "9bebc93a3450e2f7",
+      "titulo": "Pedro se despide del futbol: \"Fue un jugador muy infravalorado, un futbolista brutal\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/pedro-despide-futbol-jugador-infravalorado-135168521",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-09T11:30:49.601114",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-09T11:30:49.601124"
+    },
     {
       "id": "4b8975e176e118c7",
       "titulo": "Flick confirma la baja de Raphinha: ¡Se perderá dos partidos!",
