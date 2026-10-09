@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T05:40:33.272451Z",
-  "total": 229,
+  "actualizado": "2026-10-09T06:11:11.135376Z",
+  "total": 230,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -194,6 +194,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "d00a62de1ef52928",
+      "titulo": "Se desvelan los detalles del fichaje de Mirza Catovic por el Barça: una apuesta total",
+      "enlace": "https://www.sport.es/es/noticias/barca/desvelan-detalles-fichaje-mirza-catovic-135162911",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-10-09T06:11:08.689875",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-09T06:11:08.689884"
+    },
     {
       "id": "117ef5ad365141d1",
       "titulo": "El récord histórico que pone al Barça de Flick",
