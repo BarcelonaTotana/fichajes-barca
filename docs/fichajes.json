@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T07:10:32.707845Z",
-  "total": 228,
+  "actualizado": "2026-10-09T08:50:32.860857Z",
+  "total": 227,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -3144,19 +3144,6 @@
       "fecha": "2026-09-09T09:14:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-09T09:40:25.807043"
-    },
-    {
-      "id": "e29f0ddbf684d7e0",
-      "titulo": "Definida la primera Lista B del Barça en Champions",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225128/definida-primera-lista-b-barca-champions.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-09T08:42:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-09T09:00:52.335508"
     }
   ]
 }
