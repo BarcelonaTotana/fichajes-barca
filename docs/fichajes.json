@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T16:12:18.804063Z",
-  "total": 235,
+  "actualizado": "2026-10-09T16:30:52.267291Z",
+  "total": 236,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -198,6 +198,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "50cfda56abb14870",
+      "titulo": "Chelsea y Bayern, atentos a Koundé para enero",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261009/1004236705/chelsea-bayern-atentos-kounde-enero.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-09T16:19:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-09T16:30:45.921249"
+    },
     {
       "id": "cb5429e9aceb1221",
       "titulo": "El gran elogio de Bordalás antes de medirse a Flick: \"El Barça es el mejor equipo de LaLiga e incluso de Europa\"",
