@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T05:01:03.251397Z",
-  "total": 228,
+  "actualizado": "2026-10-09T05:40:33.272451Z",
+  "total": 229,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -206,6 +206,19 @@
       "fecha": "2026-10-09T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-09T05:00:56.080973"
+    },
+    {
+      "id": "4e08821444fa8f3a",
+      "titulo": "Hernández Hernández, una oportuna filtración interesada",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261009/1004236251/hernandez-hernandez-oportuna-filtracion-interesada.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-09T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-09T05:40:25.943775"
     },
     {
       "id": "d67bfda3706758ab",
