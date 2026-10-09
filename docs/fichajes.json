@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T10:50:33.333501Z",
-  "total": 225,
+  "actualizado": "2026-10-09T11:10:34.974110Z",
+  "total": 226,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -195,6 +195,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "4b8975e176e118c7",
+      "titulo": "Flick confirma la baja de Raphinha: ¡Se perderá dos partidos!",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-confirma-baja-raphinha-perdera-135173889",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-09T11:10:32.466966",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-09T11:10:32.466979"
+    },
     {
       "id": "17ef18e2d0106c79",
       "titulo": "Egipto da por perdido a Hamza para la Copa de África 2027: el Barça no le cede",
