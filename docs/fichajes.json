@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T11:30:52.169420Z",
-  "total": 227,
+  "actualizado": "2026-10-09T11:40:38.588791Z",
+  "total": 229,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -195,6 +195,32 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "65f162ae9ad05d92",
+      "titulo": "Flick aclara la situación de De Jong",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-aclara-situacion-jong-135174674",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-09T11:40:36.181796",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-09T11:40:36.181802"
+    },
+    {
+      "id": "79cee2681276ba11",
+      "titulo": "Lilian Thuram, exfutbolista del Barça: \"Yo no nací siendo futbolista; fui pobre\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/lilian-thuram-exfutbolista-barca-naci-135173275",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-09T11:40:36.180805",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-09T11:40:36.180823"
+    },
     {
       "id": "9bebc93a3450e2f7",
       "titulo": "Pedro se despide del futbol: \"Fue un jugador muy infravalorado, un futbolista brutal\"",
