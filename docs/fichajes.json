@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T11:40:38.588791Z",
-  "total": 229,
+  "actualizado": "2026-10-09T12:10:34.967244Z",
+  "total": 231,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -192,9 +192,36 @@
     "f7bd0b5b8e22028e",
     "fa8e9a7abfd2ddc7",
     "faad9cff51be995d",
-    "fe35c0498995f2d9"
+    "fe35c0498995f2d9",
+    "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "ffe52c75b47c4908",
+      "titulo": "El United hace una última oferta a JJ Gabriel para protegerse de Barça y Madrid",
+      "enlace": "https://www.sport.es/es/noticias/barca/united-oferta-jj-gabriel-protegerse-135170990",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-09T12:10:32.111140",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-09T12:10:32.111146"
+    },
+    {
+      "id": "3f262b6d6a7ea73b",
+      "titulo": "Hansi Flick: \"El parón no me gusta, pero no puedo cambiarlo, es parte de nuestro trabajo\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-paron-gusta-cambiarlo-135175023",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-09T12:10:32.110084",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-09T12:10:32.110096"
+    },
     {
       "id": "65f162ae9ad05d92",
       "titulo": "Flick aclara la situación de De Jong",
