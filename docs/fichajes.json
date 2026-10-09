@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T06:31:29.751325Z",
-  "total": 229,
+  "actualizado": "2026-10-09T07:10:32.707845Z",
+  "total": 228,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -3157,19 +3157,6 @@
       "fecha": "2026-09-09T08:42:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-09T09:00:52.335508"
-    },
-    {
-      "id": "67585a275122f808",
-      "titulo": "Lluvia de elogios de Henry a Rodri: \"El Barça ha conseguido a otro Busquets\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225080/lluvia-elogios-henry-rodri-barca-conseguido-busquets.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-09T07:01:12",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-09T07:40:29.982651"
     }
   ]
 }
