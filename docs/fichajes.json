@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T14:10:36.772503Z",
-  "total": 233,
+  "actualizado": "2026-10-09T15:40:39.360559Z",
+  "total": 234,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -198,6 +198,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "b4cf9d0d7383d569",
+      "titulo": "Andrés Iniesta (42 años): \"Siempre tuve la sensación de que en el pueblo me ayudaron a ser futbolista\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/andres-iniesta-infancia-pueblo-ayuda-convertirse-futbolista-135184611",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-09T15:40:36.903848",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-09T15:40:36.903864"
+    },
     {
       "id": "38d94eef9ebd60b6",
       "titulo": "Bild lo confirma: el Bayern va a por Koundé",
