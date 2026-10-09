@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T16:30:52.267291Z",
+  "actualizado": "2026-10-09T21:39:27.735153Z",
   "total": 236,
   "cerradas": [
     "alex campos",
@@ -198,6 +198,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "85e83b23bf404ac0",
+      "titulo": "Osimhen ya asusta al Barça: reaparición estelar a cuatro días de recibir a los de Flick",
+      "enlace": "https://www.sport.es/es/noticias/barca/osimhen-asusta-barca-reaparicion-estelar-135192372",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-09T21:39:25.266522",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-09T21:39:25.266534"
+    },
     {
       "id": "50cfda56abb14870",
       "titulo": "Chelsea y Bayern, atentos a Koundé para enero",
@@ -3252,19 +3265,6 @@
       "fecha": "2026-09-10T04:25:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-10T04:40:24.745921"
-    },
-    {
-      "id": "03bc3ba5f9b9b17c",
-      "titulo": "Golazos de oro",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225387/golazos-oro.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-09T19:46:27",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-10T23:51:03.748905"
     }
   ]
 }
