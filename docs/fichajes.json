@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T09:50:36.991007Z",
-  "total": 225,
+  "actualizado": "2026-10-09T10:10:32.821049Z",
+  "total": 226,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -43,6 +43,7 @@
     "158ac38fd80cae55",
     "158c66cbb29b7567",
     "15e1138a42f69040",
+    "17ef18e2d0106c79",
     "1817b8a00079b0a1",
     "1f5fed6548852821",
     "20234a678e468e32",
@@ -194,6 +195,19 @@
     "fe35c0498995f2d9"
   ],
   "noticias": [
+    {
+      "id": "17ef18e2d0106c79",
+      "titulo": "Egipto da por perdido a Hamza para la Copa de África 2027: el Barça no le cede",
+      "enlace": "https://www.sport.es/es/noticias/barca/egipto-da-perdido-hamza-copa-135170404",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-09T10:10:30.019420",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-09T10:10:30.019431"
+    },
     {
       "id": "d00a62de1ef52928",
       "titulo": "Se desvelan los detalles del fichaje de Mirza Catovic por el Barça: una apuesta total",
