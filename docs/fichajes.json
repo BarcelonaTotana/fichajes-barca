@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T15:40:39.360559Z",
-  "total": 234,
+  "actualizado": "2026-10-09T16:12:18.804063Z",
+  "total": 235,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -198,6 +198,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "cb5429e9aceb1221",
+      "titulo": "El gran elogio de Bordalás antes de medirse a Flick: \"El Barça es el mejor equipo de LaLiga e incluso de Europa\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/gran-elogio-bordalas-medirse-flick-135183657",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-09T16:12:16.190089",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-09T16:12:16.190103"
+    },
     {
       "id": "b4cf9d0d7383d569",
       "titulo": "Andrés Iniesta (42 años): \"Siempre tuve la sensación de que en el pueblo me ayudaron a ser futbolista\"",
