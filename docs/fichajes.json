@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T10:10:32.821049Z",
-  "total": 226,
+  "actualizado": "2026-10-09T10:50:33.333501Z",
+  "total": 225,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -3119,19 +3119,6 @@
       "fecha": "2026-09-09T19:46:27",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-10T23:51:03.748905"
-    },
-    {
-      "id": "5007b432e83c4133",
-      "titulo": "Lista del Barça para el debut de Champions: Flick va con todo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225182/lista-barca-debut-champions-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-09T10:48:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-09T11:10:29.748844"
     }
   ]
 }
