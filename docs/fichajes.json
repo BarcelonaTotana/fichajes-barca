@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T09:20:36.333182Z",
-  "total": 226,
+  "actualizado": "2026-10-09T09:50:36.991007Z",
+  "total": 225,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -3118,19 +3118,6 @@
       "fecha": "2026-09-09T10:48:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-09T11:10:29.748844"
-    },
-    {
-      "id": "2307fe9167d00085",
-      "titulo": "Oficial: Lovro Chelfi, traspasado a Arabia",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225149/oficial-lovro-chelfi-traspasado-arabia.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-09T09:46:59",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-09T10:10:27.687779"
     }
   ]
 }
