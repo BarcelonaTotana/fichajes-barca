@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-10T13:49:01.199311Z",
-  "total": 236,
+  "actualizado": "2026-10-10T18:04:49.154229Z",
+  "total": 237,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -198,6 +198,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "d4cc355cd0740f21",
+      "titulo": "Rafael Leao genera buenas sensaciones antes de jugar contra el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237025/rafael-leao-genera-buenas-sensaciones-jugar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-10T16:02:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-10T18:04:42.066966"
+    },
     {
       "id": "a8d4fc6d5550884a",
       "titulo": "El ocaso de Gündogan antes de recibir al Barça: \"¿Para qué iba a estar listo si no juego?\"",
