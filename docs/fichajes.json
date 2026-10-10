@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-10T18:04:49.154229Z",
-  "total": 237,
+  "actualizado": "2026-10-10T21:36:43.949824Z",
+  "total": 239,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -198,6 +198,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "947713ffd50c4181",
+      "titulo": "\"Esperamos que los goles sirvan para ganar títulos\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/esperamos-goles-sirvan-ganar-titulos-135213805",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-10T21:36:41.524847",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-10T21:36:41.524858"
+    },
+    {
+      "id": "17558832e3b4239a",
+      "titulo": "Los goles de Deco",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237102/goles-deco.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-10T18:38:09",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-10T21:36:37.654738"
+    },
     {
       "id": "d4cc355cd0740f21",
       "titulo": "Rafael Leao genera buenas sensaciones antes de jugar contra el Barça",
