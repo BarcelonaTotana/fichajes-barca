@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T21:39:27.735153Z",
-  "total": 236,
+  "actualizado": "2026-10-10T07:15:16.161061Z",
+  "total": 235,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -198,6 +198,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "139d6929aeb2cf43",
+      "titulo": "El Barça de Flick puede hacer historia ante el Getafe",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-flick-historia-getafe-135172445",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-10T07:15:13.708934",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-10T07:15:13.708947"
+    },
     {
       "id": "85e83b23bf404ac0",
       "titulo": "Osimhen ya asusta al Barça: reaparición estelar a cuatro días de recibir a los de Flick",
@@ -3239,32 +3252,6 @@
       "fecha": "2026-09-10T10:02:13",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-10T10:41:02.554489"
-    },
-    {
-      "id": "45d3d3dda0253bb3",
-      "titulo": "Araujo no se olvida del Barça: \"Están volando y son favoritos\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225497/araujo-no-olvida-barca-siempre-acompano.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-10T07:07:29",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-10T07:40:27.550561"
-    },
-    {
-      "id": "3c73aa2e512b0b05",
-      "titulo": "Gabriel Jesus, instinto de 'killer'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225420/gabriel-jesus-instinto-killer.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-10T04:25:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-10T04:40:24.745921"
     }
   ]
 }
