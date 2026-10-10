@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-10T07:15:16.161061Z",
-  "total": 235,
+  "actualizado": "2026-10-10T13:49:01.199311Z",
+  "total": 236,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -198,6 +198,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "a8d4fc6d5550884a",
+      "titulo": "El ocaso de Gündogan antes de recibir al Barça: \"¿Para qué iba a estar listo si no juego?\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/ocaso-gundogan-recibir-barca-iba-135195145",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-10T13:48:58.608587",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-10T13:48:58.608598"
+    },
+    {
+      "id": "46051d24d1ec890b",
+      "titulo": "Ebrima Tunkara y Josué Caicedo reciben el alta",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/secciones/20261010/1004236907/ebrima-tunkara-josue-caicedo-reciben-alta-medica.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-10T11:05:52",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-10T13:48:54.740993"
+    },
+    {
+      "id": "e73af342957ad9d5",
+      "titulo": "Laporta ya tiene su placa en el Passatge Johan Cruyff",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004236896/laporta-placa-passatge-johan-cruyff.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-10T09:59:36",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-10T13:48:54.741423"
+    },
     {
       "id": "139d6929aeb2cf43",
       "titulo": "El Barça de Flick puede hacer historia ante el Getafe",
@@ -3226,32 +3265,6 @@
       "fecha": "2026-09-10T22:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-10T22:40:29.856946"
-    },
-    {
-      "id": "88099a020cff3470",
-      "titulo": "Marc Bernal: 20 minutos aprendiendo del maestro Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225595/marc-bernal-20-minutos-aprendiendo-maestro-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-10T11:34:45",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-10T12:11:02.560328"
-    },
-    {
-      "id": "73e6b94e0f4d61a3",
-      "titulo": "Deco: \"El Barça actuó con respeto para intentar fichar a Julián Álvarez\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225549/deco.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-10T10:02:13",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-10T10:41:02.554489"
     }
   ]
 }
