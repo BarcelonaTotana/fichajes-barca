@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-11T06:15:29.732106Z",
-  "total": 236,
+  "actualizado": "2026-10-11T13:02:58.834372Z",
+  "total": 237,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -199,6 +199,32 @@
   ],
   "noticias": [
     {
+      "id": "298f1ef04219d6b4",
+      "titulo": "Barça, ilusión y goleadas; Real Madrid, crispación y victorias por los pelos a dos semanas del clásico",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-ilusion-goleadas-real-madrid-crispacion-flick-mourinho-clasico-liga-135219565",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-11T13:02:56.361143",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-11T13:02:56.361153"
+    },
+    {
+      "id": "f94f9635ac865725",
+      "titulo": "Así es la nueva carpa VIP del Spotify Camp Nou al lado del Palau, ya abierta",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237305/nueva-carpa-vip-lado-palau-funcionamiento.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-11T09:37:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-11T13:02:52.426769"
+    },
+    {
       "id": "157be44cace50cf8",
       "titulo": "Un equipo para presumir",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237240/equipo-presumir.html",
@@ -379,6 +405,19 @@
       "fecha": "2026-10-09T14:10:33.502741",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-09T14:10:33.502750"
+    },
+    {
+      "id": "861538e9ed9068e2",
+      "titulo": "El Barça pudo fichar a Roberto Fernández por una cifra irrisoria: así se escapó uno de los 9 internacionales españoles más codiciados",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVWFNWjkzNDlZeTFRcElCeFhBUk4tLTgtSVdZelVCRnJ3SS1OQ1NMY3RyLTVVY2FHcDZHT0FtVzhoM2FRek5oRXYybE9hQVMtWXR5cnNHWE9TT3IycVoyN0ozWUdJcU1weTlTLV9nM3hyMjBsRnpDaXN0WVZlRzdKOXd4cWJyMEQyaUsyb2lpbUIzLUxwVVRpMlo4RFhSbnd1bUtlZ3JtNTFvUVhtaFR4dUpnWXAtQkp2cm9qLTJTNm1xQ1NnVG8xdFZtRkQtZ0hOTWxxelplLVd3WWF0UTFFazB4NVlDUnBZS0J6YTJ0WjdPLXp0MExUX1N6bGVjWE1YbmJobkQ2ZlFWRkM5X2EycVFqb1dhRzQtVHB5YzVtVXp6Wm8tM29CMlJB0gGqAkFVX3lxTE5VYU1aOTM0OVl5MVFwSUJ4WEFSTi0tOC1JV1l6VUJGcndJLU5DU0xjdHItNVVjYUdwNkdPQW1XOGgzYVF6TmhFdjJsT2FBUy1ZdHlyc0dYT1NPcjJxWjI3SjNZR0lxTXB5OVMtX2czeHIyMGxGekNpc3RZVmVHN0o5d3hxYnIwRDJpSzJvaWltQjMtTHBVVGkyWjhEWFJud3VtS2Vncm01MW9RWG1oVHh1SmdZcC1CSnZyb2otMlM2bXFDU2dUbzF0Vm1GRC1nSE5NbHF6WmUtV3dZYXRRMUVrMHg1WUNScFlLQnphMnRaN08tenQwTFRfU3psZWNYTVhuYmhuRDZmUVZGQzlfYTJxUWpvV2FHNC1UcHljNW1Venpaby0zb0IyUkE?oc=5",
+      "medio": "Madrid-Barcelona",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-09T14:00:00",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-10-11T13:02:57.823093"
     },
     {
       "id": "ffe52c75b47c4908",
@@ -3239,32 +3278,6 @@
       "fecha": "2026-09-11T22:10:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-11T22:40:25.703946"
-    },
-    {
-      "id": "d4d777d16cfe4c56",
-      "titulo": "Oficial: Hamza Abdelkarim, renovado",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225937/oficial-hamza-abdelkarim-renovado.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-11T11:38:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-11T12:10:38.606060"
-    },
-    {
-      "id": "9250158d1756202e",
-      "titulo": "Ilusión de Laporta en la Diada: \"Somos candidatos a todo\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225880/ilusion-laporta-diada-candidatos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-11T08:14:51",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-11T08:40:27.319107"
     }
   ]
 }
