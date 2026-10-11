@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-10T21:36:43.949824Z",
-  "total": 239,
+  "actualizado": "2026-10-11T00:27:42.333576Z",
+  "total": 238,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -3291,19 +3291,6 @@
       "fecha": "2026-09-11T02:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-11T02:40:24.202927"
-    },
-    {
-      "id": "2000727b4111d970",
-      "titulo": "Raphinha, el '9' que buscaba el Barça ya está aquí",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225826/raphinha-9-buscaba-barca-esta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-10T22:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-10T22:40:29.856946"
     }
   ]
 }
