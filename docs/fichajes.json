@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-11T13:02:58.834372Z",
-  "total": 237,
+  "actualizado": "2026-10-11T21:52:15.397047Z",
+  "total": 242,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -198,6 +198,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "acc35eb9d54f9026",
+      "titulo": "Lío con Gündogan antes del Barça: aseguran que saldrá en invierno",
+      "enlace": "https://www.sport.es/es/noticias/barca/galatasaray-apaga-incendio-frustracion-gundogan-135229851",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-11T21:52:12.876310",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-11T21:52:12.876312"
+    },
+    {
+      "id": "20ba1478d5cfae57",
+      "titulo": "El fenómeno Raphinha explota a nivel mundial",
+      "enlace": "https://www.sport.es/es/noticias/barca/fenomeno-raphinha-explota-nivel-mundial-135235709",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-11T21:52:12.874990",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-11T21:52:12.875004"
+    },
+    {
+      "id": "708fea63a7441b9b",
+      "titulo": "Ybarra, \"dispuesto a marcar muchos goles más\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237581/ybarra-dispuesto-marcar-goles.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-11T20:17:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-11T21:52:08.532722"
+    },
+    {
+      "id": "a78bde8571544d1a",
+      "titulo": "Rafa Yuste, en casa de 'Terminator'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237578/rafa-yuste-casa-termitator.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-11T20:10:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-11T21:52:08.532969"
+    },
+    {
+      "id": "6251a562b4eece1e",
+      "titulo": "Pau Víctor: \"Flick es muy exigente, en algún entrenamiento salí mareado\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237567/pau-victor-flick-exigente-entrenamiento-sali-mareado.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-11T19:38:03",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-11T21:52:08.533247"
+    },
     {
       "id": "298f1ef04219d6b4",
       "titulo": "Barça, ilusión y goleadas; Real Madrid, crispación y victorias por los pelos a dos semanas del clásico",
