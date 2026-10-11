@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-11T00:27:42.333576Z",
-  "total": 238,
+  "actualizado": "2026-10-11T06:15:29.732106Z",
+  "total": 236,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -198,6 +198,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "157be44cace50cf8",
+      "titulo": "Un equipo para presumir",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237240/equipo-presumir.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-11T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-11T06:15:22.421066"
+    },
+    {
+      "id": "52af168d53058c50",
+      "titulo": "Goles para reivindicarse",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237223/goles-reivindicarse.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-11T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-11T06:15:22.421406"
+    },
     {
       "id": "947713ffd50c4181",
       "titulo": "\"Esperamos que los goles sirvan para ganar títulos\"",
@@ -3239,58 +3265,6 @@
       "fecha": "2026-09-11T08:14:51",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-11T08:40:27.319107"
-    },
-    {
-      "id": "d86a2f6307165e42",
-      "titulo": "Ferran López, director de los Mossos, no fue cesado del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225809/ferran-lopez-director-mossos-no-cesado-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-11T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-11T05:40:25.747793"
-    },
-    {
-      "id": "044efdd155e79d15",
-      "titulo": "Lo mejor de la racha de cinco partidos marcando de Raphinha",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225805/mejor-racha-cinco-partidos-marcando-raphinha.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-11T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-11T05:40:25.748528"
-    },
-    {
-      "id": "b009308aeb102b4e",
-      "titulo": "El gol de la Champions",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225764/gol-champions.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-11T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-11T05:40:25.748967"
-    },
-    {
-      "id": "edfc70fc3ad26c11",
-      "titulo": "Controlar la obsesión",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225610/controlar-obsesion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-11T02:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-11T02:40:24.202927"
     }
   ]
 }
