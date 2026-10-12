@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T21:52:15.397047Z",
+  "actualizado": "2026-10-12T00:59:37.037561Z",
   "total": 242,
   "cerradas": [
     "alex campos",
@@ -165,6 +165,7 @@
     "cac05335a65c21aa",
     "cc1ede646b0e4ab4",
     "ccb819c93c8e31db",
+    "cd5db5032ec574ea",
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
     "cfc7974d49bc48e0",
@@ -198,6 +199,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "cd5db5032ec574ea",
+      "titulo": "Lamine Yamal quiere otro récord: Mbappé, en el punto de mira",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237600/lamine-yamal-quiere-record-mbappe-punto-mira.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-11T21:52:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-12T00:59:28.111638"
+    },
     {
       "id": "acc35eb9d54f9026",
       "titulo": "Lío con Gündogan antes del Barça: aseguran que saldrá en invierno",
@@ -3330,19 +3344,6 @@
       "fecha": "2026-09-12T04:20:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-12T04:40:27.375216"
-    },
-    {
-      "id": "d150ea3fcdf6126f",
-      "titulo": "Las próximas renovaciones en las que ya trabaja el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226082/proximas-renovaciones-trabaja-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-11T22:10:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-11T22:40:25.703946"
     }
   ]
 }
