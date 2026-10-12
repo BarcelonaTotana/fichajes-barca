@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-12T16:47:46.995621Z",
-  "total": 242,
+  "actualizado": "2026-10-12T23:16:39.277648Z",
+  "total": 244,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -201,6 +201,19 @@
   ],
   "noticias": [
     {
+      "id": "65656f70ae02f817",
+      "titulo": "Caso Dani Olmo: el jugador querría más continuidad y el Bayern va muy en serio",
+      "enlace": "https://www.sport.es/es/noticias/barca/caso-dani-olmo-jugador-querria-continuidad-barcelona-135257330",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-12T23:16:36.778135",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-12T23:16:36.778146"
+    },
+    {
       "id": "2fe8b904cfaccafc",
       "titulo": "Hansi Flick alucina con Gabriel Jesus: \"Me ha sorprendido\"",
       "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-alucina-gabriel-jesus-barcelona-champions-galatasaray-135255657",
@@ -225,6 +238,19 @@
       "fecha": "2026-10-12T16:47:44.553084",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-12T16:47:44.553095"
+    },
+    {
+      "id": "68eefb252238f8d2",
+      "titulo": "Flick: \"Gabriel Jesus fue una pequeña sorpresa\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237897/flick-gabriel-jesus-pequena-sorpresa.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-12T16:41:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-12T23:16:33.123298"
     },
     {
       "id": "5f7ad95f84264641",
