@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-12T07:14:00.227613Z",
-  "total": 244,
+  "actualizado": "2026-10-12T16:47:46.995621Z",
+  "total": 242,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -200,6 +200,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "2fe8b904cfaccafc",
+      "titulo": "Hansi Flick alucina con Gabriel Jesus: \"Me ha sorprendido\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-alucina-gabriel-jesus-barcelona-champions-galatasaray-135255657",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-12T16:47:44.553652",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-12T16:47:44.553654"
+    },
+    {
+      "id": "a7d3771998e671fb",
+      "titulo": "El infierno del Galatasaray también tiene sus debilidades",
+      "enlace": "https://www.sport.es/es/noticias/barca/infierno-galatasaray-debilidades-135256096",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-12T16:47:44.553084",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-12T16:47:44.553095"
+    },
+    {
+      "id": "5f7ad95f84264641",
+      "titulo": "Visitar al Galatasaray nunca pasa desapercibido para el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237543/visitar-galatasaray-nunca-pasa-desapercibido-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-12T10:07:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-12T16:47:40.625117"
+    },
+    {
+      "id": "aab4f5224e2f6489",
+      "titulo": "\"Tresoldi tiene cualidades para triunfar como delantero de un grande de Europa\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237677/tresoldi-cualidades-triunfar-delantero-grande-europa.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-12T09:07:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-12T16:47:40.625657"
+    },
+    {
+      "id": "330c90703abaa495",
+      "titulo": "El Barça ya está en Estambul con 22 convocados y las bajas conocidas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237634/convocados.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-12T07:17:17",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-12T16:47:40.626062"
+    },
     {
       "id": "a0d968285d3aa383",
       "titulo": "Ismael García, segundo entrenador del Galatasaray: \"Jugar contra el Barça es como ir al dentista\"",
@@ -3280,97 +3345,6 @@
       "fecha": "2026-09-13T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-13T20:11:02.504968"
-    },
-    {
-      "id": "f5701857a7aa41ea",
-      "titulo": "El Barça vuela hacia Valencia con 24 convocados",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226373/barca-vuela-valencia-seguir-siendo-lider.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-12T15:59:56",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-12T16:10:26.359750"
-    },
-    {
-      "id": "edaaec6a43784b4e",
-      "titulo": "El Barça ya está en Valencia con 24 convocados",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226373/barca-vuela-valencia-seguir-siendo-lider.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-12T15:59:56",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-12T19:10:27.277793"
-    },
-    {
-      "id": "fa33dc7694125c5f",
-      "titulo": "El Barça ya está en Valencia con 24 jugadores en la convocatoria",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226373/barca-vuela-valencia-seguir-siendo-lider.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-12T15:59:56",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-13T20:11:02.506655"
-    },
-    {
-      "id": "082beb63b3723608",
-      "titulo": "Arteta se explica sobre la salida de Gabriel Jesus a Barcelona",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226357/arteta-explica-sobre-salida-gabriel-jesus-barcelona.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-12T15:04:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-12T15:40:29.108935"
-    },
-    {
-      "id": "7a77a8a22bd87d41",
-      "titulo": "Bisiwu, refuerzo de lujo para el Barça Atlètic",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226298/bisiwu-refuerzo-lujo-barca-atletic.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-12T11:32:47",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-12T12:10:32.212447"
-    },
-    {
-      "id": "a9a7cc679aa5c9c6",
-      "titulo": "Flick: \"Hamza es un gran proyecto de futuro\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226285/flick-hamza-gran-proyecto-futuro.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-12T11:04:08",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-12T11:40:26.432081"
-    },
-    {
-      "id": "aad9f2de37e7b28b",
-      "titulo": "Colocan al Barça en la puja por la joya del Borussia Dortmund",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226231/colocan-barca-puja-joya-borussia-dortmund.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-12T08:39:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-12T09:10:27.364752"
     }
   ]
 }
