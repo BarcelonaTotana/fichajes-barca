@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-12T00:59:37.037561Z",
-  "total": 242,
+  "actualizado": "2026-10-12T07:14:00.227613Z",
+  "total": 244,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -172,6 +172,7 @@
     "d1678f114989da7e",
     "d4d777d16cfe4c56",
     "d50e311752fe32b0",
+    "d532d8b9c73e8b85",
     "d5d7c661b08565b2",
     "d74b02004bbf149f",
     "d94545d1196ce20a",
@@ -199,6 +200,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "a0d968285d3aa383",
+      "titulo": "Ismael García, segundo entrenador del Galatasaray: \"Jugar contra el Barça es como ir al dentista\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/ismael-garcia-segundo-entrenador-galatasaray-135230701",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-12T07:13:57.380447",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-12T07:13:57.380450"
+    },
+    {
+      "id": "349a2f2f595ee397",
+      "titulo": "Duelo final Barça-Madrid por JJ Gabriel: enero, mes clave",
+      "enlace": "https://www.sport.es/es/noticias/barca/duelo-final-barca-madrid-jj-135238753",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-12T07:13:57.376941",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-12T07:13:57.376943"
+    },
+    {
+      "id": "0c004fc9bfc201b3",
+      "titulo": "El Barça entra en la carrera por Andy Diouf, la nueva sensación del Inter",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-entra-carrera-andy-diouf-135239251",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-12T07:13:57.376091",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-12T07:13:57.376106"
+    },
+    {
+      "id": "d532d8b9c73e8b85",
+      "titulo": "Acuerdo cerrado por Bernal hasta 2031 y sólo falta la firma",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237635/acuerdo-cerrado-bernal-2031-falta-firma.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "here_we_go",
+      "fecha": "2026-10-12T06:31:02",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-12T07:13:52.734911"
+    },
+    {
+      "id": "9dd831d3b6daf787",
+      "titulo": "El Barça se va hoy a Turquía con la doble G en racha",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237402/barca-hoy-turquia-doble-g-racha.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-12T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-12T07:13:52.735399"
+    },
     {
       "id": "cd5db5032ec574ea",
       "titulo": "Lamine Yamal quiere otro récord: Mbappé, en el punto de mira",
@@ -3305,45 +3371,6 @@
       "fecha": "2026-09-12T08:39:23",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-12T09:10:27.364752"
-    },
-    {
-      "id": "c3a41b60135e92d8",
-      "titulo": "Preparen la palomitas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226029/momento-dulce.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-12T05:05:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-12T05:40:28.008994"
-    },
-    {
-      "id": "513f2748d525a557",
-      "titulo": "Preparen las palomitas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226029/momento-dulce.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-12T05:05:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-12T09:10:27.365459"
-    },
-    {
-      "id": "0888e60de8bfffbe",
-      "titulo": "Renovaciones que son fichajes",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226085/renovaciones-son-fichajes.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-12T04:20:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-12T04:40:27.375216"
     }
   ]
 }
