@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-13T11:05:37.523289Z",
-  "total": 250,
+  "actualizado": "2026-10-13T18:12:40.207691Z",
+  "total": 251,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -201,6 +201,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "291d47c9228b7865",
+      "titulo": "¡Dani Olmo saldrá como delantero centro ante el Galatasaray!",
+      "enlace": "https://www.sport.es/es/noticias/barca/dani-olmo-saldra-delantero-centro-135293898",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-13T18:12:37.656140",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-13T18:12:37.656145"
+    },
+    {
+      "id": "78b847e027d1dbd9",
+      "titulo": "Dónde ver el Galatasaray - Barcelona de la Champions League hoy por TV, en directo y online",
+      "enlace": "https://www.sport.es/es/noticias/barca/donde-ver-galatasaray-barcelona-champions-league-tv-directo-135293455",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-13T18:12:37.654468",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-13T18:12:37.654479"
+    },
+    {
+      "id": "704be73f714f4b91",
+      "titulo": "El plan anti-Lamine de Okan Buruk",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004238181/plan-anti-lamine-okan-buruk.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-13T13:18:27",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-13T18:12:33.025942"
+    },
+    {
+      "id": "4eafa29e6b2409c7",
+      "titulo": "Cuatro supervivientes en el Barça de la última visita al Galatasaray",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004238124/vqerg.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-13T12:42:03",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-13T18:12:33.026256"
+    },
     {
       "id": "0637438b95c3a665",
       "titulo": "Revolución total del Barça en el infierno turco",
@@ -3411,45 +3463,6 @@
       "fecha": "2026-09-14T10:43:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-14T11:10:30.212278"
-    },
-    {
-      "id": "e41123fdb5ece249",
-      "titulo": "Adeyemi firma la sentencia con otro golazo pero sin voltereta",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226775/adeyemi-firma-sentencia-golazo-voltereta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-13T16:46:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-13T20:11:02.502545"
-    },
-    {
-      "id": "e302b27fcaa88e8a",
-      "titulo": "Cinco novedades en el once del Barça contra el Levante",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226679/once-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-13T13:04:21",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-13T20:11:02.503510"
-    },
-    {
-      "id": "b6ad54f2d723c125",
-      "titulo": "Yuste pide el Balón de Oro para Lamine en la comida exprés con el Levante",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226570/laporta-comida-directivas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-13T11:28:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-13T20:11:02.503902"
     }
   ]
 }
