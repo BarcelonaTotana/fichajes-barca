@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-13T18:12:40.207691Z",
-  "total": 251,
+  "actualizado": "2026-10-13T22:52:23.922917Z",
+  "total": 256,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -201,6 +201,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "dd516b2e6b8b23cb",
+      "titulo": "Batrakov cumple su amenaza contra el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/batrakov-cumple-amenaza-barca-135302439",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-13T22:52:21.321931",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-13T22:52:21.321937"
+    },
+    {
+      "id": "02f835631cbb1adf",
+      "titulo": "La explicación al gol de córner anulado en el Galatasaray-Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/explicacion-gol-corner-anulado-galatasaray-135302518",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-13T22:52:21.320864",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-13T22:52:21.320869"
+    },
+    {
+      "id": "05829a418a98f082",
+      "titulo": "Lamine reina a su antojo y hace grande a un Barça que conquista Estambul",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-reina-antojo-grande-barca-135302938",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-13T22:52:21.319461",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-13T22:52:21.319468"
+    },
+    {
+      "id": "bea6b05cd3c53491",
+      "titulo": "Pedri: \"Me dolía la barriga y era mejor pedir el cambio. Me encontraba mal\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/pedri-dolia-barriga-mejor-pedir-135305042",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-13T22:52:21.317544",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-13T22:52:21.317556"
+    },
+    {
+      "id": "e2c97d3ea68f17f3",
+      "titulo": "Dos asistencias de fantasía de Lamine para confirmar la remontada del Barça en Turquía",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004238415/dos-asistencias-fantasia-lamine-confirmar-remontada.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-13T20:28:23",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-13T22:52:17.044976"
+    },
     {
       "id": "291d47c9228b7865",
       "titulo": "¡Dani Olmo saldrá como delantero centro ante el Galatasaray!",
