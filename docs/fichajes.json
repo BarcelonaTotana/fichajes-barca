@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-12T23:16:39.277648Z",
-  "total": 244,
+  "actualizado": "2026-10-13T11:05:37.523289Z",
+  "total": 250,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -143,6 +143,7 @@
     "ac778d22471e32b6",
     "ae11430778915027",
     "af0089361f15efe2",
+    "afa752d16314512f",
     "b3719da09d156cc6",
     "b4c0c9c8ccf1b13e",
     "b631447530d14036",
@@ -200,6 +201,97 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "0637438b95c3a665",
+      "titulo": "Revolución total del Barça en el infierno turco",
+      "enlace": "https://www.sport.es/es/noticias/barca/revolucion-total-barca-infierno-turco-135269238",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-13T11:05:34.565883",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-13T11:05:34.565884"
+    },
+    {
+      "id": "a37309323e15d7f2",
+      "titulo": "Pau Cubarsí: \"Puede ser que se haya normalizado, tengo 19 años y estoy empezando, pero la edad no es importante y tengo que hacer lo mismo que todos\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/pau-cubarsi-normalizado-19-anos-futbol-barca-importancia-135269631",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-13T11:05:34.565280",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-13T11:05:34.565282"
+    },
+    {
+      "id": "a966bebc2ae253bd",
+      "titulo": "El Barça no estará solo en Estambul: casi 900 culés arroparán al equipo ante el Galatasaray",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-estara-estambul-900-cules-135273770",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-13T11:05:34.563228",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-13T11:05:34.563230"
+    },
+    {
+      "id": "052adc53a2f4c57a",
+      "titulo": "Laporta: \"El Barça es el equipo que mejor juega del mundo\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/laporta-barca-equipo-mejor-juega-135274032",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-13T11:05:34.562669",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-13T11:05:34.562673"
+    },
+    {
+      "id": "f5d85915d8671967",
+      "titulo": "Boulahrouz advierte a Frenkie de Jong: \"Va a ser una batalla campal con Pedri porque a Rodri no lo mueve nadie\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/boulahrouz-advierte-frenkie-jong-batalla-135276370",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-13T11:05:34.561461",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-13T11:05:34.561469"
+    },
+    {
+      "id": "afa752d16314512f",
+      "titulo": "Pedro desvela dos anécdotas con Guardiola y Tito y explica cómo fue su adiós del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004237980/pedro-desvela-dos-anecdotas-guardiola-tito-explica-adios-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-13T04:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-13T11:05:29.164875"
+    },
+    {
+      "id": "b2230703a5815ca2",
+      "titulo": "El test personal de Pedro: define a sus mejores técnicos y elige a dos árbitros",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004237982/test-personal-pedro-define-mejores-tecnicos-elige-dos-arbitros.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-13T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-13T11:05:29.165047"
+    },
     {
       "id": "65656f70ae02f817",
       "titulo": "Caso Dani Olmo: el jugador querría más continuidad y el Bayern va muy en serio",
@@ -3358,19 +3450,6 @@
       "fecha": "2026-09-13T11:28:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-13T20:11:02.503902"
-    },
-    {
-      "id": "b9e647fe5241ac0c",
-      "titulo": "El objetivo de la Champions",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226507/objetivo-champions.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-13T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-13T20:11:02.504968"
     }
   ]
 }
