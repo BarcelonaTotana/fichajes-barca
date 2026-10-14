@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-14T12:27:57.170660Z",
-  "total": 263,
+  "actualizado": "2026-10-14T17:30:13.740738Z",
+  "total": 266,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -45,6 +45,7 @@
     "15e1138a42f69040",
     "17ef18e2d0106c79",
     "1817b8a00079b0a1",
+    "1cd533a53cd34ef5",
     "1f5fed6548852821",
     "20234a678e468e32",
     "2424d14d53098add",
@@ -202,6 +203,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "80f5eff8bab33409",
+      "titulo": "David Sánchez señala al gran favorito para ganar la Champions: \"Tienes al mejor del mundo\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/david-sanchez-senala-gran-favorito-135335435",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-14T17:30:10.717479",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-14T17:30:10.717484"
+    },
+    {
+      "id": "1cd533a53cd34ef5",
+      "titulo": "Al Barça se le podría abrir la opción Gilberto Mora: ya tiene 18 años",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-le-abrir-opcion-gilberto-135334731",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-14T17:30:10.716482",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-14T17:30:10.716490"
+    },
+    {
+      "id": "e54a40ca0582730e",
+      "titulo": "El 'regalo' de Leao a Eric Garcia",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238697/regalo-leao-eric-garcia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-14T12:31:39",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-14T17:30:05.899891"
+    },
     {
       "id": "6a0a4b4831c925ef",
       "titulo": "Así enjauló el Barça a Osimhen: otra genialidad de Flick",
