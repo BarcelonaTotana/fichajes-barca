@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-13T22:52:23.922917Z",
-  "total": 256,
+  "actualizado": "2026-10-14T06:40:47.954074Z",
+  "total": 262,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -201,6 +201,84 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "89be9cecef02d7ed",
+      "titulo": "Lo que no se vio del Galatasaray-Barça: El drama de Flick con una puerta, un Lamine Yamal especialmente activo y el infierno turco que terminó desangelado",
+      "enlace": "https://www.sport.es/es/noticias/barca/vio-galatasaray-barca-drama-flick-135306008",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-14T06:40:45.419226",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-14T06:40:45.419231"
+    },
+    {
+      "id": "b8d1542d41394d82",
+      "titulo": "El economista Xavier Sala i Martín explica el desplome de Nike: “Reconocen que perder a Lamine Yamal es el error más importante de la empresa en décadas”",
+      "enlace": "https://www.sport.es/es/noticias/barca/economista-xavier-sala-martin-explica-135304103",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-14T06:40:45.417773",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-14T06:40:45.417777"
+    },
+    {
+      "id": "9afd31e0a21f4326",
+      "titulo": "Pedri guió al Barça hasta la décima",
+      "enlace": "https://www.sport.es/es/noticias/barca/pedri-guio-barca-decima-135306957",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-14T06:40:45.415966",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-14T06:40:45.415971"
+    },
+    {
+      "id": "f271634ae84e5144",
+      "titulo": "Henry se rinde a Lamine: \"Lo que estás haciendo es increíble, no sé qué decir\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/thierry-henry-rinde-lamine-yamal-increible-barca-futbol-regate-jugador-champions-135310360",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-14T06:40:45.414524",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-14T06:40:45.414529"
+    },
+    {
+      "id": "65650907a469d495",
+      "titulo": "Rodri señala el error que el Barça debe corregir en Champions",
+      "enlace": "https://www.sport.es/es/noticias/barca/rodri-senala-error-barca-debe-135310073",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-14T06:40:45.412804",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-14T06:40:45.412810"
+    },
+    {
+      "id": "8750e212e7a001c2",
+      "titulo": "El United tira la toalla por JJ Gabriel, el Madrid aprieta y el Barça le ilusiona",
+      "enlace": "https://www.sport.es/es/noticias/barca/united-tira-toalla-jj-gabriel-135310516",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-14T06:40:45.411067",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-14T06:40:45.411078"
+    },
     {
       "id": "dd516b2e6b8b23cb",
       "titulo": "Batrakov cumple su amenaza contra el Barça",
