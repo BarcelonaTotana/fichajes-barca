@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-14T17:30:13.740738Z",
-  "total": 266,
+  "actualizado": "2026-10-14T20:55:32.782383Z",
+  "total": 265,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -203,6 +203,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "29c18cab5e386a41",
+      "titulo": "Dani Olmo, el talismán de Flick como falso '9'",
+      "enlace": "https://www.sport.es/es/noticias/barca/dani-olmo-talisman-flick-falso-135317243",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-14T20:55:29.974627",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-14T20:55:29.974632"
+    },
+    {
+      "id": "a0b48dd72e44acad",
+      "titulo": "Debate en el Barça con Hamza Abdelkarim",
+      "enlace": "https://www.sport.es/es/noticias/barca/debate-hamza-abdelkarim-barcelona-flick-135333981",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-10-14T20:55:29.972764",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-14T20:55:29.972776"
+    },
+    {
+      "id": "4cb92e0b57d5732f",
+      "titulo": "Fermín, el tesoro de Flick",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238815/fermin-tesoro-flick.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-14T18:01:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-14T20:55:25.191762"
+    },
     {
       "id": "80f5eff8bab33409",
       "titulo": "David Sánchez señala al gran favorito para ganar la Champions: \"Tienes al mejor del mundo\"",
@@ -3608,58 +3647,6 @@
       "fecha": "2026-09-14T21:42:12",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-15T11:10:26.886328"
-    },
-    {
-      "id": "bf617195eb09d0ef",
-      "titulo": "Mendes: \"El Balón de Oro es para Lamine, es el mejor con mucha diferencia\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227287/mendes-balon-oro-lamine-mejor-diferencia.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-14T20:47:36",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-14T21:10:32.425497"
-    },
-    {
-      "id": "f293e61d2a80f61a",
-      "titulo": "Mendes: \"El Balón de Oro es para Lamine, es el mejor con diferencia\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227287/mendes-balon-oro-lamine-mejor-diferencia.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-14T20:47:36",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-15T07:40:28.610688"
-    },
-    {
-      "id": "bb5a2aadb1f55908",
-      "titulo": "Gordon desvela a RAC1 las palabras que ya domina en catalán",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227270/gordon-desvela-rac1-palabras-domina-catalan.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-14T18:56:12",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-14T19:10:29.158544"
-    },
-    {
-      "id": "cebc9ddefe47247b",
-      "titulo": "Rodri: \"La Champions es factible pero no creo que seamos los favoritos\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227249/rodri-champions-factible-no-favoritos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-14T18:04:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-14T18:40:28.383250"
     }
   ]
 }
