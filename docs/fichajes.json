@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-14T06:40:47.954074Z",
-  "total": 262,
+  "actualizado": "2026-10-14T12:27:57.170660Z",
+  "total": 263,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -115,6 +115,7 @@
     "735ae30c907ad06a",
     "73e6b94e0f4d61a3",
     "745703ac2fc48f0c",
+    "7c3ea763e659ec84",
     "7f5de7c97cea0906",
     "7fc57e0e098803fd",
     "8223abe13077336f",
@@ -201,6 +202,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "6a0a4b4831c925ef",
+      "titulo": "Así enjauló el Barça a Osimhen: otra genialidad de Flick",
+      "enlace": "https://www.sport.es/es/noticias/barca/enjaulo-barca-osimhen-planteamiento-brillante-135315993",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-14T12:27:54.071374",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-14T12:27:54.071387"
+    },
+    {
+      "id": "7c3ea763e659ec84",
+      "titulo": "El Barça firma su mejor arranque goleador en un siglo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238587/maquina-goles-llamada-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-14T09:20:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-14T12:27:47.483797"
+    },
+    {
+      "id": "6f50471a217b64d1",
+      "titulo": "Ya lo avisó Pedri: \"Va a ser un espectáculo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238572/aviso-pedri-espectaculo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-14T07:55:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-14T12:27:47.484254"
+    },
     {
       "id": "89be9cecef02d7ed",
       "titulo": "Lo que no se vio del Galatasaray-Barça: El drama de Flick con una puerta, un Lamine Yamal especialmente activo y el infierno turco que terminó desangelado",
@@ -3580,32 +3620,6 @@
       "fecha": "2026-09-14T18:04:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-14T18:40:28.383250"
-    },
-    {
-      "id": "6c00ed9273b001ec",
-      "titulo": "Primeros contactos para la renovación de Gerard Martín",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227069/primeros-contactos-renovacion-gerard-martin.html",
-      "medio": "mundodeportivo.com",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-14T12:20:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-14T12:40:27.932312"
-    },
-    {
-      "id": "4e2bf9cb03ebc496",
-      "titulo": "Raphinha lidera la generación de gol en las grandes ligas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227009/raphinha-lidera-generacion-gol-grandes-ligas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-14T10:43:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-14T11:10:30.212278"
     }
   ]
 }
