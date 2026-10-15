@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-15T06:58:23.266271Z",
-  "total": 263,
+  "actualizado": "2026-10-15T12:34:16.556542Z",
+  "total": 261,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -197,12 +197,52 @@
     "f6e1116d885121a8",
     "f75c3f69b1a7e1a2",
     "f7bd0b5b8e22028e",
+    "f8ade590e8c7c8b8",
     "fa8e9a7abfd2ddc7",
     "faad9cff51be995d",
     "fe35c0498995f2d9",
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "7eb45e7985c16e47",
+      "titulo": "El Tottenham advierte al Barça: Pedro Porro tendrá precio de récord",
+      "enlace": "https://www.sport.es/es/noticias/barca/tottenham-advierte-barca-pedro-porro-135369874",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-15T12:34:13.607795",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-15T12:34:13.607799"
+    },
+    {
+      "id": "a97e9a96fe902dd4",
+      "titulo": "Pedro Rodríguez: \"El día que debuté en el Barça pensé 'hasta aquí hemos llegado'\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/pedro-rodriguez-dia-debute-barca-135276120",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-15T12:34:13.606709",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-15T12:34:13.606720"
+    },
+    {
+      "id": "f8ade590e8c7c8b8",
+      "titulo": "Simón Escobar, al que colocaban en la órbita del Barça, renueva con Vélez",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004239070/simon-escobar-colocaban-orbita-barca-renueva-velez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-15T11:13:29",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-15T12:34:09.563719"
+    },
     {
       "id": "f7ddacb3b80eadce",
       "titulo": "¿Pueden jugar juntos Fermín y Olmo?",
@@ -3556,71 +3596,6 @@
       "fecha": "2026-09-15T15:09:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-15T17:40:26.925560"
-    },
-    {
-      "id": "1835f8bea2adcac0",
-      "titulo": "La fallida 'operación Barça-Salinas' descubrió a Espart",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227473/ewq.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-15T10:40:01",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-15T11:10:26.881675"
-    },
-    {
-      "id": "9435c27f8b60acca",
-      "titulo": "El debate del '9' puro: ¿Cómo juega mejor el Barça?",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227203/debate-9-puro-juega-mejor-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-15T10:26:49",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-15T10:40:25.527828"
-    },
-    {
-      "id": "5e9a6188c753edfc",
-      "titulo": "Rafa Márquez compara con Lamine una perla en el radar culé",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227390/rafa-marquez-compara-lamine-perla-radar-cule.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-15T07:09:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-15T07:40:28.606975"
-    },
-    {
-      "id": "ddc461c4332c90e7",
-      "titulo": "Rafa Márquez compara una perla en el radar culé con Lamine",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227390/rafa-marquez-compara-lamine-perla-radar-cule.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-15T07:09:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-15T15:40:30.663332"
-    },
-    {
-      "id": "4ccf19efa358675a",
-      "titulo": "Rodri: \"Raphinha es espectacular y Julián es brutal, claro que lo ficharía\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227290/rodri-raphinha-espectacular-julian-brutal-claro-ficharia.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-15T07:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-15T07:40:28.607211"
     }
   ]
 }
