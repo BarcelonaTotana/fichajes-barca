@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-14T23:42:18.806449Z",
-  "total": 260,
+  "actualizado": "2026-10-15T06:58:23.266271Z",
+  "total": 263,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -203,6 +203,84 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "f7ddacb3b80eadce",
+      "titulo": "¿Pueden jugar juntos Fermín y Olmo?",
+      "enlace": "https://www.sport.es/es/noticias/barca/jugar-fermin-olmo-135317061",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-15T06:58:20.681677",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-15T06:58:20.681681"
+    },
+    {
+      "id": "0d86d48c3c904db9",
+      "titulo": "El futuro de Frenkie de Jong se complica",
+      "enlace": "https://www.sport.es/es/noticias/barca/futuro-frenkie-jong-complica-135352767",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-15T06:58:20.677779",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-15T06:58:20.677783"
+    },
+    {
+      "id": "d82745fb2714e58e",
+      "titulo": "El Barça perdió a una joven promesa senegalesa por decisión familiar",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-perdio-joven-promesa-senegalesa-135353352",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-15T06:58:20.676833",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-15T06:58:20.676836"
+    },
+    {
+      "id": "b4d65961f669ba06",
+      "titulo": "Los tres jugadores predilectos de Flick",
+      "enlace": "https://www.sport.es/es/noticias/barca/tres-jugadores-predilectos-flick-135351888",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-15T06:58:20.675781",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-15T06:58:20.675796"
+    },
+    {
+      "id": "33c6bcc5642a7c7c",
+      "titulo": "Un poco de Adeyemi es mucho para el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004238845/poco-adeyemi-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-15T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-15T06:58:16.017002"
+    },
+    {
+      "id": "89a4a05ef477c3fa",
+      "titulo": "Los guardianes del balón",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004238836/guardianes-balon.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-15T04:10:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-15T06:58:16.017520"
+    },
     {
       "id": "29c18cab5e386a41",
       "titulo": "Dani Olmo, el talismán de Flick como falso '9'",
@@ -3543,45 +3621,6 @@
       "fecha": "2026-09-15T07:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-15T07:40:28.607211"
-    },
-    {
-      "id": "238898d488ac225c",
-      "titulo": "Un fútbol espectáculo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227258/futbol-espectaculo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-15T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-15T05:40:27.420865"
-    },
-    {
-      "id": "369f2a589aa102d8",
-      "titulo": "Rodri, feliz: \"Flipo con el cariño de los culés\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227359/rodri-feliz-flipo-carino-cules.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-15T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-15T04:10:27.060084"
-    },
-    {
-      "id": "a3026b9c710e26f0",
-      "titulo": "El hombre que dijo 'no' al Madrid",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227284/hombre-dijo-no-madrid.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-15T03:20:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-15T03:41:02.756504"
     }
   ]
 }
