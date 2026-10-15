@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-15T20:25:00.939593Z",
-  "total": 265,
+  "actualizado": "2026-10-15T23:10:48.905374Z",
+  "total": 267,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -204,6 +204,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "1f54517f139fdb6e",
+      "titulo": "El Liverpool desiste por Marc Bernal",
+      "enlace": "https://www.sport.es/es/noticias/barca/liverpool-desiste-marc-bernal-135337975",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-15T23:10:46.323027",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-15T23:10:46.323030"
+    },
+    {
+      "id": "c48e6af719e62bbf",
+      "titulo": "La verdad sobre la decisión del Liverpool con Araujo",
+      "enlace": "https://www.sport.es/es/noticias/barca/decision-liverpool-araujo-135340078",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-15T23:10:46.321864",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-15T23:10:46.321875"
+    },
     {
       "id": "f6a930d7a9097589",
       "titulo": "El Barça mantiene el plan con Jesse Bisiwu",
