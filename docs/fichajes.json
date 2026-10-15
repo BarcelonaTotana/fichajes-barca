@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-15T12:34:16.556542Z",
-  "total": 261,
+  "actualizado": "2026-10-15T17:19:53.884324Z",
+  "total": 262,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -204,6 +204,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "cd4dcc32ceb71ff8",
+      "titulo": "Hansi Flick se 'pulveriza' a sí mismo: \"Y decían que no teníamos gol\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-pulveriza-decian-teniamos-gol-barca-135337110",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-15T17:19:51.394395",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-15T17:19:51.394406"
+    },
+    {
+      "id": "f011f20831df44a4",
+      "titulo": "Precios de locura en la reventa del PSG-Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004239158/precios-locura-reventa-psg-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-15T15:53:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-15T17:19:47.603408"
+    },
+    {
+      "id": "25ee3c1d427a2f15",
+      "titulo": "El Tottenham pediría un pastón al Barça por Porro",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004239117/cantidad-pide-tottenham-pedro-porro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-15T13:26:33",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-15T17:19:47.604068"
+    },
     {
       "id": "7eb45e7985c16e47",
       "titulo": "El Tottenham advierte al Barça: Pedro Porro tendrá precio de récord",
@@ -3570,32 +3609,6 @@
       "fecha": "2026-09-15T19:13:21",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-15T19:31:19.315691"
-    },
-    {
-      "id": "c920dd6fbe442782",
-      "titulo": "Hamza Abdelkarim, el ‘9’ de futuro: “Tengo muchas cosas que mejorar”",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227669/hamza-abdelkarim-9-futuro-muchas-cosas-mejorar.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-15T17:16:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-15T17:40:26.925034"
-    },
-    {
-      "id": "e12d228c28cd4929",
-      "titulo": "Acto de renovación de Hamza Abdelkarim con el FC Barcelona, en directo: última hora del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227605/acto-renovacion-hamza-abdelkarim-fc-barcelona-directo-ultima-hora-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-15T15:09:14",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-15T17:40:26.925560"
     }
   ]
 }
