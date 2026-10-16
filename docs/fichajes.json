@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-16T06:13:44.505947Z",
-  "total": 266,
+  "actualizado": "2026-10-16T11:33:51.833586Z",
+  "total": 265,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -204,6 +204,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "52e46f75cd58cdd8",
+      "titulo": "El Barça aumenta el valor de sus fichajes en 116 millones",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239393/barca-aumenta-valor-fichajes-116-millones.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-16T08:38:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-16T11:33:44.091879"
+    },
     {
       "id": "af7d8693f0096514",
       "titulo": "Lamine Yamal lo tiene todo estudiadísimo",
@@ -3635,32 +3648,6 @@
       "fecha": "2026-09-16T17:01:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-17T07:10:27.247322"
-    },
-    {
-      "id": "aae0c9df6a66cbe7",
-      "titulo": "El Barça, con más razones que su racha para pensar en seguir como líder en solitario",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227946/barca-razones-racha-pensar-seguir-lider-solitario.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T10:54:46",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-16T11:10:26.596315"
-    },
-    {
-      "id": "e039ced6f7818a27",
-      "titulo": "Con más razones que su racha para pensar en seguir como líder en solitario",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227946/barca-razones-racha-pensar-seguir-lider-solitario.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T10:54:46",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-16T13:40:27.857040"
     }
   ]
 }
