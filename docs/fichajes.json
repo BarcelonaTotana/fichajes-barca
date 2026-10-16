@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-16T19:00:09.436161Z",
-  "total": 266,
+  "actualizado": "2026-10-16T22:00:14.067823Z",
+  "total": 265,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -204,6 +204,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "4ccb3d87e74b6908",
+      "titulo": "Umtiti, sobre jugar con la MSN: \"Eran extraterrestres, pero se llevaban muy bien fuera del campo\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/umtiti-jugar-msn-extraterrestres-llevaban-135434080",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-16T22:00:11.581376",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-16T22:00:11.581389"
+    },
     {
       "id": "775ba3bcfd75d4a7",
       "titulo": "Villamarín o La Cartuja, al Barça le da igual: 15 años sin perder en feudo verdiblanco",
@@ -3635,32 +3648,6 @@
       "fecha": "2026-09-16T22:11:40",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-17T16:10:26.325756"
-    },
-    {
-      "id": "0a66c1a2f5859088",
-      "titulo": "Raphinha supera a Mbappé en el Pichichi con un doblete",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228181/raphinha-iguala-mbappe-pichichi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T20:12:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-16T20:40:29.630337"
-    },
-    {
-      "id": "fd9c356c6c7b6b36",
-      "titulo": "Raphinha supera a Mbappé en el Pichichi con un 'hat trick'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228181/raphinha-iguala-mbappe-pichichi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T20:12:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-16T21:31:48.723687"
     }
   ]
 }
