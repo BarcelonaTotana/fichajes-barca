@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-15T23:10:48.905374Z",
-  "total": 267,
+  "actualizado": "2026-10-16T06:13:44.505947Z",
+  "total": 266,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -204,6 +204,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "af7d8693f0096514",
+      "titulo": "Lamine Yamal lo tiene todo estudiadísimo",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-estudiadisimo-135335347",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-16T06:13:41.993058",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-16T06:13:41.993064"
+    },
+    {
+      "id": "42830ee29e7c49aa",
+      "titulo": "El secreto está en lo que el Barça evita: la virtud menos visible de Flick",
+      "enlace": "https://www.sport.es/es/noticias/barca/secreto-barca-evita-virtud-visible-135389064",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-16T06:13:41.991805",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-16T06:13:41.991817"
+    },
+    {
+      "id": "6c406148f9531eb5",
+      "titulo": "¿Por qué Lamine Yamal mira todos los partidos del Betis?",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239217/lamine-yamal-mira-todos-partidos-betis.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-16T02:15:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-16T06:13:37.218191"
+    },
     {
       "id": "1f54517f139fdb6e",
       "titulo": "El Liverpool desiste por Marc Bernal",
@@ -3622,58 +3661,6 @@
       "fecha": "2026-09-16T10:54:46",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-16T13:40:27.857040"
-    },
-    {
-      "id": "116a2e5487aa0325",
-      "titulo": "El Balón de Hansi",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227696/balon-hansi.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-16T05:06:12.308437"
-    },
-    {
-      "id": "a439cf98babd184a",
-      "titulo": "Lamine se las verá con Salinas, objetivo del Barça en verano",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227466/lamine-vera-salinas-objetivo-barca-verano.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-16T05:06:12.309065"
-    },
-    {
-      "id": "f7b8527a52045962",
-      "titulo": "Lamine ya tiene nuevo reto: 'la manita'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227423/dsa.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-16T05:06:12.309335"
-    },
-    {
-      "id": "99582348bf2e9e04",
-      "titulo": "¿El Barça es favorito para la Champions?",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227596/barca-favorito-champions.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T02:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-16T02:40:25.908209"
     }
   ]
 }
