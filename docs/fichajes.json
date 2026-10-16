@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-16T11:33:51.833586Z",
-  "total": 265,
+  "actualizado": "2026-10-16T15:31:15.919222Z",
+  "total": 268,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -204,6 +204,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "c84a76f2d91dcd52",
+      "titulo": "Flick explica la situación de Balde",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-explica-situacion-balde-135414297",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-16T15:31:13.469874",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-16T15:31:13.469879"
+    },
+    {
+      "id": "6059bb479fee8691",
+      "titulo": "Reunión entre Deco y el agente de Dani Olmo para abordar su situación en el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/reunion-deco-agente-dani-olmo-135413496",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-16T15:31:13.467825",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-16T15:31:13.467835"
+    },
+    {
+      "id": "df70d5ffcb657196",
+      "titulo": "Flick lo confirma: \"Raphinha y De Jong están disponibles\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239487/flick-confirma-raphinha-jong-disponibles.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-16T11:47:56",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-16T15:31:09.517306"
+    },
     {
       "id": "52e46f75cd58cdd8",
       "titulo": "El Barça aumenta el valor de sus fichajes en 116 millones",
