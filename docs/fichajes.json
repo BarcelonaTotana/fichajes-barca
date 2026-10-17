@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17T20:44:53.235448Z",
-  "total": 281,
+  "actualizado": "2026-10-17T22:41:20.509709Z",
+  "total": 282,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -162,6 +162,7 @@
     "c3cf6b9a5c607006",
     "c4e9378d7e1652b2",
     "c5be5a918036df8d",
+    "c636ed980e63b923",
     "c7770ea441e9cd96",
     "c7af98a5293e1671",
     "c9365068ea68e649",
@@ -738,6 +739,19 @@
       "fecha": "2026-10-15T11:13:29",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-15T12:34:09.563719"
+    },
+    {
+      "id": "c636ed980e63b923",
+      "titulo": "Miles de euros 30/06/2026 30/06/2025 Deudas a largo plazo Deudas con entidades de crédito, obligaciones y otros valores negocia",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXZtenBnWGwtb0tXRHg3cU9YOE4wRHI1NVZSbldyX1R3bjdJT1V1c0U2dC1NREtDTWg3OWNoc3Z0dko3VEhUWTFjSzQtMndrdmxlRFl5bXFqeVNhdFQ4RUZNVmZtc0lLc1UzdXJULXJJUFdTS1RqajExTElJM3U2VEh4WHpjN09XQjd6SUJmcElnY3QzaTBhd2hsVmJHZFlSV1JCenF0TzBYYXF0c2VYbGJTUzBJVTFRelV3?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-15T07:00:00",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-10-17T22:41:11.574995"
     },
     {
       "id": "f7ddacb3b80eadce",
