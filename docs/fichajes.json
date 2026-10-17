@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17T18:19:36.878060Z",
-  "total": 277,
+  "actualizado": "2026-10-17T20:44:53.235448Z",
+  "total": 281,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -207,6 +207,45 @@
   ],
   "noticias": [
     {
+      "id": "c1a9be906db231a6",
+      "titulo": "Lamine 'Bestial' congela la caldera de La Cartuja y el Barça aniquila al Betis",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-bestial-congela-caldera-cartuja-135451831",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-17T20:44:50.687911",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-17T20:44:50.687915"
+    },
+    {
+      "id": "602a9e35cb2adcdf",
+      "titulo": "Flick: \"Los grandes equipos son los que juegan así\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-grandes-equipos-son-juegan-135455725",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-17T20:44:50.684859",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-17T20:44:50.684871"
+    },
+    {
+      "id": "8f6ff548b7b121ae",
+      "titulo": "No defraudan",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239957/no-defraudan.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-17T19:17:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-17T20:44:45.813400"
+    },
+    {
       "id": "c2e4a5f5f44c69ae",
       "titulo": "Susto para Gerard Martín: sustituido al descanso por Eric Garcia",
       "enlace": "https://www.sport.es/es/noticias/barca/susto-gerard-martin-sustituido-descanso-135453483",
@@ -231,6 +270,19 @@
       "fecha": "2026-10-17T18:19:34.294122",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-17T18:19:34.294137"
+    },
+    {
+      "id": "91bd25fc8b760fc4",
+      "titulo": "A Gabriel Jesus le anulan un gol y lo repite de inmediato",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239934/gabriel-jesus-le-anulan-gol-repite-inmediato.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-17T18:07:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-17T20:44:45.814073"
     },
     {
       "id": "b34b247ad8997142",
