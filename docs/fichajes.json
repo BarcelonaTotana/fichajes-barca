@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-16T22:00:14.067823Z",
-  "total": 265,
+  "actualizado": "2026-10-17T00:18:07.587985Z",
+  "total": 263,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -3622,32 +3622,6 @@
       "fecha": "2026-09-17T13:03:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-17T13:40:29.462838"
-    },
-    {
-      "id": "efe050582e9ed3b9",
-      "titulo": "Festival de la 'flecha' Adeyemi con asistencia de lujo a Lamine",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228210/festival-flecha-adeyemi-asistencia-lujo-lamine-yamal.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T22:11:40",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-16T22:40:26.346200"
-    },
-    {
-      "id": "8a12b765993dd6e4",
-      "titulo": "Festival de la 'flecha' Adeyemi con asistencia de lujo a Lamine Yamal",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228210/festival-flecha-adeyemi-asistencia-lujo-lamine-yamal.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-16T22:11:40",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-17T16:10:26.325756"
     }
   ]
 }
