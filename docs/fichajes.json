@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17T00:18:07.587985Z",
-  "total": 263,
+  "actualizado": "2026-10-17T04:40:48.930088Z",
+  "total": 264,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -204,6 +204,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "948f1e9e4b64eb16",
+      "titulo": "El PSG busca dar un salto en la Liga antes de recibir al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239537/psg-busca-dar-salto-liga-recibir-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-17T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-17T04:40:42.237818"
+    },
     {
       "id": "4ccb3d87e74b6908",
       "titulo": "Umtiti, sobre jugar con la MSN: \"Eran extraterrestres, pero se llevaban muy bien fuera del campo\"",
