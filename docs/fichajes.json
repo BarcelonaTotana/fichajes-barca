@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17T16:00:38.827414Z",
-  "total": 274,
+  "actualizado": "2026-10-17T18:19:36.878060Z",
+  "total": 277,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -206,6 +206,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "c2e4a5f5f44c69ae",
+      "titulo": "Susto para Gerard Martín: sustituido al descanso por Eric Garcia",
+      "enlace": "https://www.sport.es/es/noticias/barca/susto-gerard-martin-sustituido-descanso-135453483",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-17T18:19:34.295045",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-17T18:19:34.295050"
+    },
+    {
+      "id": "3196277a667443d5",
+      "titulo": "El Betis, con diez: ¡Agresión de Facundo Bernal a Lamine Yamal!",
+      "enlace": "https://www.sport.es/es/noticias/barca/betis-diez-agresion-facundo-bernal-135453809",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-17T18:19:34.294122",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-17T18:19:34.294137"
+    },
+    {
+      "id": "b34b247ad8997142",
+      "titulo": "El fichaje de Deco que alarga la racha ganadora del Barça B para convencer a Hansi Flick: debut y gol",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORG1iV0RjbDVORnhBQmNweVZ0TlhPZEZwUkgtUUZtWUY1ZTg2VEJiSjc1MEh1b2R2NGJWV2VxNHBwa1NXQkhwTEVBSXRKeW1RbVg5ZGh0M2lZcnFZcEtyUVR1Wk1sQzdQdGoweE05UVhWN0QtejgtQ19mRzRTeUJwZ1QtOEhEaUZ0V3hsU1NkUGdUbXNlMHFscHZtQld1dDNLSllnRkpRNDlmazlfdV9feWpHdWhmNWFVSkxLVThTWHk0NmRJc1lfSG8xaUdjTXVpY1VrZFpR0gHWAUFVX3lxTE5EbWJXRGNsNU5GeEFCY3B5VnROWE9kRnBSSC1RRm1ZRjVlODZUQmJKNzUwSHVvZHY0YlZXZXE0cHBrU1dCSHBMRUFJdEp5bVFtWDlkaHQzaVlycVlwS3JRVHVaTWxDN1B0ajB4TTlRWFY3RC16OC1DX2ZHNFN5QnBnVC04SERpRnRXeGxTU2RQZ1Rtc2UwcWxwdm1CV3V0M0tKWWdGSlE0OWZrOV91X195akd1aGY1YVVKTEtVOFNYeTQ2ZElzWV9IbzFpR2NNdWljVWtkWlE?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-17T16:59:19",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-10-17T18:19:35.863161"
+    },
     {
       "id": "c6bbe759806df053",
       "titulo": "Damià Abella: \"El Barça de Flick puede ser un equipo transformador\"",
