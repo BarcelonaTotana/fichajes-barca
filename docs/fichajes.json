@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17T08:51:16.326800Z",
-  "total": 272,
+  "actualizado": "2026-10-17T12:41:52.781200Z",
+  "total": 275,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -206,6 +206,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "aa8610a378d0d508",
+      "titulo": "El lateral del futuro del fútbol portugués vuelve a la órbita del Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/lateral-futuro-futbol-portugues-vuelve-135440827",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-17T12:41:50.240818",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-17T12:41:50.240823"
+    },
+    {
+      "id": "6b1653c28ebeb33b",
+      "titulo": "Laporta: \"El Madrid quiere reventarlo todo, menos mal que Tebas está curtido en mil batallas\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/laporta-madrid-quiere-reventarlo-mal-135445148",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-17T12:41:50.239524",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-17T12:41:50.239536"
+    },
+    {
+      "id": "2702c15d9b8d6068",
+      "titulo": "Laporta carga contra el Madrid: \"Quieren reventarlo todo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239795/arenga-laporta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-17T12:21:03",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-17T12:41:46.608607"
+    },
     {
       "id": "b3025935146c63e8",
       "titulo": "Pedri (23 años): \"A mucha gente no le gusta estar en casa, pero yo la verdad es que disfruto mucho estando con la familia, me he adaptado a la vida que te toca vivir",
