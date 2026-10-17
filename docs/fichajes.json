@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17T12:41:52.781200Z",
-  "total": 275,
+  "actualizado": "2026-10-17T16:00:38.827414Z",
+  "total": 274,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -206,6 +206,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "c6bbe759806df053",
+      "titulo": "Damià Abella: \"El Barça de Flick puede ser un equipo transformador\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/damia-abella-barca-flick-equipo-135442073",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-17T15:59:42.868848",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-17T15:59:42.868856"
+    },
     {
       "id": "aa8610a378d0d508",
       "titulo": "El lateral del futuro del fútbol portugués vuelve a la órbita del Barça",
@@ -3754,32 +3767,6 @@
       "fecha": "2026-09-18T03:25:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-18T03:30:38.881157"
-    },
-    {
-      "id": "96d6dd70c7b1edd9",
-      "titulo": "'Barça Team': la goleada, Raphinha, Lamine, Adeyemi y el Real Madrid",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228406/barca-team-goleada-raphinha-lamine-adeyemi-real-madrid.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-17T15:42:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-17T16:10:26.323410"
-    },
-    {
-      "id": "30b73a607b581a0a",
-      "titulo": "El Barça rechazó la oferta de Revolut por tener a Figo como imagen",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228392/barca-rechazo-oferta-revolut-figo-imagen.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-17T13:03:15",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-17T13:40:29.462838"
     }
   ]
 }
