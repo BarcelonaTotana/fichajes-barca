@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-18T13:25:10.435702Z",
-  "total": 286,
+  "actualizado": "2026-10-18T16:41:53.192227Z",
+  "total": 287,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -207,6 +207,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "dcbb1f53a742f55b",
+      "titulo": "Escasas opciones de Flick para la defensa en París con el cartucho Rodri ante las tres bajas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240266/escasas-opciones-flick-defensa-paris-cartucho-rodri-tres-bajas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T16:10:18",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-18T16:41:45.878238"
+    },
+    {
+      "id": "807e75f8baba1093",
+      "titulo": "Digne ya sabe cómo las gasta Lamine",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240240/digne-gasta-lamine.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-18T15:36:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-18T16:41:45.878532"
+    },
+    {
+      "id": "b47cb26846b41bdc",
+      "titulo": "Desembarco barcelonista con 2.200 culés en París",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240211/desembarco-barcelonista-2-200-cules-paris.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T14:05:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-18T16:41:45.878788"
+    },
     {
       "id": "021b3fc9d0827b2b",
       "titulo": "Teresa Messia, psicóloga deportiva, sobre Pau Cubarsí: \"El problema aparece cuando empiezas a vivir pendiente de demostrar que puedes con todo y te olvidas de disfrutar de lo que haces\"",
@@ -3898,32 +3937,6 @@
       "fecha": "2026-09-19T09:54:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-19T10:00:49.486125"
-    },
-    {
-      "id": "81f8bc78b1bdd021",
-      "titulo": "Las quejas arbitrales de Belletti que pasaron desapercibidas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228787/quejas-arbitrales-belletti-pasaron-desapercibidas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-18T16:18:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-18T16:40:28.184291"
-    },
-    {
-      "id": "163b1bd0536c7095",
-      "titulo": "Raphinha: \"Pienso renovar y ojalá acabar mi carrera en el Barça\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228745/raphinha-pienso-renovar-ojala-acabar-mi-carrera-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-18T13:43:32",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-18T14:10:28.948920"
     }
   ]
 }
