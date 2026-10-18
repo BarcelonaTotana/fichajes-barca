@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-18T16:41:53.192227Z",
-  "total": 287,
+  "actualizado": "2026-10-18T21:23:01.154022Z",
+  "total": 288,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -207,6 +207,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "51fc8075964b4e7e",
+      "titulo": "Eric Garcia rompe su silencio tras la lesión: \"Me da rabia y pena\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/eric-garcia-rompe-silencio-lesion-135477894",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T21:22:58.636859",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-18T21:22:58.636871"
+    },
     {
       "id": "dcbb1f53a742f55b",
       "titulo": "Escasas opciones de Flick para la defensa en París con el cartucho Rodri ante las tres bajas",
