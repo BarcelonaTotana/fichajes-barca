@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T09:21:40.026353Z",
+  "actualizado": "2026-10-18T13:25:10.435702Z",
   "total": 286,
   "cerradas": [
     "alex campos",
@@ -207,6 +207,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "021b3fc9d0827b2b",
+      "titulo": "Teresa Messia, psicóloga deportiva, sobre Pau Cubarsí: \"El problema aparece cuando empiezas a vivir pendiente de demostrar que puedes con todo y te olvidas de disfrutar de lo que haces\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/teresa-messia-psicologa-deportiva-pau-135464102",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-18T13:25:07.865123",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-18T13:25:07.865126"
+    },
+    {
+      "id": "0bf6f3cdbc51e2ac",
+      "titulo": "Flick 'mima' a la plantilla del Barça tras el accidentado regreso de Sevilla",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-mima-plantilla-barca-accidentado-135465393",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T13:25:07.864209",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-18T13:25:07.864212"
+    },
+    {
+      "id": "2646537da43fe69f",
+      "titulo": "Radiografía de un inicio de Liga perfecto",
+      "enlace": "https://www.sport.es/es/noticias/barca/radiografia-inicio-liga-perfecto-135457467",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T13:25:07.863047",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-18T13:25:07.863051"
+    },
+    {
+      "id": "3b3a761607163430",
+      "titulo": "París, en plena tensión social antes de recibir al Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/paris-plena-tension-social-recibir-135467447",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T13:25:07.860683",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-18T13:25:07.860687"
+    },
+    {
+      "id": "75f20fe2a3750c17",
+      "titulo": "Flick avala el fichaje de Jeltsch",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-avala-fichaje-jeltsch-135457903",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T13:25:07.859416",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-18T13:25:07.859430"
+    },
     {
       "id": "5faf8f801613803a",
       "titulo": "El Barça presiona al Real Madrid",
@@ -3859,71 +3924,6 @@
       "fecha": "2026-09-18T13:43:32",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-18T14:10:28.948920"
-    },
-    {
-      "id": "d63fdb22369e0701",
-      "titulo": "Los otros temas de Lamine: Messi, el racismo, el Madrid y la 'bronca' de Busquets",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228739/messi-racismo-madrid-bronca-busquets-otros-temas-lamine-valdano.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-18T13:14:51",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-18T13:40:27.095638"
-    },
-    {
-      "id": "d0fd652f00218717",
-      "titulo": "Messi, el racismo, el Madrid y la 'bronca' de Busquets, los otros temas de Lamine",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228739/messi-racismo-madrid-bronca-busquets-otros-temas-lamine-valdano.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-18T13:14:51",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-18T14:10:28.949208"
-    },
-    {
-      "id": "585d0961d2e53367",
-      "titulo": "Messi, el racismo, el Madrid y la 'bronca' de Busquets, los otros temas de Lamine con Valdano",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228739/messi-racismo-madrid-bronca-busquets-otros-temas-lamine-valdano.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-18T13:14:51",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T08:10:28.780394"
-    },
-    {
-      "id": "b5c549bcfe423c7d",
-      "titulo": "Flick confirma rotaciones y elogia a Raphinha: \"Él va y todos le siguen\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228719/flick-confirma-rotaciones-elogia-raphinha-todos-le-siguen.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-18T12:05:44",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-18T12:40:26.051178"
-    },
-    {
-      "id": "86c14838c9b4acf9",
-      "titulo": "Telefónica, nuevo Partner Oficial del Espai Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228646/telefonica-nuevo-partner-oficial-espai-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-18T09:32:08",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-18T09:40:26.568567"
     }
   ]
 }
