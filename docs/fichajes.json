@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-18T04:56:21.369222Z",
-  "total": 280,
+  "actualizado": "2026-10-18T09:21:40.026353Z",
+  "total": 286,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -207,6 +207,97 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "5faf8f801613803a",
+      "titulo": "El Barça presiona al Real Madrid",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-presiona-real-madrid-135456672",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T09:21:37.496888",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-18T09:21:37.496892"
+    },
+    {
+      "id": "4a5113808f3b0193",
+      "titulo": "Lo que no se vio en el Betis-Barça: la 'terapia' de Flick, el asombro de Rakitic y el cónclave Gordon-Adeyemi",
+      "enlace": "https://www.sport.es/es/noticias/barca/vio-betis-barca-terapia-flick-135454967",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T09:21:37.494907",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-18T09:21:37.494912"
+    },
+    {
+      "id": "b07372e51b041a38",
+      "titulo": "El audio del VAR del gol anulado al Betis: \"El Barça nunca tiene el control del balón\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/audio-var-gol-anulado-betis-135460259",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-18T09:21:37.493271",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-18T09:21:37.493275"
+    },
+    {
+      "id": "9ce6dec8f9f3e85a",
+      "titulo": "Maldini analiza la victoria del Barça y las jugadas más polémicas: \"Puede parecer un poco raro, pero...\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/maldini-analiza-victoria-barca-jugadas-135462484",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T09:21:37.492182",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-18T09:21:37.492188"
+    },
+    {
+      "id": "774d45f3dfb1f2af",
+      "titulo": "La 'Odisea' del Barça en Sevilla: el cameo Laporta-Sebastián Yatra, el Mario Kart y el cónclave de Flick",
+      "enlace": "https://www.sport.es/es/noticias/barca/odisea-barca-sevilla-cameo-laporta-135463542",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T09:21:37.490596",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-18T09:21:37.490608"
+    },
+    {
+      "id": "d497f6fb25efd706",
+      "titulo": "Problemas en el PSG para frenar a Lamine",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240105/problemas-psg-frenar-lamine.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T08:06:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-18T09:21:32.629099"
+    },
+    {
+      "id": "f9bff7b89236aed5",
+      "titulo": "El vuelo de regreso del Barça, confirmado a las 12h",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240094/barca-sigue-sevilla.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-18T07:09:39",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-18T09:21:32.629381"
+    },
     {
       "id": "c1a9be906db231a6",
       "titulo": "Lamine 'Bestial' congela la caldera de La Cartuja y el Barça aniquila al Betis",
@@ -3833,19 +3924,6 @@
       "fecha": "2026-09-18T09:32:08",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-18T09:40:26.568567"
-    },
-    {
-      "id": "c379c01b9c3e77d3",
-      "titulo": "Charly y el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228518/charly-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-18T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-18T05:30:40.769738"
     }
   ]
 }
