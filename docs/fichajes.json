@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17T22:41:20.509709Z",
-  "total": 282,
+  "actualizado": "2026-10-18T04:56:21.369222Z",
+  "total": 280,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -3846,32 +3846,6 @@
       "fecha": "2026-09-18T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-18T05:30:40.769738"
-    },
-    {
-      "id": "a788ba78e3cdb6fa",
-      "titulo": "El objetivo del ‘sorpasso’",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228319/objetivo-sorpasso.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-18T03:50:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-18T04:10:24.470967"
-    },
-    {
-      "id": "c0894c918c517b94",
-      "titulo": "Gabriel Jesús, efectividad máxima",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228463/gabriel-jesus-efectividad-maxima.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-18T03:25:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-18T03:30:38.881157"
     }
   ]
 }
