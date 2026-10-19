@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-18T21:23:01.154022Z",
-  "total": 288,
+  "actualizado": "2026-10-19T06:45:59.845522Z",
+  "total": 292,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -190,6 +190,7 @@
     "e3a94229afba7283",
     "e41123fdb5ece249",
     "e6801ae14559f1b4",
+    "e96636ed75431278",
     "ea808076b691ebf8",
     "ec2ad5ac04ad89bb",
     "ed20b49c576f59d0",
@@ -207,6 +208,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "e96636ed75431278",
+      "titulo": "Hansi Flick mueve ficha por las lesiones en el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-mueve-ficha-lesiones-135479456",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-10-19T06:45:57.076638",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-19T06:45:57.076643"
+    },
+    {
+      "id": "223178054a723d40",
+      "titulo": "JJ Gabriel: decisión inminente",
+      "enlace": "https://www.sport.es/es/noticias/barca/jj-gabriel-decision-inminente-135482705",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-19T06:45:57.075530",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-19T06:45:57.075541"
+    },
+    {
+      "id": "728a7fc63c4136d0",
+      "titulo": "Así juega el PSG: la misma fórmula que le hizo bicampeón",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240363/asi-juega-psg-formula-le-hizo-bicampeon.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-19T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-19T06:45:53.281956"
+    },
+    {
+      "id": "3f9c70b5d219bf91",
+      "titulo": "Los fichajes del Barça 2026-27 ya se cargaron al PSG",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240274/fichajes-barca-2026-27-cargarse-psg.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-19T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-19T06:45:53.282448"
+    },
     {
       "id": "51fc8075964b4e7e",
       "titulo": "Eric Garcia rompe su silencio tras la lesión: \"Me da rabia y pena\"",
