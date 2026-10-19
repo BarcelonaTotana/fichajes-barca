@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-19T14:02:51.975369Z",
-  "total": 294,
+  "actualizado": "2026-10-19T19:51:11.652536Z",
+  "total": 286,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -208,6 +208,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "2e719558e14cba77",
+      "titulo": "Sheila, madre de Lamine Yamal: \"No puedo decir que lo ha conseguido, siempre le digo que sea él y que no se le suba nunca\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/sheila-madre-lamine-yamal-decir-135514414",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-19T19:51:09.290721",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-19T19:51:09.290726"
+    },
+    {
+      "id": "8d302ff0af4e6b6f",
+      "titulo": "Cumbre decisiva para el futuro de Joao Félix",
+      "enlace": "https://www.sport.es/es/noticias/barca/cumbre-decisiva-futuro-joao-felix-135457901",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-19T19:51:09.289375",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-19T19:51:09.289388"
+    },
     {
       "id": "1c2aa3c992384932",
       "titulo": "Javier Alberola Rojas, el favorito para arbitrar el clásico",
@@ -3899,136 +3925,6 @@
       "fecha": "2026-09-20T04:10:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-20T04:32:20.501695"
-    },
-    {
-      "id": "482b25b080597ede",
-      "titulo": "Doblete de golazos de Raphinha para remontar en el Pizjuán",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229209/golazo-raphinha-empatar-pizjuan.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T19:38:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T21:03:11.790030"
-    },
-    {
-      "id": "fb0c562c8bd28643",
-      "titulo": "Laporta desvela por qué el Atlético frenó el fichaje de Julián Alvarez por el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229190/laporta-desvela-atletico-freno-fichaje-julian-alvarez-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T18:53:12",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T19:10:23.978021"
-    },
-    {
-      "id": "0dd32e4ec90b76c3",
-      "titulo": "Carrick manda a un mensaje a JJ Gabriel, el talento que flirtea con Barça y Madrid",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229166/carrick-manda-mensaje-jj-gabriel-talento-flirtea-barca-madrid.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T18:17:04",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T18:40:30.220608"
-    },
-    {
-      "id": "5ab729b3bd7f4bae",
-      "titulo": "Recuerdo de Laporta hacia Jorge Messi antes de hablar del homenaje a Leo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229152/sentido-recuerdo-laporta-jorge-messi-hablar-homenaje-leo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T17:21:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T17:40:24.334727"
-    },
-    {
-      "id": "ddf7b38b76e937c1",
-      "titulo": "Sentido recuerdo de Laporta hacia Jorge Messi antes de hablar del homenaje a Leo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229152/sentido-recuerdo-laporta-jorge-messi-hablar-homenaje-leo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T17:21:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T22:10:25.924017"
-    },
-    {
-      "id": "c4da6d6f35fe1987",
-      "titulo": "\"Preparados para culminar la obra\": El emotivo video que anuncia la fase final del nuevo Camp Nou",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229142/preparados-culminar-obra-emotivo-video-anuncia-fase-final-nuevo-camp-nou.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T17:06:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T17:40:24.334963"
-    },
-    {
-      "id": "bfe5b65602ce57aa",
-      "titulo": "Luz verde a los acuerdos con Ohana y Babylon Park",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229118/luz-verde-acuerdos-ohana-babylon-park.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-19T15:43:09",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T16:12:10.674945"
-    },
-    {
-      "id": "80585a3fc4ae9f04",
-      "titulo": "Deco argumenta la gestión del Barça Atlètic por el área deportiva profesional",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229108/deco-argumenta-gestion-barca-atletic-area-deportiva-profesional.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-19T15:14:55",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T15:40:26.291871"
-    },
-    {
-      "id": "577a4775576151c6",
-      "titulo": "¡Deco anuncia las renovaciones inminentes de Raphinha (hasta 2030), Bernal y Espart!",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229080/deco-anuncia-renovaciones-inminentes-raphinha-bernal-espart.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T14:21:41",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T14:40:25.448002"
-    },
-    {
-      "id": "f936d95e94e3842d",
-      "titulo": "¡Deco anuncia las renovaciones inminentes de Raphinha (2030), Bernal y Espart!",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229080/deco-anuncia-renovaciones-inminentes-raphinha-bernal-espart.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T14:21:41",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T18:10:26.913608"
     }
   ]
 }
