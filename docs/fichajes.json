@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-19T06:45:59.845522Z",
-  "total": 292,
+  "actualizado": "2026-10-19T14:02:51.975369Z",
+  "total": 294,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -209,6 +209,84 @@
   ],
   "noticias": [
     {
+      "id": "1c2aa3c992384932",
+      "titulo": "Javier Alberola Rojas, el favorito para arbitrar el clásico",
+      "enlace": "https://www.sport.es/es/noticias/barca/javier-alberola-rojas-favorito-arbitrar-135490707",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-19T14:02:49.393813",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-19T14:02:49.393817"
+    },
+    {
+      "id": "c008b454fc0fbcf5",
+      "titulo": "Piden aplazar el PSG - Barça por miedo a nuevos disturbios en París, pero el Gobierno francés lo descarta",
+      "enlace": "https://www.sport.es/es/noticias/barca/piden-aplazar-psg-barca-miedo-135495456",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-19T14:02:49.392783",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-19T14:02:49.392797"
+    },
+    {
+      "id": "7433867a0ac9b926",
+      "titulo": "Luis Enrique da la fórmula para frenar a Lamine Yamal: \"Que el Barça no tenga el balón\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/luis-enrique-da-formula-frenar-135494253",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-19T14:02:49.391608",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-19T14:02:49.391621"
+    },
+    {
+      "id": "39368c0c9d2bec29",
+      "titulo": "El PSG sí podrá contar con los 'tocados' Akliouche y Mayulu, dos verdugos del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240597/psg-podra-contar-tocados-akliouche-mayulu-dos-verdugos-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-19T13:37:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-19T14:02:45.203240"
+    },
+    {
+      "id": "ac4a4b0fb4552e5c",
+      "titulo": "'Barça Team': apagón en el Bernabéu antes del Clásico",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240529/barca-team-apagon-bernabeu.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-19T12:42:30",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-19T14:02:45.203633"
+    },
+    {
+      "id": "f16bbbd9424a65d6",
+      "titulo": "El Barça ya está en París para la gran cita ante el PSG",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240570/barca-paris-gran-cita-psg.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-19T12:01:44",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-19T14:02:45.204114"
+    },
+    {
       "id": "e96636ed75431278",
       "titulo": "Hansi Flick mueve ficha por las lesiones en el Barça",
       "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-mueve-ficha-lesiones-135479456",
@@ -259,6 +337,19 @@
       "fecha": "2026-10-19T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-19T06:45:53.282448"
+    },
+    {
+      "id": "d7aea00c53000c76",
+      "titulo": "El Celta confirma la cesión de Samu Araujo al Barça B",
+      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR2h4SjRSa2FqS20xNDV1OTdYNDYwNXh4SHRuXzdtdm92UkJVN0hheHpzQy1WWHEycHUwMW4xaXl0bHMxc0NqUEVXS3JWN1dUbUY1ODFCOVFGT0QxZFl5blhZV0pzcUlFd05JVTlFd2RqaWQwV1lGMnFMNU9jeE9Bek9kODlZME15YjdVVnJ5ZzA5V2d5eEJscDhWT1fSAZwBQVVfeXFMTUdoeEo0UmthakttMTQ1dTk3WDQ2MDV4eEh0bl83bXZvdlJCVTdIYXh6c0MtVlhxMnB1MDFuMWl5dGxzMXNDalBFV0tyVjdXVG1GNTgxQjlRRk9EMWRZeW5YWVdKc3FJRXdOSVU5RXdkamlkMFdZRjJxTDVPY3hPQXpPZDg5WTBNeWI3VVZyeWcwOVdneXhCbHA4Vk9X?oc=5",
+      "medio": "BeSoccer",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-18T21:47:48",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-10-19T14:02:50.959559"
     },
     {
       "id": "51fc8075964b4e7e",
@@ -3938,71 +4029,6 @@
       "fecha": "2026-09-19T14:21:41",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-19T18:10:26.913608"
-    },
-    {
-      "id": "70f41f60bdda7026",
-      "titulo": "\"No será necesaria más deuda para acabar el estadio\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229029/no-sera-necesaria-deuda-acabar-estadio.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T12:46:58",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T13:00:51.065308"
-    },
-    {
-      "id": "9c6625448cbe2792",
-      "titulo": "El Barça no pagará el nuevo Palau y estudia el interés de muchos inversores",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229025/barca-no-pagara-nuevo-palau-estudia-interes-inversores.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T11:57:47",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T12:10:25.165129"
-    },
-    {
-      "id": "8216502268ea79b6",
-      "titulo": "El Barça no pagará el nuevo Palau y estudia ofertas de muchos inversores",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229025/barca-no-pagara-nuevo-palau-estudia-interes-inversores.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T11:57:47",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T19:10:23.981036"
-    },
-    {
-      "id": "fe6e45aac48c9a8d",
-      "titulo": "La partida prevista de traspasos del Barça 2026-27, garantizada",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004228987/partida-prevista-traspasos-barca-2026-27-garantizada.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T10:29:30",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T10:40:25.162931"
-    },
-    {
-      "id": "a36de3bd69992e07",
-      "titulo": "Olivé: \"Tuvimos récord de ingresos en el peor año y preferimos no malvender\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004228969/olive-tuvimos-record-ingresos-peor-ano-preferimos-no-malvender.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-19T09:54:50",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-19T10:00:49.486125"
     }
   ]
 }
