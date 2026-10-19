@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-19T19:51:11.652536Z",
-  "total": 286,
+  "actualizado": "2026-10-19T23:18:22.893705Z",
+  "total": 289,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -96,6 +96,7 @@
     "5e9a6188c753edfc",
     "609c90f80c89b22c",
     "62e748acf1dcaf9c",
+    "6314531865da6953",
     "643d5176f36e29d4",
     "6603845fea51b1fa",
     "6737c861b30f1cf9",
@@ -208,6 +209,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "7782eed70b162936",
+      "titulo": "Araujo no se moja por su continuidad en Liverpool: \"Es pronto\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/araujo-moja-continuidad-liverpool-pronto-135504234",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-19T23:18:19.902743",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-19T23:18:19.902747"
+    },
+    {
+      "id": "6314531865da6953",
+      "titulo": "Manzambi, sensación de la Premier, en la órbita del Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/manzambi-sensacion-premier-orbita-barca-135514867",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-19T23:18:19.901740",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-19T23:18:19.901750"
+    },
     {
       "id": "2e719558e14cba77",
       "titulo": "Sheila, madre de Lamine Yamal: \"No puedo decir que lo ha conseguido, siempre le digo que sea él y que no se le suba nunca\"",
@@ -363,6 +390,19 @@
       "fecha": "2026-10-19T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-19T06:45:53.282448"
+    },
+    {
+      "id": "8bacfb2528bf401e",
+      "titulo": "Los fichajes del Barça 2026-27 ya vencieron al PSG",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240274/fichajes-barca-2026-27-cargarse-psg.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-19T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-19T23:18:15.092743"
     },
     {
       "id": "d7aea00c53000c76",
