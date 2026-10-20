@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-20T20:50:58.697013Z",
-  "total": 305,
+  "actualizado": "2026-10-20T23:37:31.310583Z",
+  "total": 309,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -209,6 +209,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "f2ab588a58e03b5c",
+      "titulo": "¿Cuándo juega el Barcelona contra el Real Madrid? Fecha, horario y dónde ver el clásico de LaLiga por TV y en directo",
+      "enlace": "https://www.sport.es/es/noticias/barca/barcelona-real-madrid-fecha-horario-donde-ver-clasico-135558573",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T23:37:28.677114",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T23:37:28.677119"
+    },
+    {
+      "id": "2d96a5a98ee07460",
+      "titulo": "Xavi Espart aprueba con nota su prueba de fuego antes del Clásico",
+      "enlace": "https://www.sport.es/es/noticias/barca/xavi-espart-aprueba-nota-prueba-135563315",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T23:37:28.676194",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T23:37:28.676199"
+    },
+    {
+      "id": "115bd4840cdca93f",
+      "titulo": "Lamine dejó su sello en París con un golazo de Balón de Oro",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-dejo-sello-paris-golazo-135564510",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T23:37:28.674524",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T23:37:28.674528"
+    },
+    {
+      "id": "60b4a7184420ba8e",
+      "titulo": "Hansi Flick: \"Si no fuera el Madrid, Rodri habría sido titular\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-clasico-influido-toma-135564978",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-20T23:37:28.673209",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T23:37:28.673216"
+    },
     {
       "id": "3897d9dacbf96c00",
       "titulo": "Alineación del Barcelona con gran sorpresa ante el PSG en Champions League",
