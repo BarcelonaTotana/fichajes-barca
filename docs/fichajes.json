@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-20T17:34:23.125941Z",
-  "total": 303,
+  "actualizado": "2026-10-20T20:50:58.697013Z",
+  "total": 305,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -209,6 +209,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "3897d9dacbf96c00",
+      "titulo": "Alineación del Barcelona con gran sorpresa ante el PSG en Champions League",
+      "enlace": "https://www.sport.es/es/noticias/barca/once-barcelona-gran-sorpresa-psg-135558191",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-20T20:50:56.081430",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T20:50:56.081432"
+    },
+    {
+      "id": "935abea9e73143ac",
+      "titulo": "Dónde ver el PSG - Barcelona de la Champions League hoy por TV, en directo y online",
+      "enlace": "https://www.sport.es/es/noticias/barca/donde-ver-psg-barcelona-champions-league-tv-directo-135552399",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T20:50:56.080833",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T20:50:56.080836"
+    },
+    {
+      "id": "213e588aa6b0cda9",
+      "titulo": "Iturralde lo tiene claro sobre la patada de Fermín a Pacho:  \"¿Roja? Es juego peligroso del jugador del PSG y libre indirecto para el Barça. No puede poner la cabeza ahí\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/iturralde-claro-patada-fermin-pacho-juego-peligroso-libre-indirecto-135562349",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T20:50:56.079467",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T20:50:56.079480"
+    },
     {
       "id": "3fa65df6a93a9fab",
       "titulo": "Gerard Martín despeja dudas con este 'story' de Instagram",
@@ -4134,19 +4173,6 @@
       "fecha": "2026-09-21T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-21T05:10:25.469506"
-    },
-    {
-      "id": "8a5e264faba0e09b",
-      "titulo": "Raphinha, renovación de oro",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229571/raphinha-renovacion-oro.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-20T20:26:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-20T20:35:12.845869"
     }
   ]
 }
