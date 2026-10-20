@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-19T23:18:22.893705Z",
-  "total": 289,
+  "actualizado": "2026-10-20T07:11:24.493428Z",
+  "total": 300,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -209,6 +209,162 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "c32d0a5726b52cc3",
+      "titulo": "Flick no elogió en vano a la figura de Abde antes del Betis-Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-elogio-vano-figura-abde-135462541",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T07:11:22.050960",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T07:11:22.050963"
+    },
+    {
+      "id": "172798f56f926654",
+      "titulo": "Fuegos artificiales de madrugada en el hotel del Barça en París",
+      "enlace": "https://www.sport.es/es/noticias/barca/fuegos-artificiales-madrugada-hotel-barca-135523792",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T07:11:22.049132",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T07:11:22.049135"
+    },
+    {
+      "id": "b3b13aeae959e833",
+      "titulo": "Arantxa, hermana de Ferran Torres: \"Tenemos un tatuaje, un recordatorio para no dejarnos hundir por nada ni por nadie. A mí padre le costó asimilarlo, pero ahora a mis abuelos les encanta”",
+      "enlace": "https://www.sport.es/es/noticias/barca/arantxa-hermana-ferran-torres-tatuaje-135516622",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T07:11:22.047675",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T07:11:22.047677"
+    },
+    {
+      "id": "a0e2b9a00130faf6",
+      "titulo": "El Barça conquistó la Recopa ante el PSG: la noche europea de Robson y Mourinho",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-conquisto-recopa-psg-noche-135508804",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-20T07:11:22.046143",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T07:11:22.046147"
+    },
+    {
+      "id": "29fa229d97575496",
+      "titulo": "El PSG tiembla con Lamine: \"Poner a Digne a defenderle sería un suicidio\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/psg-tiembla-lamine-poner-digne-135524315",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T07:11:22.044181",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T07:11:22.044184"
+    },
+    {
+      "id": "6a24fabb684e52e9",
+      "titulo": "La revancha de Ferran Torres: el despecho que provocó su salida del Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/revancha-ferran-torres-despecho-provoco-135524452",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-20T07:11:22.043422",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T07:11:22.043425"
+    },
+    {
+      "id": "5bca1fb16b757cbf",
+      "titulo": "Lamine Yamal (19 años): \"Mi familia de Guinea vive en una ciudad llamada Bata, fui con mi madre cuando tenía siete años, pero quiero volver. De pequeño no me gustaba que me hiciesen fotos y mi madre me obligó\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-19-anos-familia-135504313",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-20T07:11:22.042211",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T07:11:22.042214"
+    },
+    {
+      "id": "723ce1c5a1639726",
+      "titulo": "La cuenta pendiente del Barça en la plaza más difícil",
+      "enlace": "https://www.sport.es/es/noticias/barca/cuenta-pendiente-barca-plaza-dificil-135524389",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T07:11:22.041361",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T07:11:22.041364"
+    },
+    {
+      "id": "bea18e4cdc1d8c4a",
+      "titulo": "Dani Rodríguez, otro negocio para el Barça: la joya explota en Croacia",
+      "enlace": "https://www.sport.es/es/noticias/barca/dani-rodriguez-negocio-barca-joya-135525128",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-10-20T07:11:22.040331",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T07:11:22.040344"
+    },
+    {
+      "id": "8640bc53f4fdb3c3",
+      "titulo": "Espectáculo en París",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240859/espectaculo-paris.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T04:15:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-20T07:11:17.723786"
+    },
+    {
+      "id": "a846b26584d42df1",
+      "titulo": "La solución defensiva",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240789/solucion-defensiva.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T04:05:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-20T07:11:17.724014"
+    },
+    {
+      "id": "2d1e128ef001bbbd",
+      "titulo": "Desafío en París antes del Clásico",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240857/desafio-paris-clasico.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-20T07:11:17.724297"
+    },
     {
       "id": "7782eed70b162936",
       "titulo": "Araujo no se moja por su continuidad en Liverpool: \"Es pronto\"",
@@ -3952,19 +4108,6 @@
       "fecha": "2026-09-20T09:15:16",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-20T09:40:26.195485"
-    },
-    {
-      "id": "310a26d0bbf31fbd",
-      "titulo": "El Barça Atlètic, a por la primera conquista",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229111/barca-atletic-primera-victoria-fuera-casa.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-20T04:10:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-20T04:32:20.501695"
     }
   ]
 }
