@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-20T07:11:24.493428Z",
-  "total": 300,
+  "actualizado": "2026-10-20T12:46:35.980019Z",
+  "total": 302,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -209,6 +209,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "d02d1c052fb87873",
+      "titulo": "Joan Laporta: \"Lo del Madrid tiene mucha miga\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/joan-laporta-madrid-miga-135535087",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T12:46:33.429207",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T12:46:33.429208"
+    },
+    {
+      "id": "7d2088d27fdefa44",
+      "titulo": "El PSG no sabe ganar sin Nuno Mendes",
+      "enlace": "https://www.sport.es/es/noticias/barca/psg-ganar-nuno-mendes-135488586",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T12:46:33.428520",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T12:46:33.428522"
+    },
+    {
+      "id": "78bc602bf8c25bb3",
+      "titulo": "La madre de Lamine Yamal: \"El momento que dije 'guau', que me salió del alma, fue en la Eurocopa. Todavía le falta, pero en la Eurocopa le dije: 'Mi niño, tienes una Eurocopa ya con 16 años\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/sheila-madre-lamine-yamal-decir-135514414",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-20T12:46:33.427422",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T12:46:33.427436"
+    },
+    {
+      "id": "cc3ca6bcda0ac967",
+      "titulo": "Convertirse en agente de futbolistas, la profesión detrás de los grandes fichajes",
+      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTmEzSXZzNHlGczRTa1c0bVQ4cTduSWJYMFAtVjBDTWo2VldSY1U3STFkY2d0VW8zbU90cDVsbERBV0lNUm9uQi01Q1BZelQ4bmlPR3hXdU0ta3IwUnFBWlpEdXczMmtqTXowWkkzdXdnNE90cmQ2VGIxYnlXanNvRlFxRE43QQ?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T09:14:44",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-10-20T12:46:27.542630"
+    },
+    {
+      "id": "483e4c5bd45630f8",
+      "titulo": "Laporta-Al Khelaifï, de las discrepancias a la buena sintonía",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240911/laporta-khelaifi-discrepancias-buena-sintonia.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T09:08:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-20T12:46:29.007119"
+    },
     {
       "id": "c32d0a5726b52cc3",
       "titulo": "Flick no elogió en vano a la figura de Abde antes del Betis-Barça",
@@ -4069,45 +4134,6 @@
       "fecha": "2026-09-20T12:56:04",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-20T13:00:52.342936"
-    },
-    {
-      "id": "48ea7d4d40fa9ae7",
-      "titulo": "El Barça espió a Gabriel Rajkovic, el '9' que bate récords de Haaland",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229374/barca-espio-gabriel-rajkovic-9-bate-records-haaland.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-20T12:24:36",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-20T12:40:28.473330"
-    },
-    {
-      "id": "283ebbbcc0169a5a",
-      "titulo": "Las cifras de la exhibición silenciosa de Rodri",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229341/cifras-exhibicion-silenciosa-rodri.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-20T10:02:39",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-20T10:40:30.090691"
-    },
-    {
-      "id": "f6e1116d885121a8",
-      "titulo": "Raphinha pulveriza un récord de Messi, va a por Cristiano y puede ser histórico",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229323/raphinha-pulveriza-record-messi-cristiano-historico.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-20T09:15:16",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-20T09:40:26.195485"
     }
   ]
 }
