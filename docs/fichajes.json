@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-20T12:46:35.980019Z",
-  "total": 302,
+  "actualizado": "2026-10-20T17:34:23.125941Z",
+  "total": 303,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -209,6 +209,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "3fa65df6a93a9fab",
+      "titulo": "Gerard Martín despeja dudas con este 'story' de Instagram",
+      "enlace": "https://www.sport.es/es/noticias/barca/gerard-martin-despeja-dudas-story-135550278",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-20T17:34:20.563039",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T17:34:20.563044"
+    },
+    {
+      "id": "58f8a9d30fb500e2",
+      "titulo": "El sentimiento real de Dembélé hacia el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/sentimiento-real-dembele-barca-135495605",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-20T17:34:20.561849",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-20T17:34:20.561861"
+    },
     {
       "id": "d02d1c052fb87873",
       "titulo": "Joan Laporta: \"Lo del Madrid tiene mucha miga\"",
@@ -4121,19 +4147,6 @@
       "fecha": "2026-09-20T20:26:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-20T20:35:12.845869"
-    },
-    {
-      "id": "f524c87aa855aaad",
-      "titulo": "Comunicado médico de Christensen",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229386/comunicado-medico-christensen.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-20T12:56:04",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-20T13:00:52.342936"
     }
   ]
 }
