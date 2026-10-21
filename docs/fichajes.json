@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-21T13:05:26.782234Z",
-  "total": 314,
+  "actualizado": "2026-10-21T17:59:54.431412Z",
+  "total": 317,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -211,6 +211,58 @@
   ],
   "noticias": [
     {
+      "id": "781fb5d6450affe4",
+      "titulo": "Otro protagonista inesperado en el PSG-Barça: el misterioso reloj de Hansi Flick",
+      "enlace": "https://www.sport.es/es/noticias/barca/protagonista-inesperado-psg-barca-misterioso-135589441",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-21T17:59:52.102020",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T17:59:52.102024"
+    },
+    {
+      "id": "6e249d50ff4f2af2",
+      "titulo": "El Barça estrena horario frente al Villarreal en la jornada 13",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-estrena-horario-frente-villarreal-135594307",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-21T17:59:52.100311",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T17:59:52.100315"
+    },
+    {
+      "id": "69c4d7d85b3834c8",
+      "titulo": "El vestuario del Barça reacciona: \"La derrota nos va bien para el clásico\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/reaccion-barca-derrota-psg-tranquilidad-135571538",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-21T17:59:52.098475",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T17:59:52.098488"
+    },
+    {
+      "id": "6961548dfc39cc28",
+      "titulo": "El Barça-Villarreal de la jornada 13, el domingo 22 a las 14.00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261021/1004241564/barca-villarreal-jornada-13-domingo-22-14-00.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-21T16:22:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-21T17:59:46.604246"
+    },
+    {
       "id": "29ba8fa053544449",
       "titulo": "¡Cuatro partidos de sanción por los cabezazos a Lamine Yamal!",
       "enlace": "https://www.sport.es/es/noticias/barca/cuatro-partidos-sancion-cabezazos-lamine-135577594",
@@ -274,6 +326,19 @@
       "fecha": "2026-10-21T11:24:15",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-21T13:05:17.641530"
+    },
+    {
+      "id": "15fb4c803195c9e3",
+      "titulo": "Xavi Espart, titular a toda velocidad para el Clásico",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261021/1004241457/xavi-espart-progresion-toda-velocidad.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-21T11:24:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-21T17:59:46.605172"
     },
     {
       "id": "758c8647322e2e86",
@@ -4265,32 +4330,6 @@
       "fecha": "2026-09-22T12:09:31",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-22T12:40:28.481379"
-    },
-    {
-      "id": "7a3973d9ead93f91",
-      "titulo": "Raphinha va lanzado a por la Bota de Oro",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229829/raphinha-lanzado-bota-oro.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-21T15:27:55",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-21T15:40:32.941800"
-    },
-    {
-      "id": "3f17468bbdb95284",
-      "titulo": "Raphinha ya es segundo en la Bota de Oro",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229829/raphinha-lanzado-bota-oro.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-21T15:27:55",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-21T17:10:28.473955"
     }
   ]
 }
