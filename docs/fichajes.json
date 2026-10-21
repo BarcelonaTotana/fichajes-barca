@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-21T07:27:11.134493Z",
-  "total": 312,
+  "actualizado": "2026-10-21T13:05:26.782234Z",
+  "total": 314,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -210,6 +210,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "29ba8fa053544449",
+      "titulo": "¡Cuatro partidos de sanción por los cabezazos a Lamine Yamal!",
+      "enlace": "https://www.sport.es/es/noticias/barca/cuatro-partidos-sancion-cabezazos-lamine-135577594",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-21T13:05:24.321656",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T13:05:24.321658"
+    },
+    {
+      "id": "78faee9ee93f6239",
+      "titulo": "La arenga de capitán de Raphinha al vestuario del Barça tras la derrota contra el PSG: \"Es la sensación con la que se van\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/raphinha-tomo-palabra-135577663",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-21T13:05:24.320799",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T13:05:24.320801"
+    },
+    {
+      "id": "6ac2b96d6f3aee3f",
+      "titulo": "Umtiti y la dura realidad sobre el Barça: \"Cuando te marchas, te das cuenta de la suerte que es jugar allí\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/umtiti-dura-realidad-barca-marchas-135581646",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-21T13:05:24.320060",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T13:05:24.320063"
+    },
+    {
+      "id": "567e1d855566142a",
+      "titulo": "Dani Olmo estará cuatro semanas de baja por una rotura del adductor",
+      "enlace": "https://www.sport.es/es/noticias/barca/dani-olmo-estara-cuatro-semanas-135577556",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-21T13:05:24.319141",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T13:05:24.319154"
+    },
+    {
+      "id": "b4c1cc52ba5e4073",
+      "titulo": "Xavi Espart: una progresión a toda velocidad, a 32 kms./h.",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261021/1004241457/xavi-espart-progresion-toda-velocidad.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-21T11:24:15",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-21T13:05:17.641530"
+    },
     {
       "id": "758c8647322e2e86",
       "titulo": "La lección de Deco a Juni Calafat en el fichaje de Rodri",
@@ -4226,45 +4291,6 @@
       "fecha": "2026-09-21T15:27:55",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-21T17:10:28.473955"
-    },
-    {
-      "id": "0020359c9dd1005d",
-      "titulo": "Viaje a Brasil para ojear al central zurdo que convocó Ancelotti",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229712/viaje-brasil-ojear-central-zurdo-convoco-ancelotti.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-21T10:52:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-21T11:10:26.925357"
-    },
-    {
-      "id": "f93132f7f2a52426",
-      "titulo": "El 'nuevo' Landry Farré recupera la sonrisa en el Barça Atlètic",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229671/landry.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-21T10:43:56",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-21T11:10:26.925625"
-    },
-    {
-      "id": "7ca3ff80d1734320",
-      "titulo": "Gordon y Adeyemi, más compañerismo que rivalidad",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229612/gordon-adeyemi-companerismo-rivalidad.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-21T08:21:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-21T08:40:31.215267"
     }
   ]
 }
