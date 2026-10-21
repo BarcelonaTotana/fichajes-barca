@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-21T17:59:54.431412Z",
-  "total": 317,
+  "actualizado": "2026-10-21T21:32:52.415099Z",
+  "total": 318,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -198,6 +198,7 @@
     "ed20b49c576f59d0",
     "edf6a2c3c27df9b6",
     "eea11ae24a1b3e53",
+    "eef301f12b3bde3c",
     "f20ed5cc2751badd",
     "f6077b9dc4673321",
     "f6e1116d885121a8",
@@ -210,6 +211,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "eef301f12b3bde3c",
+      "titulo": "Un Lamine Yamal de dobles figuras firma un récord histórico en Europa",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-dobles-figuras-firma-135578820",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-21T21:32:49.668776",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T21:32:49.668781"
+    },
     {
       "id": "781fb5d6450affe4",
       "titulo": "Otro protagonista inesperado en el PSG-Barça: el misterioso reloj de Hansi Flick",
