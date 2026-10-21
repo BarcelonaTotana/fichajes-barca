@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-20T23:37:31.310583Z",
-  "total": 309,
+  "actualizado": "2026-10-21T07:27:11.134493Z",
+  "total": 312,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -48,6 +48,7 @@
     "1cd533a53cd34ef5",
     "1f5fed6548852821",
     "20234a678e468e32",
+    "21990270a6e95031",
     "2424d14d53098add",
     "2777903274ddc4a8",
     "279bf11271d3cee8",
@@ -209,6 +210,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "758c8647322e2e86",
+      "titulo": "La lección de Deco a Juni Calafat en el fichaje de Rodri",
+      "enlace": "https://www.sport.es/es/noticias/barca/leccion-deco-juni-calafat-fichaje-135522139",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-21T07:27:08.143970",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T07:27:08.143972"
+    },
+    {
+      "id": "21990270a6e95031",
+      "titulo": "Alerta roja por la defensa del Barça: se reabre el debate para fichar en enero",
+      "enlace": "https://www.sport.es/es/noticias/barca/alerta-roja-defensa-barca-reabre-135567776",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-21T07:27:08.141502",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T07:27:08.141503"
+    },
+    {
+      "id": "d2e812827f1ea6b3",
+      "titulo": "Abelardo desvela lo que debe mejorar el Barça para empezar a competir en Europa: \"Tienen que dar un paso\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/abelardo-desvela-debe-mejorar-barca-135568155",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-21T07:27:08.140274",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T07:27:08.140276"
+    },
+    {
+      "id": "052c2c4c6ed7c807",
+      "titulo": "En Francia hacen sangre con los futbolistas del Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/francia-sangre-futbolistas-barca-135567916",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-21T07:27:08.139501",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T07:27:08.139503"
+    },
+    {
+      "id": "180f8308b09fe592",
+      "titulo": "Emmanuel Petit alucina con el triunfo del PSG: \"Son como tener un ejército frente a ti\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/emmanuel-petit-alucina-triunfo-psg-135569111",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-21T07:27:08.137929",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-21T07:27:08.137943"
+    },
     {
       "id": "f2ab588a58e03b5c",
       "titulo": "¿Cuándo juega el Barcelona contra el Real Madrid? Fecha, horario y dónde ver el clásico de LaLiga por TV y en directo",
@@ -4199,32 +4265,6 @@
       "fecha": "2026-09-21T08:21:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-21T08:40:31.215267"
-    },
-    {
-      "id": "4478d1f6eb7a4870",
-      "titulo": "La cláusula que tendrá Bernal en su nuevo contrato",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229578/clausula-tendra-bernal-nuevo-contrato.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-21T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-21T05:10:25.469119"
-    },
-    {
-      "id": "e0ec1b4f77162d7b",
-      "titulo": "Raphinha-Lamine, la mejor dupla de las grandes ligas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229550/raphinha-lamine-mejor-dupla-grandes-ligas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-21T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-21T05:10:25.469506"
     }
   ]
 }
