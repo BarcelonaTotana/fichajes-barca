@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-22T15:11:19.925669Z",
-  "total": 326,
+  "actualizado": "2026-10-22T19:15:03.831160Z",
+  "total": 327,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -211,6 +211,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "112bd3a4d762d644",
+      "titulo": "Cancelo estalla tras las críticas: \"Me gustaría verlo\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/cancelo-estalla-criticas-gustaria-verlo-135642723",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-22T19:15:01.244120",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-22T19:15:01.244122"
+    },
+    {
+      "id": "08373492232b545e",
+      "titulo": "Xavi Espart, ante su primer Clásico: \"El sueño continúa\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/xavi-espart-primer-clasico-sueno-135649866",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-22T19:15:01.242918",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-22T19:15:01.242933"
+    },
     {
       "id": "783acb60a091bd27",
       "titulo": "La presidenta de la Asociación de Vecinos de Rocafonda: \"El caso de Lamine Yamal es un mensaje positivo, este es un barrio humilde con gente que busca salir adelante\"",
@@ -4435,19 +4461,6 @@
       "fecha": "2026-09-22T22:30:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-22T22:40:26.311745"
-    },
-    {
-      "id": "eceb88239042e986",
-      "titulo": "Laporta irá a Copenhague la próxima semana",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004230088/laporta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-22T16:19:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-22T16:40:31.210746"
     }
   ]
 }
