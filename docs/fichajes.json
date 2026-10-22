@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-21T21:32:52.415099Z",
-  "total": 318,
+  "actualizado": "2026-10-22T10:00:38.522914Z",
+  "total": 323,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -211,6 +211,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "9efb3f2b0bfcce32",
+      "titulo": "Juanma Castaño, sobre el Clásico: \"El domingo está en juego la liga. Nueve puntos respecto a este Barça me parece un abismo y sería definitivo\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/juanma-castano-clasico-domingo-juego-135612037",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-22T10:00:36.054964",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-22T10:00:36.054969"
+    },
+    {
+      "id": "6aa82f275918b79d",
+      "titulo": "El único precedente entre Flick y Mourinho que ilusiona al Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/unico-precedente-flick-mourinho-ilusiona-135613498",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-22T10:00:36.052224",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-22T10:00:36.052229"
+    },
+    {
+      "id": "6d27788c397d1f11",
+      "titulo": "Los 'tapados' que pueden decidir el clásico: \"Puede ser un problema para Flick\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/tapados-decidir-clasico-135612798",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-22T10:00:36.049989",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-22T10:00:36.049994"
+    },
+    {
+      "id": "433a5dd56217f898",
+      "titulo": "Enric Masip, sobre Mourinho antes del Clásico: \"Siempre lanza dardos. Cosas raras es meterle el dedo en el ojo a un entrenador\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/enric-masip-mourinho-clasico-lanza-135617778",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-22T10:00:36.047799",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-22T10:00:36.047811"
+    },
+    {
+      "id": "d41c8108877fc11d",
+      "titulo": "Conclusiones en positivo tras el primer KO",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261022/1004241639/conclusiones-positivo-primer-ko.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-22T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-22T10:00:31.504165"
+    },
     {
       "id": "eef301f12b3bde3c",
       "titulo": "Un Lamine Yamal de dobles figuras firma un récord histórico en Europa",
