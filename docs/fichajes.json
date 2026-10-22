@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-22T10:00:38.522914Z",
-  "total": 323,
+  "actualizado": "2026-10-22T15:11:19.925669Z",
+  "total": 326,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -211,6 +211,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "783acb60a091bd27",
+      "titulo": "La presidenta de la Asociación de Vecinos de Rocafonda: \"El caso de Lamine Yamal es un mensaje positivo, este es un barrio humilde con gente que busca salir adelante\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/asociacion-vecinos-rocafonda-lamine-yamal-rocafon-barrio-133566608",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-22T15:11:17.436536",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-22T15:11:17.436540"
+    },
+    {
+      "id": "720833f1536c4e0a",
+      "titulo": "Los jugadores del Barça se conjuran y calientan el clásico: \"Volver a la victoria contra el Real Madrid es la mayor motivación\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/jugadores-barca-conjuran-calientan-clasico-135630069",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-22T15:11:17.435036",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-22T15:11:17.435040"
+    },
+    {
+      "id": "ad3f62a9ce73db99",
+      "titulo": "Un dron sobre el césped del Spotify y cámaras especiales: todas las novedades de la retransmisión televisiva del clásico",
+      "enlace": "https://www.sport.es/es/noticias/barca/dron-cesped-spotify-camaras-especiales-135560683",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-22T15:11:17.433753",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-22T15:11:17.433768"
+    },
+    {
+      "id": "ea65c9314793c2b4",
+      "titulo": "El enfado táctico de Pedri en el PSG-Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261022/1004241840/enfado-tactico-pedri-psg-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-22T11:00:25",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-22T15:11:13.071328"
+    },
     {
       "id": "9efb3f2b0bfcce32",
       "titulo": "Juanma Castaño, sobre el Clásico: \"El domingo está en juego la liga. Nueve puntos respecto a este Barça me parece un abismo y sería definitivo\"",
@@ -4396,19 +4448,6 @@
       "fecha": "2026-09-22T16:19:35",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-22T16:40:31.210746"
-    },
-    {
-      "id": "c3c84d9ccc47d732",
-      "titulo": "Las interioridades de Gordon: cercano a Joan Garcia y sorprendido con Bernal",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004230089/interioridades-gordon-cercano-joan-garcia-sorprendido-bernal.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-22T12:09:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-22T12:40:28.481379"
     }
   ]
 }
