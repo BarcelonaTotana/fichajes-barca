@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-22T19:15:03.831160Z",
-  "total": 327,
+  "actualizado": "2026-10-23T00:49:08.378999Z",
+  "total": 326,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -4448,19 +4448,6 @@
       "fecha": "2026-09-23T01:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-23T01:30:39.569017"
-    },
-    {
-      "id": "d6c2a2d759e5fad5",
-      "titulo": "Rodri escuece en el Real Madrid",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230278/rodri-escuece-real-madrid.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-22T22:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-22T22:40:26.311745"
     }
   ]
 }
