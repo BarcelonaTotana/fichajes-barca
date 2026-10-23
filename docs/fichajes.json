@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-23T10:25:23.572801Z",
-  "total": 330,
+  "actualizado": "2026-10-23T15:20:59.354696Z",
+  "total": 333,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -212,6 +212,45 @@
   ],
   "noticias": [
     {
+      "id": "00025f634dd741b2",
+      "titulo": "Thierry Henry, sobre su llegada al Barça: “Llegué a Barcelona lesionado y en pleno proceso de divorcio, viendo muy poco a mi hija y con un idioma nuevo que aprender. Fue complicado”",
+      "enlace": "https://www.sport.es/es/noticias/barca/thierry-henry-llegada-barca-llegue-135665150",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-23T15:20:56.814823",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-23T15:20:56.814827"
+    },
+    {
+      "id": "b74948ac227a154e",
+      "titulo": "Encuentro de Deco con el agente de Kounde",
+      "enlace": "https://www.sport.es/es/noticias/barca/encuentro-deco-agente-kounde-135675394",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-23T15:20:56.813104",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-23T15:20:56.813114"
+    },
+    {
+      "id": "60faa982b9e7bdbd",
+      "titulo": "Factor Rodri en el Clásico",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242228/factor-rodri-clasico.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-23T11:16:03",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-23T15:20:52.205092"
+    },
+    {
       "id": "1ba6241396b94ef4",
       "titulo": "Iker Casillas: \"Llamé a Xavi y a Puyol para echarnos una bronca mutua. No era normal la situación en los clásicos. Pero cuando jugamos, cada uno mira por lo suyo\"",
       "enlace": "https://www.sport.es/es/noticias/barca/iker-casillas-llame-xavi-puyol-135618791",
@@ -249,6 +288,19 @@
       "fecha": "2026-10-23T10:25:20.960132",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-23T10:25:20.960144"
+    },
+    {
+      "id": "ea818385e205b588",
+      "titulo": "Salidas profesionales en el deporte: estudios, oposiciones y carreras",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMy1HSmRuSTdHWkFJLXdQNlFqanV0eVVzVWlCQlpCQWI4MTBWUHlZOGJDLTJqeGdFLVc1YXBmN0plektUZDRZTTRvME9FcVdKenB5X084d1luSTgwU19tWXF4YWpCc3NRX0NfbENHN0ZMTGVabGFxeHFiNHdBMHZpR1lwWmVtODRkZEJUODVfX2NTS2dqd3lxZ1M1Qng3VGpMT245VXFRRjF5Y1UwNnJseA?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-23T09:13:14",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-10-23T15:20:50.876652"
     },
     {
       "id": "cd148fb30e18ef1e",
@@ -4487,19 +4539,6 @@
       "fecha": "2026-09-23T15:55:28",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-23T16:10:28.785158"
-    },
-    {
-      "id": "f628317424250e84",
-      "titulo": "Casadó se recupera de su operación en Barcelona",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230452/casado-recupera-operacion-barcelona.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-23T12:50:21",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-23T13:10:30.835772"
     }
   ]
 }
