@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-23T15:20:59.354696Z",
-  "total": 333,
+  "actualizado": "2026-10-23T19:26:35.800235Z",
+  "total": 332,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -211,6 +211,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "a9994e39022097fd",
+      "titulo": "El Barça apunta a otro récord de recaudación en el clásico",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-apunta-record-recaudacion-clasico-135683654",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-10-23T19:26:33.273858",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-23T19:26:33.273861"
+    },
+    {
+      "id": "66fca42f0eb9f9c8",
+      "titulo": "Messi vuelve a recibir el cariño del Barça: \"Un reconocimiento más que merecido a tu extraordinario talento\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/messi-vuelve-recibir-carino-barca-135689960",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-23T19:26:33.272921",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-23T19:26:33.272931"
+    },
     {
       "id": "00025f634dd741b2",
       "titulo": "Thierry Henry, sobre su llegada al Barça: “Llegué a Barcelona lesionado y en pleno proceso de divorcio, viendo muy poco a mi hija y con un idioma nuevo que aprender. Fue complicado”",
@@ -4500,45 +4526,6 @@
       "fecha": "2026-09-24T02:15:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-24T02:40:24.233887"
-    },
-    {
-      "id": "adc953e94af131ec",
-      "titulo": "Rodri tiene claro que las acusaciones de corrupción arbitral del Madrid \"hacen daño al fútbol\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230608/rodri-claro-acusaciones-corrupcion-arbitral-madrid-dano-futbol.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-23T19:04:57",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-23T19:40:37.684632"
-    },
-    {
-      "id": "1677b514840da6e5",
-      "titulo": "'Barça Team': Rodri, la pieza que el Madrid dejó escapar y ahora disfruta el Barcelona",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230580/barca-team-rodri-pieza-madrid-dejo-escapar-disfruta-barcelona.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-23T18:41:38",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-23T19:10:28.726843"
-    },
-    {
-      "id": "7ddfd89715b34526",
-      "titulo": "Bisiwu presume de ser del Barça con Bélgica",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230533/bisiwu-presume-barca-belgica.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-23T15:55:28",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-23T16:10:28.785158"
     }
   ]
 }
