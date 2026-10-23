@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-23T19:26:35.800235Z",
-  "total": 332,
+  "actualizado": "2026-10-23T22:30:37.972779Z",
+  "total": 336,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -211,6 +211,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "c8b3a7df566098a5",
+      "titulo": "El Barça recuerda a Messi: \"Un vínculo inseparable\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/messi-vuelve-recibir-carino-barca-135689960",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-23T22:30:35.576921",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-23T22:30:35.576924"
+    },
+    {
+      "id": "397237988bf9088b",
+      "titulo": "Raphinha (29 años): \"Para alguien nacido en el barrio como yo, es difícil mantenerse centrado. Es difícil seguir tu camino y no descarriarte, prometen una forma más fácil de ganar dinero, y ahí es donde la gente se pierde”",
+      "enlace": "https://www.sport.es/es/noticias/barca/raphinha-29-anos-alguien-nacido-135685806",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-23T22:30:35.574940",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-23T22:30:35.574944"
+    },
+    {
+      "id": "e0e60e9119184fb7",
+      "titulo": "Lección de Rodri y Raphinha para la plantilla del Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/leccion-rodri-raphinha-plantilla-barca-135683561",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-23T22:30:35.573803",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-23T22:30:35.573814"
+    },
+    {
+      "id": "addc48df915d1e8c",
+      "titulo": "Emotivo mensaje de Laporta a Leo: \"Con tu talento hiciste más grande al club de tu vida\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242439/emotivo-mensaje-laporta-messi-talento-hiciste-grande-club-vida.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-23T19:38:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-23T22:30:32.010310"
+    },
     {
       "id": "a9994e39022097fd",
       "titulo": "El Barça apunta a otro récord de recaudación en el clásico",
