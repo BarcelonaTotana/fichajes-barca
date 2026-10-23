@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-23T05:28:10.276762Z",
-  "total": 326,
+  "actualizado": "2026-10-23T10:25:23.572801Z",
+  "total": 330,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -212,6 +212,45 @@
   ],
   "noticias": [
     {
+      "id": "1ba6241396b94ef4",
+      "titulo": "Iker Casillas: \"Llamé a Xavi y a Puyol para echarnos una bronca mutua. No era normal la situación en los clásicos. Pero cuando jugamos, cada uno mira por lo suyo\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/iker-casillas-llame-xavi-puyol-135618791",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-23T10:25:20.962463",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-23T10:25:20.962466"
+    },
+    {
+      "id": "2793fe443c599c65",
+      "titulo": "¿Quién ha ganado más clásicos entre Barcelona y Real Madrid?",
+      "enlace": "https://www.sport.es/es/noticias/barca/ganado-clasicos-barcelona-real-madrid-135604439",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-23T10:25:20.960936",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-23T10:25:20.960939"
+    },
+    {
+      "id": "54d496f3a131dfbc",
+      "titulo": "Ricardo Carvalho, exdefensa portugués del Real Madrid: \"Hay que tener límites en la tensión y en aquellos clásicos los pásabamos\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/ricardo-carvalho-exdefensa-portugues-real-135661605",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-23T10:25:20.960132",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-23T10:25:20.960144"
+    },
+    {
       "id": "cd148fb30e18ef1e",
       "titulo": "Cesc Fàbregas, ¿sucesor de Hansi Flick en el Barça? \"Nunca imaginé que sería entrenador\"",
       "enlace": "https://www.sport.es/es/noticias/barca/cesc-fabregas-sucesor-hansi-flick-135255427",
@@ -236,6 +275,32 @@
       "fecha": "2026-10-23T05:28:07.811375",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-23T05:28:07.811387"
+    },
+    {
+      "id": "aa9cd88dfbfa7eda",
+      "titulo": "El resultado es lo que cuenta",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242107/resultado-cuenta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-23T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-23T10:25:16.413429"
+    },
+    {
+      "id": "54405a3480700f28",
+      "titulo": "La tradición de debutar con gol en un Clásico: los 6 que se apuntan",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242012/5-barca-apuntan-tradicion-goleadora-debutante.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-23T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-23T10:25:16.413919"
     },
     {
       "id": "112bd3a4d762d644",
@@ -4435,19 +4500,6 @@
       "fecha": "2026-09-23T12:50:21",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-23T13:10:30.835772"
-    },
-    {
-      "id": "4914df7260e58a10",
-      "titulo": "Desvelan un posible diseño de la próxima equipación del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230322/desvelan-posible-diseno-proxima-equipacion-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-23T07:06:01",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-23T07:40:28.883132"
     }
   ]
 }
