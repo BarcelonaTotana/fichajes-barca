@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T00:49:08.378999Z",
+  "actualizado": "2026-10-23T05:28:10.276762Z",
   "total": 326,
   "cerradas": [
     "alex campos",
@@ -211,6 +211,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "cd148fb30e18ef1e",
+      "titulo": "Cesc Fàbregas, ¿sucesor de Hansi Flick en el Barça? \"Nunca imaginé que sería entrenador\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/cesc-fabregas-sucesor-hansi-flick-135255427",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-23T05:28:07.812441",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-23T05:28:07.812447"
+    },
+    {
+      "id": "ba757f73d492d31e",
+      "titulo": "\"Ojalá todo el vestuario fuese como Xavi Espart\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/ojala-vestuario-fuese-xavi-espart-135639232",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-23T05:28:07.811375",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-23T05:28:07.811387"
+    },
     {
       "id": "112bd3a4d762d644",
       "titulo": "Cancelo estalla tras las críticas: \"Me gustaría verlo\"",
@@ -4422,32 +4448,6 @@
       "fecha": "2026-09-23T07:06:01",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-23T07:40:28.883132"
-    },
-    {
-      "id": "0bd6cac1c05c7e5b",
-      "titulo": "Objetivo Varsovia para el Barça: arranca el camino del campeón",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230170/objetivo-varsovia-barca-arranca-camino-campeon.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-23T05:21:19",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-23T05:40:24.401073"
-    },
-    {
-      "id": "e173a4f15047f534",
-      "titulo": "Cronología de un engaño",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230192/cronologia-engano.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-23T01:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-23T01:30:39.569017"
     }
   ]
 }
