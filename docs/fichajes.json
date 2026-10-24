@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-24T13:39:36.781105Z",
-  "total": 350,
+  "actualizado": "2026-10-24T16:58:31.005930Z",
+  "total": 355,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -213,6 +213,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "712aaf8f4c707d23",
+      "titulo": "El Barça ya teme por el fichaje de Nijstad",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-teme-fichaje-nijstad-135718205",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T16:58:28.498102",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T16:58:28.498105"
+    },
+    {
+      "id": "b71063ed349520c5",
+      "titulo": "Frenkie de Jong se sincera: \"Las críticas llegan cuando no puedo jugar\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/frenkie-jong-sincera-criticas-llegan-135718777",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T16:58:28.497367",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T16:58:28.497370"
+    },
+    {
+      "id": "4ae3d2c992813436",
+      "titulo": "Barcelona - Real Madrid: horario y dónde ver el clásico de LaLiga por TV y en directo",
+      "enlace": "https://www.sport.es/es/noticias/barca/barcelona-real-madrid-horario-donde-ver-clasico-laliga-tv-directo-135718417",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T16:58:28.496163",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T16:58:28.496167"
+    },
+    {
+      "id": "7214e0673674fb0e",
+      "titulo": "Lineker revela una sorprendente costumbre del Barça antes del clásico: ¡bebían vino!",
+      "enlace": "https://www.sport.es/es/noticias/barca/lineker-revela-sorprendente-costumbre-barca-135720376",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T16:58:28.495180",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T16:58:28.495193"
+    },
+    {
+      "id": "f730ebf63eacc806",
+      "titulo": "Araujo: \"Que me quede o no en el Liverpool no depende sólo de mí\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242714/araujo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T16:19:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-24T16:58:23.753082"
+    },
     {
       "id": "655680ee20888c3d",
       "titulo": "Fermín López (23 años): \"Pagaría dinero para ser una persona que puede ir a comprar tranquilamente, alguna vez me gustaría ser un amigo mío del pueblo, un chaval normal\"",
