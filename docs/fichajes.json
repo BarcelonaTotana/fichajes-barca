@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-24T19:22:19.943840Z",
-  "total": 356,
+  "actualizado": "2026-10-24T21:44:32.952371Z",
+  "total": 359,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -214,6 +214,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "06cacf91244a596e",
+      "titulo": "Lamine Yamal le tiene comida la moral a Mbappé: 9-2 en el duelo de oro",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-kylian-mbappe-doble-duelo-paraliza-mundo-barcelona-madrid-clasico-135696341",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T21:44:30.500768",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T21:44:30.500771"
+    },
+    {
+      "id": "d299b163607673b5",
+      "titulo": "Bo Hegland, la perla noruega, se pronuncia sobre el interés del Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/bo-hegland-perla-noruega-pronuncia-135722914",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T21:44:30.499764",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T21:44:30.499767"
+    },
+    {
+      "id": "6baffedb26137e4b",
+      "titulo": "Así está la clasificación de LaLiga antes del Barcelona - Real Madrid: el Atlético puede ser el gran beneficiado tras el clásico",
+      "enlace": "https://www.sport.es/es/noticias/barca/clasificacion-laliga-antes-barcelona-real-madrid-clasico-135723838",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T21:44:30.497973",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T21:44:30.497983"
+    },
     {
       "id": "946b17a086fc158a",
       "titulo": "Neymar Jr. se olvida del Barça y recuerda su mejor etapa: \"Para mí fue ahí el prime\"",
