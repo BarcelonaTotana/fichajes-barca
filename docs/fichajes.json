@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-24T16:58:31.005930Z",
-  "total": 355,
+  "actualizado": "2026-10-24T19:22:19.943840Z",
+  "total": 356,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -103,6 +103,7 @@
     "6603845fea51b1fa",
     "6737c861b30f1cf9",
     "67436981ef6cda5a",
+    "67787e107c3afb94",
     "69e2532d04071127",
     "6b36dc75b6b0623c",
     "6c00ed9273b001ec",
@@ -213,6 +214,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "946b17a086fc158a",
+      "titulo": "Neymar Jr. se olvida del Barça y recuerda su mejor etapa: \"Para mí fue ahí el prime\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/neymar-jr-olvida-barca-recuerda-135720418",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T19:22:16.917759",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T19:22:16.917762"
+    },
+    {
+      "id": "67787e107c3afb94",
+      "titulo": "El Barça mira a la Juve ante la posible salida de Balde",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-mira-juve-posible-salida-135721156",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T19:22:16.916699",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T19:22:16.916712"
+    },
+    {
+      "id": "ef3e5094037ba174",
+      "titulo": "Rijkaard, Koeman y Jordi Cruyff, invitados de lujo en el palco del Spotify Camp Nou",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242787/rijkaard-koeman-jordi-cruyff-invitados-lujo-palco-spotify-camp-nou.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T18:57:48",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-24T19:22:11.733457"
+    },
     {
       "id": "712aaf8f4c707d23",
       "titulo": "El Barça ya teme por el fichaje de Nijstad",
@@ -4801,32 +4841,6 @@
       "fecha": "2026-09-25T09:08:09",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-25T09:40:28.014252"
-    },
-    {
-      "id": "adf9dad5d84ff34b",
-      "titulo": "Sitúan al Bayern tras los pasos de Dani Olmo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260924/1004230916/situan-bayern-pasos-dani-olmo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-24T19:11:12",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-24T19:40:28.347171"
-    },
-    {
-      "id": "edcb51dd4345a6ec",
-      "titulo": "Fermín habla de la Champions, de la competencia con Olmo y del fichaje que más le ha sorprendido",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260924/1004230884/fermin-habla-champions-competencia-olmo-fichaje-le-sorprendido.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-24T17:05:04",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-24T17:40:26.646038"
     }
   ]
 }
