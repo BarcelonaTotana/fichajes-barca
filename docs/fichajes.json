@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-24T21:44:32.952371Z",
-  "total": 359,
+  "actualizado": "2026-10-24T23:46:54.542057Z",
+  "total": 360,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -214,6 +214,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "93807f38fab3a7df",
+      "titulo": "Rodri Hernández (30 años): “La universidad fue la mejor época de mi vida. Pasar tiempo con gente joven como tú, estudiar y salir de vez en cuando… fue una época estupenda”",
+      "enlace": "https://www.sport.es/es/noticias/barca/rodri-hernandez-30-anos-universidad-135722310",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T23:46:51.997301",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T23:46:51.997314"
+    },
     {
       "id": "06cacf91244a596e",
       "titulo": "Lamine Yamal le tiene comida la moral a Mbappé: 9-2 en el duelo de oro",
