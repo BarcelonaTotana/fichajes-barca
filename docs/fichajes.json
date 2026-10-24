@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-24T05:45:12.194539Z",
-  "total": 337,
+  "actualizado": "2026-10-24T09:49:55.583695Z",
+  "total": 342,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -212,6 +212,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "5fe16f287fa190d5",
+      "titulo": "¿Clásico? Hoy la pregunta es por cuánto",
+      "enlace": "https://www.sport.es/es/noticias/barca/clasico-hoy-pregunta-135687249",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T09:49:53.021508",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T09:49:53.021512"
+    },
+    {
+      "id": "665c72bff7dc62af",
+      "titulo": "El mensaje de Hamza Abdelkarim en el Clásico",
+      "enlace": "https://www.sport.es/es/noticias/barca/mensaje-hamza-abdelkarim-clasico-135705854",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T09:49:53.018577",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T09:49:53.018581"
+    },
+    {
+      "id": "9e78d43569d86943",
+      "titulo": "Novedades en el futuro de Gerard Martín en el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/novedades-futuro-gerard-martin-barca-135706673",
+      "medio": "sport.es",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-24T09:49:53.017439",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T09:49:53.017443"
+    },
+    {
+      "id": "0a7bb96387c7a201",
+      "titulo": "Mourinho, sobre Lamine Yamal: \"Es un gran jugador y se le respeta, otra cosa es olvidar tu esencia o cambiar estructuras\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/mourinho-lamine-yamal-gran-jugador-135707894",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T09:49:53.016270",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T09:49:53.016274"
+    },
+    {
+      "id": "011a994ebeb6707c",
+      "titulo": "El serio aviso de Lewandowski a la generación de Lamine Yamal",
+      "enlace": "https://www.sport.es/es/noticias/barca/aviso-lewandowski-generacion-lamine-yamal-135708551",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-24T09:49:53.015234",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-24T09:49:53.015243"
+    },
     {
       "id": "2bd9b3d86a22d052",
       "titulo": "El Arsenal amenaza con arrebatarle al Barça a uno de los delanteros de moda",
