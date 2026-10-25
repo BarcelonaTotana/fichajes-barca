@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-25T06:58:02.626030Z",
-  "total": 362,
+  "actualizado": "2026-10-25T12:26:30.814510Z",
+  "total": 363,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -214,6 +214,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "4638ddf9987035da",
+      "titulo": "Rocío, vecina de Rocafonda: \"No se trata de que Lamine Yamal tenga que solucionar los problemas del barrio, porque esa responsabilidad corresponde a las administraciones, sino de que su voz pueda ayudar a los más jóvenes\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/rocio-vecina-lamine-yamal-barrio-rocafonda-problemas-ayudar-jovenes-135731392",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T12:26:28.326572",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T12:26:28.326576"
+    },
+    {
+      "id": "289a6e91ed9bee99",
+      "titulo": "Hoeness: \"Para mí, Olise es mucho mejor que Lamine\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/hoeness-olise-mejor-lamine-135736672",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T12:26:28.324129",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T12:26:28.324142"
+    },
     {
       "id": "e24ad8892d75819a",
       "titulo": "Barcelona - Real Madrid: horario y dónde ver el clásico de LaLiga hoy por TV y en directo",
@@ -4906,19 +4932,6 @@
       "fecha": "2026-09-25T12:34:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-25T13:10:26.305517"
-    },
-    {
-      "id": "735ae30c907ad06a",
-      "titulo": "El Barça vende 2.000 asientos VIP más y prevé ingresar 700 millones en 30 años",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260925/1004231060/barca-pone-marcha-nueva-fase-negocio-vip-spotify-camp-nou.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-25T09:08:09",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-25T09:40:28.014252"
     }
   ]
 }
