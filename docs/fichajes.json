@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-24T23:46:54.542057Z",
-  "total": 360,
+  "actualizado": "2026-10-25T06:58:02.626030Z",
+  "total": 362,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -214,6 +214,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "e24ad8892d75819a",
+      "titulo": "Barcelona - Real Madrid: horario y dónde ver el clásico de LaLiga hoy por TV y en directo",
+      "enlace": "https://www.sport.es/es/noticias/barca/barcelona-real-madrid-horario-donde-ver-clasico-laliga-tv-directo-135718417",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T06:58:00.147147",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T06:58:00.147159"
+    },
+    {
+      "id": "9c1079a9e98eb5ed",
+      "titulo": "El 'pendrive' de Mourinho que lo pudo cambiar todo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004242819/pendrive-mourinho-pudo-cambiar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-25T06:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-25T06:57:55.623736"
+    },
     {
       "id": "93807f38fab3a7df",
       "titulo": "Rodri Hernández (30 años): “La universidad fue la mejor época de mi vida. Pasar tiempo con gente joven como tú, estudiar y salir de vez en cuando… fue una época estupenda”",
