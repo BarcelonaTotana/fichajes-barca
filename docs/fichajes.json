@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-25T19:18:33.784499Z",
-  "total": 368,
+  "actualizado": "2026-10-25T21:54:14.497522Z",
+  "total": 374,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -195,6 +195,7 @@
     "e3a94229afba7283",
     "e41123fdb5ece249",
     "e6801ae14559f1b4",
+    "e8267291c93a29f1",
     "e96636ed75431278",
     "ea808076b691ebf8",
     "ec2ad5ac04ad89bb",
@@ -214,6 +215,97 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "62fff57b7ba7fd5f",
+      "titulo": "Así está la clasificación de LaLiga antes del clásico: el Barça puede dejar muy tocado al Real Madrid",
+      "enlace": "https://www.sport.es/es/noticias/barca/clasificacion-laliga-antes-clasico-barca-dejar-tocado-madrid-135723838",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T21:54:11.482963",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T21:54:11.482966"
+    },
+    {
+      "id": "198c9cfb102f75ea",
+      "titulo": "¿Quién es el jugador más joven en ganar el Balón de Oro? El récord que persigue Lamine Yamal",
+      "enlace": "https://www.sport.es/es/noticias/barca/jugador-joven-ganar-balon-oro-135638618",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T21:54:11.480400",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T21:54:11.480402"
+    },
+    {
+      "id": "e8267291c93a29f1",
+      "titulo": "¡Alarma Xavi Espart! Se marcha del clásico lesionado y Flick da entrada a Balde",
+      "enlace": "https://www.sport.es/es/noticias/barca/alarma-xavi-espart-marcha-clasico-135748563",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T21:54:11.479543",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T21:54:11.479545"
+    },
+    {
+      "id": "150c7a2790182c53",
+      "titulo": "Josep Pedrerol, muy claro: \"No se ha enterado de lo que es jugar un Clásico\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/josep-pedrerol-claro-enterado-jugar-135748328",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T21:54:11.478761",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T21:54:11.478763"
+    },
+    {
+      "id": "b715d51d7b6de3e8",
+      "titulo": "Mbappé marca un gol de churro tras un mal despeje de Gerard Martín",
+      "enlace": "https://www.sport.es/es/noticias/barca/mbappe-marca-gol-churro-mal-135748901",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T21:54:11.477998",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T21:54:11.478001"
+    },
+    {
+      "id": "6bdd86b585ed04f8",
+      "titulo": "Cucurella, en el centro de la polémica con Lamine Yamal: \"No puede ser que no haya visto una amarilla\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/cucurella-centro-polemica-lamine-yamal-135749688",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-25T21:54:11.476985",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T21:54:11.477001"
+    },
+    {
+      "id": "aa34ea8f309dc06a",
+      "titulo": "Koeman, Rijkaard y Jordi Cruyff lideran la lista de invitados al palco",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243133/koeman-rijkaard-jordi-cruyff-lideran-lista-invitados-clasico-palco-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-25T20:47:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-25T21:54:07.562730"
+    },
     {
       "id": "fd0195e1012372b2",
       "titulo": "Alineación del Barcelona contra el Real Madrid para el clásico de LaLiga EA Sports",
@@ -4984,19 +5076,6 @@
       "fecha": "2026-09-26T02:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-26T02:40:25.345198"
-    },
-    {
-      "id": "0eee09cc592d44dc",
-      "titulo": "El Barça ficha a Catovic para el filial y a Baza para el juvenil",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMV9FVHZwaUZ0eG5QVFVObzh0bUs2NVljbzBHVVYyVnJqWURJVGpTTy1wZ09EOXVrVVVoenFaOGtoXzBDQlFKa0tjaEdBTFJKeEp4YkJxdHliOU5lU0hwOWZrZ3Zidktud1U5cndiR0FkcHVJcjNpNUp6ZXZNcGNEUC0wZ3V5U01oaGJvQzdLbUZHWkotc2Y1Vk5n?oc=5",
-      "medio": "Diario Ahora",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-25T20:21:33",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-09-29T05:30:53.803596"
     }
   ]
 }
