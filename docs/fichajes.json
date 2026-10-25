@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-25T12:26:30.814510Z",
-  "total": 363,
+  "actualizado": "2026-10-25T16:41:34.122221Z",
+  "total": 366,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -214,6 +214,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "a72dc9e08a7bbad6",
+      "titulo": "Mourinho ha jugado con Courtois como hizo con Damien Duff",
+      "enlace": "https://www.sport.es/es/noticias/barca/sera-courtois-nuevo-damien-duff-135740755",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T16:41:30.906139",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T16:41:30.906141"
+    },
+    {
+      "id": "1306c1c9512c5186",
+      "titulo": "La hegemonía del FC Barcelona como local está en juego frente al Real Madrid en el clásico",
+      "enlace": "https://www.sport.es/es/noticias/barca/hegemonia-fc-barcelona-local-juego-135685202",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T16:41:30.905536",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T16:41:30.905538"
+    },
+    {
+      "id": "3240928ef3f8fe4c",
+      "titulo": "Carles Puyol (48 años): \"Gerard Piqué me cambió el carácter. Veníamos de una época muy complicada en el Barça y él me enseñó que también hay que disfrutar, que no pasa nada por ir a cenar un día con amigos\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/carles-puyol-gerard-pique-amigos-companeros-barca-135740362",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T16:41:30.904515",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T16:41:30.904526"
+    },
+    {
+      "id": "0015d513aecbd61b",
+      "titulo": "Desembarco culé en una histórica noche en Londres",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243003/desembarco-cule-historica-noche-londres.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-25T15:46:55",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-25T16:41:26.288648"
+    },
     {
       "id": "4638ddf9987035da",
       "titulo": "Rocío, vecina de Rocafonda: \"No se trata de que Lamine Yamal tenga que solucionar los problemas del barrio, porque esa responsabilidad corresponde a las administraciones, sino de que su voz pueda ayudar a los más jóvenes\"",
@@ -4919,19 +4971,6 @@
       "fecha": "2026-09-25T20:21:33",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-09-29T05:30:53.803596"
-    },
-    {
-      "id": "2c300e65fd4f3059",
-      "titulo": "De cedido a posible fichaje: Araujo ya convence al Liverpool",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260925/1004231176/cedido-fichaje-araujo-empieza-convencer-liverpool.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-25T12:34:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-25T13:10:26.305517"
     }
   ]
 }
