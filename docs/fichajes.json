@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-25T21:54:14.497522Z",
-  "total": 374,
+  "actualizado": "2026-10-25T23:49:09.497639Z",
+  "total": 381,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -216,6 +216,84 @@
   ],
   "noticias": [
     {
+      "id": "b47735df59f69f0c",
+      "titulo": "Así queda la clasificación de LaLiga tras el clásico: golpe de autoridad del Real Madrid ante el Barça y el liderato en un puño",
+      "enlace": "https://www.sport.es/es/noticias/barca/clasificacion-laliga-antes-clasico-barca-dejar-tocado-madrid-135723838",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T23:49:06.965231",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T23:49:06.965235"
+    },
+    {
+      "id": "e53d012e62743e26",
+      "titulo": "Mbappé asalta el Camp Nou con dos picotazos",
+      "enlace": "https://www.sport.es/es/noticias/barca/mbappe-asalta-camp-nou-picotazos-135745242",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T23:49:06.963746",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T23:49:06.963749"
+    },
+    {
+      "id": "0828a97c1dc7a0e9",
+      "titulo": "Frenkie de Jong reaparece 155 días después",
+      "enlace": "https://www.sport.es/es/noticias/barca/frenkie-jong-reaparece-155-dias-135750026",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T23:49:06.962113",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T23:49:06.962116"
+    },
+    {
+      "id": "4be28f5a316d4d31",
+      "titulo": "Xavi Espart se lesionó tras un golpe con Tchouameni",
+      "enlace": "https://www.sport.es/es/noticias/barca/alarma-xavi-espart-marcha-clasico-135748563",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T23:49:06.960899",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T23:49:06.960904"
+    },
+    {
+      "id": "cd58778f006b59d2",
+      "titulo": "Pedri, tras el clásico: \"Fuimos muy lentos en la primera parte y tuvimos pérdidas tontas. Contra estos equipos se pagan\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/pedri-lentos-primera-parte-tuvimos-135751515",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T23:49:06.959997",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T23:49:06.960010"
+    },
+    {
+      "id": "3d29dcba6b053878",
+      "titulo": "Así queda la clasificación de LaLiga tras el Clásico",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243111/asi-aprieta-clasificacion-laliga-derrota-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T22:02:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-25T23:49:02.753595"
+    },
+    {
       "id": "62fff57b7ba7fd5f",
       "titulo": "Así está la clasificación de LaLiga antes del clásico: el Barça puede dejar muy tocado al Real Madrid",
       "enlace": "https://www.sport.es/es/noticias/barca/clasificacion-laliga-antes-clasico-barca-dejar-tocado-madrid-135723838",
@@ -305,6 +383,19 @@
       "fecha": "2026-10-25T20:47:41",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-25T21:54:07.562730"
+    },
+    {
+      "id": "ba771ed734d6a16d",
+      "titulo": "Koeman, Rijkaard y Jordi Cruyff lideran la lista de invitados al Clásico en el palco del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243133/koeman-rijkaard-jordi-cruyff-lideran-lista-invitados-clasico-palco-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-25T20:47:41",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-25T23:49:02.754269"
     },
     {
       "id": "fd0195e1012372b2",
