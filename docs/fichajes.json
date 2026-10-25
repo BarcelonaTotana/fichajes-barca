@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-25T16:41:34.122221Z",
-  "total": 366,
+  "actualizado": "2026-10-25T19:18:33.784499Z",
+  "total": 368,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -214,6 +214,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "fd0195e1012372b2",
+      "titulo": "Alineación del Barcelona contra el Real Madrid para el clásico de LaLiga EA Sports",
+      "enlace": "https://www.sport.es/es/noticias/barca/alineacion-barcelona-real-madrid-clasico-135746126",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T19:18:31.228596",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T19:18:31.228598"
+    },
+    {
+      "id": "6f03b032515ea715",
+      "titulo": "Umtiti, en la previa del clásico: \"No hay que dar al Madrid por muerto, cuidado\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/umtiti-previa-clasico-hay-dar-135747004",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T19:18:31.227603",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-25T19:18:31.227612"
+    },
     {
       "id": "a72dc9e08a7bbad6",
       "titulo": "Mourinho ha jugado con Courtois como hizo con Damien Duff",
