@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-26T14:11:54.521664Z",
-  "total": 390,
+  "actualizado": "2026-10-26T19:59:12.968165Z",
+  "total": 395,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -107,6 +107,7 @@
     "69e2532d04071127",
     "6b36dc75b6b0623c",
     "6c00ed9273b001ec",
+    "6c75c4355bf0a709",
     "6c872010888cca54",
     "6c8f00b103dc3566",
     "6cbe17c99683c482",
@@ -133,6 +134,7 @@
     "8a5e264faba0e09b",
     "8b4dc1648da51d1b",
     "8f35aa9144d84d17",
+    "90a71461ef8e8891",
     "92a0a0176f27056f",
     "9375201ecac7a816",
     "942698cb9b788434",
@@ -215,6 +217,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "ca383d2b88d8f63c",
+      "titulo": "¡Messi no estará en la gala del Balón de Oro!",
+      "enlace": "https://www.sport.es/es/noticias/barca/messi-estara-gala-balon-oro-135780449",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-26T19:59:09.357233",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-26T19:59:09.357236"
+    },
+    {
+      "id": "372443c072e0ec4a",
+      "titulo": "Rijkaard, Ten Cate, Jordi y Koeman: el reencuentro cruyffista de Laporta antes del Clásico",
+      "enlace": "https://www.sport.es/es/noticias/barca/rijkaard-ten-cate-jordi-koeman-135783071",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-26T19:59:09.355414",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-26T19:59:09.355418"
+    },
+    {
+      "id": "90a71461ef8e8891",
+      "titulo": "El look de Lamine Yamal en la gala del Balón de Oro, en el punto de mira: \"¿Qué demonios lleva?\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/look-lamine-yamal-gala-balon-135784407",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-26T19:59:09.354311",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-26T19:59:09.354315"
+    },
+    {
+      "id": "6c75c4355bf0a709",
+      "titulo": "Comunicado oficial del Balón de Oro tras publicar por error a Lamine, Mbappé y Kane como ganadores",
+      "enlace": "https://www.sport.es/es/noticias/barca/comunicado-oficial-balon-oro-publicar-135784818",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-26T19:59:09.353618",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-26T19:59:09.353631"
+    },
     {
       "id": "385c5e973393871e",
       "titulo": "Joao Félix piensa en el Barça y Al Nassr le tienta con un contrato multimillonario",
@@ -305,6 +359,19 @@
       "fecha": "2026-10-26T10:06:14",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-26T14:11:46.317021"
+    },
+    {
+      "id": "253d2c707443ba8a",
+      "titulo": "Lamine Yamal y su gente viajaron ayer a Londres en jet privado y Cubarsí prioriza el descanso y se queda en casa",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004243291/cubarsi-prioriza-descanso-no-viaja-gala-balon-oro-londres.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-26T10:06:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-26T19:59:04.684368"
     },
     {
       "id": "12395597a88765bd",
