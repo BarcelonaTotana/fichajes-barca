@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-26T19:59:12.968165Z",
-  "total": 395,
+  "actualizado": "2026-10-26T23:44:00.022497Z",
+  "total": 396,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -217,6 +217,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "8e6fb653a68a50d5",
+      "titulo": "Lamine Yamal, premio Joven Talento: \"Ojalá lo hubiera ganado Cubarsí, se lo merece\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-premio-joven-talento-135778167",
+      "medio": "sport.es",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-26T23:43:57.659391",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-26T23:43:57.659401"
+    },
     {
       "id": "ca383d2b88d8f63c",
       "titulo": "¡Messi no estará en la gala del Balón de Oro!",
