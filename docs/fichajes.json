@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-27T02:27:50.719797Z",
-  "total": 395,
+  "actualizado": "2026-10-27T08:16:41.593394Z",
+  "total": 397,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -217,6 +217,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "344b67c3e775675e",
+      "titulo": "Maxi López: \"Yo tuve de entrenador a Simeone. Si soy Julián, me voy al Barça\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/maxi-lopez-tuve-entrenador-simeone-135791986",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-27T08:16:39.131884",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-27T08:16:39.131889"
+    },
+    {
+      "id": "a7ee07edc0ac01c2",
+      "titulo": "Van Dijk se rinde a Araujo: \"Es el defensa que necesitábamos en el Liverpool\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/dijk-rinde-araujo-defensa-necesitabamos-135792087",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-27T08:16:39.130909",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-27T08:16:39.130914"
+    },
+    {
+      "id": "90b5b1cb7e202375",
+      "titulo": "Nuevo mazazo para Ansu Fati: ¡seis semanas de baja!",
+      "enlace": "https://www.sport.es/es/noticias/barca/nuevo-mazazo-ansu-fati-seis-135792269",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-27T08:16:39.130046",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-27T08:16:39.130054"
+    },
+    {
+      "id": "785caac69d254714",
+      "titulo": "El triple error: entradas, declaraciones y priorizar el Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243464/triple-error-entradas-declaraciones-priorizar-madrid.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-27T03:25:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-27T08:16:35.607849"
+    },
     {
       "id": "8e6fb653a68a50d5",
       "titulo": "Lamine Yamal, premio Joven Talento: \"Ojalá lo hubiera ganado Cubarsí, se lo merece\"",
@@ -5325,32 +5377,6 @@
       "fecha": "2026-09-27T14:34:15",
       "fuente_feed": "Mundo Deportivo · Fichajes",
       "visto_por_primera_vez": "2026-09-27T15:20:26.318691"
-    },
-    {
-      "id": "18def58c814ba461",
-      "titulo": "Reverencia mundial a Lamine: hasta en Madrid le elogian",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260927/1004231689/reverencia-mundial-lamine-madrid-le-elogian.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-27T08:02:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-27T08:40:27.624823"
-    },
-    {
-      "id": "c47768057f357b29",
-      "titulo": "LaLiga tira de los ex del Barça: solo dos equipos sin pasado culé",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260927/1004230965/laliga-tira-ex-barca-dos-equipos-pasado-cule.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-27T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-27T05:00:50.325620"
     }
   ]
 }
