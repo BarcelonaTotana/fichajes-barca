@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-27T08:16:41.593394Z",
-  "total": 397,
+  "actualizado": "2026-10-27T14:38:47.582826Z",
+  "total": 399,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -217,6 +217,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "ddb5f1e4e10a179d",
+      "titulo": "Lamine Yamal sí ganó el ‘Balón de Oro Popular’ con un apoyo abrumador del 64%",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-gano-balon-oro-135804170",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-27T14:38:45.172044",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-27T14:38:45.172053"
+    },
+    {
+      "id": "3a1f0d37d17dd5a6",
+      "titulo": "Araujo deslumbra y ya recibe premios en la Premier",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243827/araujo-deslumbra-recibe-premios-premier.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-27T13:58:32",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-27T14:38:40.815824"
+    },
     {
       "id": "344b67c3e775675e",
       "titulo": "Maxi López: \"Yo tuve de entrenador a Simeone. Si soy Julián, me voy al Barça\"",
@@ -567,6 +593,19 @@
       "fecha": "2026-10-25T22:02:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-25T23:49:02.753595"
+    },
+    {
+      "id": "3638324e69d7a3cf",
+      "titulo": "Así queda la clasificación de LaLiga tras la derrota del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243111/asi-aprieta-clasificacion-laliga-derrota-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-25T22:02:20",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-27T14:38:40.822371"
     },
     {
       "id": "62fff57b7ba7fd5f",
@@ -5364,19 +5403,6 @@
       "fecha": "2026-09-27T22:01:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-27T22:10:27.048161"
-    },
-    {
-      "id": "fe35c0498995f2d9",
-      "titulo": "La Juventus, a punto de fichar a un exportero del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260927/1004231793/juventus-punto-fichar-exportero-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-27T14:34:15",
-      "fuente_feed": "Mundo Deportivo · Fichajes",
-      "visto_por_primera_vez": "2026-09-27T15:20:26.318691"
     }
   ]
 }
