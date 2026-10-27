@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-26T23:44:00.022497Z",
-  "total": 396,
+  "actualizado": "2026-10-27T02:27:50.719797Z",
+  "total": 395,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -5351,19 +5351,6 @@
       "fecha": "2026-09-27T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-27T05:00:50.325620"
-    },
-    {
-      "id": "c08f1d90a67a0306",
-      "titulo": "Cuando no haya medios del Barça lesionados, no caben todos",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260927/1004231569/no-haya-medios-barca-lesionados-no-caben-todos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-27T01:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-27T02:10:28.260490"
     }
   ]
 }
