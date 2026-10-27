@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-27T14:38:47.582826Z",
-  "total": 399,
+  "actualizado": "2026-10-27T19:38:23.227194Z",
+  "total": 400,
   "cerradas": [
     "alex campos",
     "carla julia",
@@ -217,6 +217,97 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "bdc8b59b32d9431f",
+      "titulo": "Multa simbólica para el Barça tras el caso Julián Álvarez por parte de la RFEF",
+      "enlace": "https://www.sport.es/es/noticias/barca/multa-simbolica-barca-caso-julian-135818590",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-27T19:38:20.723555",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-27T19:38:20.723560"
+    },
+    {
+      "id": "ac237052bd04ae4f",
+      "titulo": "El Barça recurrirá la multa de la RFEF por el 'caso Julián'",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-recurrira-multa-rfef-caso-135822052",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-27T19:38:20.721230",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-27T19:38:20.721234"
+    },
+    {
+      "id": "4409961b4cac37e6",
+      "titulo": "Lamine Yamal, sobre el Balón de Oro: \"Llegará mi momento, las cosas buenas necesitan tiempo\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-balon-oro-llegara-135822424",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-27T19:38:20.720553",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-27T19:38:20.720563"
+    },
+    {
+      "id": "2a0cc8421dcbd018",
+      "titulo": "Colocan al Barça tras la pista de otro central zurdo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243931/colocan-barca-pista-central-zurdo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-27T17:47:16",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-27T19:38:16.051541"
+    },
+    {
+      "id": "02afbabb9adc93f4",
+      "titulo": "Graham será centenaria y Pajor, a escalar en la cima de goleadoras europeas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243795/barca-prolongar-racha-europea-alcanzar-records-historicos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-27T16:52:07",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-27T19:38:16.051914"
+    },
+    {
+      "id": "86e830296d5cc7cb",
+      "titulo": "La Liga denuncia 17 incidentes y el 'banderazo' a Camavinga",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243891/liga-denuncia-nueve-incidentes-banderazo-camavinga.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-27T16:15:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-27T19:38:16.052281"
+    },
+    {
+      "id": "ba460bd96317f97f",
+      "titulo": "Irrisoria multa de la RFEF al Barça por el 'caso Julián Álvarez'",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243845/irrisoria-multa-rfef-barca-caso-julian-alvarez.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-27T14:48:21",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-27T19:38:16.052676"
+    },
     {
       "id": "ddb5f1e4e10a179d",
       "titulo": "Lamine Yamal sí ganó el ‘Balón de Oro Popular’ con un apoyo abrumador del 64%",
@@ -5325,84 +5416,6 @@
       "fecha": "2026-09-29T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-29T05:40:26.566790"
-    },
-    {
-      "id": "3e01245a4d0877d7",
-      "titulo": "Los fichajes del Barça funcionan mejor que los del Madrid",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232269/clasico-fichajes-2026-2027-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-29T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-01T22:40:26.757089"
-    },
-    {
-      "id": "372f8f2a40a44178",
-      "titulo": "Imágenes que marcan",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232283/imagenes-marcan.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-09-29T02:25:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-29T02:40:25.704645"
-    },
-    {
-      "id": "5dd0bcdac6d5b1b7",
-      "titulo": "Pedro Villar estará varias semanas de baja",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004232024/pedro-villar-xx-semanas-baja.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-28T16:53:45",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-28T17:10:28.403450"
-    },
-    {
-      "id": "e0d8b5625bd5056d",
-      "titulo": "El nuevo concepto de financiación del Palau Blaugrana, con referentes en Europa",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004231756/nuevo-concepto-financiacion-palau-blaugrana-referentes-europa.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-28T04:50:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-28T05:10:25.420428"
-    },
-    {
-      "id": "769bb1c4d15a4b7e",
-      "titulo": "El nuevo concepto de financiación del Palau, con referentes en Europa",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004231756/nuevo-concepto-financiacion-palau-blaugrana-referentes-europa.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-28T04:50:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-28T17:10:28.404653"
-    },
-    {
-      "id": "6d4423b0445883e6",
-      "titulo": "El detallazo de Lamine con Declan Rice y el elogio del inglés: \"Eres el mejor\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004231947/detallazo-lamine-declan-rice-elogio-ingles-mejor.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-27T22:01:37",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-27T22:10:27.048161"
     }
   ]
 }
