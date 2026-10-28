@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T15:44:00.603686Z",
+  "actualizado": "2026-10-28T20:36:04.689389Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -102,6 +102,7 @@
     "6314531865da6953",
     "643d5176f36e29d4",
     "6603845fea51b1fa",
+    "66b4cf1b1f0a58d1",
     "6737c861b30f1cf9",
     "67436981ef6cda5a",
     "67787e107c3afb94",
@@ -219,6 +220,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "c47b59c69ac2f575",
+      "titulo": "Raphinha, entre los sudamericanos más influyentes de Europa en el 2026",
+      "enlace": "https://www.sport.es/es/noticias/barca/raphinha-sudamericanos-influyentes-europa-2026-135856711",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-28T20:36:02.315025",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-28T20:36:02.315029"
+    },
+    {
+      "id": "0c484185ac9f8976",
+      "titulo": "Fermín López (23 años): \"Desde que me fui con 13 años de El Campillo a vivir a La Masia, mis padres han sido una pieza fundamental en mi vida y en todo el recorrido, y siempre que he estado mal he acudido a ellos\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/fermin-lopez-23-anos-13-135861997",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-28T20:36:02.313137",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-28T20:36:02.313141"
+    },
+    {
+      "id": "66b4cf1b1f0a58d1",
+      "titulo": "El ejemplo a seguir de Hamza Abdelkarim que gusta en el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/hamza-abdelkarim-ejemplo-barcelona-135862427",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-28T20:36:02.311834",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-28T20:36:02.311839"
+    },
+    {
+      "id": "a5b9164becb8c247",
+      "titulo": "Cuando \"el Maradona de La Masia\" era mejor que De Jong",
+      "enlace": "https://www.sport.es/es/noticias/barca/maradona-masia-mejor-jong-135861333",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "oficial",
+      "fecha": "2026-10-28T20:36:02.310282",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-28T20:36:02.310297"
+    },
     {
       "id": "a941c3dc738785d1",
       "titulo": "Comunicado urgente del padre de Lamine Yamal: \"Necesito ayuda como persona y ser humano\"",
@@ -5366,58 +5419,6 @@
       "fecha": "2026-10-01T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-01T05:40:25.548123"
-    },
-    {
-      "id": "31f9cf981bf3ed8a",
-      "titulo": "Veni, vidi, vici: el Barça arrasa en Roma",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004233124/veni-vidi-vici-barca-arrasa-roma.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-30T18:37:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-01T09:10:28.977702"
-    },
-    {
-      "id": "25383f2ef1519b02",
-      "titulo": "Bardghji, inscrito a lo Mastantuono: tendrá ficha en 2ª RFEF",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDh0SENDdjF0UUd0Vk05Z0ZIcC1xUGpJLVdGQWdfU2xJTFN6TnFIQVdabkJnSUlnVGlkSmlNWWViZ3NCeFBjNnRldmRXODU1T0RGUHh0b1UxZmFCYm1RanhUbFpWSWRMZzBiZGtvR3c3T09CMno1cVVZVE5jZjhnVldSUm1yUmk1WFZxT2EwSTRqcktXSmfSAZYBQVVfeXFMTng4dEhDQ3YxdFFHdFZNOWdGSHAtcVBqSS1XRkFnX1NsSUxTek5xSEFXWm5CZ0lJZ1RpZEppTVllYmdzQnhQYzZ0ZXZkVzg1NU9ERlB4dG9VMWZhQmJtUWp4VGxaVklkTGcwYmRrb0d3N09PQjJ6NXFVWVROY2Y4Z1ZXUlJtclJpNVhWcU9hMEk0anJLV0pn?oc=5",
-      "medio": "BeSoccer ES",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-30T12:33:33",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-09-30T23:01:05.021984"
-    },
-    {
-      "id": "92a0a0176f27056f",
-      "titulo": "En Portugal sitúan otra vez a Fresneda en la órbita del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232893/portugal-situan-vez-fresneda-orbita-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-30T09:17:41",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-30T09:40:28.787637"
-    },
-    {
-      "id": "ff60adce7f3a7bc4",
-      "titulo": "Una ex estrella de Países Bajos recomienda al Bayern el fichaje de De Jong",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232849/ex-estrella-paises-bajos-recomienda-bayern-fichaje-jong.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-30T08:18:09",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-30T08:40:35.640820"
     }
   ]
 }
