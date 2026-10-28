@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T19:38:23.227194Z",
+  "actualizado": "2026-10-28T02:22:11.369738Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -217,6 +217,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "6fe75f5ac3674e28",
+      "titulo": "De Jong, un refuerzo que vuelve a tope para el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004244015/jong-refuerzo-vuelve-tope-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-27T23:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-28T02:22:05.257712"
+    },
     {
       "id": "bdc8b59b32d9431f",
       "titulo": "Multa simbólica para el Barça tras el caso Julián Álvarez por parte de la RFEF",
@@ -5403,19 +5416,6 @@
       "fecha": "2026-09-29T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-29T05:40:26.566508"
-    },
-    {
-      "id": "7763e293fbb77b61",
-      "titulo": "El 'clásico' de los fichajes 2026-2027, para el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232269/clasico-fichajes-2026-2027-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-09-29T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-29T05:40:26.566790"
     }
   ]
 }
