@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T08:51:18.539194Z",
+  "actualizado": "2026-10-28T15:44:00.603686Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -219,6 +219,84 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "a941c3dc738785d1",
+      "titulo": "Comunicado urgente del padre de Lamine Yamal: \"Necesito ayuda como persona y ser humano\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/comunicado-urgente-padre-lamine-yamal-necesito-ayuda-familia-blaugrana-135845223",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-28T15:43:58.175825",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-28T15:43:58.175831"
+    },
+    {
+      "id": "9ca0a00e05296f21",
+      "titulo": "Henry explica su broma a Lamine Yamal durante la gala del Balón de Oro: \"No estaba comprobando su ego en absoluto\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/henry-explica-broma-lamine-yamal-135842325",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-28T15:43:58.174888",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-28T15:43:58.174903"
+    },
+    {
+      "id": "cabb791437246492",
+      "titulo": "Multa económica al Barcelona por el lanzamiento de objetos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004244268/multa-economica-barcelona-lanzamiento-objetos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-28T13:27:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-28T15:43:54.730712"
+    },
+    {
+      "id": "1e9361c265819daf",
+      "titulo": "Brian Fariñas sigue gustando al Girona, pero aún no hay contactos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004244247/brian-farinas-sigue-gustando-girona-no-hay-contactos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-28T12:28:28",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-28T15:43:54.731070"
+    },
+    {
+      "id": "80710f0c5ad55275",
+      "titulo": "El Barça, entre los clubs interesados en la lateral del Bayern Franziska Kett",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/femenino/20261028/1004244168/barca-clubs-interesados-franzika-kett.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-28T10:40:22",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-28T15:43:54.731655"
+    },
+    {
+      "id": "8d1aedd477063712",
+      "titulo": "Los datos de Araujo que entusiasman en Anfield",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004244170/datos-araujo-entusiasman-anfield.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-28T10:00:16",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-28T15:43:54.731944"
+    },
     {
       "id": "728e4fcd304af49d",
       "titulo": "Kroupi, que sonó para el Barça en verano, ya no se esconde: \"Quiero jugar en los clubes más grandes del mundo\"",
@@ -5340,84 +5418,6 @@
       "fecha": "2026-09-30T08:18:09",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-09-30T08:40:35.640820"
-    },
-    {
-      "id": "aaacf2f8da042529",
-      "titulo": "Laporta: \"Queríamos a Lautaro pero respeto a Marotta\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232837/laporta-queriamos-lautaro-respeto-marotta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-30T07:55:28",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-30T08:10:26.482106"
-    },
-    {
-      "id": "5a65559fa8c933f5",
-      "titulo": "En Inglaterra ven a Gordon como \"el nuevo ídolo\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232783/inglaterra-ven-gordon-nuevo-idolo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-09-30T05:05:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-30T05:42:06.823012"
-    },
-    {
-      "id": "24e55ad2ad958081",
-      "titulo": "Lluvia de refuerzos en el Barça para asaltar Roma",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232577/lluvia-refuerzos-asaltar-roma.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-30T03:05:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-30T03:40:26.141915"
-    },
-    {
-      "id": "3344c539546b7b5d",
-      "titulo": "Laporta: \"Gil Marín y yo hemos limado asperezas y hemos retomado la relación\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232719/laporta-gil-marin-hemos-limado-asperezas-hemos-retomado-relacion.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-29T18:59:15",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-29T19:10:32.367845"
-    },
-    {
-      "id": "526e1654a4801bf8",
-      "titulo": "Gesto tranquilizador de Raphinha",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232710/gesto-tranquilizador-raphinha.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-29T18:51:42",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-29T19:10:32.368245"
-    },
-    {
-      "id": "62ac3ddd67201033",
-      "titulo": "Laporta: \"Espero que el Real Madrid rectifique\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232696/laporta-esperamos-real-madrid-rectifique.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-09-29T18:04:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-09-29T18:40:30.645670"
     }
   ]
 }
