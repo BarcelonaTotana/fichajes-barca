@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T00:22:25.259268Z",
+  "actualizado": "2026-10-29T06:12:41.423679Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -220,6 +220,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "1a75c9c20e8df4bb",
+      "titulo": "Plan de Flick para revitalizar a su equipo",
+      "enlace": "https://www.sport.es/es/noticias/barca/plan-flick-revitalizar-equipo-135845048",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-29T06:12:39.000070",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-29T06:12:39.000081"
+    },
     {
       "id": "21503a7b9c96e57e",
       "titulo": "Joao Cancelo, dispuesto a disipar todas las dudas",
@@ -5406,19 +5419,6 @@
       "fecha": "2026-10-01T13:43:37",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-01T14:10:31.392425"
-    },
-    {
-      "id": "0bc77d73adc80a71",
-      "titulo": "En el Barça esperan hoy a Raphinha para hacerle pruebas médicas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233205/barca-esperan-hoy-raphinha-hacerle-pruebas-medicas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-01T06:02:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-01T06:40:26.108112"
     }
   ]
 }
