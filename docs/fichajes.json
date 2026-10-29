@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T13:15:07.450092Z",
+  "actualizado": "2026-10-29T18:59:27.520376Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -222,6 +222,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "b945740e1525e65f",
+      "titulo": "El FC Barcelona cierra temporalmente la Grada d'Animació",
+      "enlace": "https://www.sport.es/es/noticias/barca/fc-barcelona-cierra-temporalmente-grada-135896287",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-29T18:59:25.027364",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-29T18:59:25.027370"
+    },
+    {
+      "id": "cc880c70c2e847bc",
+      "titulo": "El Barça busca central",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-busca-central-135888448",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-29T18:59:25.026489",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-29T18:59:25.026496"
+    },
+    {
+      "id": "348bfb198b822bf5",
+      "titulo": "La caída de Rashford al infierno tras su paso por el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/caida-rashford-infierno-paso-barca-135897635",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-29T18:59:25.024853",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-29T18:59:25.024866"
+    },
     {
       "id": "fdc61b406121aede",
       "titulo": "Kounde sigue sin entrenar con el grupo y Flick prueba a Guillem Víctor",
@@ -5382,45 +5421,6 @@
       "fecha": "2026-10-03T12:06:35",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-03T12:40:26.461884"
-    },
-    {
-      "id": "08878e5f74c47cde",
-      "titulo": "Pedro Rodríguez: renovación cerrada y paciencia",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004233928/pedro-rodriguez-renovacion-cerrada-paciencia.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-03T04:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-03T04:40:24.269422"
-    },
-    {
-      "id": "9d5baf3563675f17",
-      "titulo": "El plan B",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004233678/plan-b.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-03T00:10:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-03T00:40:27.396629"
-    },
-    {
-      "id": "5372c077e769cf61",
-      "titulo": "Paloma Mikadze: \"El objetivo es que Barça Play sea una línea relevante de ingresos\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233835/paloma.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-02T16:37:59",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-02T17:10:28.100228"
     }
   ]
 }
