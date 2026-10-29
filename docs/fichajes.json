@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T20:36:04.689389Z",
+  "actualizado": "2026-10-29T00:22:25.259268Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -221,6 +221,19 @@
   ],
   "noticias": [
     {
+      "id": "21503a7b9c96e57e",
+      "titulo": "Joao Cancelo, dispuesto a disipar todas las dudas",
+      "enlace": "https://www.sport.es/es/noticias/barca/joao-cancelo-dispuesto-disipar-dudas-barcelona-135866086",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-29T00:22:22.771689",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-29T00:22:22.771703"
+    },
+    {
       "id": "c47b59c69ac2f575",
       "titulo": "Raphinha, entre los sudamericanos más influyentes de Europa en el 2026",
       "enlace": "https://www.sport.es/es/noticias/barca/raphinha-sudamericanos-influyentes-europa-2026-135856711",
@@ -271,6 +284,19 @@
       "fecha": "2026-10-28T20:36:02.310282",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-28T20:36:02.310297"
+    },
+    {
+      "id": "8b7188ff328f8bf0",
+      "titulo": "Romeu: \"La Champions nos ilusiona una barbaridad\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004244407/romeu-champions-ilusiona-barbaridad.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-28T20:33:26",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-29T00:22:18.168293"
     },
     {
       "id": "a941c3dc738785d1",
@@ -1675,6 +1701,19 @@
       "fecha": "2026-10-23T09:13:14",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-10-23T15:20:50.876652"
+    },
+    {
+      "id": "e4059398b0f34bca",
+      "titulo": "Miles de euros Saldos a 30/06/2025 Entradas y dotaciones Salidas, bajas o reducciones Saldos a 30/06/2026 Coste: Fútbol 458.476",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODBqOHJqZ1gtMjl0SmdMVzM4TXNNUU5CczFqZEZ4QVA2MFAzeGMwSUNfWm9KTlh5RHdoYnJGbl94TlAwMnZsOXVRS0NONVNfaHhpWk5hVWxBYy15dWtITUhNUjExQ0wwcDlBTTFVdDhNSl9fWUloZndyNjdSVGphSTI4MkFJeXJtUThVQkNiVTR2dEg0ODcwaV8zRWdmLVkxYl80aVV1QzhMckRBN0xLUWF0YjR1LWUzbXc2LXJMN00?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-23T07:00:00",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-10-29T00:22:16.821881"
     },
     {
       "id": "cd148fb30e18ef1e",
@@ -5380,45 +5419,6 @@
       "fecha": "2026-10-01T06:02:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-01T06:40:26.108112"
-    },
-    {
-      "id": "a7a62ec32a9acddf",
-      "titulo": "Raphinha, ya en Barcelona a la espera de las pruebas médicas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233205/barca-esperan-hoy-raphinha-hacerle-pruebas-medicas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-01T06:02:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-01T14:40:29.112485"
-    },
-    {
-      "id": "8449857fabc5cc69",
-      "titulo": "El sinsentido del culebrón de Cesc como entrenador del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233077/sinsentido-culebron-cesc-entrenador-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-01T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-01T05:00:48.530562"
-    },
-    {
-      "id": "4e4b342713b0ca44",
-      "titulo": "Los motivos del club para los precios de las entradas del Clásico",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233165/motivos-club-precios-entradas-clasico.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-01T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-01T05:40:25.548123"
     }
   ]
 }
