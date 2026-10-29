@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T18:59:27.520376Z",
+  "actualizado": "2026-10-29T23:12:55.752941Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -222,6 +222,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "9cdf3ca21f28a26d",
+      "titulo": "La respuesta de la Grada d'Animació tras su suspensión por los incidentes en el clásico",
+      "enlace": "https://www.sport.es/es/noticias/barca/respuesta-grada-danimacio-suspension-incidentes-135902945",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-29T23:12:53.412630",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-29T23:12:53.412633"
+    },
+    {
+      "id": "cfebd057addf9473",
+      "titulo": "¿Qué ha visto Flick en Guillem Víctor, el 'refuerzo' que apunta al Barça-Alavés?: \"Tiene descaro y muchísima personalidad\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/visto-flick-guillem-victor-refuerzo-barca-alaves-liga-descaro-135900368",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-29T23:12:53.411915",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-29T23:12:53.411927"
+    },
     {
       "id": "b945740e1525e65f",
       "titulo": "El FC Barcelona cierra temporalmente la Grada d'Animació",
@@ -5395,32 +5421,6 @@
       "fecha": "2026-10-05T08:27:24",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-05T08:40:27.095086"
-    },
-    {
-      "id": "983114d1151e6b6f",
-      "titulo": "El Barça gana poder institucional",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234195/barca-gana-institucional.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-04T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-04T05:40:27.106716"
-    },
-    {
-      "id": "bb2959224ecf5ffd",
-      "titulo": "Pere Romeu: \"La lluvia da partido enérgicos\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004234106/pere-romeu-lluvia-da-partido-energicos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-03T12:06:35",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-03T12:40:26.461884"
     }
   ]
 }
