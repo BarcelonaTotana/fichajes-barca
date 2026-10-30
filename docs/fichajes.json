@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T15:48:41.083211Z",
+  "actualizado": "2026-10-30T20:11:24.944541Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -223,6 +223,19 @@
   ],
   "noticias": [
     {
+      "id": "15291ed1e63b458f",
+      "titulo": "Hansi Flick llega al millón en Instagram en menos de 24 horas",
+      "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-llega-millon-instagram-135933707",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-30T20:11:22.649368",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-30T20:11:22.649378"
+    },
+    {
       "id": "27b12fc63364de8a",
       "titulo": "Flick confirma que el Barça estudia un fichaje para la defensa: \"Estamos abiertos\"",
       "enlace": "https://www.sport.es/es/noticias/barca/flick-confirma-barca-estudia-fichaje-135924376",
@@ -325,6 +338,19 @@
       "fecha": "2026-10-30T10:05:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-30T15:48:34.219701"
+    },
+    {
+      "id": "91084127a1327375",
+      "titulo": "Flick revoluciona Instagram: supera el millón de seguidores en un día",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004244959/hansi-flick-revoluciona-instagram-800-000-seguidores-24-horas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-30T10:05:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-30T20:11:18.232593"
     },
     {
       "id": "ba4b3bdbe81e1b86",
@@ -5395,32 +5421,6 @@
       "fecha": "2026-10-06T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-06T05:02:28.542862"
-    },
-    {
-      "id": "8ffcdc5007d64e76",
-      "titulo": "Fresneda o Porro: el cásting ante un Koundé en horas bajas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235083/fresneda-porro-casting-kounde-horas-bajas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-06T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-06T05:02:28.543066"
-    },
-    {
-      "id": "03af444e7602d285",
-      "titulo": "Lamine y Cubarsí, la envidia del mundo: ¿Cómo pueden ser tan maduros y diferenciales con 19 años?",
-      "enlace": "https://www.sport.es/es/noticias/barca/lamine-cubarsi-envidia-mundo-maduros-135035108",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "avanzado",
-      "fecha": "2026-10-06T04:40:32.436753",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-06T04:40:32.436764"
     }
   ]
 }
