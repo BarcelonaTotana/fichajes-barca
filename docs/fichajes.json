@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T23:12:55.752941Z",
+  "actualizado": "2026-10-30T08:59:52.341636Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -222,6 +222,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "ba4b3bdbe81e1b86",
+      "titulo": "Pedro Porro, abierto a ser un nuevo 'caso Rodri'",
+      "enlace": "https://www.sport.es/es/noticias/barca/pedro-porro-abierto-nuevo-caso-135910545",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-30T08:59:50.007757",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-30T08:59:50.007762"
+    },
+    {
+      "id": "577f8a4b11d2a7bb",
+      "titulo": "Lisandro Martínez, el central más a tiro  para el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/lisandro-martinez-central-tiro-barca-135912100",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-30T08:59:50.005734",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-30T08:59:50.005739"
+    },
+    {
+      "id": "3f2195118d035a6d",
+      "titulo": "Un aficionado recorrió 2.300 kilómetros para vivir el Clásico: \"Me gasté más de 1.000 euros por el Barça\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/aficionado-recorrio-2-300-kilometros-135878983",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-30T08:59:50.004623",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-30T08:59:50.004633"
+    },
+    {
+      "id": "546f8295fa8224e5",
+      "titulo": "Hansi Flick se hace instagramer",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004244801/hansi-flick-instagramer.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-30T06:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-30T08:59:45.284790"
+    },
+    {
+      "id": "08a11704a7807fa9",
+      "titulo": "Bastoni, abierto a escuchar al Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004244721/bastoni-abierto-escuchar-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-10-30T06:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-30T08:59:45.285123"
+    },
     {
       "id": "9cdf3ca21f28a26d",
       "titulo": "La respuesta de la Grada d'Animació tras su suspensión por los incidentes en el clásico",
@@ -5356,71 +5421,6 @@
       "fecha": "2026-10-05T11:30:46.719374",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-05T11:30:46.719387"
-    },
-    {
-      "id": "2ec0a24684cc0f5d",
-      "titulo": "Paso importante para Diego Kochen",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004234753/paso-importante-diego-kochen.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-10-05T10:42:58",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-05T11:10:26.679531"
-    },
-    {
-      "id": "4357552da354fcfd",
-      "titulo": "Iniesta: \"Cuando no pude más, pedí ayuda\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/iniesta-pude-pedi-ayuda-135011699",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-05T10:20:35.177888",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-05T10:20:35.177903"
-    },
-    {
-      "id": "5f1e46c4a1588b25",
-      "titulo": "Cinco grandes de la Premier, atentos al futuro de Koundé",
-      "enlace": "https://www.sport.es/es/noticias/barca/cinco-grandes-premier-atentos-futuro-135005093",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-05T09:57:23.653239",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-05T09:57:23.653245"
-    },
-    {
-      "id": "0d3f2b296701d32b",
-      "titulo": "Bierhoff coloca a Florian Wirtz en el Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/bierhoff-coloca-florian-wirtz-barca-135009000",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-05T09:57:23.651761",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-05T09:57:23.651773"
-    },
-    {
-      "id": "53dffb3b0047fd23",
-      "titulo": "El gran salto del Barça Atlètic",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004234668/gran-salto-barca-atletic.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-10-05T08:27:24",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-05T08:40:27.095086"
     }
   ]
 }
