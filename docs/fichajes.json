@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T10:22:08.133347Z",
+  "actualizado": "2026-10-31T15:49:23.236566Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -222,6 +222,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "102efea548af2684",
+      "titulo": "Flick tira de cantera para recibir al Alavés",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245339/flick-tira-cantera-recibir-alaves.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-31T12:22:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-31T15:49:16.739068"
+    },
     {
       "id": "38b547bb324ee63a",
       "titulo": "El último descarte de JJ Gabriel deja vía libre al Real Madrid",
@@ -5408,19 +5421,6 @@
       "fecha": "2026-10-06T08:30:44.315004",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-06T08:30:44.315017"
-    },
-    {
-      "id": "848ae657819c41e7",
-      "titulo": "¡El Barça blinda a Raphinha hasta el 2030 esta semana!",
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-blinda-raphinha-2030-semana-135045229",
-      "medio": "sport.es",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-10-06T07:20:34.002924",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-06T07:20:34.002926"
     }
   ]
 }
