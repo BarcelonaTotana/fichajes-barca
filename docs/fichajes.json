@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T20:11:24.944541Z",
+  "actualizado": "2026-10-31T10:22:08.133347Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -222,6 +222,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "38b547bb324ee63a",
+      "titulo": "El último descarte de JJ Gabriel deja vía libre al Real Madrid",
+      "enlace": "https://www.sport.es/es/noticias/barca/ultimo-descarte-jj-gabriel-deja-135941186",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-31T10:22:05.800621",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-31T10:22:05.800624"
+    },
+    {
+      "id": "e222efaadca9e20b",
+      "titulo": "El Barça, inflexible con Fermín ante una posible 'locura' del Manchester United",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-inflexible-fermin-posible-locura-135948034",
+      "medio": "sport.es",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-31T10:22:05.798798",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-31T10:22:05.798801"
+    },
+    {
+      "id": "ba05d48928320d2e",
+      "titulo": "El Aston Villa denuncia a Jamie Carragher por sus \"insultos inaceptables\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/aston-villa-denuncia-jamie-carragher-135949736",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-31T10:22:05.797375",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-31T10:22:05.797389"
+    },
     {
       "id": "15291ed1e63b458f",
       "titulo": "Hansi Flick llega al millón en Instagram en menos de 24 horas",
@@ -5382,45 +5421,6 @@
       "fecha": "2026-10-06T07:20:34.002924",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-06T07:20:34.002926"
-    },
-    {
-      "id": "a7dfc305e711c1ff",
-      "titulo": "Lamine Yamal y Pau Cubarsí, la envidia del mundo: ¿Cómo pueden ser tan maduros y diferenciales con 19 años?",
-      "enlace": "https://www.sport.es/es/noticias/barca/lamine-cubarsi-envidia-mundo-maduros-135035108",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "avanzado",
-      "fecha": "2026-10-06T07:20:34.002290",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-06T07:20:34.002302"
-    },
-    {
-      "id": "c05f37da4cc1a79b",
-      "titulo": "Lamine Yamal (19 años): \"Mi barrio, Rocafonda, es todo porque lo tengo todo ahí. Mi padre, mi abuela, mis amigos... De allí han sido mis valores y mi educación\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-rocafonda-infancia-barrio-mataro-133730792",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-06T07:10:30.392988",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-06T07:10:30.393000"
-    },
-    {
-      "id": "de3d68c0ee6cf187",
-      "titulo": "Kahn se alinea con Ter Stegen como portero de Alemania",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235155/kahn-alinea-ter-stegen-portero-alemania.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-06T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-06T05:02:28.542862"
     }
   ]
 }
