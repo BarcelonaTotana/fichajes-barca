@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T19:35:29.466275Z",
+  "actualizado": "2026-10-31T22:48:30.739820Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -222,6 +222,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "5ed7b85a19c44adf",
+      "titulo": "Doblete de Lamine para pasar página del Balón de Oro",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-pasa-pagina-balon-oro-135962899",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-31T22:48:28.225222",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-31T22:48:28.225227"
+    },
+    {
+      "id": "26b44ebb41b16b55",
+      "titulo": "Fermín se rebela contra las dudas",
+      "enlace": "https://www.sport.es/es/noticias/barca/fermin-rebela-dudas-135963001",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-31T22:48:28.223926",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-10-31T22:48:28.223938"
+    },
+    {
+      "id": "7b72c86bb151229f",
+      "titulo": "Flick: \"Fariñas y De Jong están dispuestos a ayudar al equipo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245525/flick-farinas-jong-dispuestos-ayudar-equipo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-31T19:32:06",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-10-31T22:48:23.555673"
+    },
     {
       "id": "5291840f28678ca9",
       "titulo": "Confirmado: ¡defensa revolucionaria de Flick ante el Alavés!",
@@ -5382,45 +5421,6 @@
       "fecha": "2026-10-06T12:50:33.558795",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-06T12:50:33.558809"
-    },
-    {
-      "id": "59cb986469161c5a",
-      "titulo": "El Galatasaray aclara el 'caso Icardi' antes del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235343/galatasaray-aclara-caso-icardi-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-06T12:07:02",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-06T12:40:28.383946"
-    },
-    {
-      "id": "d86ca321f0350156",
-      "titulo": "Gordon da las claves de su flechazo con el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235314/gordon-da-claves-flechazo-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-06T11:24:59",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-06T11:40:32.826171"
-    },
-    {
-      "id": "37622d1577baaf3c",
-      "titulo": "Diego Kochen lanza un guiño al Barça: \"Volver sería un sueño. Quiero tener una oportunidad\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/diego-kochen-lanza-guino-barca-135052171",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-06T10:10:00.111692",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-06T10:10:00.111704"
     }
   ]
 }
