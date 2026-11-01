@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T08:06:15.481664Z",
+  "actualizado": "2026-11-01T15:01:51.462549Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -222,6 +222,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "975d9a92f338a7fc",
+      "titulo": "El dato goleador del Barça que no se había visto nunca en la historia de la Liga",
+      "enlace": "https://www.sport.es/es/noticias/barca/dato-goleador-barca-habia-visto-135964999",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-01T15:01:48.942979",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-01T15:01:48.942984"
+    },
+    {
+      "id": "6575b901a83e293e",
+      "titulo": "Un central 'inesperado' para Flick",
+      "enlace": "https://www.sport.es/es/noticias/barca/central-inesperado-flick-135964678",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-01T15:01:48.941898",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-01T15:01:48.941908"
+    },
+    {
+      "id": "febea2ec53a718dd",
+      "titulo": "Las durísimas críticas a Lisandro favorecen aún más su salida",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261101/1004245767/durisimas-criticas-lisandro-favorecen-aun-salida.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-01T12:32:36",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-01T15:01:44.549966"
+    },
     {
       "id": "c61b190bc26e50cc",
       "titulo": "El extraño negocio del Barça con Abde",
@@ -5382,45 +5421,6 @@
       "fecha": "2026-10-07T07:30:43.964785",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-07T07:30:43.964797"
-    },
-    {
-      "id": "2caf4c839a8cfe2f",
-      "titulo": "El Bayern prepara la era post-Neuer: ¿hay sitio para Ter Stegen?",
-      "enlace": "https://www.sport.es/es/noticias/barca/bayern-prepara-post-neuer-hay-135084117",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-07T06:30:41.725824",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-07T06:30:41.725836"
-    },
-    {
-      "id": "2c8639ff805c8716",
-      "titulo": "La cuesta de octubre",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261007/1004235371/cuesta-octubre.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-07T01:35:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-07T02:00:49.169592"
-    },
-    {
-      "id": "e101897a9626ec19",
-      "titulo": "Roony Bardghji sigue avanzando en su recuperación",
-      "enlace": "https://www.sport.es/es/noticias/barca/roony-bardghji-sigue-avanzando-recuperacion-135068870",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-06T15:50:34.617705",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-06T15:50:34.617714"
     }
   ]
 }
