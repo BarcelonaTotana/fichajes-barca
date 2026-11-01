@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T22:48:30.739820Z",
+  "actualizado": "2026-11-01T01:31:39.654669Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -223,6 +223,19 @@
   ],
   "noticias": [
     {
+      "id": "95c09c2503b932d0",
+      "titulo": "Hansi Flick: \"Lamine ha recuperado confianza y ha hecho un partido fantástico\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-lamine-recuperado-confianza-135964789",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-01T01:31:37.208669",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-01T01:31:37.208680"
+    },
+    {
       "id": "5ed7b85a19c44adf",
       "titulo": "Doblete de Lamine para pasar página del Balón de Oro",
       "enlace": "https://www.sport.es/es/noticias/barca/lamine-pasa-pagina-balon-oro-135962899",
@@ -247,6 +260,19 @@
       "fecha": "2026-10-31T22:48:28.223926",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-31T22:48:28.223938"
+    },
+    {
+      "id": "0e18bde8d16346f0",
+      "titulo": "El fichaje de la Masía que se viste de héroe en el Barça B para seducir a Juliano Belletti",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdl9xYXFMb0lpdFQ3cUF6RHlVZmhEd3ZWN3NTdFdtYWZVTV9tb0o4a2lIX3c2RUdyVkFOR1lnYlY2bzFKeEdIb1RjbHJoSFNwTUYyS0JHSzdaZXRFZjlvbi1XWGpwRnpxd3drclpyR29VMmJ1bnBNb0FNRDFSTDVPbllfdUV2XzlpRUg4RldUeG5SRWRVV3RtcVkxNllQSWxBeW5KLUhHcDlxdDdKWm1JNkx0eHVuWlhMelpveUJJN3ctQUdfOEJOR0RNZHhjb01JRmEyZ0xiMNIB1wFBVV95cUxOdl9xYXFMb0lpdFQ3cUF6RHlVZmhEd3ZWN3NTdFdtYWZVTV9tb0o4a2lIX3c2RUdyVkFOR1lnYlY2bzFKeEdIb1RjbHJoSFNwTUYyS0JHSzdaZXRFZjlvbi1XWGpwRnpxd3drclpyR29VMmJ1bnBNb0FNRDFSTDVPbllfdUV2XzlpRUg4RldUeG5SRWRVV3RtcVkxNllQSWxBeW5KLUhHcDlxdDdKWm1JNkx0eHVuWlhMelpveUJJN3ctQUdfOEJOR0RNZHhjb01JRmEyZ0xiMA?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-31T22:08:37",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-11-01T01:31:38.633378"
     },
     {
       "id": "7b72c86bb151229f",
@@ -507,6 +533,19 @@
       "fecha": "2026-10-30T08:59:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-30T15:48:34.219811"
+    },
+    {
+      "id": "4e1a833b049ca7b2",
+      "titulo": "FORMULARIO PARA SOLICITAR REPRESENTACIÓN DEL FC BARCELONA EN LOS ACTOS ORGANIZADOS POR LAS PEÑAS",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWTJWUnNZYmZSa3ZwczBvZ0ZFSTVhRVNIb3Z5eDhLQTZUNTdsTDdNRHNkRFVaRUVTN0g1b19aelFKZ1RSeVlyNEZkZFJLdi11enBFTHd2Z19IRUk3TVlBNHhKTzJGODVnRE85MG4wSXpZU18tU0JvVkxDSVIySURrTGlqTTdnTGR3YlAyRXZLVmhXUGthTENDeE5Rd0ZWSF9tTmMtTkhhWVhVUWRXcDh3ZEZqb2VwR1h1dVVQUzEzOGxCNnd6N0psRDJmSHlNY2hneGc?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-10-30T07:00:00",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-11-01T01:31:31.279209"
     },
     {
       "id": "546f8295fa8224e5",
@@ -5382,45 +5421,6 @@
       "fecha": "2026-10-06T14:49:05",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-06T15:10:31.606380"
-    },
-    {
-      "id": "f724902da9ea82c9",
-      "titulo": "El ruido Barça-JJ Gabriel no cesa al cumplir 16 años",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235366/ruido-barca-jj-gabriel-no-cesa-cumplir-16-anos.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-06T13:11:07",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-06T13:40:27.839194"
-    },
-    {
-      "id": "30484830f7cb38f7",
-      "titulo": "La prensa internacional también ve favorito a Cubarsí para el Golden Boy",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235356/prensa-internacional-ve-favorito-cubarsi-golden-boy.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-06T13:04:38",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-06T13:40:27.839534"
-    },
-    {
-      "id": "73eff3d81895cc00",
-      "titulo": "De Jong: razones para el optimismo",
-      "enlace": "https://www.sport.es/es/noticias/barca/jong-razones-optimismo-135059203",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-06T12:50:33.558795",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-06T12:50:33.558809"
     }
   ]
 }
