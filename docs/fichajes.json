@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T15:01:51.462549Z",
+  "actualizado": "2026-11-01T19:36:06.310913Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -186,6 +186,7 @@
     "cdd58d239669ec52",
     "cf86e5c6af4b5e90",
     "cfc7974d49bc48e0",
+    "d0762b0f21536f62",
     "d1678f114989da7e",
     "d4d777d16cfe4c56",
     "d50e311752fe32b0",
@@ -222,6 +223,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "d0762b0f21536f62",
+      "titulo": "Kounde, de nuevo en el punto de mira del Chelsea",
+      "enlace": "https://www.sport.es/es/noticias/barca/kounde-nuevo-punto-mira-chelsea-135914308",
+      "medio": "sport.es",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-01T19:36:03.242809",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-01T19:36:03.242821"
+    },
     {
       "id": "975d9a92f338a7fc",
       "titulo": "El dato goleador del Barça que no se había visto nunca en la historia de la Liga",
@@ -5408,19 +5422,6 @@
       "fecha": "2026-10-07T07:40:33.279380",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-07T07:40:33.279394"
-    },
-    {
-      "id": "c5be5a918036df8d",
-      "titulo": "El Barça pudo fichar a Marc Pubill por cinco millones de euros",
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-pudo-fichar-marc-pubill-135085073",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-07T07:30:43.964785",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-07T07:30:43.964797"
     }
   ]
 }
