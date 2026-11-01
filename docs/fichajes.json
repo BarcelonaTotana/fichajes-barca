@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T01:31:39.654669Z",
+  "actualizado": "2026-11-01T08:06:15.481664Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -222,6 +222,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "c61b190bc26e50cc",
+      "titulo": "El extraño negocio del Barça con Abde",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261101/1004245651/extrano-negocio-barca-abde.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-01T05:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-01T08:06:09.525135"
+    },
     {
       "id": "95c09c2503b932d0",
       "titulo": "Hansi Flick: \"Lamine ha recuperado confianza y ha hecho un partido fantástico\"",
@@ -5408,19 +5421,6 @@
       "fecha": "2026-10-06T15:50:34.617705",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-06T15:50:34.617714"
-    },
-    {
-      "id": "c9739d5ee4385200",
-      "titulo": "Vinculan al Barça y a otros grandes con el talento de 15 años Ilicevic",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235419/vinculan-barca-otros-grandes-talento-15-anos-ilicevic.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-06T14:49:05",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-06T15:10:31.606380"
     }
   ]
 }
