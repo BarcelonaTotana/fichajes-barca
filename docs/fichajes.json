@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T19:36:06.310913Z",
+  "actualizado": "2026-11-01T23:02:47.542170Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -33,6 +33,7 @@
     "09144d5ce9eed317",
     "09e90e74922a2b9b",
     "0bd6cac1c05c7e5b",
+    "0c539e66ae1b08d3",
     "0ca73f3a1a9e33e9",
     "0dcc3195962dd4cd",
     "0f64cf370f746294",
@@ -223,6 +224,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "d98c819d2f300938",
+      "titulo": "Flick convierte a Fermín en su tercer hombre",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-convierte-fermin-tercer-hombre-135984488",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-01T23:02:44.708282",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-01T23:02:44.708286"
+    },
+    {
+      "id": "0c539e66ae1b08d3",
+      "titulo": "La condición del Barça para fichar a Lisandro Martínez",
+      "enlace": "https://www.sport.es/es/noticias/barca/condicion-barca-fichar-lisandro-martinez-135985026",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-01T23:02:44.707350",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-01T23:02:44.707361"
+    },
     {
       "id": "d0762b0f21536f62",
       "titulo": "Kounde, de nuevo en el punto de mira del Chelsea",
@@ -5396,32 +5423,6 @@
       "fecha": "2026-10-07T09:10:30.350707",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-07T09:10:30.350720"
-    },
-    {
-      "id": "e9a96a6c7fb9f496",
-      "titulo": "Arnau Tenas: \"Si te digo que no querría volver al Barça estaría mintiendo, sería como volver a casa\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/arnau-tenas-digo-querria-volver-135070646",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-07T09:00:55.926972",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-07T09:00:55.926983"
-    },
-    {
-      "id": "2b2f2475bbf6f936",
-      "titulo": "Giro radical en el caso JJ Gabriel: el Bayern acelera y el Barça mantiene el pulso",
-      "enlace": "https://www.sport.es/es/noticias/barca/giro-radical-caso-jj-gabriel-135085598",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-07T07:40:33.279380",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-07T07:40:33.279394"
     }
   ]
 }
