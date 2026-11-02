@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T23:02:47.542170Z",
+  "actualizado": "2026-11-02T09:47:06.375330Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -224,6 +224,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "75fe8aed91450920",
+      "titulo": "Joan Garcia, de la 'espinita' contra el Alavés al gran reto en Champions: \"Todos los porteros te dirán lo mismo...\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/joan-garcia-espinita-alaves-gran-135972132",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-02T09:47:03.985652",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-02T09:47:03.985658"
+    },
+    {
+      "id": "d8a57464bde9a8a3",
+      "titulo": "Unai Emery enciende las alarmas antes de visitar al Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/unai-emery-enciende-alarmas-visitar-135989743",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-02T09:47:03.984621",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-02T09:47:03.984629"
+    },
+    {
+      "id": "5fc496efdbf62de3",
+      "titulo": "El Barça tasa a Balde en más de 40 millones de euros",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-tasa-balde-40-millones-135991097",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-02T09:47:03.981846",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-02T09:47:03.981856"
+    },
     {
       "id": "d98c819d2f300938",
       "titulo": "Flick convierte a Fermín en su tercer hombre",
@@ -5384,45 +5423,6 @@
       "fecha": "2026-10-07T15:19:17",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-07T15:40:30.559407"
-    },
-    {
-      "id": "bf4fab6e0276ea9d",
-      "titulo": "Olmo conoce el interés del Bayern, pero no hay oferta por él",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261007/1004235878/alemania-dicen-bayern-prepara-oferton-dani-olmo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-07T15:19:17",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-07T16:40:30.096886"
-    },
-    {
-      "id": "72cfb7bbe5ecf607",
-      "titulo": "El Bayern sigue muy atento a Olmo, pero no hay oferta por él",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261007/1004235878/alemania-dicen-bayern-prepara-oferton-dani-olmo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-07T15:19:17",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-08T10:00:53.537829"
-    },
-    {
-      "id": "5d62205c4bcbc074",
-      "titulo": "La última oportunidad de Balde en el Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/ultima-oportunidad-balde-barca-135088558",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-07T09:10:30.350707",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-07T09:10:30.350720"
     }
   ]
 }
