@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T09:01:30.384468Z",
+  "actualizado": "2026-11-03T16:59:12.646029Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -230,6 +230,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "bf7e4bf794919cb5",
+      "titulo": "Hincapié, central top en la lista de Deco para el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/hincapie-central-top-lista-deco-136039666",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-03T16:59:10.045579",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-03T16:59:10.045584"
+    },
+    {
+      "id": "d0d8f41dc83170e1",
+      "titulo": "Alineaciones probables del Barcelona ante el Aston Villa del partido de la Champions League",
+      "enlace": "https://www.sport.es/es/noticias/barca/alineaciones-probables-fc-barcelona-aston-135992732",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-03T16:59:10.044328",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-03T16:59:10.044339"
+    },
+    {
+      "id": "d81733f6aca1804e",
+      "titulo": "Confirmado: los Príncipes William y George verán el Barça-Aston Villa",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261103/1004246654/confirmado-principes-william-george-veran-barca-aston-villa.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-03T11:58:25",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-03T16:59:05.369944"
+    },
+    {
+      "id": "20f2cc68d434e6d9",
+      "titulo": "Condolencias del Barça por la muerte de Jesús de Miguel",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261103/1004246537/condolencias-barca-muerte-jesus-miguel.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-03T09:16:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-03T16:59:05.370301"
+    },
     {
       "id": "2d26c6c880e38006",
       "titulo": "Las condiciones del Barça para fichar a Pedro Porro",
@@ -1516,6 +1568,19 @@
       "fecha": "2026-10-27T03:25:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-27T08:16:35.607849"
+    },
+    {
+      "id": "dcb611a86d23a412",
+      "titulo": "Proceso de adaptacion en firma para Josue Caicedo con otra cantidad importante de minutos en el Barça Atletic",
+      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWnFOWW9vZ3RTbnozSUpBTmEtU1R2clVEaWU1a2Ixc0F6Mlk0OEdvZzlvbFEyTExfSVFBYlBCd0luV19fNnYzMkdMbU5tbkswMlExaHduOW9oM1VZLUZKT2p5eG5TdkdnU1JaOGtQMnIzUlNrUkFtNC1JT21oMURzTEx2aWpVeVlSMktzYWlUS0tMTHVmY0xGUGVGakFRVlBYS1JZN0JoY2JBbmJWV1hqZ3Vfdnh3LXozMW54N3h1TGdqUF83RGx3QWNHUEhVeWhMVUNiVW5iWGxMcENzZVR6UEF2cmNoVmtJNmo3XzloOEZaNUVGZUhv?oc=5",
+      "medio": "futbolecuador.com",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-10-27T02:12:20",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-11-03T16:59:11.625469"
     },
     {
       "id": "8e6fb653a68a50d5",
@@ -5364,71 +5429,6 @@
       "fecha": "2026-10-09T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-09T05:00:56.080973"
-    },
-    {
-      "id": "4e08821444fa8f3a",
-      "titulo": "Hernández Hernández, una oportuna filtración interesada",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261009/1004236251/hernandez-hernandez-oportuna-filtracion-interesada.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-09T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-09T05:40:25.943775"
-    },
-    {
-      "id": "6cbe17c99683c482",
-      "titulo": "Xavi Espart renueva hasta 2030",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcE5DdEliVmZ5YlpFWUlIYmZHcTlhQTJmTXYwSUJkYXV5OGYyWjN0Vkt2Zy1NSDRocGJyaFlNay14WWxySHBWOW50R2M1RXVvN3dCbWFJYUtJelFRU1pvMDVucjV3Sk96dVRvSDdSS3RwNlhoZlYtaVhSNU01c2Qya2lCdzV1bWJzTUdZMXBsNDlnUjFvcDYyX2hQNmRmcjk2Z3M5MWxzTU44SU1W?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-09T03:18:48",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-10-09T14:10:27.774490"
-    },
-    {
-      "id": "d67bfda3706758ab",
-      "titulo": "Pau Victor: \"Flick es muy intenso, yo salía mareado de sus entrenamientos\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/pau-victor-flick-intenso-salia-135149085",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-08T21:20:32.740467",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-08T21:20:32.740480"
-    },
-    {
-      "id": "8119b2ff91ac5618",
-      "titulo": "Haaland puede ser una realidad para el Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/haaland-realidad-barca-135153037",
-      "medio": "sport.es",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-08T19:01:01.943208",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-08T19:01:01.943212"
-    },
-    {
-      "id": "6b847084b8f9c58b",
-      "titulo": "Osimhen reaparece con el Barça en el horizonte",
-      "enlace": "https://www.sport.es/es/noticias/barca/osimhen-reaparece-barca-horizonte-135134149",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-08T19:01:01.942163",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-08T19:01:01.942168"
     }
   ]
 }
