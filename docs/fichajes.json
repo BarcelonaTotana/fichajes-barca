@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T01:53:10.420439Z",
+  "actualizado": "2026-11-03T09:01:30.384468Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -58,6 +58,7 @@
     "27f25d89b4825926",
     "2afd8df59ff42b07",
     "2c300e65fd4f3059",
+    "2d26c6c880e38006",
     "3074515ab935956d",
     "30b73a607b581a0a",
     "30f0349c496f2926",
@@ -216,6 +217,7 @@
     "eea11ae24a1b3e53",
     "eef301f12b3bde3c",
     "f20ed5cc2751badd",
+    "f29bb28d24ffed7c",
     "f6077b9dc4673321",
     "f6e1116d885121a8",
     "f75c3f69b1a7e1a2",
@@ -228,6 +230,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "2d26c6c880e38006",
+      "titulo": "Las condiciones del Barça para fichar a Pedro Porro",
+      "enlace": "https://www.sport.es/es/noticias/barca/condiciones-barca-fichar-pedro-porro-136015815",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-03T09:01:27.098373",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-03T09:01:27.098377"
+    },
+    {
+      "id": "143be040c868e441",
+      "titulo": "Una vecina de Rocafonda, sobre Lamine Yamal: \"Lo bonito de su historia es que alguien que ha crecido en este barrio, con jóvenes con ganas de salir adelante, haya conseguido llegar tan lejos sin olvidar de dónde viene\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/vecina-rocafonda-lamine-yamal-barrio-jovenes-ayuda-visibilidad-135996186",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-03T09:01:27.096360",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-03T09:01:27.096373"
+    },
+    {
+      "id": "63861cb9fb9e65b5",
+      "titulo": "Barça-Aston Villa: Reivindicación europea",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261103/1004246361/barca-aston-villa-reivindicacion-europea.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-03T05:55:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-03T09:01:22.498552"
+    },
     {
       "id": "74ab5d9ef52c2afb",
       "titulo": "Hamza, el arma secreta del Barça para la Youth League",
@@ -2736,6 +2777,19 @@
       "fecha": "2026-10-22T10:00:36.047799",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-22T10:00:36.047811"
+    },
+    {
+      "id": "f29bb28d24ffed7c",
+      "titulo": "CONDICIONES DE VENTA DESPLAZAMIENTOS REGLAMENTO INTERNO POR EL QUE SE REGULA EL FUNCIONAMIENTO DE LOS VIAJES DE FC BARCELONA DES",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0h0MWs3Njg5WWg3bFlUX1NkR1ZNRXR3UzJaX05ack1SYlAwSnJKNkdSQnpVN045eHRyeTZCdTZTT25mLXRMLVFDWm5Gb1oyZGlRd0tGRWE5YWd5eGRnUFROdlQwNkd6WlB1LW1pUjVGTnBkdkRzRmlPYVNFNUJxeFgxRWZNU3luN252d1NzbElxSmNpOWtoRVYwWHlqNDRvb2JnVm1CQ0hCTC1vX21jaEFkbHNYNHZyRzBud090dlJEclBIajZYS1BzaGZ0Y0ZBeElicnBVVTR3a3c?oc=5",
+      "medio": "FC Barcelona (oficial)",
+      "tier": 0,
+      "tier_etiqueta": "OFICIAL",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-10-22T07:00:00",
+      "fuente_feed": "FC Barcelona (oficial)",
+      "visto_por_primera_vez": "2026-11-03T09:01:21.053068"
     },
     {
       "id": "d41c8108877fc11d",
@@ -5375,58 +5429,6 @@
       "fecha": "2026-10-08T19:01:01.942163",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-08T19:01:01.942168"
-    },
-    {
-      "id": "5bed0d7a1ac4c613",
-      "titulo": "Cristian Tello: \"Creo que Lamine no sería titular en el Barça de 2012\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/cristian-tello-creo-lamine-seria-135071439",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-08T19:01:01.940770",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-08T19:01:01.940781"
-    },
-    {
-      "id": "1143f0cc83cd9948",
-      "titulo": "Julián Álvarez pone fin a su relación con su agente",
-      "enlace": "https://www.sport.es/es/noticias/barca/julian-alvarez-pone-relacion-agente-135147242",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-08T17:30:43.780122",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-08T17:30:43.780134"
-    },
-    {
-      "id": "c2ff815204a5d6b5",
-      "titulo": "Ver a Iniesta es más barato con el Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/ver-iniesta-barato-barca-135146668",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-08T15:40:33.219226",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-08T15:40:33.219238"
-    },
-    {
-      "id": "48b8606a2688fcfd",
-      "titulo": "El Barça Atlètic comienza a vaciar la enfermería",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004236220/barca-atletic-comienza-vaciar-enfermeria.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-10-08T15:08:13",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-08T15:40:28.967357"
     }
   ]
 }
