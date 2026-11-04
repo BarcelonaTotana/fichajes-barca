@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T17:31:16.032494Z",
+  "actualizado": "2026-11-04T22:51:33.145826Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -234,6 +234,58 @@
   ],
   "noticias": [
     {
+      "id": "2066872e20886cbe",
+      "titulo": "Así está la clasificación de máximos goleadores de la Champions League 2026/27: Kylian Mbappé empata a Raphinha en el pichichi",
+      "enlace": "https://www.sport.es/es/noticias/barca/clasificacion-maximos-goleadores-champions-league-136045846",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-04T22:51:30.781926",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-04T22:51:30.781930"
+    },
+    {
+      "id": "c60243ee118f8fbb",
+      "titulo": "Aviso de Flick a Raphinha antes de un nuevo 'palizón' con Brasil",
+      "enlace": "https://www.sport.es/es/noticias/barca/aviso-flick-raphinha-nuevo-palizon-136086757",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-04T22:51:30.780973",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-04T22:51:30.780978"
+    },
+    {
+      "id": "fe2bc3557668e920",
+      "titulo": "La decisión final de Gavi: \"se queda\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/decision-final-gavi-queda-136097100",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-04T22:51:30.779605",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-04T22:51:30.779610"
+    },
+    {
+      "id": "11be5f6312d408f8",
+      "titulo": "Joan Garcia se quita un peso de encima",
+      "enlace": "https://www.sport.es/es/noticias/barca/joan-garcia-quita-peso-136085273",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-04T22:51:30.778766",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-04T22:51:30.778779"
+    },
+    {
       "id": "647b13ecba5d2d1d",
       "titulo": "El Nápoles, interesado en Gavi",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261104/1004247243/napoles-interesado-gavi.html",
@@ -284,6 +336,19 @@
       "fecha": "2026-11-04T12:00:02",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-11-04T17:31:08.678154"
+    },
+    {
+      "id": "d5fcb0bd8c378798",
+      "titulo": "Rodri, KO unas tres semanas",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261104/1004247143/rodri.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-04T12:00:02",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-04T22:51:26.217546"
     },
     {
       "id": "e47c40b53ae8d639",
@@ -5367,71 +5432,6 @@
       "fecha": "2026-10-11T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-11T06:15:22.421066"
-    },
-    {
-      "id": "52af168d53058c50",
-      "titulo": "Goles para reivindicarse",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237223/goles-reivindicarse.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-11T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-11T06:15:22.421406"
-    },
-    {
-      "id": "947713ffd50c4181",
-      "titulo": "\"Esperamos que los goles sirvan para ganar títulos\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/esperamos-goles-sirvan-ganar-titulos-135213805",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-10T21:36:41.524847",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-10T21:36:41.524858"
-    },
-    {
-      "id": "17558832e3b4239a",
-      "titulo": "Los goles de Deco",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237102/goles-deco.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-10T18:38:09",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-10T21:36:37.654738"
-    },
-    {
-      "id": "d4cc355cd0740f21",
-      "titulo": "Rafael Leao genera buenas sensaciones antes de jugar contra el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237025/rafael-leao-genera-buenas-sensaciones-jugar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-10T16:02:13",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-10T18:04:42.066966"
-    },
-    {
-      "id": "a8d4fc6d5550884a",
-      "titulo": "El ocaso de Gündogan antes de recibir al Barça: \"¿Para qué iba a estar listo si no juego?\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/ocaso-gundogan-recibir-barca-iba-135195145",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-10T13:48:58.608587",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-10T13:48:58.608598"
     }
   ]
 }
