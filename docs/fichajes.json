@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T22:51:33.145826Z",
+  "actualizado": "2026-11-05T03:10:10.657897Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -67,6 +67,7 @@
     "310c43c60c48fbc1",
     "345b79d8299bd2ab",
     "352f8451dd4e256b",
+    "3773cacfae89c87f",
     "38d94eef9ebd60b6",
     "38fbf5c51499ae05",
     "3903d499d73904bd",
@@ -310,6 +311,19 @@
       "fecha": "2026-11-04T15:53:49",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-11-04T17:31:08.677301"
+    },
+    {
+      "id": "3773cacfae89c87f",
+      "titulo": "Oficial: Raphinha firmará este jueves hasta 2030",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261104/1004247239/oficial-raphinha-firmara-manana-2030.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-04T15:53:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-05T03:10:04.810231"
     },
     {
       "id": "d03d8f132700a1e6",
@@ -5419,19 +5433,6 @@
       "fecha": "2026-10-11T09:37:28",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-11T13:02:52.426769"
-    },
-    {
-      "id": "157be44cace50cf8",
-      "titulo": "Un equipo para presumir",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237240/equipo-presumir.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-11T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-11T06:15:22.421066"
     }
   ]
 }
