@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T18:31:54.364559Z",
+  "actualizado": "2026-11-05T23:49:53.815612Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -47,6 +47,8 @@
     "15e1138a42f69040",
     "17ef18e2d0106c79",
     "1817b8a00079b0a1",
+    "187e89d05c3ce4e7",
+    "1b7a7ea983219e5d",
     "1cd533a53cd34ef5",
     "1f5fed6548852821",
     "20234a678e468e32",
@@ -242,6 +244,58 @@
   ],
   "noticias": [
     {
+      "id": "4065d821496c8519",
+      "titulo": "El incomprensible olvido de la UEFA con el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/incomprensible-olvido-uefa-barca-136131706",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-05T23:49:50.620577",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-05T23:49:50.620582"
+    },
+    {
+      "id": "8d4fbfdf34b286e0",
+      "titulo": "Pedri (23 años): “Yo estaba en la barra sirviendo bebidas, ese era mi trabajo, mi padre venía con prisa y me iba cantando los pedidos que yo tenía que servir. Mi carrera en la Tasca Fernando terminó después de una sola noche, puse todo lo que tenía en el fútbol”",
+      "enlace": "https://www.sport.es/es/noticias/barca/pedri-23-anos-barra-sirviendo-136135663",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-05T23:49:50.618873",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-05T23:49:50.618878"
+    },
+    {
+      "id": "1b7a7ea983219e5d",
+      "titulo": "El Barça quiere prolongar su idilio con el Metropolitano",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-quiere-prolongar-idilio-metropolitano-136024357",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-05T23:49:50.615661",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-05T23:49:50.615666"
+    },
+    {
+      "id": "187e89d05c3ce4e7",
+      "titulo": "El Barça amplía sus vías para fichar en enero",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-amplia-vias-fichar-enero-136108098",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-05T23:49:50.613913",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-05T23:49:50.613927"
+    },
+    {
       "id": "680f5f1e5f203b37",
       "titulo": "Maldini se moja sobre las opciones del Barça en la Champions: \"Por supuestísimo que es candidato\"",
       "enlace": "https://www.sport.es/es/noticias/barca/maldini-moja-opciones-barca-ganar-champions-136128105",
@@ -279,6 +333,19 @@
       "fecha": "2026-11-05T18:31:50.399274",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-11-05T18:31:50.399289"
+    },
+    {
+      "id": "3a968a567e4bf465",
+      "titulo": "Paso adelante de Patricio Pacífico",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261105/1004247647/paso-adelante-patricio-pacifico.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-05T18:26:11",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-05T23:49:46.165053"
     },
     {
       "id": "bb03c364ab0a9b35",
@@ -5375,71 +5442,6 @@
       "fecha": "2026-10-13T11:05:34.565280",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-13T11:05:34.565282"
-    },
-    {
-      "id": "a966bebc2ae253bd",
-      "titulo": "El Barça no estará solo en Estambul: casi 900 culés arroparán al equipo ante el Galatasaray",
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-estara-estambul-900-cules-135273770",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-13T11:05:34.563228",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-13T11:05:34.563230"
-    },
-    {
-      "id": "052adc53a2f4c57a",
-      "titulo": "Laporta: \"El Barça es el equipo que mejor juega del mundo\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/laporta-barca-equipo-mejor-juega-135274032",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-13T11:05:34.562669",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-13T11:05:34.562673"
-    },
-    {
-      "id": "f5d85915d8671967",
-      "titulo": "Boulahrouz advierte a Frenkie de Jong: \"Va a ser una batalla campal con Pedri porque a Rodri no lo mueve nadie\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/boulahrouz-advierte-frenkie-jong-batalla-135276370",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-13T11:05:34.561461",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-13T11:05:34.561469"
-    },
-    {
-      "id": "afa752d16314512f",
-      "titulo": "Pedro desvela dos anécdotas con Guardiola y Tito y explica cómo fue su adiós del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004237980/pedro-desvela-dos-anecdotas-guardiola-tito-explica-adios-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-10-13T04:30:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-13T11:05:29.164875"
-    },
-    {
-      "id": "b2230703a5815ca2",
-      "titulo": "El test personal de Pedro: define a sus mejores técnicos y elige a dos árbitros",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004237982/test-personal-pedro-define-mejores-tecnicos-elige-dos-arbitros.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-10-13T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-13T11:05:29.165047"
     }
   ]
 }
