@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T18:25:20.046749Z",
+  "actualizado": "2026-11-06T23:23:22.101217Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -203,6 +203,7 @@
     "cfc7974d49bc48e0",
     "d066c0d9b1be56b2",
     "d0762b0f21536f62",
+    "d0a5f9c127f365b3",
     "d1678f114989da7e",
     "d4d777d16cfe4c56",
     "d50e311752fe32b0",
@@ -220,6 +221,7 @@
     "e41123fdb5ece249",
     "e6801ae14559f1b4",
     "e77705c69d52f74e",
+    "e782389e796629b0",
     "e8267291c93a29f1",
     "e8b5216ed2243366",
     "e96636ed75431278",
@@ -244,6 +246,84 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "63eb6c28cdcf5d01",
+      "titulo": "Alineaciones probables del Atlético de Madrid - Barça para la jornada 12 de LaLiga EA Sports",
+      "enlace": "https://www.sport.es/es/noticias/barca/alineaciones-probables-atletico-madrid-barca-136125471",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-06T23:23:18.790100",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-06T23:23:18.790105"
+    },
+    {
+      "id": "8f9d101f9e194552",
+      "titulo": "El compromiso de Lamine Yamal con el Barça que solo el Real Madrid ha podido evitar",
+      "enlace": "https://www.sport.es/es/noticias/barca/compromiso-lamine-yamal-barca-real-madrid-atletico-metropolitano-136138028",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-06T23:23:18.788746",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-06T23:23:18.788751"
+    },
+    {
+      "id": "345ae9fcc2bf1418",
+      "titulo": "Julián Álvarez y la intrahistoria de un fichaje frustrado por el Barça que todavía inquieta al Atlético",
+      "enlace": "https://www.sport.es/es/noticias/barca/julian-alvarez-intrahistoria-fichaje-frustrado-136165049",
+      "medio": "sport.es",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-06T23:23:18.787707",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-06T23:23:18.787712"
+    },
+    {
+      "id": "2d52e1cc83c4e10c",
+      "titulo": "El Barça, atento a las gangas de enero: siete centrales que pueden estar en el mercado",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-atento-gangas-enero-siete-136149850",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-06T23:23:18.784341",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-06T23:23:18.784345"
+    },
+    {
+      "id": "e782389e796629b0",
+      "titulo": "Las condiciones del Barça para fichar en enero",
+      "enlace": "https://www.sport.es/es/noticias/barca/condiciones-barca-fichar-enero-136163021",
+      "medio": "sport.es",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-06T23:23:18.782922",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-06T23:23:18.782928"
+    },
+    {
+      "id": "d0a5f9c127f365b3",
+      "titulo": "Descartan un trueque Balde-Hincapié: \"No está en venta\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/descartan-trueque-balde-hincapie-venta-136182701",
+      "medio": "sport.es",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-06T23:23:18.780291",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-06T23:23:18.780300"
+    },
     {
       "id": "c5b93d48d807b8cb",
       "titulo": "El Barça crea la Gala Blaugrana Solidaria, la nueva iniciativa social anual para apoyar a los más desfavorecidos",
@@ -5365,84 +5445,6 @@
       "fecha": "2026-10-14T09:20:49",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-14T12:27:47.483797"
-    },
-    {
-      "id": "6f50471a217b64d1",
-      "titulo": "Ya lo avisó Pedri: \"Va a ser un espectáculo\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238572/aviso-pedri-espectaculo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-14T07:55:10",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-14T12:27:47.484254"
-    },
-    {
-      "id": "89be9cecef02d7ed",
-      "titulo": "Lo que no se vio del Galatasaray-Barça: El drama de Flick con una puerta, un Lamine Yamal especialmente activo y el infierno turco que terminó desangelado",
-      "enlace": "https://www.sport.es/es/noticias/barca/vio-galatasaray-barca-drama-flick-135306008",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-14T06:40:45.419226",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-14T06:40:45.419231"
-    },
-    {
-      "id": "b8d1542d41394d82",
-      "titulo": "El economista Xavier Sala i Martín explica el desplome de Nike: “Reconocen que perder a Lamine Yamal es el error más importante de la empresa en décadas”",
-      "enlace": "https://www.sport.es/es/noticias/barca/economista-xavier-sala-martin-explica-135304103",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-14T06:40:45.417773",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-14T06:40:45.417777"
-    },
-    {
-      "id": "9afd31e0a21f4326",
-      "titulo": "Pedri guió al Barça hasta la décima",
-      "enlace": "https://www.sport.es/es/noticias/barca/pedri-guio-barca-decima-135306957",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-14T06:40:45.415966",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-14T06:40:45.415971"
-    },
-    {
-      "id": "f271634ae84e5144",
-      "titulo": "Henry se rinde a Lamine: \"Lo que estás haciendo es increíble, no sé qué decir\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/thierry-henry-rinde-lamine-yamal-increible-barca-futbol-regate-jugador-champions-135310360",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-14T06:40:45.414524",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-14T06:40:45.414529"
-    },
-    {
-      "id": "65650907a469d495",
-      "titulo": "Rodri señala el error que el Barça debe corregir en Champions",
-      "enlace": "https://www.sport.es/es/noticias/barca/rodri-senala-error-barca-debe-135310073",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-14T06:40:45.412804",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-14T06:40:45.412810"
     }
   ]
 }
