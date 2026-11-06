@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T11:36:02.820992Z",
+  "actualizado": "2026-11-06T18:25:20.046749Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -244,6 +244,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "c5b93d48d807b8cb",
+      "titulo": "El Barça crea la Gala Blaugrana Solidaria, la nueva iniciativa social anual para apoyar a los más desfavorecidos",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-club-136171059",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-06T18:25:17.562804",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-06T18:25:17.562807"
+    },
+    {
+      "id": "d32b24fd4052e23c",
+      "titulo": "Alejandro Balde (23 años): “Mi madre me llevaba a los partidos en metro, nos hemos recorrido Barcelona en transporte público para ir a tantos campos... Mi padre era el que tenía coche, pero estaba trabajando siempre”",
+      "enlace": "https://www.sport.es/es/noticias/barca/alejandro-balde-23-anos-madre-136161258",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-06T18:25:17.561827",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-06T18:25:17.561831"
+    },
+    {
+      "id": "3bc30f746f0d6ae8",
+      "titulo": "Robert Moreno desvela lo que le pedía Iniesta en el Barça: \"Me pedían videos para encontrar espacios\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/robert-moreno-desvela-le-pedia-136178049",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-06T18:25:17.559242",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-06T18:25:17.559254"
+    },
+    {
+      "id": "6378c6a5e16480a4",
+      "titulo": "El Barça y la Fundació organizan su primera gala solidaria",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261106/1004247990/barca-fundacio-organizan-primera-gala-solidaria.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-06T16:01:53",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-06T18:25:12.646465"
+    },
+    {
+      "id": "f8998040e0b8423f",
+      "titulo": "Araujo sigue coleccionando premios en el Liverpool",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261106/1004247909/araujo-sigue-coleccionando-premios-liverpool.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-06T12:26:01",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-06T18:25:12.646895"
+    },
     {
       "id": "1bb5d119c6d462a9",
       "titulo": "Cuenta atrás para Balde en el Barça: el casting final para su salida",
@@ -5378,71 +5443,6 @@
       "fecha": "2026-10-14T06:40:45.412804",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-14T06:40:45.412810"
-    },
-    {
-      "id": "8750e212e7a001c2",
-      "titulo": "El United tira la toalla por JJ Gabriel, el Madrid aprieta y el Barça le ilusiona",
-      "enlace": "https://www.sport.es/es/noticias/barca/united-tira-toalla-jj-gabriel-135310516",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-14T06:40:45.411067",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-14T06:40:45.411078"
-    },
-    {
-      "id": "dd516b2e6b8b23cb",
-      "titulo": "Batrakov cumple su amenaza contra el Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/batrakov-cumple-amenaza-barca-135302439",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-13T22:52:21.321931",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-13T22:52:21.321937"
-    },
-    {
-      "id": "02f835631cbb1adf",
-      "titulo": "La explicación al gol de córner anulado en el Galatasaray-Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/explicacion-gol-corner-anulado-galatasaray-135302518",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-13T22:52:21.320864",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-13T22:52:21.320869"
-    },
-    {
-      "id": "05829a418a98f082",
-      "titulo": "Lamine reina a su antojo y hace grande a un Barça que conquista Estambul",
-      "enlace": "https://www.sport.es/es/noticias/barca/lamine-reina-antojo-grande-barca-135302938",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-13T22:52:21.319461",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-13T22:52:21.319468"
-    },
-    {
-      "id": "bea6b05cd3c53491",
-      "titulo": "Pedri: \"Me dolía la barriga y era mejor pedir el cambio. Me encontraba mal\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/pedri-dolia-barriga-mejor-pedir-135305042",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-13T22:52:21.317544",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-13T22:52:21.317556"
     }
   ]
 }
