@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T23:49:53.815612Z",
+  "actualizado": "2026-11-06T11:36:02.820992Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -56,6 +56,7 @@
     "22d4280182955fa2",
     "233eabc444ddc9e8",
     "2424d14d53098add",
+    "2746091287aefbfd",
     "2777903274ddc4a8",
     "279bf11271d3cee8",
     "27f25d89b4825926",
@@ -243,6 +244,84 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "1bb5d119c6d462a9",
+      "titulo": "Cuenta atrás para Balde en el Barça: el casting final para su salida",
+      "enlace": "https://www.sport.es/es/noticias/barca/cuenta-balde-barca-casting-final-136148523",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-06T11:36:00.011472",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-06T11:36:00.011476"
+    },
+    {
+      "id": "769522066ea8fda2",
+      "titulo": "Laporta, invitado especial en el nuevo estreno de Carles Sans",
+      "enlace": "https://www.sport.es/es/noticias/barca/laporta-invitado-especial-nuevo-estreno-136154626",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-06T11:36:00.009437",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-06T11:36:00.009442"
+    },
+    {
+      "id": "4c4d54c07c9de6c2",
+      "titulo": "La decisión de futuro de Abde: ni Barça, ni PSG",
+      "enlace": "https://www.sport.es/es/noticias/barca/decision-futuro-abde-barca-psg-136156569",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-06T11:36:00.008043",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-06T11:36:00.008055"
+    },
+    {
+      "id": "457e2a9839755e6a",
+      "titulo": "El legado de Raphinha",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261106/1004247786/legado-raphinha.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-06T06:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-06T11:35:56.403889"
+    },
+    {
+      "id": "6f59c84edfa1eac9",
+      "titulo": "Raphinha alucina consigo mismo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261106/1004247767/raphinha-alucina.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-06T06:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-06T11:35:56.404503"
+    },
+    {
+      "id": "aa21d86cc3d654c9",
+      "titulo": "Tras Raphinha, el Barça tiene tres renovaciones más a punto de caramelo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261106/1004247784/raphinha-barca-tres-renovaciones-punto-caramelo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-06T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-06T11:35:56.405848"
+    },
     {
       "id": "4065d821496c8519",
       "titulo": "El incomprensible olvido de la UEFA con el Barça",
@@ -645,6 +724,19 @@
       "fecha": "2026-11-04T15:53:49",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-11-05T10:53:57.337897"
+    },
+    {
+      "id": "2746091287aefbfd",
+      "titulo": "Oficial: Raphinha firma hoy hasta 2030",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261104/1004247239/oficial-raphinha-firmara-manana-2030.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-04T15:53:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-06T11:35:56.411060"
     },
     {
       "id": "d03d8f132700a1e6",
@@ -5351,97 +5443,6 @@
       "fecha": "2026-10-13T22:52:21.317544",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-13T22:52:21.317556"
-    },
-    {
-      "id": "e2c97d3ea68f17f3",
-      "titulo": "Dos asistencias de fantasía de Lamine para confirmar la remontada del Barça en Turquía",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004238415/dos-asistencias-fantasia-lamine-confirmar-remontada.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-13T20:28:23",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-13T22:52:17.044976"
-    },
-    {
-      "id": "291d47c9228b7865",
-      "titulo": "¡Dani Olmo saldrá como delantero centro ante el Galatasaray!",
-      "enlace": "https://www.sport.es/es/noticias/barca/dani-olmo-saldra-delantero-centro-135293898",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-13T18:12:37.656140",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-13T18:12:37.656145"
-    },
-    {
-      "id": "78b847e027d1dbd9",
-      "titulo": "Dónde ver el Galatasaray - Barcelona de la Champions League hoy por TV, en directo y online",
-      "enlace": "https://www.sport.es/es/noticias/barca/donde-ver-galatasaray-barcelona-champions-league-tv-directo-135293455",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-13T18:12:37.654468",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-13T18:12:37.654479"
-    },
-    {
-      "id": "704be73f714f4b91",
-      "titulo": "El plan anti-Lamine de Okan Buruk",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004238181/plan-anti-lamine-okan-buruk.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-13T13:18:27",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-13T18:12:33.025942"
-    },
-    {
-      "id": "4eafa29e6b2409c7",
-      "titulo": "Cuatro supervivientes en el Barça de la última visita al Galatasaray",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004238124/vqerg.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-13T12:42:03",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-13T18:12:33.026256"
-    },
-    {
-      "id": "0637438b95c3a665",
-      "titulo": "Revolución total del Barça en el infierno turco",
-      "enlace": "https://www.sport.es/es/noticias/barca/revolucion-total-barca-infierno-turco-135269238",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-13T11:05:34.565883",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-13T11:05:34.565884"
-    },
-    {
-      "id": "a37309323e15d7f2",
-      "titulo": "Pau Cubarsí: \"Puede ser que se haya normalizado, tengo 19 años y estoy empezando, pero la edad no es importante y tengo que hacer lo mismo que todos\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/pau-cubarsi-normalizado-19-anos-futbol-barca-importancia-135269631",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-13T11:05:34.565280",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-13T11:05:34.565282"
     }
   ]
 }
