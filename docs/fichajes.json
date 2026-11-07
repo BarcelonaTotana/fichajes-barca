@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T09:57:56.358331Z",
+  "actualizado": "2026-11-07T16:12:57.502219Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -247,6 +247,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "d801cfeac958bb57",
+      "titulo": "Hansi Flick mantiene las incógnitas en el lateral derecho y el pivote del Barça: \"Lo consultaré con la almohada\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-mantiene-incognitas-lateral-derecho-pivote-barcelona-atletico-madrid-metropolitano-liga-136195491",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-07T16:12:55.047847",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-07T16:12:55.047852"
+    },
+    {
+      "id": "d270f68ebf664229",
+      "titulo": "La fecha del regreso de Rodri: convencido que jugará contra el Manchester City",
+      "enlace": "https://www.sport.es/es/noticias/barca/fecha-regreso-rodri-convencido-jugara-136176192",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-07T16:12:55.045427",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-07T16:12:55.045440"
+    },
+    {
+      "id": "f071110c79e06255",
+      "titulo": "Flick llega al Metropolitano con dos refuerzos y una incógnita en el once",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248286/flick-llega-metropolitano-dos-refuerzos-incognita-once.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-07T13:52:09",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-07T16:12:49.420718"
+    },
     {
       "id": "bcb2bc3cc22a172c",
       "titulo": "Las claves del fichaje de JJ Gabriel por el Real Madrid que descolocó al Barça: 15 millones y el factor Bellingham",
@@ -5407,45 +5446,6 @@
       "fecha": "2026-10-15T06:58:20.677779",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-15T06:58:20.677783"
-    },
-    {
-      "id": "d82745fb2714e58e",
-      "titulo": "El Barça perdió a una joven promesa senegalesa por decisión familiar",
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-perdio-joven-promesa-senegalesa-135353352",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-15T06:58:20.676833",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T06:58:20.676836"
-    },
-    {
-      "id": "b4d65961f669ba06",
-      "titulo": "Los tres jugadores predilectos de Flick",
-      "enlace": "https://www.sport.es/es/noticias/barca/tres-jugadores-predilectos-flick-135351888",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-15T06:58:20.675781",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T06:58:20.675796"
-    },
-    {
-      "id": "33c6bcc5642a7c7c",
-      "titulo": "Un poco de Adeyemi es mucho para el Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004238845/poco-adeyemi-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-15T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-15T06:58:16.017002"
     }
   ]
 }
