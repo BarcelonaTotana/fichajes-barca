@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T16:12:57.502219Z",
+  "actualizado": "2026-11-07T20:17:14.323036Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -247,6 +247,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "f63626abf9c0446b",
+      "titulo": "La máquina goleadora de Flick pone a prueba la defensa de Simeone",
+      "enlace": "https://www.sport.es/es/noticias/barca/maquina-goleadora-flick-pone-prueba-136091325",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-07T20:17:11.903918",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-07T20:17:11.903932"
+    },
+    {
+      "id": "7d9b4cdd974bd583",
+      "titulo": "La Premier League pone sus ojos en Ebrima Tunkara",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248341/premier-league-pone-ojos-ebrima-tunkara.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-07T17:14:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-07T20:17:07.876071"
+    },
     {
       "id": "d801cfeac958bb57",
       "titulo": "Hansi Flick mantiene las incógnitas en el lateral derecho y el pivote del Barça: \"Lo consultaré con la almohada\"",
@@ -5420,32 +5446,6 @@
       "fecha": "2026-10-15T07:00:00",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-10-17T22:41:11.574995"
-    },
-    {
-      "id": "f7ddacb3b80eadce",
-      "titulo": "¿Pueden jugar juntos Fermín y Olmo?",
-      "enlace": "https://www.sport.es/es/noticias/barca/jugar-fermin-olmo-135317061",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-15T06:58:20.681677",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T06:58:20.681681"
-    },
-    {
-      "id": "0d86d48c3c904db9",
-      "titulo": "El futuro de Frenkie de Jong se complica",
-      "enlace": "https://www.sport.es/es/noticias/barca/futuro-frenkie-jong-complica-135352767",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-15T06:58:20.677779",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T06:58:20.677783"
     }
   ]
 }
