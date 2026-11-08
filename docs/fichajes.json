@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T20:17:14.323036Z",
+  "actualizado": "2026-11-08T09:33:59.385890Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -247,6 +247,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "a1b3ec30499f22fb",
+      "titulo": "Horario y dónde ver el Atlético de Madrid - FC Barcelona de LaLiga EA Sports hoy por TV y en directo",
+      "enlace": "https://www.sport.es/es/noticias/barca/horario-ver-atletico-madrid-fc-barcelona-liga-metropolitano-136194782",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-08T09:33:56.947801",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-08T09:33:56.947803"
+    },
+    {
+      "id": "e837b5bf09f81713",
+      "titulo": "Lista de convocados del Barça para el partido ante el Atlético de Madrid",
+      "enlace": "https://www.sport.es/es/noticias/barca/lista-convocados-barca-partido-atletico-136217036",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-08T09:33:56.947082",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-08T09:33:56.947094"
+    },
+    {
+      "id": "351ed803796286c8",
+      "titulo": "El sueño imposible de Fabián Ruiz",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248439/sueno-imposible-fabian-ruiz.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-08T06:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-08T09:33:53.139977"
+    },
+    {
+      "id": "2b0bbe83060e1e6a",
+      "titulo": "Otra gran reválida y liderato en juego para el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248466/gran-revalida-liderato-juego-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-08T05:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-08T09:33:53.140393"
+    },
+    {
+      "id": "3800cd802d8a0e09",
+      "titulo": "O capitão",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248307/capitao.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-08T04:20:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-08T09:33:53.140693"
+    },
     {
       "id": "f63626abf9c0446b",
       "titulo": "La máquina goleadora de Flick pone a prueba la defensa de Simeone",
@@ -5381,71 +5446,6 @@
       "fecha": "2026-10-15T15:53:33",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-15T17:19:47.603408"
-    },
-    {
-      "id": "25ee3c1d427a2f15",
-      "titulo": "El Tottenham pediría un pastón al Barça por Porro",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004239117/cantidad-pide-tottenham-pedro-porro.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-15T13:26:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-15T17:19:47.604068"
-    },
-    {
-      "id": "7eb45e7985c16e47",
-      "titulo": "El Tottenham advierte al Barça: Pedro Porro tendrá precio de récord",
-      "enlace": "https://www.sport.es/es/noticias/barca/tottenham-advierte-barca-pedro-porro-135369874",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-15T12:34:13.607795",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T12:34:13.607799"
-    },
-    {
-      "id": "a97e9a96fe902dd4",
-      "titulo": "Pedro Rodríguez: \"El día que debuté en el Barça pensé 'hasta aquí hemos llegado'\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/pedro-rodriguez-dia-debute-barca-135276120",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-15T12:34:13.606709",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T12:34:13.606720"
-    },
-    {
-      "id": "f8ade590e8c7c8b8",
-      "titulo": "Simón Escobar, al que colocaban en la órbita del Barça, renueva con Vélez",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004239070/simon-escobar-colocaban-orbita-barca-renueva-velez.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-15T11:13:29",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-15T12:34:09.563719"
-    },
-    {
-      "id": "c636ed980e63b923",
-      "titulo": "Miles de euros 30/06/2026 30/06/2025 Deudas a largo plazo Deudas con entidades de crédito, obligaciones y otros valores negocia",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXZtenBnWGwtb0tXRHg3cU9YOE4wRHI1NVZSbldyX1R3bjdJT1V1c0U2dC1NREtDTWg3OWNoc3Z0dko3VEhUWTFjSzQtMndrdmxlRFl5bXFqeVNhdFQ4RUZNVmZtc0lLc1UzdXJULXJJUFdTS1RqajExTElJM3U2VEh4WHpjN09XQjd6SUJmcElnY3QzaTBhd2hsVmJHZFlSV1JCenF0TzBYYXF0c2VYbGJTUzBJVTFRelV3?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-15T07:00:00",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-10-17T22:41:11.574995"
     }
   ]
 }
