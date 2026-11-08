@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T20:36:20.217470Z",
+  "actualizado": "2026-11-08T23:59:49.108913Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -247,6 +247,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "3c55983873f8a84c",
+      "titulo": "Fermín celebra sus 100 partidos en LaLiga con doblete",
+      "enlace": "https://www.sport.es/es/noticias/barca/fermin-celebra-100-partidos-laliga-136232481",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-08T23:59:46.657307",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-08T23:59:46.657320"
+    },
     {
       "id": "a95c60acb87fdde3",
       "titulo": "Esta es la alineación del Barça contra el Atlético en el Metropolitano",
@@ -5433,19 +5446,6 @@
       "fecha": "2026-10-15T23:10:46.323027",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-15T23:10:46.323030"
-    },
-    {
-      "id": "c48e6af719e62bbf",
-      "titulo": "La verdad sobre la decisión del Liverpool con Araujo",
-      "enlace": "https://www.sport.es/es/noticias/barca/decision-liverpool-araujo-135340078",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-15T23:10:46.321864",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T23:10:46.321875"
     }
   ]
 }
