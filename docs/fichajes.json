@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T09:33:59.385890Z",
+  "actualizado": "2026-11-08T16:18:46.567278Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -247,6 +247,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "37c4b241ab56ee0a",
+      "titulo": "Laporta y Cerezo zanjan el 'Caso Julián Álvarez'",
+      "enlace": "https://www.sport.es/es/noticias/barca/laporta-cerezo-zanjan-caso-julian-136223295",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-08T16:17:53.993508",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-08T16:17:53.993520"
+    },
+    {
+      "id": "06317d93c5b1b825",
+      "titulo": "Laporta pasa página con Julián Álvarez: \"Las relaciones con el Atlético son buenas\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248646/laporta-comida-directivas-cerezo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-08T14:04:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-08T16:17:50.378599"
+    },
+    {
+      "id": "00f4b9dc949acd60",
+      "titulo": "Nuevo nombre como posible refuerzo invernal del Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248632/nuevo-nombre-posible-refuerzo-invernal-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-08T13:25:03",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-08T16:17:50.378893"
+    },
     {
       "id": "a1b3ec30499f22fb",
       "titulo": "Horario y dónde ver el Atlético de Madrid - FC Barcelona de LaLiga EA Sports hoy por TV y en directo",
@@ -5407,45 +5446,6 @@
       "fecha": "2026-10-15T20:24:58.421640",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-15T20:24:58.421645"
-    },
-    {
-      "id": "34d6b0bb266ce354",
-      "titulo": "Adeyemi consigue lo que no hizo Cristiano en la Champions League",
-      "enlace": "https://www.sport.es/es/noticias/barca/adeyemi-hizo-cristiano-champions-league-135385595",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-15T20:24:58.420299",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T20:24:58.420311"
-    },
-    {
-      "id": "cd4dcc32ceb71ff8",
-      "titulo": "Hansi Flick se 'pulveriza' a sí mismo: \"Y decían que no teníamos gol\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-pulveriza-decian-teniamos-gol-barca-135337110",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-15T17:19:51.394395",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T17:19:51.394406"
-    },
-    {
-      "id": "f011f20831df44a4",
-      "titulo": "Precios de locura en la reventa del PSG-Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004239158/precios-locura-reventa-psg-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-15T15:53:33",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-15T17:19:47.603408"
     }
   ]
 }
