@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T16:18:46.567278Z",
+  "actualizado": "2026-11-08T20:36:20.217470Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -247,6 +247,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "a95c60acb87fdde3",
+      "titulo": "Esta es la alineación del Barça contra el Atlético en el Metropolitano",
+      "enlace": "https://www.sport.es/es/noticias/barca/alineacion-barca-atletico-metropolitano-136228792",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-08T20:36:17.722663",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-08T20:36:17.722665"
+    },
+    {
+      "id": "8b0e1ff26d648012",
+      "titulo": "Flick explica por qué no juega De Jong ante el Atlético de Madrid",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-explica-juega-jong-atletico-136231258",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-08T20:36:17.721687",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-08T20:36:17.721704"
+    },
+    {
+      "id": "79d98e4c3e4d7906",
+      "titulo": "La afición del Barça entra en el Metropolitano al grito de \"Julián es culé\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248767/aficion-barca-entra-metropolitano-grito-julian-cule.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-08T19:55:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-08T20:36:13.131560"
+    },
     {
       "id": "37c4b241ab56ee0a",
       "titulo": "Laporta y Cerezo zanjan el 'Caso Julián Álvarez'",
@@ -5407,45 +5446,6 @@
       "fecha": "2026-10-15T23:10:46.321864",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-15T23:10:46.321875"
-    },
-    {
-      "id": "f6a930d7a9097589",
-      "titulo": "El Barça mantiene el plan con Jesse Bisiwu",
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-mantiene-plan-jesse-bisiwu-135364646",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "avanzado",
-      "fecha": "2026-10-15T20:24:58.424285",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T20:24:58.424289"
-    },
-    {
-      "id": "6c48e32e19b10c62",
-      "titulo": "Las dos caras del mercado del Barça: 180 millones de revalorización y un saldo negativo en las salidas",
-      "enlace": "https://www.sport.es/es/noticias/barca/caras-mercado-barca-180-millones-135339121",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-15T20:24:58.423432",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T20:24:58.423436"
-    },
-    {
-      "id": "071d061e7988a7e4",
-      "titulo": "Real Betis - FC Barcelona: a qué hora y dónde ver el partido de la jornada 9 de LaLiga EA Sports 2026/27",
-      "enlace": "https://www.sport.es/es/noticias/barca/real-betis-fc-barcelona-hora-135385379",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-15T20:24:58.421640",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T20:24:58.421645"
     }
   ]
 }
