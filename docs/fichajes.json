@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T23:59:49.108913Z",
+  "actualizado": "2026-11-09T15:58:36.217678Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -16,6 +16,7 @@
     "nico gonzalez",
     "olivier nkamhoua",
     "paloma mikadze",
+    "pau cubarsi",
     "ruben iranzo",
     "ter stegen",
     "van asten"
@@ -228,6 +229,7 @@
     "e96636ed75431278",
     "e9c7014657f2b01e",
     "ea808076b691ebf8",
+    "eab5c3b3ea788712",
     "ec2ad5ac04ad89bb",
     "ed20b49c576f59d0",
     "edf6a2c3c27df9b6",
@@ -247,6 +249,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "b7c50e0945d5350c",
+      "titulo": "Miri, tío de Fermín López: \"Cuando se fue al Barça, sus padres iban a visitarlo cada 20 días, iban en coche desde Huelva hasta Barcelona, ha sido un sacrificio bastante grande\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/miri-tio-fermin-lopez-barca-136247375",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-09T15:58:33.299915",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-09T15:58:33.299919"
+    },
+    {
+      "id": "626e58a8313fd76b",
+      "titulo": "El padre de Nijstad rompe su silencio sobre el interés del Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/padre-nijstad-rompe-silencio-interes-136253067",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-09T15:58:33.297973",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-09T15:58:33.297978"
+    },
+    {
+      "id": "eab5c3b3ea788712",
+      "titulo": "Oficial: Pau Cubarsí es el Golden Boy 2026",
+      "enlace": "https://www.sport.es/es/noticias/barca/oficial-pau-cubarsi-golden-boy-136250023",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-09T15:58:33.296843",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-09T15:58:33.296856"
+    },
+    {
+      "id": "878d8fd119f94d1e",
+      "titulo": "El nuevo Frenkie de Jong vale por cuatro",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004248979/nuevo-frenkie-jong-vale-cuatro.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-09T10:36:55",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-09T15:58:28.998833"
+    },
     {
       "id": "3c55983873f8a84c",
       "titulo": "Fermín celebra sus 100 partidos en LaLiga con doblete",
@@ -5394,58 +5448,6 @@
       "fecha": "2026-10-16T08:38:13",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-16T11:33:44.091879"
-    },
-    {
-      "id": "af7d8693f0096514",
-      "titulo": "Lamine Yamal lo tiene todo estudiadísimo",
-      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-estudiadisimo-135335347",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-16T06:13:41.993058",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-16T06:13:41.993064"
-    },
-    {
-      "id": "42830ee29e7c49aa",
-      "titulo": "El secreto está en lo que el Barça evita: la virtud menos visible de Flick",
-      "enlace": "https://www.sport.es/es/noticias/barca/secreto-barca-evita-virtud-visible-135389064",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-16T06:13:41.991805",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-16T06:13:41.991817"
-    },
-    {
-      "id": "6c406148f9531eb5",
-      "titulo": "¿Por qué Lamine Yamal mira todos los partidos del Betis?",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239217/lamine-yamal-mira-todos-partidos-betis.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-16T02:15:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-16T06:13:37.218191"
-    },
-    {
-      "id": "1f54517f139fdb6e",
-      "titulo": "El Liverpool desiste por Marc Bernal",
-      "enlace": "https://www.sport.es/es/noticias/barca/liverpool-desiste-marc-bernal-135337975",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-15T23:10:46.323027",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-15T23:10:46.323030"
     }
   ]
 }
