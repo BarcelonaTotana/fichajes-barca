@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T00:05:55.685827Z",
+  "actualizado": "2026-11-10T07:09:13.832275Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -251,6 +251,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "0e94bab84764fdd0",
+      "titulo": "La anécdota del Rodri más humilde: \"Se tiró un colchón ahí en la habitación...\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/divertida-anecdota-rodri-humilde-barcelona-aston-villa-champions-136013694",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-10T07:09:11.450168",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-10T07:09:11.450184"
+    },
+    {
+      "id": "82dd5d7b0f2d3b99",
+      "titulo": "Cambios que cambian",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249221/cambios-cambian.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-10T05:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-10T07:09:07.015700"
+    },
     {
       "id": "e08b707e04a76038",
       "titulo": "La operación central se encalla: el Bayern cierra la puerta a uno de los objetivos de Flick y Deco",
@@ -5424,32 +5450,6 @@
       "fecha": "2026-10-17T08:51:12.840047",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-17T08:51:12.840058"
-    },
-    {
-      "id": "9375201ecac7a816",
-      "titulo": "Olmo y Koundé, en el radar del Bayern, pero sin movimientos en enero",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239714/bayern.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-17T07:44:46",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-17T08:51:07.228222"
-    },
-    {
-      "id": "d2c28002430951f5",
-      "titulo": "Betis-Barça: Partidazo y dos 'fichajes'",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239657/betis-barca-partidazo-dos-fichajes.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-17T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-17T08:51:07.228574"
     }
   ]
 }
