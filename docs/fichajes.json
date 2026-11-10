@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T07:09:13.832275Z",
+  "actualizado": "2026-11-10T15:33:57.666535Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -252,6 +252,71 @@
   ],
   "noticias": [
     {
+      "id": "d899c4787f8b137c",
+      "titulo": "Steven Gerrard compara a Lamine Yamal con Messi y Cristiano: \"Está por encima de ellos a los 19 años\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/steven-gerrard-compara-lamine-yamal-136279438",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-10T15:33:55.134321",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-10T15:33:55.134322"
+    },
+    {
+      "id": "1c0adb3106324d40",
+      "titulo": "La sorprendente reacción de Balde al saber que De Jong iba a jugar de lateral",
+      "enlace": "https://www.sport.es/es/noticias/barca/sorprendente-reaccion-balde-jong-iba-136284878",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-10T15:33:55.133524",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-10T15:33:55.133525"
+    },
+    {
+      "id": "6f5bcf4ab012c3cb",
+      "titulo": "El mensaje de De Jong a Flick: \"Todo el mundo sabe que soy centrocampista\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/mensaje-jong-flick-mundo-centrocampista-136293051",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-10T15:33:55.132819",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-10T15:33:55.132822"
+    },
+    {
+      "id": "7ab35566e2d1e7de",
+      "titulo": "Lamine Yamal cumple otra de sus promesas del Mundial: regala auriculares Beats por Barcelona",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-cumple-promesas-mundial-regalar-auriculares-beats-136293798",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-10T15:33:55.132206",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-10T15:33:55.132216"
+    },
+    {
+      "id": "9b33a38418e2ead7",
+      "titulo": "Tah y el Barça: una historia que vuelve dos años y 20 'kilos' después",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249330/tah-barca-historia-vuelve-dos-anos-20-kilos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-10T08:46:47",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-10T15:33:50.687030"
+    },
+    {
       "id": "0e94bab84764fdd0",
       "titulo": "La anécdota del Rodri más humilde: \"Se tiró un colchón ahí en la habitación...\"",
       "enlace": "https://www.sport.es/es/noticias/barca/divertida-anecdota-rodri-humilde-barcelona-aston-villa-champions-136013694",
@@ -341,6 +406,19 @@
       "fecha": "2026-11-09T17:35:24",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-11-10T00:05:48.302239"
+    },
+    {
+      "id": "f3880164eade40b5",
+      "titulo": "El Barça arrasa en el palmarés de los premios Golden Boy: cinco jugadores lo han ganado desde su creación en 2003",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004249157/barca-arrasa-palmares-premios-golden-boy.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-09T17:35:24",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-10T15:33:50.688825"
     },
     {
       "id": "b7c50e0945d5350c",
@@ -5372,84 +5450,6 @@
       "fecha": "2026-10-17T12:21:03",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-17T12:41:46.608607"
-    },
-    {
-      "id": "b3025935146c63e8",
-      "titulo": "Pedri (23 años): \"A mucha gente no le gusta estar en casa, pero yo la verdad es que disfruto mucho estando con la familia, me he adaptado a la vida que te toca vivir",
-      "enlace": "https://www.sport.es/es/noticias/barca/pedri-23-anos-gente-le-135425451",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-17T08:51:12.851523",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-17T08:51:12.851528"
-    },
-    {
-      "id": "f2075fb373df274a",
-      "titulo": "El once celestial del Barça: el equipo eterno de la historia blaugrana",
-      "enlace": "https://www.sport.es/es/noticias/barca/once-celestial-barca-equipo-eterno-135155933",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-17T08:51:12.850183",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-17T08:51:12.850187"
-    },
-    {
-      "id": "57430e8f119a7567",
-      "titulo": "Tres partidazos en ocho días: el Barça, ante la hora de la verdad",
-      "enlace": "https://www.sport.es/es/noticias/barca/tres-partidazos-ocho-dias-llega-hora-verdad-barcelona-135388258",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-17T08:51:12.846543",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-17T08:51:12.846547"
-    },
-    {
-      "id": "b52851ea3b1e51ba",
-      "titulo": "\"La cabeza marca la diferencia, he visto talentos descomunales que se han perdido\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/cabeza-marca-diferencia-he-visto-135429865",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-10-17T08:51:12.844956",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-17T08:51:12.844961"
-    },
-    {
-      "id": "12454e84c16b54e5",
-      "titulo": "Lamine Yamal (19 años): \"Mi infancia fue en Rocafonda, el polideportivo es lo más especial porque me cogía un helado de diez céntimos y estaba allí toda la tarde jugando. Estábamos desde las cuatro de la tarde hasta las nueve, hasta que se iban las luces\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-infancia-rocafonda-recuerdos-helado-polideportivo-jugar-135406222",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-17T08:51:12.841552",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-17T08:51:12.841557"
-    },
-    {
-      "id": "65150ae1a085df2f",
-      "titulo": "Impacto Joao Cancelo",
-      "enlace": "https://www.sport.es/es/noticias/barca/impacto-joao-cancelo-135438991",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-17T08:51:12.840047",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-17T08:51:12.840058"
     }
   ]
 }
