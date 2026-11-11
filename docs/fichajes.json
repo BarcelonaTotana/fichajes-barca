@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T21:24:46.468937Z",
+  "actualizado": "2026-11-11T01:22:05.025217Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -43,6 +43,7 @@
     "10c093e3e5f4eedd",
     "10ecb8140963287e",
     "12104adbc07a780e",
+    "144b4adf2f0882a5",
     "1567e55836f60ac1",
     "158ac38fd80cae55",
     "158c66cbb29b7567",
@@ -252,6 +253,19 @@
   ],
   "noticias": [
     {
+      "id": "144b4adf2f0882a5",
+      "titulo": "Joan Garcia: \"La Champions es un objetivo, no debe ser una obsesión\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249643/joan-garcia-champions-objetivo-no-debe-obsesion.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-10T22:55:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-11T01:21:57.962126"
+    },
+    {
       "id": "b9db622203cb8f97",
       "titulo": "Gerard Martin: \"No tenemos que obsesionarnos con la Champions\"",
       "enlace": "https://www.sport.es/es/noticias/barca/gerard-martin-obsesionarnos-champions-136299136",
@@ -367,6 +381,19 @@
       "fecha": "2026-11-10T17:55:35",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-11-10T21:24:39.595820"
+    },
+    {
+      "id": "f11b9906f21dfb9b",
+      "titulo": "Dos bajas más para un Barça Atlètic que se queda en cuadro para el duelo ante el Girona B",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249592/dos-bajas-barca-atletic-cuadro-duelo-girona-b.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-10T17:55:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-11T01:21:57.963427"
     },
     {
       "id": "2cadeb05b834854b",
@@ -5424,32 +5451,6 @@
       "fecha": "2026-10-18T08:06:08",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-18T09:21:32.629099"
-    },
-    {
-      "id": "f9bff7b89236aed5",
-      "titulo": "El vuelo de regreso del Barça, confirmado a las 12h",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240094/barca-sigue-sevilla.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T07:09:39",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-18T09:21:32.629381"
-    },
-    {
-      "id": "c1a9be906db231a6",
-      "titulo": "Lamine 'Bestial' congela la caldera de La Cartuja y el Barça aniquila al Betis",
-      "enlace": "https://www.sport.es/es/noticias/barca/lamine-bestial-congela-caldera-cartuja-135451831",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-17T20:44:50.687911",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-17T20:44:50.687915"
     }
   ]
 }
