@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T16:05:43.219055Z",
+  "actualizado": "2026-11-11T22:39:11.075329Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -381,6 +381,19 @@
       "fecha": "2026-11-11T06:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-11-11T08:01:34.080174"
+    },
+    {
+      "id": "a91e965ec77985e9",
+      "titulo": "Fermín López no entiende de pierna mala: análisis de sus 46 goles en la élite",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249733/fermin-lopez-no-entiende-pierna-mala-analisis-45-goles-elite.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-11T06:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-11T22:39:04.120489"
     },
     {
       "id": "144b4adf2f0882a5",
@@ -5438,19 +5451,6 @@
       "fecha": "2026-10-18T14:05:20",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-18T16:41:45.878788"
-    },
-    {
-      "id": "021b3fc9d0827b2b",
-      "titulo": "Teresa Messia, psicóloga deportiva, sobre Pau Cubarsí: \"El problema aparece cuando empiezas a vivir pendiente de demostrar que puedes con todo y te olvidas de disfrutar de lo que haces\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/teresa-messia-psicologa-deportiva-pau-135464102",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-18T13:25:07.865123",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-18T13:25:07.865126"
     }
   ]
 }
