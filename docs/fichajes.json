@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T01:22:05.025217Z",
+  "actualizado": "2026-11-11T08:01:41.252151Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -252,6 +252,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "ee81e85956ec4711",
+      "titulo": "Toni Kroos cuestiona el estilo de juego del Barça: \"No ganará la Champions\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/toni-kroos-cuestiona-estilo-juego-136310474",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-11T08:01:38.800188",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-11T08:01:38.800192"
+    },
+    {
+      "id": "88b919e5c8ee2b16",
+      "titulo": "El Ajax pone difícil el fichaje de Youri Baas por el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/ajax-pone-dificil-fichaje-youri-136312706",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-11T08:01:38.798542",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-11T08:01:38.798546"
+    },
+    {
+      "id": "7d924bc816f9a8c5",
+      "titulo": "El Barça, atento a un descarte del City para enero",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-atento-descarte-city-enero-136313677",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-11T08:01:38.797845",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-11T08:01:38.797858"
+    },
+    {
+      "id": "f11e865108fc10b9",
+      "titulo": "Fermín López no entiende de pierna mala: análisis de sus 45 goles en la élite",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249733/fermin-lopez-no-entiende-pierna-mala-analisis-45-goles-elite.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-11T06:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-11T08:01:34.079718"
+    },
+    {
+      "id": "61cc40f8a511e586",
+      "titulo": "Partidos dentro del partido",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249650/partidos-partido.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-11T06:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-11T08:01:34.080174"
+    },
     {
       "id": "144b4adf2f0882a5",
       "titulo": "Joan Garcia: \"La Champions es un objetivo, no debe ser una obsesión\"",
@@ -5386,71 +5451,6 @@
       "fecha": "2026-10-18T09:21:37.496888",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-18T09:21:37.496892"
-    },
-    {
-      "id": "4a5113808f3b0193",
-      "titulo": "Lo que no se vio en el Betis-Barça: la 'terapia' de Flick, el asombro de Rakitic y el cónclave Gordon-Adeyemi",
-      "enlace": "https://www.sport.es/es/noticias/barca/vio-betis-barca-terapia-flick-135454967",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T09:21:37.494907",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-18T09:21:37.494912"
-    },
-    {
-      "id": "b07372e51b041a38",
-      "titulo": "El audio del VAR del gol anulado al Betis: \"El Barça nunca tiene el control del balón\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/audio-var-gol-anulado-betis-135460259",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-18T09:21:37.493271",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-18T09:21:37.493275"
-    },
-    {
-      "id": "9ce6dec8f9f3e85a",
-      "titulo": "Maldini analiza la victoria del Barça y las jugadas más polémicas: \"Puede parecer un poco raro, pero...\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/maldini-analiza-victoria-barca-jugadas-135462484",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T09:21:37.492182",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-18T09:21:37.492188"
-    },
-    {
-      "id": "774d45f3dfb1f2af",
-      "titulo": "La 'Odisea' del Barça en Sevilla: el cameo Laporta-Sebastián Yatra, el Mario Kart y el cónclave de Flick",
-      "enlace": "https://www.sport.es/es/noticias/barca/odisea-barca-sevilla-cameo-laporta-135463542",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T09:21:37.490596",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-18T09:21:37.490608"
-    },
-    {
-      "id": "d497f6fb25efd706",
-      "titulo": "Problemas en el PSG para frenar a Lamine",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240105/problemas-psg-frenar-lamine.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T08:06:08",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-18T09:21:32.629099"
     }
   ]
 }
