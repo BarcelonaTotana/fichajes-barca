@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T08:01:41.252151Z",
+  "actualizado": "2026-11-11T16:05:43.219055Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -252,6 +252,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "942f97202dfade14",
+      "titulo": "\"¿Rodri? No sé lo que pasó ahí, pero el Madrid se lo pierde\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/rodri-paso-madrid-pierde-136327332",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-11T16:05:40.762027",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-11T16:05:40.762031"
+    },
+    {
+      "id": "4ddf591c7cccb835",
+      "titulo": "El Barça vuelve a la carga por Nijstad",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-vuelve-carga-nijstad-136326243",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-11T16:05:40.760891",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-11T16:05:40.760896"
+    },
+    {
+      "id": "0d8f914016c676e7",
+      "titulo": "Gavi (22 años): \"Hoy doy gracias a mis padres, fueron los primeros en tener claro que debían traerme aquí. Era muy pequeño y no quería salir de mi pueblo, separarme de los amigos, era cambiar de vida totalmente\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/gavi-22-anos-hoy-doy-136338639",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-11T16:05:40.759416",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-11T16:05:40.759428"
+    },
+    {
+      "id": "a66b9c77a1d5c1e0",
+      "titulo": "Laporta estará el sábado en el homenaje a Johan Cruyff en Nueva York",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249917/laporta-estara-sabado-homenaje-johan-cruyff-nueva-york.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-11T15:03:40",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-11T16:05:36.563781"
+    },
+    {
+      "id": "d229bc8548f7bec0",
+      "titulo": "Ter Stegen habla de su relación con Flick y su futuro en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249904/ter-stegen-habla-relacion-flick-futuro-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-11T13:59:45",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-11T16:05:36.563970"
+    },
     {
       "id": "ee81e85956ec4711",
       "titulo": "Toni Kroos cuestiona el estilo de juego del Barça: \"No ganará la Champions\"",
@@ -5386,71 +5451,6 @@
       "fecha": "2026-10-18T13:25:07.865123",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-18T13:25:07.865126"
-    },
-    {
-      "id": "0bf6f3cdbc51e2ac",
-      "titulo": "Flick 'mima' a la plantilla del Barça tras el accidentado regreso de Sevilla",
-      "enlace": "https://www.sport.es/es/noticias/barca/flick-mima-plantilla-barca-accidentado-135465393",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T13:25:07.864209",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-18T13:25:07.864212"
-    },
-    {
-      "id": "2646537da43fe69f",
-      "titulo": "Radiografía de un inicio de Liga perfecto",
-      "enlace": "https://www.sport.es/es/noticias/barca/radiografia-inicio-liga-perfecto-135457467",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T13:25:07.863047",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-18T13:25:07.863051"
-    },
-    {
-      "id": "3b3a761607163430",
-      "titulo": "París, en plena tensión social antes de recibir al Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/paris-plena-tension-social-recibir-135467447",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T13:25:07.860683",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-18T13:25:07.860687"
-    },
-    {
-      "id": "75f20fe2a3750c17",
-      "titulo": "Flick avala el fichaje de Jeltsch",
-      "enlace": "https://www.sport.es/es/noticias/barca/flick-avala-fichaje-jeltsch-135457903",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T13:25:07.859416",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-18T13:25:07.859430"
-    },
-    {
-      "id": "5faf8f801613803a",
-      "titulo": "El Barça presiona al Real Madrid",
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-presiona-real-madrid-135456672",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T09:21:37.496888",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-18T09:21:37.496892"
     }
   ]
 }
