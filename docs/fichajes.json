@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12T11:39:30.930078Z",
+  "actualizado": "2026-11-12T19:08:08.114023Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -253,6 +253,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "892265bb60161289",
+      "titulo": "Christensen, el regreso silencioso de un líder muy respetado en el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/christensen-regreso-silencioso-lider-respetado-136342527",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-12T19:08:05.712789",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-12T19:08:05.712804"
+    },
     {
       "id": "908b6763a8c47f65",
       "titulo": "El Twente se pone duro con el Barça por Nijstad",
@@ -5439,19 +5452,6 @@
       "fecha": "2026-10-19T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-19T23:18:15.092743"
-    },
-    {
-      "id": "d7aea00c53000c76",
-      "titulo": "El Celta confirma la cesión de Samu Araujo al Barça B",
-      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR2h4SjRSa2FqS20xNDV1OTdYNDYwNXh4SHRuXzdtdm92UkJVN0hheHpzQy1WWHEycHUwMW4xaXl0bHMxc0NqUEVXS3JWN1dUbUY1ODFCOVFGT0QxZFl5blhZV0pzcUlFd05JVTlFd2RqaWQwV1lGMnFMNU9jeE9Bek9kODlZME15YjdVVnJ5ZzA5V2d5eEJscDhWT1fSAZwBQVVfeXFMTUdoeEo0UmthakttMTQ1dTk3WDQ2MDV4eEh0bl83bXZvdlJCVTdIYXh6c0MtVlhxMnB1MDFuMWl5dGxzMXNDalBFV0tyVjdXVG1GNTgxQjlRRk9EMWRZeW5YWVdKc3FJRXdOSVU5RXdkamlkMFdZRjJxTDVPY3hPQXpPZDg5WTBNeWI3VVZyeWcwOVdneXhCbHA4Vk9X?oc=5",
-      "medio": "BeSoccer",
-      "tier": 3,
-      "tier_etiqueta": "Verificar",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-10-18T21:47:48",
-      "fuente_feed": "Barça Atlètic",
-      "visto_por_primera_vez": "2026-10-19T14:02:50.959559"
     }
   ]
 }
