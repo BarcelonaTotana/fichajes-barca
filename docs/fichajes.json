@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T22:39:11.075329Z",
+  "actualizado": "2026-11-12T11:39:30.930078Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -178,6 +178,7 @@
     "ae11430778915027",
     "af0089361f15efe2",
     "afa752d16314512f",
+    "b18e7c1b979d2fde",
     "b3025935146c63e8",
     "b3719da09d156cc6",
     "b4c0c9c8ccf1b13e",
@@ -252,6 +253,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "908b6763a8c47f65",
+      "titulo": "El Twente se pone duro con el Barça por Nijstad",
+      "enlace": "https://www.sport.es/es/noticias/barca/twente-pone-duro-barca-nijstad-136355165",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-12T11:39:27.864365",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-12T11:39:27.864367"
+    },
+    {
+      "id": "9ead302d711a9b3d",
+      "titulo": "El Barça ya conoce el precio de Tresoldi",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-conoce-precio-tresoldi-136356036",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-12T11:39:27.863069",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-12T11:39:27.863071"
+    },
+    {
+      "id": "b18e7c1b979d2fde",
+      "titulo": "\"Creo que el Liverpool debería fichar sí o sí a Balde\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/creo-liverpool-deberia-fichar-o-136359440",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-12T11:39:27.862193",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-12T11:39:27.862196"
+    },
+    {
+      "id": "c32b1154c30b7cce",
+      "titulo": "El gran desafío de Kounde: un aniversario con deberes",
+      "enlace": "https://www.sport.es/es/noticias/barca/gran-desafio-kounde-aniversario-deberes-136360245",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-12T11:39:27.861430",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-12T11:39:27.861443"
+    },
     {
       "id": "942f97202dfade14",
       "titulo": "\"¿Rodri? No sé lo que pasó ahí, pero el Madrid se lo pierde\"",
@@ -5399,58 +5452,6 @@
       "fecha": "2026-10-18T21:47:48",
       "fuente_feed": "Barça Atlètic",
       "visto_por_primera_vez": "2026-10-19T14:02:50.959559"
-    },
-    {
-      "id": "51fc8075964b4e7e",
-      "titulo": "Eric Garcia rompe su silencio tras la lesión: \"Me da rabia y pena\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/eric-garcia-rompe-silencio-lesion-135477894",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T21:22:58.636859",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-18T21:22:58.636871"
-    },
-    {
-      "id": "dcbb1f53a742f55b",
-      "titulo": "Escasas opciones de Flick para la defensa en París con el cartucho Rodri ante las tres bajas",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240266/escasas-opciones-flick-defensa-paris-cartucho-rodri-tres-bajas.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T16:10:18",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-18T16:41:45.878238"
-    },
-    {
-      "id": "807e75f8baba1093",
-      "titulo": "Digne ya sabe cómo las gasta Lamine",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240240/digne-gasta-lamine.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-18T15:36:08",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-18T16:41:45.878532"
-    },
-    {
-      "id": "b47cb26846b41bdc",
-      "titulo": "Desembarco barcelonista con 2.200 culés en París",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261018/1004240211/desembarco-barcelonista-2-200-cules-paris.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-18T14:05:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-18T16:41:45.878788"
     }
   ]
 }
