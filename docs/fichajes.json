@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T00:17:15.211060Z",
+  "actualizado": "2026-11-13T06:56:30.275154Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -253,6 +253,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "9b9d2081af9919e8",
+      "titulo": "Capellas tenía razón con Christensen",
+      "enlace": "https://www.sport.es/es/noticias/barca/capellas-tenia-razon-christensen-136298145",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-13T06:56:27.851832",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-13T06:56:27.851844"
+    },
     {
       "id": "037d484fe53f6a43",
       "titulo": "Balde, el lujo desaprovechado por el Barça",
@@ -5439,19 +5452,6 @@
       "fecha": "2026-10-19T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-19T06:45:53.281956"
-    },
-    {
-      "id": "3f9c70b5d219bf91",
-      "titulo": "Los fichajes del Barça 2026-27 ya se cargaron al PSG",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240274/fichajes-barca-2026-27-cargarse-psg.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-19T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-19T06:45:53.282448"
     }
   ]
 }
