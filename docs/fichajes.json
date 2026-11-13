@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T15:09:45.366891Z",
+  "actualizado": "2026-11-13T21:25:13.369588Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -253,6 +253,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "9f97e1343186778c",
+      "titulo": "Lío en Inglaterra: el Príncipe Guillermo puso en riesgo a la Corona viajando al Camp Nou para ver el Barça-Aston Villa",
+      "enlace": "https://www.sport.es/es/noticias/barca/lio-inglaterra-principe-guillermo-puso-136420827",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-13T21:25:10.930435",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-13T21:25:10.930439"
+    },
+    {
+      "id": "7342bd040045e148",
+      "titulo": "Eric Garcia juega el partido más solidario junto a la Fundación AVAN",
+      "enlace": "https://www.sport.es/es/noticias/barca/eric-garcia-juega-partido-solidario-136422346",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-13T21:25:10.928986",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-13T21:25:10.929000"
+    },
+    {
+      "id": "30350e2d62aee234",
+      "titulo": "Vinculan al Barça con un central de futuro de Brasil",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250723/vinculan-barca-central-futuro-brasil.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-13T17:53:46",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-13T21:25:06.697350"
+    },
     {
       "id": "bc77d5ee43a87df1",
       "titulo": "Hamza Andelkarim no se mueve del Barça: su padre responde a los rumores de salida",
@@ -5413,45 +5452,6 @@
       "fecha": "2026-10-19T14:02:49.392783",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-19T14:02:49.392797"
-    },
-    {
-      "id": "7433867a0ac9b926",
-      "titulo": "Luis Enrique da la fórmula para frenar a Lamine Yamal: \"Que el Barça no tenga el balón\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/luis-enrique-da-formula-frenar-135494253",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-19T14:02:49.391608",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-19T14:02:49.391621"
-    },
-    {
-      "id": "39368c0c9d2bec29",
-      "titulo": "El PSG sí podrá contar con los 'tocados' Akliouche y Mayulu, dos verdugos del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240597/psg-podra-contar-tocados-akliouche-mayulu-dos-verdugos-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-19T13:37:31",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-19T14:02:45.203240"
-    },
-    {
-      "id": "ac4a4b0fb4552e5c",
-      "titulo": "'Barça Team': apagón en el Bernabéu antes del Clásico",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240529/barca-team-apagon-bernabeu.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-19T12:42:30",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-19T14:02:45.203633"
     }
   ]
 }
