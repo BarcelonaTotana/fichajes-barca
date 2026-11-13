@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12T19:08:08.114023Z",
+  "actualizado": "2026-11-13T00:17:15.211060Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -253,6 +253,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "037d484fe53f6a43",
+      "titulo": "Balde, el lujo desaprovechado por el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/balde-lujo-desaprovechado-barca-136385314",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-13T00:17:12.646826",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-13T00:17:12.646835"
+    },
     {
       "id": "892265bb60161289",
       "titulo": "Christensen, el regreso silencioso de un líder muy respetado en el Barça",
@@ -5439,19 +5452,6 @@
       "fecha": "2026-10-19T05:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-19T06:45:53.282448"
-    },
-    {
-      "id": "8bacfb2528bf401e",
-      "titulo": "Los fichajes del Barça 2026-27 ya vencieron al PSG",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240274/fichajes-barca-2026-27-cargarse-psg.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-19T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-19T23:18:15.092743"
     }
   ]
 }
