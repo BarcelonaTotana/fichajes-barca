@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T06:56:30.275154Z",
+  "actualizado": "2026-11-13T15:09:45.366891Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -253,6 +253,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "bc77d5ee43a87df1",
+      "titulo": "Hamza Andelkarim no se mueve del Barça: su padre responde a los rumores de salida",
+      "enlace": "https://www.sport.es/es/noticias/barca/hamza-andelkarim-mueve-barca-padre-136411242",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-13T15:09:42.892524",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-13T15:09:42.892536"
+    },
+    {
+      "id": "bafaba9407f34277",
+      "titulo": "Hamza no se plantea una salida en enero",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250644/hamza-no-plantea-salida-enero.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-13T14:43:38",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-13T15:09:38.279493"
+    },
+    {
+      "id": "ecd089af22dfd12b",
+      "titulo": "Jardel: \"Casi fui al Barcelona\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250602/jardel-barcelona.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-13T12:47:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-13T15:09:38.279781"
+    },
+    {
+      "id": "483fb778cb01223d",
+      "titulo": "Sugieren en Brasil ver a otros delanteros por Raphinha",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250520/sugieren-brasil-ver-otros-delanteros-raphinha.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-13T09:20:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-13T15:09:38.280359"
+    },
     {
       "id": "9b9d2081af9919e8",
       "titulo": "Capellas tenía razón con Christensen",
@@ -5400,58 +5452,6 @@
       "fecha": "2026-10-19T12:42:30",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-19T14:02:45.203633"
-    },
-    {
-      "id": "f16bbbd9424a65d6",
-      "titulo": "El Barça ya está en París para la gran cita ante el PSG",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240570/barca-paris-gran-cita-psg.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-19T12:01:44",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-19T14:02:45.204114"
-    },
-    {
-      "id": "e96636ed75431278",
-      "titulo": "Hansi Flick mueve ficha por las lesiones en el Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-mueve-ficha-lesiones-135479456",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-10-19T06:45:57.076638",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-19T06:45:57.076643"
-    },
-    {
-      "id": "223178054a723d40",
-      "titulo": "JJ Gabriel: decisión inminente",
-      "enlace": "https://www.sport.es/es/noticias/barca/jj-gabriel-decision-inminente-135482705",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-19T06:45:57.075530",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-19T06:45:57.075541"
-    },
-    {
-      "id": "728a7fc63c4136d0",
-      "titulo": "Así juega el PSG: la misma fórmula que le hizo bicampeón",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240363/asi-juega-psg-formula-le-hizo-bicampeon.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-19T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-19T06:45:53.281956"
     }
   ]
 }
