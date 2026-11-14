@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T21:25:13.369588Z",
+  "actualizado": "2026-11-14T01:33:55.870121Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -212,6 +212,7 @@
     "d0a5f9c127f365b3",
     "d1678f114989da7e",
     "d4d777d16cfe4c56",
+    "d4ebb77aa0dbc532",
     "d50e311752fe32b0",
     "d532d8b9c73e8b85",
     "d5d7c661b08565b2",
@@ -253,6 +254,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "d4ebb77aa0dbc532",
+      "titulo": "Ya a la venta el calendario oficial del Barça 2027",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/secciones/20261114/1004249540/venta-calendario-oficial-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-13T23:15:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-14T01:33:48.934070"
+    },
     {
       "id": "9f97e1343186778c",
       "titulo": "Lío en Inglaterra: el Príncipe Guillermo puso en riesgo a la Corona viajando al Camp Nou para ver el Barça-Aston Villa",
@@ -5439,19 +5453,6 @@
       "fecha": "2026-10-19T14:02:49.393813",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-19T14:02:49.393817"
-    },
-    {
-      "id": "c008b454fc0fbcf5",
-      "titulo": "Piden aplazar el PSG - Barça por miedo a nuevos disturbios en París, pero el Gobierno francés lo descarta",
-      "enlace": "https://www.sport.es/es/noticias/barca/piden-aplazar-psg-barca-miedo-135495456",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-19T14:02:49.392783",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-19T14:02:49.392797"
     }
   ]
 }
