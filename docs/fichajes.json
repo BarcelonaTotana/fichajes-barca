@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T01:33:55.870121Z",
+  "actualizado": "2026-11-14T07:59:21.750348Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -254,6 +254,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "86e48cde24f00597",
+      "titulo": "La mano derecha de Flick desvela el secreto de los jugadores del Barça: \"Son muy competitivos, no dejan de mejorar y aprender\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/mano-derecha-flick-desvela-secreto-136426862",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-14T07:59:19.419783",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-14T07:59:19.419795"
+    },
+    {
+      "id": "a71593a5c5b4cd0f",
+      "titulo": "Los datos confirman el doble rasero arbitral entre Barça y Madrid",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250682/datos-confirman-doble-rasero-arbitral-barca-madrid.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-14T06:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-14T07:59:14.902905"
+    },
     {
       "id": "d4ebb77aa0dbc532",
       "titulo": "Ya a la venta el calendario oficial del Barça 2027",
@@ -5427,32 +5453,6 @@
       "fecha": "2026-10-19T19:51:09.290721",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-19T19:51:09.290726"
-    },
-    {
-      "id": "8d302ff0af4e6b6f",
-      "titulo": "Cumbre decisiva para el futuro de Joao Félix",
-      "enlace": "https://www.sport.es/es/noticias/barca/cumbre-decisiva-futuro-joao-felix-135457901",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-19T19:51:09.289375",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-19T19:51:09.289388"
-    },
-    {
-      "id": "1c2aa3c992384932",
-      "titulo": "Javier Alberola Rojas, el favorito para arbitrar el clásico",
-      "enlace": "https://www.sport.es/es/noticias/barca/javier-alberola-rojas-favorito-arbitrar-135490707",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-19T14:02:49.393813",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-19T14:02:49.393817"
     }
   ]
 }
