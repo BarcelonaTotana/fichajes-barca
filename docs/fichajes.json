@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T14:56:45.431759Z",
+  "actualizado": "2026-11-14T19:47:33.904934Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -9,6 +9,7 @@
     "golden boy",
     "hamza abdelkarim",
     "jesse bisiwu",
+    "jonathan tah",
     "jorge salinas",
     "josue caicedo",
     "juan ybarra",
@@ -142,6 +143,7 @@
     "735ae30c907ad06a",
     "73e6b94e0f4d61a3",
     "745703ac2fc48f0c",
+    "76eb79fdd1678a7d",
     "7a12dcc68856feba",
     "7c3ea763e659ec84",
     "7f5de7c97cea0906",
@@ -255,6 +257,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "92f6fe4b8762b854",
+      "titulo": "Fermín López (23 años): \"Mi familia es muy humilde y siempre me han ayudado en todo, y me han inculcado que tenga los pies en el suelo\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/fermin-lopez-23-anos-familia-humilde-136425455",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-14T19:47:30.900836",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-14T19:47:30.900840"
+    },
+    {
+      "id": "76eb79fdd1678a7d",
+      "titulo": "Jonathan Tah no es opción para el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/jonathan-tah-opcion-barca-136437885",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-14T19:47:30.899893",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-14T19:47:30.899897"
+    },
+    {
+      "id": "738d5d02dadbb1ea",
+      "titulo": "Goikoetxea, exjugador del Barça del 'Dream Team': \"Laudrup se fue al Madrid porque ya no aguantaba más con Cruyff\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/goikoetxea-exjugador-barca-dream-team-136447660",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-14T19:47:30.898897",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-14T19:47:30.898902"
+    },
+    {
+      "id": "cf3b07ba96a88e6b",
+      "titulo": "Mounir Nasraoui, padre de Lamine Yamal: “Rocafonda es el mejor barrio del mundo y de España, porque todos somos iguales y nos queremos por igual. Una referencia para todos”",
+      "enlace": "https://www.sport.es/es/noticias/barca/mounir-nasraoui-padre-lamine-yamal-136448483",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-14T19:47:30.897069",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-14T19:47:30.897081"
+    },
+    {
+      "id": "0e89bd0111407a49",
+      "titulo": "La CBF confirma que no libera a Raphinha: \"Permanece con nosotros\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250988/cbf-confirma-no-libera-raphinha-permanece.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-14T16:02:42",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-14T19:47:26.061883"
+    },
     {
       "id": "50061068e42ae36d",
       "titulo": "Rajada de Raphinha tras su expulsión con Brasil: \"Cuando también juegas contra el árbitro todo se complica muchísimo\"",
@@ -5389,71 +5456,6 @@
       "fecha": "2026-10-20T07:11:22.043422",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-20T07:11:22.043425"
-    },
-    {
-      "id": "5bca1fb16b757cbf",
-      "titulo": "Lamine Yamal (19 años): \"Mi familia de Guinea vive en una ciudad llamada Bata, fui con mi madre cuando tenía siete años, pero quiero volver. De pequeño no me gustaba que me hiciesen fotos y mi madre me obligó\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-19-anos-familia-135504313",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-20T07:11:22.042211",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T07:11:22.042214"
-    },
-    {
-      "id": "723ce1c5a1639726",
-      "titulo": "La cuenta pendiente del Barça en la plaza más difícil",
-      "enlace": "https://www.sport.es/es/noticias/barca/cuenta-pendiente-barca-plaza-dificil-135524389",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T07:11:22.041361",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T07:11:22.041364"
-    },
-    {
-      "id": "bea18e4cdc1d8c4a",
-      "titulo": "Dani Rodríguez, otro negocio para el Barça: la joya explota en Croacia",
-      "enlace": "https://www.sport.es/es/noticias/barca/dani-rodriguez-negocio-barca-joya-135525128",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "oficial",
-      "fecha": "2026-10-20T07:11:22.040331",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T07:11:22.040344"
-    },
-    {
-      "id": "8640bc53f4fdb3c3",
-      "titulo": "Espectáculo en París",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240859/espectaculo-paris.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T04:15:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-20T07:11:17.723786"
-    },
-    {
-      "id": "a846b26584d42df1",
-      "titulo": "La solución defensiva",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240789/solucion-defensiva.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T04:05:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-20T07:11:17.724014"
     }
   ]
 }
