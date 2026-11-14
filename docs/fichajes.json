@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T07:59:21.750348Z",
+  "actualizado": "2026-11-14T14:56:45.431759Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -79,6 +79,7 @@
     "38fbf5c51499ae05",
     "3903d499d73904bd",
     "3916dd3ee8186767",
+    "393a9dbe7b789e35",
     "39e3e610937d0eb6",
     "3a4e296039b2c79a",
     "3b3868743b3b44cd",
@@ -254,6 +255,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "50061068e42ae36d",
+      "titulo": "Rajada de Raphinha tras su expulsión con Brasil: \"Cuando también juegas contra el árbitro todo se complica muchísimo\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/rajada-raphinha-expulsion-brasil-juegas-136438404",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-14T14:56:42.603157",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-14T14:56:42.603166"
+    },
+    {
+      "id": "65c8bb2d115818aa",
+      "titulo": "Rashford será importante en el ManU de Pochettino",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250928/rashford-sera-importante-manu-pochettino.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-14T13:48:50",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-14T14:56:39.110989"
+    },
+    {
+      "id": "393a9dbe7b789e35",
+      "titulo": "Marc Casadó: \"Para jugar contra el Barça no hay cláusula del miedo\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250901/marc-casado-no-hay-clausula-miedo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-14T12:11:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-14T14:56:39.111748"
+    },
+    {
+      "id": "cb59f9a2a80d3d06",
+      "titulo": "El Bayer Leverkusen, cerca de renovar a Maza ante el temor a Barça, City y PSG",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250876/bayer-leverkusen-cerca-renovar-maza-temor-barca-city-psg.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-14T10:08:59",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-14T14:56:39.112655"
+    },
     {
       "id": "86e48cde24f00597",
       "titulo": "La mano derecha de Flick desvela el secreto de los jugadores del Barça: \"Son muy competitivos, no dejan de mejorar y aprender\"",
@@ -5401,58 +5454,6 @@
       "fecha": "2026-10-20T04:05:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-20T07:11:17.724014"
-    },
-    {
-      "id": "2d1e128ef001bbbd",
-      "titulo": "Desafío en París antes del Clásico",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240857/desafio-paris-clasico.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T04:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-20T07:11:17.724297"
-    },
-    {
-      "id": "7782eed70b162936",
-      "titulo": "Araujo no se moja por su continuidad en Liverpool: \"Es pronto\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/araujo-moja-continuidad-liverpool-pronto-135504234",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-19T23:18:19.902743",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-19T23:18:19.902747"
-    },
-    {
-      "id": "6314531865da6953",
-      "titulo": "Manzambi, sensación de la Premier, en la órbita del Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/manzambi-sensacion-premier-orbita-barca-135514867",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-19T23:18:19.901740",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-19T23:18:19.901750"
-    },
-    {
-      "id": "2e719558e14cba77",
-      "titulo": "Sheila, madre de Lamine Yamal: \"No puedo decir que lo ha conseguido, siempre le digo que sea él y que no se le suba nunca\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/sheila-madre-lamine-yamal-decir-135514414",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-19T19:51:09.290721",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-19T19:51:09.290726"
     }
   ]
 }
