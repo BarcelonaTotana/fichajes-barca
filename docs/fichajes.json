@@ -1,10 +1,11 @@
 {
-  "actualizado": "2026-11-14T19:47:33.904934Z",
+  "actualizado": "2026-11-14T23:25:57.142537Z",
   "total": 400,
   "cerradas": [
     "alex campos",
     "carla julia",
     "celia segura",
+    "entradas museo",
     "gabriel jesus",
     "golden boy",
     "hamza abdelkarim",
@@ -229,6 +230,7 @@
     "e378643781efd1d5",
     "e3a94229afba7283",
     "e41123fdb5ece249",
+    "e505dbf475ebb2fd",
     "e6801ae14559f1b4",
     "e77705c69d52f74e",
     "e782389e796629b0",
@@ -250,6 +252,7 @@
     "f75c3f69b1a7e1a2",
     "f7bd0b5b8e22028e",
     "f8ade590e8c7c8b8",
+    "fa3aa12f25ab2447",
     "fa8e9a7abfd2ddc7",
     "faad9cff51be995d",
     "fe35c0498995f2d9",
@@ -257,6 +260,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "24e0ddbf0550aa36",
+      "titulo": "Eric Garcia: “Gordon está aprendiendo catalán y haciendo clases, en el vestuario intentamos ponerle las cosas fáciles y ayudarlo un poco con algunas palabras”",
+      "enlace": "https://www.sport.es/es/noticias/barca/eric-garcia-gordon-aprendiendo-catalan-136448698",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-14T23:25:53.832239",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-14T23:25:53.832243"
+    },
+    {
+      "id": "e505dbf475ebb2fd",
+      "titulo": "Pedro Porro solo quiere Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/pedro-porro-quiere-barca-136449322",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-14T23:25:53.830899",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-14T23:25:53.830903"
+    },
+    {
+      "id": "bc5a390a9989dcb9",
+      "titulo": "Álvaro Pescador, ex entrenador de Rodri: \"Lo que más me sorprendió fue que la familia dio como condición para traerlo desde Villanueva de la Cañada a Majadahonda habilitar un espacio donde poder estudiar y hacer las tareas\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/alvaro-pescador-ex-entrenador-rodri-136449782",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-14T23:25:53.830034",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-14T23:25:53.830048"
+    },
     {
       "id": "92f6fe4b8762b854",
       "titulo": "Fermín López (23 años): \"Mi familia es muy humilde y siempre me han ayudado en todo, y me han inculcado que tenga los pies en el suelo\"",
@@ -5417,45 +5459,6 @@
       "fecha": "2026-10-20T07:11:22.047675",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-20T07:11:22.047677"
-    },
-    {
-      "id": "a0e2b9a00130faf6",
-      "titulo": "El Barça conquistó la Recopa ante el PSG: la noche europea de Robson y Mourinho",
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-conquisto-recopa-psg-noche-135508804",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-20T07:11:22.046143",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T07:11:22.046147"
-    },
-    {
-      "id": "29fa229d97575496",
-      "titulo": "El PSG tiembla con Lamine: \"Poner a Digne a defenderle sería un suicidio\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/psg-tiembla-lamine-poner-digne-135524315",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T07:11:22.044181",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T07:11:22.044184"
-    },
-    {
-      "id": "6a24fabb684e52e9",
-      "titulo": "La revancha de Ferran Torres: el despecho que provocó su salida del Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/revancha-ferran-torres-despecho-provoco-135524452",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-20T07:11:22.043422",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T07:11:22.043425"
     }
   ]
 }
