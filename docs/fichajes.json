@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T23:25:57.142537Z",
+  "actualizado": "2026-11-15T10:31:14.024754Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -260,6 +260,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "51c36f61f1503e66",
+      "titulo": "Suben las ofertas por Fermín",
+      "enlace": "https://www.sport.es/es/noticias/barca/suben-ofertas-fermin-136446029",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-15T10:31:11.584167",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-15T10:31:11.584170"
+    },
+    {
+      "id": "98f88837bb5c32ee",
+      "titulo": "Lamine Yamal (19 años): \"Estoy estudiando cocina, la chef va a mi casa por la noche, me hace la comida y mientras voy mirando y aprendiendo, poco a poco\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-estudios-cocina-chef-casa-135362978",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-15T10:31:11.583694",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-15T10:31:11.583705"
+    },
     {
       "id": "24e0ddbf0550aa36",
       "titulo": "Eric Garcia: “Gordon está aprendiendo catalán y haciendo clases, en el vestuario intentamos ponerle las cosas fáciles y ayudarlo un poco con algunas palabras”",
@@ -5433,32 +5459,6 @@
       "fecha": "2026-10-20T07:11:22.050960",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-20T07:11:22.050963"
-    },
-    {
-      "id": "172798f56f926654",
-      "titulo": "Fuegos artificiales de madrugada en el hotel del Barça en París",
-      "enlace": "https://www.sport.es/es/noticias/barca/fuegos-artificiales-madrugada-hotel-barca-135523792",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T07:11:22.049132",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T07:11:22.049135"
-    },
-    {
-      "id": "b3b13aeae959e833",
-      "titulo": "Arantxa, hermana de Ferran Torres: \"Tenemos un tatuaje, un recordatorio para no dejarnos hundir por nada ni por nadie. A mí padre le costó asimilarlo, pero ahora a mis abuelos les encanta”",
-      "enlace": "https://www.sport.es/es/noticias/barca/arantxa-hermana-ferran-torres-tatuaje-135516622",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T07:11:22.047675",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T07:11:22.047677"
     }
   ]
 }
