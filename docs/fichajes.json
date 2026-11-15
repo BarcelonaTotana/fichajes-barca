@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T17:23:32.611059Z",
+  "actualizado": "2026-11-15T21:58:18.457745Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -260,6 +260,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "147a336ba83c41ab",
+      "titulo": "El Al Nassr pisa el acelerador para blindar a João Félix y renueva un año más a Iñigo Martínez",
+      "enlace": "https://www.sport.es/es/noticias/barca/nassr-pisa-acelerador-blindar-joao-136475328",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-15T21:58:16.051198",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-15T21:58:16.051203"
+    },
+    {
+      "id": "9d773859bbdb29d6",
+      "titulo": "Xavi tranquiliza al Barça con De Jong",
+      "enlace": "https://www.sport.es/es/noticias/barca/xavi-tranquiliza-barca-jong-136477308",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-15T21:58:16.049703",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-15T21:58:16.049717"
+    },
     {
       "id": "3f53ada0e9413396",
       "titulo": "El Chelsea sigue interesado en Kounde y prepara una ofensiva para ficharlo en enero",
@@ -5433,32 +5459,6 @@
       "fecha": "2026-10-20T12:46:33.429207",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-20T12:46:33.429208"
-    },
-    {
-      "id": "7d2088d27fdefa44",
-      "titulo": "El PSG no sabe ganar sin Nuno Mendes",
-      "enlace": "https://www.sport.es/es/noticias/barca/psg-ganar-nuno-mendes-135488586",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T12:46:33.428520",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T12:46:33.428522"
-    },
-    {
-      "id": "78bc602bf8c25bb3",
-      "titulo": "La madre de Lamine Yamal: \"El momento que dije 'guau', que me salió del alma, fue en la Eurocopa. Todavía le falta, pero en la Eurocopa le dije: 'Mi niño, tienes una Eurocopa ya con 16 años\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/sheila-madre-lamine-yamal-decir-135514414",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-20T12:46:33.427422",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T12:46:33.427436"
     }
   ]
 }
