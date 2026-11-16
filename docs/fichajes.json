@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T21:58:18.457745Z",
+  "actualizado": "2026-11-16T08:37:47.653219Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -247,6 +247,7 @@
     "eef301f12b3bde3c",
     "f20ed5cc2751badd",
     "f29bb28d24ffed7c",
+    "f3c552aabb71d8c6",
     "f6077b9dc4673321",
     "f6e1116d885121a8",
     "f75c3f69b1a7e1a2",
@@ -260,6 +261,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "7ee3293b8b32a92e",
+      "titulo": "Juwensley Onstein, del ilusionante debut a otra incertidumbre médica en el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/juwensley-onstein-central-zurdo-tardara-llamar-puerta-flick-barcelona-136472806",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-16T08:37:44.743545",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-16T08:37:44.743546"
+    },
+    {
+      "id": "f3c552aabb71d8c6",
+      "titulo": "La operación salida de Balde del Barça ya cobra fuerza",
+      "enlace": "https://www.sport.es/es/noticias/barca/operacion-salida-balde-barca-cobra-136482774",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-16T08:37:44.742867",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-16T08:37:44.742868"
+    },
+    {
+      "id": "31819dd9f21d5fe6",
+      "titulo": "Pau Cubarsí (19 años): \"Mis padres ya se jubilaron. El hecho de haber podido contribuir a ello, como hijo, me llena de orgullo. Podemos disfrutar de esta vida juntos, porque si estoy donde estoy ahora, es gracias a los sacrificios que ellos hicieron\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/pau-cubarsi-ayuda-economica-padres-jubilacion-orgullo-sacrificios-familia-136468041",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-16T08:37:44.742314",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-16T08:37:44.742315"
+    },
+    {
+      "id": "bb490409c7e59c30",
+      "titulo": "La increíble cláusula secreta que condiciona el futuro de Joao Félix",
+      "enlace": "https://www.sport.es/es/noticias/barca/increible-clausula-secreta-condiciona-futuro-136484129",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-16T08:37:44.740535",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-16T08:37:44.740537"
+    },
+    {
+      "id": "caab489b7ae36a4d",
+      "titulo": "Alivio en el Barça con Hafiz Gariba",
+      "enlace": "https://www.sport.es/es/noticias/barca/alivio-barca-hafiz-gariba-136478796",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-16T08:37:44.739846",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-16T08:37:44.739861"
+    },
     {
       "id": "147a336ba83c41ab",
       "titulo": "El Al Nassr pisa el acelerador para blindar a João Félix y renueva un año más a Iñigo Martínez",
@@ -5394,71 +5460,6 @@
       "fecha": "2026-10-20T20:50:56.081430",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-20T20:50:56.081432"
-    },
-    {
-      "id": "935abea9e73143ac",
-      "titulo": "Dónde ver el PSG - Barcelona de la Champions League hoy por TV, en directo y online",
-      "enlace": "https://www.sport.es/es/noticias/barca/donde-ver-psg-barcelona-champions-league-tv-directo-135552399",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T20:50:56.080833",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T20:50:56.080836"
-    },
-    {
-      "id": "213e588aa6b0cda9",
-      "titulo": "Iturralde lo tiene claro sobre la patada de Fermín a Pacho:  \"¿Roja? Es juego peligroso del jugador del PSG y libre indirecto para el Barça. No puede poner la cabeza ahí\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/iturralde-claro-patada-fermin-pacho-juego-peligroso-libre-indirecto-135562349",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T20:50:56.079467",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T20:50:56.079480"
-    },
-    {
-      "id": "3fa65df6a93a9fab",
-      "titulo": "Gerard Martín despeja dudas con este 'story' de Instagram",
-      "enlace": "https://www.sport.es/es/noticias/barca/gerard-martin-despeja-dudas-story-135550278",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-20T17:34:20.563039",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T17:34:20.563044"
-    },
-    {
-      "id": "58f8a9d30fb500e2",
-      "titulo": "El sentimiento real de Dembélé hacia el Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/sentimiento-real-dembele-barca-135495605",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T17:34:20.561849",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T17:34:20.561861"
-    },
-    {
-      "id": "d02d1c052fb87873",
-      "titulo": "Joan Laporta: \"Lo del Madrid tiene mucha miga\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/joan-laporta-madrid-miga-135535087",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T12:46:33.429207",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T12:46:33.429208"
     }
   ]
 }
