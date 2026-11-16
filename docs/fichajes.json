@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T08:37:47.653219Z",
+  "actualizado": "2026-11-16T18:54:36.815608Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -261,6 +261,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "25c32a9c0e0231b3",
+      "titulo": "Fermín López (23 años): \"Los principales lujos que me puedo dar es ir a un buen restaurante con mi familia, o con mi pareja. No me pesa gastar mi dinero en un buen restaurante, pero siempre me considero humilde y tampoco derrocho el dinero\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/fermin-lopez-lujo-futbol-barca-gastronomia-comida-moda-coches-136493003",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-16T18:54:34.395475",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-16T18:54:34.395478"
+    },
+    {
+      "id": "c0ab3cb921ad255e",
+      "titulo": "La decisión que marcó el destino de Gabriel Jesus",
+      "enlace": "https://www.sport.es/es/noticias/barca/decision-marco-destino-gabriel-jesus-136502408",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-16T18:54:34.394688",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-16T18:54:34.394692"
+    },
+    {
+      "id": "191f70177f05902e",
+      "titulo": "¡Locura en Bakú para ver al Barça!",
+      "enlace": "https://www.sport.es/es/noticias/barca/locura-baku-ver-barca-136512295",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-16T18:54:34.393343",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-16T18:54:34.393352"
+    },
+    {
+      "id": "349098d3122a2a2b",
+      "titulo": "No hay lesión: Cubarsí, con sobrecarga, duda para el partido ante el Villarreal",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261116/1004251658/cubarsi-sobrecarga-duda-partido-villarreal.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-16T13:29:37",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-16T18:54:30.572320"
+    },
     {
       "id": "7ee3293b8b32a92e",
       "titulo": "Juwensley Onstein, del ilusionante debut a otra incertidumbre médica en el Barça",
@@ -5408,58 +5460,6 @@
       "fecha": "2026-10-20T23:37:28.677114",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-20T23:37:28.677119"
-    },
-    {
-      "id": "2d96a5a98ee07460",
-      "titulo": "Xavi Espart aprueba con nota su prueba de fuego antes del Clásico",
-      "enlace": "https://www.sport.es/es/noticias/barca/xavi-espart-aprueba-nota-prueba-135563315",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T23:37:28.676194",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T23:37:28.676199"
-    },
-    {
-      "id": "115bd4840cdca93f",
-      "titulo": "Lamine dejó su sello en París con un golazo de Balón de Oro",
-      "enlace": "https://www.sport.es/es/noticias/barca/lamine-dejo-sello-paris-golazo-135564510",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T23:37:28.674524",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T23:37:28.674528"
-    },
-    {
-      "id": "60b4a7184420ba8e",
-      "titulo": "Hansi Flick: \"Si no fuera el Madrid, Rodri habría sido titular\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-clasico-influido-toma-135564978",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-20T23:37:28.673209",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T23:37:28.673216"
-    },
-    {
-      "id": "3897d9dacbf96c00",
-      "titulo": "Alineación del Barcelona con gran sorpresa ante el PSG en Champions League",
-      "enlace": "https://www.sport.es/es/noticias/barca/once-barcelona-gran-sorpresa-psg-135558191",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-10-20T20:50:56.081430",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T20:50:56.081432"
     }
   ]
 }
