@@ -1,11 +1,12 @@
 {
-  "actualizado": "2026-11-16T18:54:36.815608Z",
+  "actualizado": "2026-11-17T02:18:30.823569Z",
   "total": 400,
   "cerradas": [
     "alex campos",
     "carla julia",
     "celia segura",
     "entradas museo",
+    "entradas museum",
     "gabriel jesus",
     "golden boy",
     "hamza abdelkarim",
@@ -152,6 +153,7 @@
     "80650355f9d77ef7",
     "8223abe13077336f",
     "831ffdba8f3957f2",
+    "834030f61e257f15",
     "836ef578c7088a31",
     "8546c636ca829652",
     "86c14838c9b4acf9",
@@ -261,6 +263,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "61c04146c488e698",
+      "titulo": "Santi Cazorla, sobre Frenkie de Jong: \"Siempre le ha costado tener regularidad pero el Barça lo necesita\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/santi-cazorla-frenkie-jong-le-136514838",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-17T02:18:28.103708",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-17T02:18:28.103711"
+    },
+    {
+      "id": "67ef6bc71c47430d",
+      "titulo": "Marc Bernal (19 años), sobre su vida en Berga, su pueblo natal: \"Si los llevo a cenar a un restaurante al que quiero ir, pues sí pago, pero si vamos a tomar el café, cada uno se paga lo suyo\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/marc-bernal-19-anos-vida-136517175",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-17T02:18:28.102216",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-17T02:18:28.102219"
+    },
+    {
+      "id": "991263ed4ae32a65",
+      "titulo": "Pedro Porro, descartado para el Barça en invierno",
+      "enlace": "https://www.sport.es/es/noticias/barca/pedro-porro-descartado-barca-invierno-136514670",
+      "medio": "sport.es",
+      "tier": 1,
+      "tier_etiqueta": "Fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-17T02:18:28.101125",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-17T02:18:28.101136"
+    },
+    {
+      "id": "c7ffab0a025a5809",
+      "titulo": "El Villarreal mira a Barcelona pendiente de tres tocados y once internacionales",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261116/1004251856/villarreal-mira-barcelona-pendiente-tres-tocados-once-internacionales.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-16T21:47:39",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-17T02:18:24.761098"
+    },
     {
       "id": "25c32a9c0e0231b3",
       "titulo": "Fermín López (23 años): \"Los principales lujos que me puedo dar es ir a un buen restaurante con mi familia, o con mi pareja. No me pesa gastar mi dinero en un buen restaurante, pero siempre me considero humilde y tampoco derrocho el dinero\"",
@@ -5408,58 +5462,6 @@
       "fecha": "2026-10-21T07:27:08.141502",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-21T07:27:08.141503"
-    },
-    {
-      "id": "d2e812827f1ea6b3",
-      "titulo": "Abelardo desvela lo que debe mejorar el Barça para empezar a competir en Europa: \"Tienen que dar un paso\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/abelardo-desvela-debe-mejorar-barca-135568155",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-21T07:27:08.140274",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-21T07:27:08.140276"
-    },
-    {
-      "id": "052c2c4c6ed7c807",
-      "titulo": "En Francia hacen sangre con los futbolistas del Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/francia-sangre-futbolistas-barca-135567916",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-21T07:27:08.139501",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-21T07:27:08.139503"
-    },
-    {
-      "id": "180f8308b09fe592",
-      "titulo": "Emmanuel Petit alucina con el triunfo del PSG: \"Son como tener un ejército frente a ti\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/emmanuel-petit-alucina-triunfo-psg-135569111",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-21T07:27:08.137929",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-21T07:27:08.137943"
-    },
-    {
-      "id": "f2ab588a58e03b5c",
-      "titulo": "¿Cuándo juega el Barcelona contra el Real Madrid? Fecha, horario y dónde ver el clásico de LaLiga por TV y en directo",
-      "enlace": "https://www.sport.es/es/noticias/barca/barcelona-real-madrid-fecha-horario-donde-ver-clasico-135558573",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-20T23:37:28.677114",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-20T23:37:28.677119"
     }
   ]
 }
