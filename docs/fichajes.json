@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T19:37:05.585611Z",
+  "actualizado": "2026-11-18T01:51:35.417923Z",
   "total": 400,
   "cerradas": [
     "alex campos",
@@ -265,6 +265,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "0d7c87d809f0d6be",
+      "titulo": "El aviso de Luis Suárez sobre Lamine Yamal: \"Igualar a Messi será prácticamente imposible\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/aviso-luis-suarez-lamine-yamal-136556086",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-18T01:51:32.982930",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-18T01:51:32.982935"
+    },
+    {
+      "id": "e90e27f28536b183",
+      "titulo": "El nuevo paso de Jeltsch bajo la atenta mirada del Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/nuevo-paso-jeltsch-atenta-mirada-136554502",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-18T01:51:32.980525",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-18T01:51:32.980540"
+    },
+    {
+      "id": "d1e5a7d92789aae8",
+      "titulo": "La NFL, a por el Spotify Camp Nou",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252312/nfl-spotify-camp-nou.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-17T23:02:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-18T01:51:29.304833"
+    },
     {
       "id": "f11f7418301c12e5",
       "titulo": "El algodón africano de Benín se prepara para vestir al Barça",
@@ -5425,45 +5464,6 @@
       "fecha": "2026-10-22T10:00:36.054964",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-22T10:00:36.054969"
-    },
-    {
-      "id": "6aa82f275918b79d",
-      "titulo": "El único precedente entre Flick y Mourinho que ilusiona al Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/unico-precedente-flick-mourinho-ilusiona-135613498",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-22T10:00:36.052224",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-22T10:00:36.052229"
-    },
-    {
-      "id": "6d27788c397d1f11",
-      "titulo": "Los 'tapados' que pueden decidir el clásico: \"Puede ser un problema para Flick\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/tapados-decidir-clasico-135612798",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-22T10:00:36.049989",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-22T10:00:36.049994"
-    },
-    {
-      "id": "433a5dd56217f898",
-      "titulo": "Enric Masip, sobre Mourinho antes del Clásico: \"Siempre lanza dardos. Cosas raras es meterle el dedo en el ojo a un entrenador\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/enric-masip-mourinho-clasico-lanza-135617778",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-22T10:00:36.047799",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-22T10:00:36.047811"
     }
   ]
 }
