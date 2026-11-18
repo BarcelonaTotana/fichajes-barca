@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T09:45:10.891101Z",
+  "actualizado": "2026-11-18T18:26:12.456834Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -140,6 +140,7 @@
     "6efc28f91572845d",
     "6f0a75f24ee3a1d2",
     "6f8e5dad1468ccc2",
+    "705e6906027263e3",
     "7186df54296d2e58",
     "725b7caed2f22a15",
     "72cfb7bbe5ecf607",
@@ -269,6 +270,71 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "c6e20310dba366ab",
+      "titulo": "Tranquilidad en el Barça con Orian Goren",
+      "enlace": "https://www.sport.es/es/noticias/barca/tranquilidad-barca-orian-goren-136584130",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-18T18:26:09.558033",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-18T18:26:09.558036"
+    },
+    {
+      "id": "97e65cb8edca962b",
+      "titulo": "Lamine Yamal, esperando su MVP de LaLiga 25/26",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-esperando-mvp-laliga-136586360",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "avanzado",
+      "fecha": "2026-11-18T18:26:09.557273",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-18T18:26:09.557276"
+    },
+    {
+      "id": "e919c7fc39c407be",
+      "titulo": "¡Lookman, lesionado! No llegará contra el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/lookman-lesionado-llegara-barca-136589952",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-18T18:26:09.556214",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-18T18:26:09.556226"
+    },
+    {
+      "id": "646754a6fbc05477",
+      "titulo": "Barça-Servette: reválida de Champions",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252690/barca-servette-revalida-champions.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-18T17:10:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-18T18:26:04.796545"
+    },
+    {
+      "id": "705e6906027263e3",
+      "titulo": "Xavi Espart firmará su renovación este viernes",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252541/xavi-espart-firmara-renovacion-viernes.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-18T11:14:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-18T18:26:04.796871"
+    },
     {
       "id": "b66835c90d09d99e",
       "titulo": "Kroupi quiere salir de la Premier: PSG y Barça, los favoritos",
@@ -5403,71 +5469,6 @@
       "fecha": "2026-10-23T07:00:00",
       "fuente_feed": "FC Barcelona (oficial)",
       "visto_por_primera_vez": "2026-10-29T00:22:16.821881"
-    },
-    {
-      "id": "cd148fb30e18ef1e",
-      "titulo": "Cesc Fàbregas, ¿sucesor de Hansi Flick en el Barça? \"Nunca imaginé que sería entrenador\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/cesc-fabregas-sucesor-hansi-flick-135255427",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-10-23T05:28:07.812441",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-23T05:28:07.812447"
-    },
-    {
-      "id": "ba757f73d492d31e",
-      "titulo": "\"Ojalá todo el vestuario fuese como Xavi Espart\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/ojala-vestuario-fuese-xavi-espart-135639232",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-23T05:28:07.811375",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-23T05:28:07.811387"
-    },
-    {
-      "id": "aa9cd88dfbfa7eda",
-      "titulo": "El resultado es lo que cuenta",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242107/resultado-cuenta.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-23T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-23T10:25:16.413429"
-    },
-    {
-      "id": "54405a3480700f28",
-      "titulo": "La tradición de debutar con gol en un Clásico: los 6 que se apuntan",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242012/5-barca-apuntan-tradicion-goleadora-debutante.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-23T05:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-23T10:25:16.413919"
-    },
-    {
-      "id": "112bd3a4d762d644",
-      "titulo": "Cancelo estalla tras las críticas: \"Me gustaría verlo\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/cancelo-estalla-criticas-gustaria-verlo-135642723",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-22T19:15:01.244120",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-22T19:15:01.244122"
     }
   ]
 }
