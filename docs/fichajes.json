@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T18:26:12.456834Z",
+  "actualizado": "2026-11-19T00:38:47.550701Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -159,6 +159,7 @@
     "831ffdba8f3957f2",
     "834030f61e257f15",
     "836ef578c7088a31",
+    "836f1e62c495af09",
     "8546c636ca829652",
     "86c14838c9b4acf9",
     "87646c21d2312d9b",
@@ -271,6 +272,58 @@
   ],
   "noticias": [
     {
+      "id": "476316ac11a0e8ba",
+      "titulo": "Deco confiesa cuál es el fichaje que más lamenta no haber cerrado: Luis Díaz",
+      "enlace": "https://www.sport.es/es/noticias/barca/deco-confiesa-fichaje-lamenta-haber-136593691",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-19T00:38:44.793493",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-19T00:38:44.793505"
+    },
+    {
+      "id": "75198982195dbfd5",
+      "titulo": "Deco desvela el fichaje que más le dolió no poder hacer",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252730/deco-desvela-nombre-delantero-le-dolio-no-fichar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-18T19:30:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-19T00:38:40.331434"
+    },
+    {
+      "id": "4dafe87c45a8d955",
+      "titulo": "Bojan: \"El rendimiento de Raphinha no nos hace pensar en un '9'\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252719/tranquilidad.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-18T19:18:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-19T00:38:40.331687"
+    },
+    {
+      "id": "299b25b67e70980e",
+      "titulo": "Deco deja la puerta abierta a fichar un central en enero y bromea con Schlotterbeck",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252707/deco.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-18T18:44:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-19T00:38:40.331846"
+    },
+    {
       "id": "c6e20310dba366ab",
       "titulo": "Tranquilidad en el Barça con Orian Goren",
       "enlace": "https://www.sport.es/es/noticias/barca/tranquilidad-barca-orian-goren-136584130",
@@ -334,6 +387,19 @@
       "fecha": "2026-11-18T11:14:58",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-11-18T18:26:04.796871"
+    },
+    {
+      "id": "836f1e62c495af09",
+      "titulo": "Xavi Espart firmará este viernes",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252541/xavi-espart-firmara-renovacion-viernes.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-18T11:14:58",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-19T00:38:40.332339"
     },
     {
       "id": "b66835c90d09d99e",
@@ -5404,71 +5470,6 @@
       "fecha": "2026-10-23T11:16:03",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-23T15:20:52.205092"
-    },
-    {
-      "id": "1ba6241396b94ef4",
-      "titulo": "Iker Casillas: \"Llamé a Xavi y a Puyol para echarnos una bronca mutua. No era normal la situación en los clásicos. Pero cuando jugamos, cada uno mira por lo suyo\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/iker-casillas-llame-xavi-puyol-135618791",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-23T10:25:20.962463",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-23T10:25:20.962466"
-    },
-    {
-      "id": "2793fe443c599c65",
-      "titulo": "¿Quién ha ganado más clásicos entre Barcelona y Real Madrid?",
-      "enlace": "https://www.sport.es/es/noticias/barca/ganado-clasicos-barcelona-real-madrid-135604439",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-23T10:25:20.960936",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-23T10:25:20.960939"
-    },
-    {
-      "id": "54d496f3a131dfbc",
-      "titulo": "Ricardo Carvalho, exdefensa portugués del Real Madrid: \"Hay que tener límites en la tensión y en aquellos clásicos los pásabamos\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/ricardo-carvalho-exdefensa-portugues-real-135661605",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-23T10:25:20.960132",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-23T10:25:20.960144"
-    },
-    {
-      "id": "ea818385e205b588",
-      "titulo": "Salidas profesionales en el deporte: estudios, oposiciones y carreras",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMy1HSmRuSTdHWkFJLXdQNlFqanV0eVVzVWlCQlpCQWI4MTBWUHlZOGJDLTJqeGdFLVc1YXBmN0plektUZDRZTTRvME9FcVdKenB5X084d1luSTgwU19tWXF4YWpCc3NRX0NfbENHN0ZMTGVabGFxeHFiNHdBMHZpR1lwWmVtODRkZEJUODVfX2NTS2dqd3lxZ1M1Qng3VGpMT245VXFRRjF5Y1UwNnJseA?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-23T09:13:14",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-10-23T15:20:50.876652"
-    },
-    {
-      "id": "e4059398b0f34bca",
-      "titulo": "Miles de euros Saldos a 30/06/2025 Entradas y dotaciones Salidas, bajas o reducciones Saldos a 30/06/2026 Coste: Fútbol 458.476",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODBqOHJqZ1gtMjl0SmdMVzM4TXNNUU5CczFqZEZ4QVA2MFAzeGMwSUNfWm9KTlh5RHdoYnJGbl94TlAwMnZsOXVRS0NONVNfaHhpWk5hVWxBYy15dWtITUhNUjExQ0wwcDlBTTFVdDhNSl9fWUloZndyNjdSVGphSTI4MkFJeXJtUThVQkNiVTR2dEg0ODcwaV8zRWdmLVkxYl80aVV1QzhMckRBN0xLUWF0YjR1LWUzbXc2LXJMN00?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-23T07:00:00",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-10-29T00:22:16.821881"
     }
   ]
 }
