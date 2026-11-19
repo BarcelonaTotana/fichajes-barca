@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T17:06:34.228236Z",
+  "actualizado": "2026-11-19T23:32:57.959443Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -151,6 +151,7 @@
     "76db6d7048c6e418",
     "76eb79fdd1678a7d",
     "7a12dcc68856feba",
+    "7aaf9aea23f557e8",
     "7c3ea763e659ec84",
     "7f5de7c97cea0906",
     "7fc57e0e098803fd",
@@ -273,6 +274,58 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "9baebe2cd4dbfb73",
+      "titulo": "El motivo que aleja a Lisandro del Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/motivo-aleja-lisandro-barca-136630050",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-19T23:32:55.245963",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-19T23:32:55.245967"
+    },
+    {
+      "id": "8894d7ba3c42d22d",
+      "titulo": "Si Balde se queda, ¿quién saldrá? Las opciones que tiene el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/balde-queda-saldra-opciones-barca-szczesny-brian-farinas-136625569",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-19T23:32:55.244559",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-19T23:32:55.244563"
+    },
+    {
+      "id": "835af76a7a431e6e",
+      "titulo": "Operación retorno a LaLiga para Ter Stegen: el Valencia entra en escena y Barça, a la expectativa",
+      "enlace": "https://www.sport.es/es/noticias/barca/operacion-retorno-laliga-ter-stegen-barcelona-valencia-ajax-136636958",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-19T23:32:55.243382",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-19T23:32:55.243396"
+    },
+    {
+      "id": "7aaf9aea23f557e8",
+      "titulo": "El Barça mueve ficha: tres centrales en el punto de mira",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004252987/barca-mueve-ficha-tres-centrales-punto-mira.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-19T19:33:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-19T23:32:51.799094"
+    },
     {
       "id": "069814dcb736f61a",
       "titulo": "Pau Cubarsí (19 años): \"Mis referentes son Carles Puyol y Gerard Piqué. Me gustan ambos perfiles: Piqué tenía un papel más importante en la creación de juego, pero Puyol fue clave en cuanto a mentalidad y carácter\"",
@@ -5420,58 +5473,6 @@
       "fecha": "2026-10-24T11:38:52",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-24T13:39:29.844701"
-    },
-    {
-      "id": "8ca0af7ac9a198f3",
-      "titulo": "Martínez Munuera, árbitro confirmado para el Clásico con balance favorable al Madrid",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242594/martinez-munuera-arbitro-confirmado-clasico.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-24T10:12:07",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-24T13:39:29.845256"
-    },
-    {
-      "id": "5fe16f287fa190d5",
-      "titulo": "¿Clásico? Hoy la pregunta es por cuánto",
-      "enlace": "https://www.sport.es/es/noticias/barca/clasico-hoy-pregunta-135687249",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T09:49:53.021508",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T09:49:53.021512"
-    },
-    {
-      "id": "665c72bff7dc62af",
-      "titulo": "El mensaje de Hamza Abdelkarim en el Clásico",
-      "enlace": "https://www.sport.es/es/noticias/barca/mensaje-hamza-abdelkarim-clasico-135705854",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T09:49:53.018577",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T09:49:53.018581"
-    },
-    {
-      "id": "9e78d43569d86943",
-      "titulo": "Novedades en el futuro de Gerard Martín en el Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/novedades-futuro-gerard-martin-barca-135706673",
-      "medio": "sport.es",
-      "tier": 1,
-      "tier_etiqueta": "Fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-24T09:49:53.017439",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T09:49:53.017443"
     }
   ]
 }
