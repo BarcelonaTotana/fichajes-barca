@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T07:56:08.477343Z",
+  "actualizado": "2026-11-19T17:06:34.228236Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -273,6 +273,84 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "069814dcb736f61a",
+      "titulo": "Pau Cubarsí (19 años): \"Mis referentes son Carles Puyol y Gerard Piqué. Me gustan ambos perfiles: Piqué tenía un papel más importante en la creación de juego, pero Puyol fue clave en cuanto a mentalidad y carácter\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/pau-cubarsi-referentes-futbol-barca-pique-puyol-136617643",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-19T17:06:31.840701",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-19T17:06:31.840704"
+    },
+    {
+      "id": "69f7f95d71cd3b0e",
+      "titulo": "Flick organiza una comida con su staff para hacer piña",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-organiza-comida-staff-pina-136624226",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-19T17:06:31.839573",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-19T17:06:31.839578"
+    },
+    {
+      "id": "4eed2eb237d52a30",
+      "titulo": "Manu Carreño, contundente con la autocrítica de Rodri: \"Ha dicho lo que a muchos culés les gustaría oírle a Hansi Flick\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/manu-carreno-contundente-autocritica-rodri-136627283",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-19T17:06:31.838571",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-19T17:06:31.838586"
+    },
+    {
+      "id": "7447e423c59907cb",
+      "titulo": "Pedri y Quevedo, canarios universales, crean su play list para Spotify",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004252911/pedri-quevedo-canarios-universales-crean-play-list-spotify.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-19T11:00:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-19T17:06:28.363371"
+    },
+    {
+      "id": "05e8d627b11fad3b",
+      "titulo": "Schlotterbeck, con cláusula amable pero no para ahora",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004252863/schlotterbeck.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-19T09:33:43",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-19T17:06:28.363998"
+    },
+    {
+      "id": "0c9c9f5436abf12e",
+      "titulo": "Reforzar el lateral izquierdo, la prioridad del ManU",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004252825/reforzar-lateral-izquierdo-prioridad-manu.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-19T08:23:35",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-19T17:06:28.364388"
+    },
     {
       "id": "248379c695c576bb",
       "titulo": "Bisiwu resurge y vuelve al Barça muy reforzado",
@@ -5394,84 +5472,6 @@
       "fecha": "2026-10-24T09:49:53.017439",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-24T09:49:53.017443"
-    },
-    {
-      "id": "0a7bb96387c7a201",
-      "titulo": "Mourinho, sobre Lamine Yamal: \"Es un gran jugador y se le respeta, otra cosa es olvidar tu esencia o cambiar estructuras\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/mourinho-lamine-yamal-gran-jugador-135707894",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T09:49:53.016270",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T09:49:53.016274"
-    },
-    {
-      "id": "011a994ebeb6707c",
-      "titulo": "El serio aviso de Lewandowski a la generación de Lamine Yamal",
-      "enlace": "https://www.sport.es/es/noticias/barca/aviso-lewandowski-generacion-lamine-yamal-135708551",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T09:49:53.015234",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T09:49:53.015243"
-    },
-    {
-      "id": "2bd9b3d86a22d052",
-      "titulo": "El Arsenal amenaza con arrebatarle al Barça a uno de los delanteros de moda",
-      "enlace": "https://www.sport.es/es/noticias/barca/arsenal-amenaza-arrebatarle-barca-delanteros-135705325",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T05:45:09.018910",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T05:45:09.018912"
-    },
-    {
-      "id": "a5f2e86bee7ca398",
-      "titulo": "Gavi calienta el Clásico: \"Me gusta ir a la guerra contra el Madrid\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/gavi-calienta-clasico-gusta-guerra-135705344",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T05:45:09.018137",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T05:45:09.018152"
-    },
-    {
-      "id": "c8b3a7df566098a5",
-      "titulo": "El Barça recuerda a Messi: \"Un vínculo inseparable\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/messi-vuelve-recibir-carino-barca-135689960",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-23T22:30:35.576921",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-23T22:30:35.576924"
-    },
-    {
-      "id": "397237988bf9088b",
-      "titulo": "Raphinha (29 años): \"Para alguien nacido en el barrio como yo, es difícil mantenerse centrado. Es difícil seguir tu camino y no descarriarte, prometen una forma más fácil de ganar dinero, y ahí es donde la gente se pierde”",
-      "enlace": "https://www.sport.es/es/noticias/barca/raphinha-29-anos-alguien-nacido-135685806",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-23T22:30:35.574940",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-23T22:30:35.574944"
     }
   ]
 }
