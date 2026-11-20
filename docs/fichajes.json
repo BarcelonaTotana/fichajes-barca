@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T13:06:49.055291Z",
+  "actualizado": "2026-11-20T21:01:52.349226Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -203,6 +203,7 @@
     "b81a8a239b9fc848",
     "ba812cf40b662f4a",
     "beadcf55619bf472",
+    "bf12523917262d44",
     "bf4fab6e0276ea9d",
     "c034fcc3f6c493f7",
     "c170708f840cd195",
@@ -253,6 +254,7 @@
     "e9c7014657f2b01e",
     "ea808076b691ebf8",
     "eab5c3b3ea788712",
+    "eb56cca82d30e9d7",
     "ec2ad5ac04ad89bb",
     "ed20b49c576f59d0",
     "edf6a2c3c27df9b6",
@@ -276,6 +278,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "eb56cca82d30e9d7",
+      "titulo": "Eric Garcia (25 años): \"Hay mucha gente a la que le gusta otro tipo de nivel de vida y a mí me gusta uno más desde el anonimato. Mi familia, desde pequeño, me inculcó unos valores y en todo momento he sido fiel a ellos\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/eric-garcia-25-anos-hay-136676372",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-20T21:01:48.827353",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-20T21:01:48.827356"
+    },
+    {
+      "id": "bf12523917262d44",
+      "titulo": "El Barça, al día: renovación de futuro, 'fichaje' Koundé y exclusiva sobre Can Planes",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253441/barca-dia-espart-kounde-masia-can-planes.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-20T17:42:49",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-20T21:01:43.976720"
+    },
     {
       "id": "c5196564b14e1514",
       "titulo": "Mikautadze, un culé de corazón ante su gran escaparate: \"¿El Barça, y por qué no?\"",
@@ -5449,32 +5477,6 @@
       "fecha": "2026-10-24T16:58:28.497367",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-24T16:58:28.497370"
-    },
-    {
-      "id": "4ae3d2c992813436",
-      "titulo": "Barcelona - Real Madrid: horario y dónde ver el clásico de LaLiga por TV y en directo",
-      "enlace": "https://www.sport.es/es/noticias/barca/barcelona-real-madrid-horario-donde-ver-clasico-laliga-tv-directo-135718417",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T16:58:28.496163",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T16:58:28.496167"
-    },
-    {
-      "id": "7214e0673674fb0e",
-      "titulo": "Lineker revela una sorprendente costumbre del Barça antes del clásico: ¡bebían vino!",
-      "enlace": "https://www.sport.es/es/noticias/barca/lineker-revela-sorprendente-costumbre-barca-135720376",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T16:58:28.495180",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T16:58:28.495193"
     }
   ]
 }
