@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T04:15:26.923690Z",
+  "actualizado": "2026-11-20T13:06:49.055291Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -192,6 +192,7 @@
     "af0089361f15efe2",
     "afa752d16314512f",
     "b18e7c1b979d2fde",
+    "b1b76d54360f2b11",
     "b27b3a53c1042b3b",
     "b3025935146c63e8",
     "b3719da09d156cc6",
@@ -257,6 +258,7 @@
     "edf6a2c3c27df9b6",
     "eea11ae24a1b3e53",
     "eef301f12b3bde3c",
+    "f1bc1ec1a471395a",
     "f20ed5cc2751badd",
     "f29bb28d24ffed7c",
     "f3c552aabb71d8c6",
@@ -274,6 +276,84 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "c5196564b14e1514",
+      "titulo": "Mikautadze, un culé de corazón ante su gran escaparate: \"¿El Barça, y por qué no?\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/mikautadze-cule-corazon-amenaza-barca-villarreal-liga-camp-nou-136638653",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-20T13:06:45.628214",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-20T13:06:45.628219"
+    },
+    {
+      "id": "b3398aab425318b1",
+      "titulo": "Adeyemi saca los colores a Diomande",
+      "enlace": "https://www.sport.es/es/noticias/barca/adeyemi-saca-colores-diomande-136655850",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-20T13:06:45.626310",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-20T13:06:45.626314"
+    },
+    {
+      "id": "f1bc1ec1a471395a",
+      "titulo": "La renovación de Xavi Espart, en directo: acto oficial, firma de contrato y última hora",
+      "enlace": "https://www.sport.es/es/noticias/barca/renovacion-xavi-espart-directo-acto-136657680",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-20T13:06:45.625265",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-20T13:06:45.625269"
+    },
+    {
+      "id": "1d42d6feb38fa10d",
+      "titulo": "Pedri (23 años): \"A veces no escucho música antes del partido y de repente me da por jugar a un juego del móvil o por hablar, en el vestuario quien pone la música en el altavoz es Lamine Yamal\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/pedri-musica-quevedo-spotify-dj-lamine-yamal-136657525",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-20T13:06:45.625045",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-20T13:06:45.625058"
+    },
+    {
+      "id": "b1b76d54360f2b11",
+      "titulo": "Acto de renovación de Xavi Espart , en directo",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253338/acto-renovacion-xavi-espart-directo.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-20T13:00:05",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-20T13:06:41.628404"
+    },
+    {
+      "id": "ae43cd5790cd13aa",
+      "titulo": "Julio Salinas: \"Lamine es un fenómeno, pero en este país se machaca a las estrellas\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253034/julio-salinas-lamine-fenomeno-pais-machaca-estrellas.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-20T10:34:48",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-20T13:06:41.628797"
+    },
     {
       "id": "ba97dab649bd9680",
       "titulo": "Si Bastoni era lento en verano tampoco será Bolt en enero",
@@ -5395,84 +5475,6 @@
       "fecha": "2026-10-24T16:58:28.495180",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-24T16:58:28.495193"
-    },
-    {
-      "id": "f730ebf63eacc806",
-      "titulo": "Araujo: \"Que me quede o no en el Liverpool no depende sólo de mí\"",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242714/araujo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T16:19:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-24T16:58:23.753082"
-    },
-    {
-      "id": "655680ee20888c3d",
-      "titulo": "Fermín López (23 años): \"Pagaría dinero para ser una persona que puede ir a comprar tranquilamente, alguna vez me gustaría ser un amigo mío del pueblo, un chaval normal\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/fermin-lopez-pagaria-ser-una-persona-normal-fama-futbol-barca-135709800",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T13:39:33.865607",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T13:39:33.865611"
-    },
-    {
-      "id": "1b85e0284061b3d4",
-      "titulo": "Flick se rinde a Xavi Espart: apunta a titularísimo en el Clásico",
-      "enlace": "https://www.sport.es/es/noticias/barca/flick-rinde-espart-apunta-titularisimo-135712125",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T13:39:33.863681",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T13:39:33.863683"
-    },
-    {
-      "id": "4b6f75bc176e9088",
-      "titulo": "Flick: \"Todos sabíamos que Rodri nos daría un salto de calidad\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/flick-sabiamos-rodri-daria-salto-135712222",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-24T13:39:33.863099",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T13:39:33.863102"
-    },
-    {
-      "id": "0555517d242dd878",
-      "titulo": "Araujo se pronuncia sobre su futuro y su posible regreso al Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/araujo-pronuncia-futuro-posible-regreso-135714259",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T13:39:33.861721",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T13:39:33.861725"
-    },
-    {
-      "id": "09070c08de901986",
-      "titulo": "Jorge Mendes tantea la salida de Balde del Barça",
-      "enlace": "https://www.sport.es/es/noticias/barca/jorge-mendes-tantea-salida-balde-135714938",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T13:39:33.860984",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T13:39:33.860998"
     }
   ]
 }
