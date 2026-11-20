@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T23:32:57.959443Z",
+  "actualizado": "2026-11-20T04:15:26.923690Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -274,6 +274,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "ba97dab649bd9680",
+      "titulo": "Si Bastoni era lento en verano tampoco será Bolt en enero",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253087/bastoni-lento-verano-tampoco-sera-bolt-enero.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-20T04:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-20T04:15:19.712401"
+    },
     {
       "id": "9baebe2cd4dbfb73",
       "titulo": "El motivo que aleja a Lisandro del Barça",
@@ -5460,19 +5473,6 @@
       "fecha": "2026-10-24T13:39:33.860984",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-24T13:39:33.860998"
-    },
-    {
-      "id": "72b3202fc974016a",
-      "titulo": "Flick descarta a Koundé para el Clásico y pide un plus a Espart",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242626/flick-descarta-kounde-clasico-pide-plus-espart.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T11:38:52",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-24T13:39:29.844701"
     }
   ]
 }
