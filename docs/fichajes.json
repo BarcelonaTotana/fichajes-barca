@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T09:48:48.750050Z",
+  "actualizado": "2026-11-21T16:58:51.595143Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -279,6 +279,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "00dd41bd025087ac",
+      "titulo": "Lamine Yamal ante su víctima favorita",
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-victima-favorita-136632508",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-21T16:58:49.178688",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-21T16:58:49.178699"
+    },
+    {
+      "id": "618dd63f0d325347",
+      "titulo": "Hansi Flick confirma la suplencia de Cubarsí ante el Villarreal y aclara la situación de Raphinha",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253728/hansi-flick-confirma-baja-cubarsi-villarreal-aclara-situacion-raphinha.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-21T13:19:57",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-21T16:58:44.753379"
+    },
+    {
+      "id": "9d6832153059b549",
+      "titulo": "Flick desvincula un posible fichaje de la lesión de Christensen",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253715/flick-desvincula-posible-fichaje-lesion-christensen.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-21T12:30:30",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-21T16:58:44.754097"
+    },
     {
       "id": "921b8022a3cfb3ab",
       "titulo": "Una vecina de Rocafonda, sobre el padre de Lamine Yamal: \"Cuando un hijo alcanza una repercusión mundial como la de Lamine, también cambia la vida de toda su familia\"",
@@ -5439,45 +5478,6 @@
       "fecha": "2026-10-25T15:46:55",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-25T16:41:26.288648"
-    },
-    {
-      "id": "4638ddf9987035da",
-      "titulo": "Rocío, vecina de Rocafonda: \"No se trata de que Lamine Yamal tenga que solucionar los problemas del barrio, porque esa responsabilidad corresponde a las administraciones, sino de que su voz pueda ayudar a los más jóvenes\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/rocio-vecina-lamine-yamal-barrio-rocafonda-problemas-ayudar-jovenes-135731392",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-25T12:26:28.326572",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-25T12:26:28.326576"
-    },
-    {
-      "id": "289a6e91ed9bee99",
-      "titulo": "Hoeness: \"Para mí, Olise es mucho mejor que Lamine\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/hoeness-olise-mejor-lamine-135736672",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-25T12:26:28.324129",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-25T12:26:28.324142"
-    },
-    {
-      "id": "e24ad8892d75819a",
-      "titulo": "Barcelona - Real Madrid: horario y dónde ver el clásico de LaLiga hoy por TV y en directo",
-      "enlace": "https://www.sport.es/es/noticias/barca/barcelona-real-madrid-horario-donde-ver-clasico-laliga-tv-directo-135718417",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-25T06:58:00.147147",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-25T06:58:00.147159"
     }
   ]
 }
