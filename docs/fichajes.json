@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T16:58:51.595143Z",
+  "actualizado": "2026-11-21T22:07:01.641454Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -279,6 +279,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "86752ecba7adf29c",
+      "titulo": "El técnico del Sabah desafía los pronósticos: \"Vamos a escribir una historia increíble el miércoles\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/tecnico-sabah-desafia-pronosticos-ganar-136705965",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-21T22:06:59.294757",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-21T22:06:59.294771"
+    },
+    {
+      "id": "cb9ddd0c3dfea991",
+      "titulo": "Belletti actualiza el estado de Hamza y asegura que el equipo va \"por el buen camino\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253873/belletti-actualiza-hamza-asegura-equipo-buen-camino.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-21T21:27:03",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-21T22:06:55.854484"
+    },
     {
       "id": "00dd41bd025087ac",
       "titulo": "Lamine Yamal ante su víctima favorita",
@@ -5452,32 +5478,6 @@
       "fecha": "2026-10-25T16:41:30.905536",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-25T16:41:30.905538"
-    },
-    {
-      "id": "3240928ef3f8fe4c",
-      "titulo": "Carles Puyol (48 años): \"Gerard Piqué me cambió el carácter. Veníamos de una época muy complicada en el Barça y él me enseñó que también hay que disfrutar, que no pasa nada por ir a cenar un día con amigos\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/carles-puyol-gerard-pique-amigos-companeros-barca-135740362",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-25T16:41:30.904515",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-25T16:41:30.904526"
-    },
-    {
-      "id": "0015d513aecbd61b",
-      "titulo": "Desembarco culé en una histórica noche en Londres",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243003/desembarco-cule-historica-noche-londres.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-25T15:46:55",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-25T16:41:26.288648"
     }
   ]
 }
