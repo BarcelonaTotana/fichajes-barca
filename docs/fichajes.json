@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T21:01:52.349226Z",
+  "actualizado": "2026-11-21T02:09:09.999938Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -278,6 +278,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "910c632d1e1f8df6",
+      "titulo": "La intrahistoria del verano en que no se fichó un central",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253461/intrahistoria-verano-no-ficho-central.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-20T22:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-21T02:09:03.000325"
+    },
+    {
+      "id": "1712a823c25ce1f9",
+      "titulo": "Xavi Espart y el abuelo orgulloso de aquel cadete que aceptó ser lateral",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253543/xavi-espart-abuelo-orgulloso-cadete-acepto-lateral.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-20T21:10:14",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-21T02:09:03.000767"
+    },
     {
       "id": "eb56cca82d30e9d7",
       "titulo": "Eric Garcia (25 años): \"Hay mucha gente a la que le gusta otro tipo de nivel de vida y a mí me gusta uno más desde el anonimato. Mi familia, desde pequeño, me inculcó unos valores y en todo momento he sido fiel a ellos\"",
@@ -5451,32 +5477,6 @@
       "fecha": "2026-10-24T18:57:48",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-24T19:22:11.733457"
-    },
-    {
-      "id": "712aaf8f4c707d23",
-      "titulo": "El Barça ya teme por el fichaje de Nijstad",
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-teme-fichaje-nijstad-135718205",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T16:58:28.498102",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T16:58:28.498105"
-    },
-    {
-      "id": "b71063ed349520c5",
-      "titulo": "Frenkie de Jong se sincera: \"Las críticas llegan cuando no puedo jugar\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/frenkie-jong-sincera-criticas-llegan-135718777",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-24T16:58:28.497367",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-24T16:58:28.497370"
     }
   ]
 }
