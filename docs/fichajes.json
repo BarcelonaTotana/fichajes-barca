@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T09:45:29.123270Z",
+  "actualizado": "2026-11-22T17:26:13.669763Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -279,6 +279,45 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "20be425e7b39bfaf",
+      "titulo": "Flick pierde la paciencia con Hernández Hernández: \"Siempre pasa lo mismo con este árbitro\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-barcelona-villarreal-rueda-prensa-136720192",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "avanzado",
+      "fecha": "2026-11-22T17:26:11.299404",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-22T17:26:11.299407"
+    },
+    {
+      "id": "ce1c23baa1039157",
+      "titulo": "Gerard Martín, el 'Maldini' de la clase obrera se gana a Flick",
+      "enlace": "https://www.sport.es/es/noticias/barca/gerard-martin-maldini-clase-obrera-136725184",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-22T17:26:11.297085",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-22T17:26:11.297097"
+    },
+    {
+      "id": "9ae947d4c7ee215d",
+      "titulo": "Once del Barça con novedades en defensa y ataque",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004254065/once-barca-novedades-defensa-ataque.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-22T11:50:08",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-22T17:26:06.067031"
+    },
     {
       "id": "0434b4460d526744",
       "titulo": "Juan Román Riquelme (48 años), sobre Barça y Villarreal: “Es difícil que en el Barça fuese el jugador que fui en Villarreal, porque allí no jugaba nunca y aquí tenía continuidad. Pasé un año difícil y es mejor no recordarlo”",
@@ -5439,45 +5478,6 @@
       "fecha": "2026-10-25T21:54:11.476985",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-25T21:54:11.477001"
-    },
-    {
-      "id": "aa34ea8f309dc06a",
-      "titulo": "Koeman, Rijkaard y Jordi Cruyff lideran la lista de invitados al palco",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243133/koeman-rijkaard-jordi-cruyff-lideran-lista-invitados-clasico-palco-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-25T20:47:41",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-25T21:54:07.562730"
-    },
-    {
-      "id": "ba771ed734d6a16d",
-      "titulo": "Koeman, Rijkaard y Jordi Cruyff lideran la lista de invitados al Clásico en el palco del Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243133/koeman-rijkaard-jordi-cruyff-lideran-lista-invitados-clasico-palco-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-25T20:47:41",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-25T23:49:02.754269"
-    },
-    {
-      "id": "fd0195e1012372b2",
-      "titulo": "Alineación del Barcelona contra el Real Madrid para el clásico de LaLiga EA Sports",
-      "enlace": "https://www.sport.es/es/noticias/barca/alineacion-barcelona-real-madrid-clasico-135746126",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-25T19:18:31.228596",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-25T19:18:31.228598"
     }
   ]
 }
