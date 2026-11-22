@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T17:26:13.669763Z",
+  "actualizado": "2026-11-22T22:41:18.455637Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -279,6 +279,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "fb4643a277dfc148",
+      "titulo": "La remontada más rápida de Flick que revive la historia de Les Corts",
+      "enlace": "https://www.sport.es/es/noticias/barca/remontada-rapida-flick-revive-historia-136724390",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-22T22:41:16.146579",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-22T22:41:16.146592"
+    },
     {
       "id": "20be425e7b39bfaf",
       "titulo": "Flick pierde la paciencia con Hernández Hernández: \"Siempre pasa lo mismo con este árbitro\"",
@@ -5465,19 +5478,6 @@
       "fecha": "2026-10-25T21:54:11.477998",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-25T21:54:11.478001"
-    },
-    {
-      "id": "6bdd86b585ed04f8",
-      "titulo": "Cucurella, en el centro de la polémica con Lamine Yamal: \"No puede ser que no haya visto una amarilla\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/cucurella-centro-polemica-lamine-yamal-135749688",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-25T21:54:11.476985",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-25T21:54:11.477001"
     }
   ]
 }
