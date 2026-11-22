@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T02:10:10.691515Z",
+  "actualizado": "2026-11-22T09:45:29.123270Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -279,6 +279,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "0434b4460d526744",
+      "titulo": "Juan Román Riquelme (48 años), sobre Barça y Villarreal: “Es difícil que en el Barça fuese el jugador que fui en Villarreal, porque allí no jugaba nunca y aquí tenía continuidad. Pasé un año difícil y es mejor no recordarlo”",
+      "enlace": "https://www.sport.es/es/noticias/barca/juan-roman-riquelme-barca-villarreal-136668467",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-22T09:45:26.717429",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-22T09:45:26.717441"
+    },
+    {
+      "id": "228577f75e94867f",
+      "titulo": "Ser central en el Barça",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253803/central-barca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-22T06:00:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-22T09:45:23.099657"
+    },
     {
       "id": "ee65755d00ea359c",
       "titulo": "LaLiga sube la temperatura: Flick y el reto de elevar el listón del Barça",
@@ -5452,32 +5478,6 @@
       "fecha": "2026-10-25T19:18:31.228596",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-25T19:18:31.228598"
-    },
-    {
-      "id": "6f03b032515ea715",
-      "titulo": "Umtiti, en la previa del clásico: \"No hay que dar al Madrid por muerto, cuidado\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/umtiti-previa-clasico-hay-dar-135747004",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-25T19:18:31.227603",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-25T19:18:31.227612"
-    },
-    {
-      "id": "a72dc9e08a7bbad6",
-      "titulo": "Mourinho ha jugado con Courtois como hizo con Damien Duff",
-      "enlace": "https://www.sport.es/es/noticias/barca/sera-courtois-nuevo-damien-duff-135740755",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-25T16:41:30.906139",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-25T16:41:30.906141"
     }
   ]
 }
