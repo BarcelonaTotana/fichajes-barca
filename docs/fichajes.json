@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T22:07:01.641454Z",
+  "actualizado": "2026-11-22T02:10:10.691515Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -279,6 +279,19 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "ee65755d00ea359c",
+      "titulo": "LaLiga sube la temperatura: Flick y el reto de elevar el listón del Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/laliga-sube-temperatura-flick-reto-136710483",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-22T02:10:08.255000",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-22T02:10:08.255013"
+    },
     {
       "id": "86752ecba7adf29c",
       "titulo": "El técnico del Sabah desafía los pronósticos: \"Vamos a escribir una historia increíble el miércoles\"",
@@ -5465,19 +5478,6 @@
       "fecha": "2026-10-25T16:41:30.906139",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-25T16:41:30.906141"
-    },
-    {
-      "id": "1306c1c9512c5186",
-      "titulo": "La hegemonía del FC Barcelona como local está en juego frente al Real Madrid en el clásico",
-      "enlace": "https://www.sport.es/es/noticias/barca/hegemonia-fc-barcelona-local-juego-135685202",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-25T16:41:30.905536",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-25T16:41:30.905538"
     }
   ]
 }
