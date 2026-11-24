@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T10:28:53.566870Z",
+  "actualizado": "2026-11-24T20:48:56.026933Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -282,6 +282,45 @@
   ],
   "noticias": [
     {
+      "id": "c092418e90f0d952",
+      "titulo": "Balde, ante el partido que puede marcar su futuro en el Barça",
+      "enlace": "https://www.sport.es/es/noticias/barca/balde-partido-marcar-futuro-barca-136809626",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-24T20:48:53.462207",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-24T20:48:53.462220"
+    },
+    {
+      "id": "4800952dfa58fe37",
+      "titulo": "De Jong desmiente el bulo local sobre Lamine y el GTA VI",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261124/1004255032/jong-desmiente-bulo-local-sobre-lamine-gta-vi.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-24T17:10:19",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-24T20:48:48.925983"
+    },
+    {
+      "id": "3cf7feb930e3837f",
+      "titulo": "\"Queremos ayudar a los árbitros, pero ellos también deben ayudar\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261124/1004255027/queremos-ayudar-arbitros-deben-ayudar.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-24T16:56:13",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-24T20:48:48.926250"
+    },
+    {
       "id": "ae7d1c2f4e5b2f12",
       "titulo": "El Barça intensifica su interés por el delantero de moda: Gustavo Varela",
       "enlace": "https://www.sport.es/es/noticias/barca/barca-intensifica-interes-delantero-moda-136778182",
@@ -345,6 +384,19 @@
       "fecha": "2026-11-24T08:47:31",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-11-24T10:28:46.498666"
+    },
+    {
+      "id": "c6e4265c47175ab3",
+      "titulo": "El PSG busca extremo y el Barça se frota las manos",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261124/1004254803/psg-busca-extremo-valora-abde-barca-frota-manos.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-24T08:47:31",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-24T20:48:48.927918"
     },
     {
       "id": "e21bb0dd349023e7",
@@ -2035,6 +2087,19 @@
       "fecha": "2026-11-14T13:48:50",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-11-14T14:56:39.110989"
+    },
+    {
+      "id": "c8a03b0090df4bae",
+      "titulo": "Kautar Azraf firma cuatro goles y el Barça B golea 6-0",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2t1M1ItTFVkUmNaUTA0d1RQaFdUVUgtd0RSeGE0aTRCSFVKOVBQZ0VrMy1KOVNFOGxUc2JZcUszT1lfY3V2N0x2Y2l3Q2VoQ2V1b0M5S29MaWItai1aaHFfeHgwNGd6SG1Bd1Y1RExZdW80bzlpYndLVjBtWUdhTDdsS0RrLTFJU3ZQQTdVV3AxUGd3aVJOdWxCVWJtdWxN?oc=5",
+      "medio": "Tu Futbolero",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "barca_atletic",
+      "estado": "rumor",
+      "fecha": "2026-11-14T12:43:13",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-11-24T20:48:55.005864"
     },
     {
       "id": "393a9dbe7b789e35",
@@ -5415,71 +5480,6 @@
       "fecha": "2026-10-26T23:43:57.659391",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-26T23:43:57.659401"
-    },
-    {
-      "id": "ca383d2b88d8f63c",
-      "titulo": "¡Messi no estará en la gala del Balón de Oro!",
-      "enlace": "https://www.sport.es/es/noticias/barca/messi-estara-gala-balon-oro-135780449",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-26T19:59:09.357233",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-26T19:59:09.357236"
-    },
-    {
-      "id": "372443c072e0ec4a",
-      "titulo": "Rijkaard, Ten Cate, Jordi y Koeman: el reencuentro cruyffista de Laporta antes del Clásico",
-      "enlace": "https://www.sport.es/es/noticias/barca/rijkaard-ten-cate-jordi-koeman-135783071",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-26T19:59:09.355414",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-26T19:59:09.355418"
-    },
-    {
-      "id": "90a71461ef8e8891",
-      "titulo": "El look de Lamine Yamal en la gala del Balón de Oro, en el punto de mira: \"¿Qué demonios lleva?\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/look-lamine-yamal-gala-balon-135784407",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-26T19:59:09.354311",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-26T19:59:09.354315"
-    },
-    {
-      "id": "6c75c4355bf0a709",
-      "titulo": "Comunicado oficial del Balón de Oro tras publicar por error a Lamine, Mbappé y Kane como ganadores",
-      "enlace": "https://www.sport.es/es/noticias/barca/comunicado-oficial-balon-oro-publicar-135784818",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-26T19:59:09.353618",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-26T19:59:09.353631"
-    },
-    {
-      "id": "385c5e973393871e",
-      "titulo": "Joao Félix piensa en el Barça y Al Nassr le tienta con un contrato multimillonario",
-      "enlace": "https://www.sport.es/es/noticias/barca/joao-felix-piensa-barca-nassr-135765125",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-26T14:11:51.993009",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-26T14:11:51.993013"
     }
   ]
 }
