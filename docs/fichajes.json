@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T14:18:08.249144Z",
+  "actualizado": "2026-11-26T23:05:27.103635Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -285,6 +285,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "8889c878825022c5",
+      "titulo": "El Barça la toca más que nadie en Europa",
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-toca-nadie-europa-136890716",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-26T23:05:24.685097",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-26T23:05:24.685102"
+    },
+    {
+      "id": "a9f5b522a78aa97f",
+      "titulo": "Pau Cubarsí (19 años): \"Estar en la Masia es lo que me ha convertido en el futbolista que soy. Me encanta tener buena colocación, intentar ser un líder desde atrás y, sobre todo, sacar la pelota desde la base\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/pau-cubarsi-19-anos-masia-136894748",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-26T23:05:24.682768",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-26T23:05:24.682783"
+    },
     {
       "id": "0734ded62cfadd16",
       "titulo": "El Barça, por delante del Real Madrid entre los favoritos para ganar la Champions",
@@ -5458,32 +5484,6 @@
       "fecha": "2026-10-29T06:00:00",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-29T13:14:59.497058"
-    },
-    {
-      "id": "21503a7b9c96e57e",
-      "titulo": "Joao Cancelo, dispuesto a disipar todas las dudas",
-      "enlace": "https://www.sport.es/es/noticias/barca/joao-cancelo-dispuesto-disipar-dudas-barcelona-135866086",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-29T00:22:22.771689",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-29T00:22:22.771703"
-    },
-    {
-      "id": "c47b59c69ac2f575",
-      "titulo": "Raphinha, entre los sudamericanos más influyentes de Europa en el 2026",
-      "enlace": "https://www.sport.es/es/noticias/barca/raphinha-sudamericanos-influyentes-europa-2026-135856711",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-28T20:36:02.315025",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-28T20:36:02.315029"
     }
   ]
 }
