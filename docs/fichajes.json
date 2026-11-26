@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T22:45:28.860423Z",
+  "actualizado": "2026-11-26T04:30:10.006615Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -284,6 +284,19 @@
   ],
   "noticias": [
     {
+      "id": "d07c4d99ed156740",
+      "titulo": "El primer mensaje de Alejandro Balde tras su contratiempo físico",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261126/1004255619/primer-mensaje-balde-contratiempo-fisico.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-25T23:09:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-26T04:30:03.114848"
+    },
+    {
       "id": "84968d30398854bd",
       "titulo": "¿Cuándo juega el Barcelona su próximo partido? Fecha, horario y rival en LaLiga",
       "enlace": "https://www.sport.es/es/noticias/barca/juega-barcelona-proximo-partido-fecha-136852158",
@@ -399,6 +412,19 @@
       "fecha": "2026-11-25T20:51:10",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-11-25T22:45:22.032424"
+    },
+    {
+      "id": "9315811f0b271c68",
+      "titulo": "El enorme mosqueo de Flick tras el gol del Sabah",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255548/mosqueo-flick-gol-sabah-golpea-balon-quita-chaqueta.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-25T20:51:10",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-26T04:30:03.115562"
     },
     {
       "id": "ec69813e2de7ccee",
@@ -5456,32 +5482,6 @@
       "fecha": "2026-10-28T12:28:28",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-29T13:14:59.498373"
-    },
-    {
-      "id": "80710f0c5ad55275",
-      "titulo": "El Barça, entre los clubs interesados en la lateral del Bayern Franziska Kett",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/femenino/20261028/1004244168/barca-clubs-interesados-franzika-kett.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-28T10:40:22",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-28T15:43:54.731655"
-    },
-    {
-      "id": "8d1aedd477063712",
-      "titulo": "Los datos de Araujo que entusiasman en Anfield",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004244170/datos-araujo-entusiasman-anfield.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-28T10:00:16",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-28T15:43:54.731944"
     }
   ]
 }
