@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T04:57:43.857912Z",
+  "actualizado": "2026-11-27T14:50:05.863684Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -285,6 +285,32 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "6c32274243ff1c29",
+      "titulo": "Casadó: \"Me sabe mal el momento por el que está pasando Balde\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/casado-mal-momento-pasando-balde-136925104",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-27T14:50:03.424238",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-27T14:50:03.424252"
+    },
+    {
+      "id": "7cbb4950d7059cd9",
+      "titulo": "Bakú y Coruña: más kilómetros de vuelo, imposible",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261127/1004256107/baku-coruna-kilometros-vuelo-imposible.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-27T07:36:12",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-27T14:49:59.125890"
+    },
     {
       "id": "649bd804a286e2fc",
       "titulo": "1.899 partidos, once jugadores y una sola solución: llega el nuevo juego de SPORT",
@@ -5458,32 +5484,6 @@
       "fecha": "2026-10-29T13:15:03.926504",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-29T13:15:03.926520"
-    },
-    {
-      "id": "20b1ff39f11f11cf",
-      "titulo": "Minuto de silencio en el entrenamiento del Barça por las víctimas de Toledo",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244606/minuto-silencio-entrenamiento-barca-victimas-toledo.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-29T11:35:29",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-29T13:14:59.495957"
-    },
-    {
-      "id": "d79de5b331f838df",
-      "titulo": "Guillem Victor, Àlex Campos y Ebrima Tunkara se entrenan a las órdenes de Flick",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244592/guillem-victor-alex-campos-ebrima-tunkara-ordenes-flick.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "barca_atletic",
-      "estado": "rumor",
-      "fecha": "2026-10-29T11:11:43",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-29T13:14:59.496150"
     }
   ]
 }
