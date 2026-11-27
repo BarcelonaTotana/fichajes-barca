@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T23:05:27.103635Z",
+  "actualizado": "2026-11-27T04:57:43.857912Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -286,6 +286,32 @@
   ],
   "noticias": [
     {
+      "id": "649bd804a286e2fc",
+      "titulo": "1.899 partidos, once jugadores y una sola solución: llega el nuevo juego de SPORT",
+      "enlace": "https://www.sport.es/es/noticias/barca/1-899-partidos-once-jugadores-136904416",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-27T04:57:41.390749",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-27T04:57:41.390762"
+    },
+    {
+      "id": "270fcf38db2bcdcc",
+      "titulo": "Gordon confidencial: un inglés de otra época",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261127/1004255978/gordon-confidencial-ingles-epoca.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-26T23:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-27T04:57:37.342070"
+    },
+    {
       "id": "8889c878825022c5",
       "titulo": "El Barça la toca más que nadie en Europa",
       "enlace": "https://www.sport.es/es/noticias/barca/barca-toca-nadie-europa-136890716",
@@ -310,6 +336,19 @@
       "fecha": "2026-11-26T23:05:24.682768",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-11-26T23:05:24.682783"
+    },
+    {
+      "id": "8e1199da6e10007d",
+      "titulo": "Jordi Cruyff llama a la puerta de Deco para llevarse a un fichaje del Barça sin minutos: ¿cesión a la vista?",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVl9ISl9ja3ZVeS1BdDkzYVhSS2I3MmtiSVprbmFDWnFCTGMySE12d24wVDVoSkRfTE5vWWtZTC1sSUpGZVducGtRTWluVGtrd1FkTm9fb1FZczlQUnFZWVdCREZVYVVzUEZlMmlpNkRQTllEdDVGc0tGMWcyVHBqTkJDekFzM21KZDJKakg2ajA0WUhwZW5HSFRKYTlNQm1RUkdCRF9vWVZkVTZQVWFzV2hKLWxQclpDOEg0VVd3aU1wZ3MwcmgtQkdibGc2T3dzMmJDTtIB2gFBVV95cUxNTDl5bk1abXc1bnJNUzZHSDJNOEV5LXJ2NEZMTVhYMDhMWXdLSXItcU02OWFZaG9lTTg2NFcxWjI0dlpGZ2tIMUk5bUItN250bjlmSVVvd2k5UTRDSFZ0czdTWk84ckgybmhEOXdTZ2NYeWtXZVdYZHlnV0s2S0lrSm9kdjZXamw0OTFjR1loeXNmWWM3azNUTjFxYkFFT2txMHVnd2hodlplZEtYSmk2dENqQ3haM09FdmlWMTFtNk1qQ0M3UXdPYUNsdF9lTTFOUzlrZ09CNVNsQQ?oc=5",
+      "medio": "Crónica Global",
+      "tier": 3,
+      "tier_etiqueta": "Verificar",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-26T21:54:31",
+      "fuente_feed": "Barça Atlètic",
+      "visto_por_primera_vez": "2026-11-27T04:57:42.834598"
     },
     {
       "id": "0734ded62cfadd16",
@@ -5445,45 +5484,6 @@
       "fecha": "2026-10-29T11:11:43",
       "fuente_feed": "Mundo Deportivo · Barça",
       "visto_por_primera_vez": "2026-10-29T13:14:59.496150"
-    },
-    {
-      "id": "649ef13ef7a98f22",
-      "titulo": "Una nueva reválida para Balde",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244532/nueva-revalida-balde.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-29T08:53:12",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-29T13:14:59.496443"
-    },
-    {
-      "id": "1a75c9c20e8df4bb",
-      "titulo": "Plan de Flick para revitalizar a su equipo",
-      "enlace": "https://www.sport.es/es/noticias/barca/plan-flick-revitalizar-equipo-135845048",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-29T06:12:39.000070",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-29T06:12:39.000081"
-    },
-    {
-      "id": "497e8a2436f6efbe",
-      "titulo": "Esquivar la piedra",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244410/esquivar-piedra.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-29T06:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-29T13:14:59.497058"
     }
   ]
 }
