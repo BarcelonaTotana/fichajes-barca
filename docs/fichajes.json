@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T23:04:08.849644Z",
+  "actualizado": "2026-11-28T13:41:53.037951Z",
   "total": 400,
   "cerradas": [
     "alejandro balde",
@@ -286,6 +286,84 @@
     "ffe52c75b47c4908"
   ],
   "noticias": [
+    {
+      "id": "bf3a8fee4e969b89",
+      "titulo": "Buenas noticias para Hansi Flick",
+      "enlace": "https://www.sport.es/es/noticias/barca/buenas-noticias-hansi-flick-136955243",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "oficial",
+      "fecha": "2026-11-28T13:41:50.659987",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-28T13:41:50.659990"
+    },
+    {
+      "id": "7d16520b6aec8be9",
+      "titulo": "RC Deportivo - FC Barcelona: horario y dónde ver el partido de la jornada 14 de LaLiga EA Sports 2026/27",
+      "enlace": "https://www.sport.es/es/noticias/barca/deportivo-coruna-barcelona-horario-donde-ver-136955782",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-28T13:41:50.659042",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-28T13:41:50.659044"
+    },
+    {
+      "id": "79d9fb850a86bcc9",
+      "titulo": "Flick no se esconde: \"Cuando firmas el contrato con el Barça ya sabes lo que te espera, pero tengo la sensación de que también lo saben los jugadores\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-esconde-firmas-contrato-barca-136957275",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-28T13:41:50.658109",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-28T13:41:50.658112"
+    },
+    {
+      "id": "36591d641d5d906e",
+      "titulo": "Flick: \"Por nuestro estilo, es importante que los jugadores estén frescos\"",
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-estilo-importante-jugadores-frescos-136956890",
+      "medio": "sport.es",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-28T13:41:50.656945",
+      "fuente_feed": "SPORT · Barça",
+      "visto_por_primera_vez": "2026-11-28T13:41:50.656958"
+    },
+    {
+      "id": "b7bc11170b4188d3",
+      "titulo": "Flick confirma las altas de Lamine, Rodri y Christensen y las bajas de Balde y Bernal",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256539/entrenamiento-barcelona-deportivo-coruna.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-28T10:47:54",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-28T13:41:46.984512"
+    },
+    {
+      "id": "c9474f34b9666f92",
+      "titulo": "Casadó: \"A los laterales ya les he dicho qué es lo que desquicia a Lamine\"",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256317/casado-laterales-les-he-dicho-desquicia-lamine.html",
+      "medio": "mundodeportivo.com",
+      "tier": 2,
+      "tier_etiqueta": "Bastante fiable",
+      "categoria": "primer_equipo",
+      "estado": "rumor",
+      "fecha": "2026-11-28T05:30:00",
+      "fuente_feed": "Mundo Deportivo · Barça",
+      "visto_por_primera_vez": "2026-11-28T13:41:46.985365"
+    },
     {
       "id": "f6197f350d5b79db",
       "titulo": "La virtud oculta de Joan Garcia como salvavidas del Barça",
@@ -5407,84 +5485,6 @@
       "fecha": "2026-10-30T08:59:50.005734",
       "fuente_feed": "SPORT · Barça",
       "visto_por_primera_vez": "2026-10-30T08:59:50.005739"
-    },
-    {
-      "id": "3f2195118d035a6d",
-      "titulo": "Un aficionado recorrió 2.300 kilómetros para vivir el Clásico: \"Me gasté más de 1.000 euros por el Barça\"",
-      "enlace": "https://www.sport.es/es/noticias/barca/aficionado-recorrio-2-300-kilometros-135878983",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-30T08:59:50.004623",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-30T08:59:50.004633"
-    },
-    {
-      "id": "01222d3239386480",
-      "titulo": "El agente de Araujo habla de su futuro",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004244924/agente-araujo-habla-futuro.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-30T08:59:20",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-30T15:48:34.219811"
-    },
-    {
-      "id": "4e1a833b049ca7b2",
-      "titulo": "FORMULARIO PARA SOLICITAR REPRESENTACIÓN DEL FC BARCELONA EN LOS ACTOS ORGANIZADOS POR LAS PEÑAS",
-      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWTJWUnNZYmZSa3ZwczBvZ0ZFSTVhRVNIb3Z5eDhLQTZUNTdsTDdNRHNkRFVaRUVTN0g1b19aelFKZ1RSeVlyNEZkZFJLdi11enBFTHd2Z19IRUk3TVlBNHhKTzJGODVnRE85MG4wSXpZU18tU0JvVkxDSVIySURrTGlqTTdnTGR3YlAyRXZLVmhXUGthTENDeE5Rd0ZWSF9tTmMtTkhhWVhVUWRXcDh3ZEZqb2VwR1h1dVVQUzEzOGxCNnd6N0psRDJmSHlNY2hneGc?oc=5",
-      "medio": "FC Barcelona (oficial)",
-      "tier": 0,
-      "tier_etiqueta": "OFICIAL",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-30T07:00:00",
-      "fuente_feed": "FC Barcelona (oficial)",
-      "visto_por_primera_vez": "2026-11-01T01:31:31.279209"
-    },
-    {
-      "id": "546f8295fa8224e5",
-      "titulo": "Hansi Flick se hace instagramer",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004244801/hansi-flick-instagramer.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "oficial",
-      "fecha": "2026-10-30T06:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-30T08:59:45.284790"
-    },
-    {
-      "id": "08a11704a7807fa9",
-      "titulo": "Bastoni, abierto a escuchar al Barça",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004244721/bastoni-abierto-escuchar-barca.html",
-      "medio": "mundodeportivo.com",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "avanzado",
-      "fecha": "2026-10-30T06:00:00",
-      "fuente_feed": "Mundo Deportivo · Barça",
-      "visto_por_primera_vez": "2026-10-30T08:59:45.285123"
-    },
-    {
-      "id": "9cdf3ca21f28a26d",
-      "titulo": "La respuesta de la Grada d'Animació tras su suspensión por los incidentes en el clásico",
-      "enlace": "https://www.sport.es/es/noticias/barca/respuesta-grada-danimacio-suspension-incidentes-135902945",
-      "medio": "sport.es",
-      "tier": 2,
-      "tier_etiqueta": "Bastante fiable",
-      "categoria": "primer_equipo",
-      "estado": "rumor",
-      "fecha": "2026-10-29T23:12:53.412630",
-      "fuente_feed": "SPORT · Barça",
-      "visto_por_primera_vez": "2026-10-29T23:12:53.412633"
     }
   ]
 }
